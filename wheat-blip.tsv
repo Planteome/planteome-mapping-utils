@@ -1,0 +1,1994 @@
+CO_321:0000003	Quality trait	TO:0000597	quality trait	true	
+CO_321:0000003	Quality trait	TO:0000597	quality trait	false	
+CO_321:0000004	Stress trait	TO:0000164	stress trait	false	
+CO_321:0000004	Stress trait	TO:0000164	stress trait	true	
+CO_321:0000004	Stress trait	TO:0000164	stress trait	true	
+CO_321:0000004	Stress trait	TO:0000164	stress trait	true	
+CO_321:0000004	Stress trait	TO:0000164	stress trait	true	
+CO_321:0000004	Stress trait	TO:0000164	stress trait	true	
+CO_321:0000004	Stress trait	TO:0000164	stress trait	true	
+CO_321:0000004	Stress trait	TO:0000164	stress trait	true	
+CO_321:0000004	Stress trait	TO:0000164	stress trait	true	
+CO_321:0000004	Stress trait	TO:0000164	stress trait	true	
+CO_321:0000007	Days to heading	TO:0000137	days to heading	true	
+CO_321:0000007	Days to heading	TO:0000137	days to heading	true	
+CO_321:0000007	Days to heading	TO:0000137	days to heading	true	
+CO_321:0000007	Days to heading	TO:0000137	days to heading	true	
+CO_321:0000007	Days to heading	TO:0000137	days to heading	false	
+CO_321:0000007	Days to heading	TO:0000137	days to heading	false	
+CO_321:0000007	Days to heading	TO:0000137	days to heading	false	
+CO_321:0000007	Days to heading	TO:0000137	days to heading	false	
+CO_321:0000008	Days to maturity	TO:0000469	days to maturity	true	
+CO_321:0000008	Days to maturity	TO:0000469	days to maturity	true	
+CO_321:0000008	Days to maturity	TO:0000469	days to maturity	true	
+CO_321:0000008	Days to maturity	TO:0000469	days to maturity	true	
+CO_321:0000008	Days to maturity	TO:0000469	days to maturity	false	
+CO_321:0000008	Days to maturity	TO:0000469	days to maturity	false	
+CO_321:0000008	Days to maturity	TO:0000469	days to maturity	false	
+CO_321:0000008	Days to maturity	TO:0000469	days to maturity	false	
+CO_321:0000009	Early vigour	TO:0000296	vegetative vigor	false	
+CO_321:0000009	Early vigour	TO:0000296	vegetative vigor	true	
+CO_321:0000011	Germination percentage	TO:0010001	percent germination	false	
+CO_321:0000011	Germination percentage	TO:0010001	percent germination	false	
+CO_321:0000011	Germination percentage	TO:0010001	percent germination	true	
+CO_321:0000011	Germination percentage	TO:0010001	percent germination	true	
+CO_321:0000011	Germination percentage	TO:0010001	percent germination	true	
+CO_321:0000011	Germination percentage	TO:0010001	percent germination	true	
+CO_321:0000011	Germination percentage	TO:0010001	percent germination	false	
+CO_321:0000011	Germination percentage	TO:0010001	percent germination	false	
+CO_321:0000012	Grain moisture	TO:0000057	grain moisture	true	
+CO_321:0000012	Grain moisture	TO:0000057	grain moisture	true	
+CO_321:0000012	Grain moisture	TO:0000057	grain moisture	true	
+CO_321:0000012	Grain moisture	TO:0000057	grain moisture	true	
+CO_321:0000012	Grain moisture	TO:0000057	grain moisture	false	
+CO_321:0000012	Grain moisture	TO:0000057	grain moisture	false	
+CO_321:0000012	Grain moisture	TO:0000057	grain moisture	false	
+CO_321:0000012	Grain moisture	TO:0000057	grain moisture	false	
+CO_321:0000015	Growth habit	TO:0002756	shoot habit	false	
+CO_321:0000015	Growth habit	TO:0002756	shoot habit	true	
+CO_321:0000015	Growth habit	TO:0002756	shoot habit	true	
+CO_321:0000015	Growth habit	TO:0002756	shoot habit	true	
+CO_321:0000015	Growth habit	TO:0002756	shoot habit	true	
+CO_321:0000015	Growth habit	TO:0002756	shoot habit	true	
+CO_321:0000015	Growth habit	TO:0002756	shoot habit	true	
+CO_321:0000015	Growth habit	TO:0002756	shoot habit	true	
+CO_321:0000015	Growth habit	TO:0002756	shoot habit	true	
+CO_321:0000015	Growth habit	TO:0002756	shoot habit	true	
+CO_321:0000017	Grain number	TO:0002759	grain number	false	
+CO_321:0000017	Grain number	TO:0002759	grain number	true	
+CO_321:0000017	Grain number	TO:0002759	grain number	true	
+CO_321:0000017	Grain number	TO:0002759	grain number	true	
+CO_321:0000017	Grain number	TO:0002759	grain number	true	
+CO_321:0000017	Grain number	TO:0002759	grain number	true	
+CO_321:0000017	Grain number	TO:0002759	grain number	true	
+CO_321:0000017	Grain number	TO:0002759	grain number	true	
+CO_321:0000017	Grain number	TO:0002759	grain number	true	
+CO_321:0000017	Grain number	TO:0002759	grain number	true	
+CO_321:0000018	Stomatal conductance	TO:0000522	stomatal conductance	false	
+CO_321:0000018	Stomatal conductance	TO:0000522	stomatal conductance	false	
+CO_321:0000018	Stomatal conductance	TO:0000522	stomatal conductance	false	
+CO_321:0000018	Stomatal conductance	TO:0000522	stomatal conductance	true	
+CO_321:0000018	Stomatal conductance	TO:0000522	stomatal conductance	true	
+CO_321:0000018	Stomatal conductance	TO:0000522	stomatal conductance	false	
+CO_321:0000018	Stomatal conductance	TO:0000522	stomatal conductance	false	
+CO_321:0000018	Stomatal conductance	TO:0000522	stomatal conductance	false	
+CO_321:0000018	Stomatal conductance	TO:0000522	stomatal conductance	false	
+CO_321:0000018	Stomatal conductance	TO:0000522	stomatal conductance	false	
+CO_321:0000018	Stomatal conductance	TO:0000522	stomatal conductance	false	
+CO_321:0000018	Stomatal conductance	TO:0000522	stomatal conductance	true	
+CO_321:0000018	Stomatal conductance	TO:0000522	stomatal conductance	true	
+CO_321:0000020	Plant height	TO:0000207	plant height	false	
+CO_321:0000020	Plant height	TO:0000207	plant height	false	
+CO_321:0000020	Plant height	TO:0000207	plant height	true	
+CO_321:0000020	Plant height	TO:0000207	plant height	true	
+CO_321:0000020	Plant height	TO:0000207	plant height	true	
+CO_321:0000020	Plant height	TO:0000207	plant height	true	
+CO_321:0000020	Plant height	TO:0000207	plant height	true	
+CO_321:0000020	Plant height	TO:0000207	plant height	true	
+CO_321:0000020	Plant height	TO:0000207	plant height	true	
+CO_321:0000020	Plant height	TO:0000207	plant height	true	
+CO_321:0000020	Plant height	TO:0000207	plant height	true	
+CO_321:0000020	Plant height	TO:0000207	plant height	true	
+CO_321:0000020	Plant height	TO:0000207	plant height	true	
+CO_321:0000020	Plant height	TO:0000207	plant height	true	
+CO_321:0000020	Plant height	TO:0000207	plant height	true	
+CO_321:0000020	Plant height	TO:0000207	plant height	true	
+CO_321:0000020	Plant height	TO:0000207	plant height	true	
+CO_321:0000020	Plant height	TO:0000207	plant height	true	
+CO_321:0000020	Plant height	TO:0000207	plant height	true	
+CO_321:0000020	Plant height	TO:0000207	plant height	true	
+CO_321:0000020	Plant height	TO:0000207	plant height	false	
+CO_321:0000020	Plant height	TO:0000207	plant height	false	
+CO_321:0000020	Plant height	TO:0000207	plant height	true	
+CO_321:0000020	Plant height	TO:0000207	plant height	true	
+CO_321:0000020	Plant height	TO:0000207	plant height	true	
+CO_321:0000020	Plant height	TO:0000207	plant height	true	
+CO_321:0000020	Plant height	TO:0000207	plant height	true	
+CO_321:0000020	Plant height	TO:0000207	plant height	true	
+CO_321:0000020	Plant height	TO:0000207	plant height	true	
+CO_321:0000020	Plant height	TO:0000207	plant height	true	
+CO_321:0000020	Plant height	TO:0000207	plant height	true	
+CO_321:0000020	Plant height	TO:0000207	plant height	true	
+CO_321:0000020	Plant height	TO:0000207	plant height	true	
+CO_321:0000020	Plant height	TO:0000207	plant height	true	
+CO_321:0000020	Plant height	TO:0000207	plant height	true	
+CO_321:0000020	Plant height	TO:0000207	plant height	true	
+CO_321:0000020	Plant height	TO:0000207	plant height	true	
+CO_321:0000020	Plant height	TO:0000207	plant height	true	
+CO_321:0000020	Plant height	TO:0000207	plant height	true	
+CO_321:0000020	Plant height	TO:0000207	plant height	true	
+CO_321:0000024	Relative plant height	TO:0001034	relative plant height	true	
+CO_321:0000024	Relative plant height	TO:0001034	relative plant height	true	
+CO_321:0000024	Relative plant height	TO:0001034	relative plant height	false	
+CO_321:0000024	Relative plant height	TO:0001034	relative plant height	false	
+CO_321:0000024	Relative plant height	TO:0001034	relative plant height	false	
+CO_321:0000024	Relative plant height	TO:0001034	relative plant height	false	
+CO_321:0000024	Relative plant height	TO:0001034	relative plant height	true	
+CO_321:0000024	Relative plant height	TO:0001034	relative plant height	true	
+CO_321:0000025	1000-grain weight	TO:0000382	1000-seed weight	false	
+CO_321:0000025	1000-grain weight	TO:0000382	1000-seed weight	false	
+CO_321:0000025	1000-grain weight	TO:0000382	1000-seed weight	true	
+CO_321:0000025	1000-grain weight	TO:0000382	1000-seed weight	true	
+CO_321:0000025	1000-grain weight	TO:0000382	1000-seed weight	true	
+CO_321:0000025	1000-grain weight	TO:0000382	1000-seed weight	true	
+CO_321:0000025	1000-grain weight	TO:0000382	1000-seed weight	true	
+CO_321:0000025	1000-grain weight	TO:0000382	1000-seed weight	true	
+CO_321:0000025	1000-grain weight	TO:0000382	1000-seed weight	true	
+CO_321:0000025	1000-grain weight	TO:0000382	1000-seed weight	true	
+CO_321:0000025	1000-grain weight	TO:0000382	1000-seed weight	true	
+CO_321:0000025	1000-grain weight	TO:0000382	1000-seed weight	true	
+CO_321:0000025	1000-grain weight	TO:0000382	1000-seed weight	true	
+CO_321:0000025	1000-grain weight	TO:0000382	1000-seed weight	true	
+CO_321:0000025	1000-grain weight	TO:0000382	1000-seed weight	true	
+CO_321:0000025	1000-grain weight	TO:0000382	1000-seed weight	true	
+CO_321:0000025	1000-grain weight	TO:0000382	1000-seed weight	true	
+CO_321:0000025	1000-grain weight	TO:0000382	1000-seed weight	true	
+CO_321:0000025	1000-grain weight	TO:0000382	1000-seed weight	true	
+CO_321:0000025	1000-grain weight	TO:0000382	1000-seed weight	true	
+CO_321:0000025	1000-grain weight	TO:0000382	1000-seed weight	false	
+CO_321:0000025	1000-grain weight	TO:0000382	1000-seed weight	false	
+CO_321:0000025	1000-grain weight	TO:0000382	1000-seed weight	true	
+CO_321:0000025	1000-grain weight	TO:0000382	1000-seed weight	true	
+CO_321:0000025	1000-grain weight	TO:0000382	1000-seed weight	true	
+CO_321:0000025	1000-grain weight	TO:0000382	1000-seed weight	true	
+CO_321:0000025	1000-grain weight	TO:0000382	1000-seed weight	true	
+CO_321:0000025	1000-grain weight	TO:0000382	1000-seed weight	true	
+CO_321:0000025	1000-grain weight	TO:0000382	1000-seed weight	true	
+CO_321:0000025	1000-grain weight	TO:0000382	1000-seed weight	true	
+CO_321:0000025	1000-grain weight	TO:0000382	1000-seed weight	true	
+CO_321:0000025	1000-grain weight	TO:0000382	1000-seed weight	true	
+CO_321:0000025	1000-grain weight	TO:0000382	1000-seed weight	true	
+CO_321:0000025	1000-grain weight	TO:0000382	1000-seed weight	true	
+CO_321:0000025	1000-grain weight	TO:0000382	1000-seed weight	true	
+CO_321:0000025	1000-grain weight	TO:0000382	1000-seed weight	true	
+CO_321:0000025	1000-grain weight	TO:0000382	1000-seed weight	true	
+CO_321:0000025	1000-grain weight	TO:0000382	1000-seed weight	true	
+CO_321:0000025	1000-grain weight	TO:0000382	1000-seed weight	true	
+CO_321:0000025	1000-grain weight	TO:0000382	1000-seed weight	true	
+CO_321:0000026	Awn length	TO:0000072	awn length	false	
+CO_321:0000026	Awn length	TO:0000072	awn length	true	
+CO_321:0000026	Awn length	TO:0000072	awn length	true	
+CO_321:0000026	Awn length	TO:0000072	awn length	true	
+CO_321:0000026	Awn length	TO:0000072	awn length	true	
+CO_321:0000026	Awn length	TO:0000072	awn length	true	
+CO_321:0000026	Awn length	TO:0000072	awn length	true	
+CO_321:0000026	Awn length	TO:0000072	awn length	true	
+CO_321:0000026	Awn length	TO:0000072	awn length	true	
+CO_321:0000026	Awn length	TO:0000072	awn length	true	
+CO_321:0000027	Awnedness	TO:0002734	awn presence	true	
+CO_321:0000027	Awnedness	TO:0002734	awn presence	false	
+CO_321:0000028	Chlorophyll content	TO:0000495	chlorophyll content	true	
+CO_321:0000028	Chlorophyll content	TO:0000495	chlorophyll content	false	
+CO_321:0000029	Coleoptile length	TO:0001007	coleoptile length	false	
+CO_321:0000029	Coleoptile length	TO:0001007	coleoptile length	true	
+CO_321:0000030	Days to flag leaf emergence	TO:0001008	days to flag leaf emergence	true	
+CO_321:0000030	Days to flag leaf emergence	TO:0001008	days to flag leaf emergence	true	
+CO_321:0000030	Days to flag leaf emergence	TO:0001008	days to flag leaf emergence	true	
+CO_321:0000030	Days to flag leaf emergence	TO:0001008	days to flag leaf emergence	true	
+CO_321:0000030	Days to flag leaf emergence	TO:0001008	days to flag leaf emergence	true	
+CO_321:0000030	Days to flag leaf emergence	TO:0001008	days to flag leaf emergence	true	
+CO_321:0000030	Days to flag leaf emergence	TO:0001008	days to flag leaf emergence	true	
+CO_321:0000030	Days to flag leaf emergence	TO:0001008	days to flag leaf emergence	true	
+CO_321:0000030	Days to flag leaf emergence	TO:0001008	days to flag leaf emergence	true	
+CO_321:0000030	Days to flag leaf emergence	TO:0001008	days to flag leaf emergence	false	
+CO_321:0000030	Days to flag leaf emergence	TO:0001008	days to flag leaf emergence	false	
+CO_321:0000030	Days to flag leaf emergence	TO:0001008	days to flag leaf emergence	false	
+CO_321:0000030	Days to flag leaf emergence	TO:0001008	days to flag leaf emergence	false	
+CO_321:0000030	Days to flag leaf emergence	TO:0001008	days to flag leaf emergence	false	
+CO_321:0000030	Days to flag leaf emergence	TO:0001008	days to flag leaf emergence	false	
+CO_321:0000030	Days to flag leaf emergence	TO:0001008	days to flag leaf emergence	false	
+CO_321:0000030	Days to flag leaf emergence	TO:0001008	days to flag leaf emergence	false	
+CO_321:0000030	Days to flag leaf emergence	TO:0001008	days to flag leaf emergence	false	
+CO_321:0000031	Glume color	TO:0000221	glume color	false	
+CO_321:0000031	Glume color	TO:0000221	glume color	false	
+CO_321:0000031	Glume color	TO:0000221	glume color	true	
+CO_321:0000031	Glume color	TO:0000221	glume color	true	
+CO_321:0000031	Glume color	TO:0000221	glume color	true	
+CO_321:0000031	Glume color	TO:0000221	glume color	true	
+CO_321:0000031	Glume color	TO:0000221	glume color	true	
+CO_321:0000031	Glume color	TO:0000221	glume color	true	
+CO_321:0000031	Glume color	TO:0000221	glume color	true	
+CO_321:0000031	Glume color	TO:0000221	glume color	true	
+CO_321:0000031	Glume color	TO:0000221	glume color	true	
+CO_321:0000031	Glume color	TO:0000221	glume color	true	
+CO_321:0000031	Glume color	TO:0000221	glume color	true	
+CO_321:0000031	Glume color	TO:0000221	glume color	true	
+CO_321:0000031	Glume color	TO:0000221	glume color	true	
+CO_321:0000031	Glume color	TO:0000221	glume color	true	
+CO_321:0000031	Glume color	TO:0000221	glume color	true	
+CO_321:0000031	Glume color	TO:0000221	glume color	true	
+CO_321:0000031	Glume color	TO:0000221	glume color	true	
+CO_321:0000031	Glume color	TO:0000221	glume color	true	
+CO_321:0000031	Glume color	TO:0000221	glume color	false	
+CO_321:0000031	Glume color	TO:0000221	glume color	false	
+CO_321:0000031	Glume color	TO:0000221	glume color	true	
+CO_321:0000031	Glume color	TO:0000221	glume color	true	
+CO_321:0000031	Glume color	TO:0000221	glume color	true	
+CO_321:0000031	Glume color	TO:0000221	glume color	true	
+CO_321:0000031	Glume color	TO:0000221	glume color	true	
+CO_321:0000031	Glume color	TO:0000221	glume color	true	
+CO_321:0000031	Glume color	TO:0000221	glume color	true	
+CO_321:0000031	Glume color	TO:0000221	glume color	true	
+CO_321:0000031	Glume color	TO:0000221	glume color	true	
+CO_321:0000031	Glume color	TO:0000221	glume color	true	
+CO_321:0000031	Glume color	TO:0000221	glume color	true	
+CO_321:0000031	Glume color	TO:0000221	glume color	true	
+CO_321:0000031	Glume color	TO:0000221	glume color	true	
+CO_321:0000031	Glume color	TO:0000221	glume color	true	
+CO_321:0000031	Glume color	TO:0000221	glume color	true	
+CO_321:0000031	Glume color	TO:0000221	glume color	true	
+CO_321:0000031	Glume color	TO:0000221	glume color	true	
+CO_321:0000031	Glume color	TO:0000221	glume color	true	
+CO_321:0000032	Glume length	TO:0020033	glume length	false	
+CO_321:0000032	Glume length	TO:0020033	glume length	true	
+CO_321:0000032	Glume length	TO:0020033	glume length	true	
+CO_321:0000032	Glume length	TO:0020033	glume length	true	
+CO_321:0000032	Glume length	TO:0020033	glume length	true	
+CO_321:0000032	Glume length	TO:0020033	glume length	true	
+CO_321:0000032	Glume length	TO:0020033	glume length	true	
+CO_321:0000032	Glume length	TO:0020033	glume length	true	
+CO_321:0000032	Glume length	TO:0020033	glume length	true	
+CO_321:0000032	Glume length	TO:0020033	glume length	true	
+CO_321:0000033	Glume pubescence density	TO:0020035	glume pubescence density	true	
+CO_321:0000033	Glume pubescence density	TO:0020035	glume pubescence density	true	
+CO_321:0000033	Glume pubescence density	TO:0020035	glume pubescence density	false	
+CO_321:0000033	Glume pubescence density	TO:0020035	glume pubescence density	false	
+CO_321:0000033	Glume pubescence density	TO:0020035	glume pubescence density	true	
+CO_321:0000033	Glume pubescence density	TO:0020035	glume pubescence density	true	
+CO_321:0000033	Glume pubescence density	TO:0020035	glume pubescence density	false	
+CO_321:0000033	Glume pubescence density	TO:0020035	glume pubescence density	false	
+CO_321:0000034	Glume pubescence length	TO:0020037	glume pubescence length	true	
+CO_321:0000034	Glume pubescence length	TO:0020037	glume pubescence length	true	
+CO_321:0000034	Glume pubescence length	TO:0020037	glume pubescence length	false	
+CO_321:0000034	Glume pubescence length	TO:0020037	glume pubescence length	false	
+CO_321:0000034	Glume pubescence length	TO:0020037	glume pubescence length	false	
+CO_321:0000034	Glume pubescence length	TO:0020037	glume pubescence length	false	
+CO_321:0000034	Glume pubescence length	TO:0020037	glume pubescence length	true	
+CO_321:0000034	Glume pubescence length	TO:0020037	glume pubescence length	true	
+CO_321:0000036	Glume width	TO:0020034	glume width	false	
+CO_321:0000036	Glume width	TO:0020034	glume width	true	
+CO_321:0000036	Glume width	TO:0020034	glume width	true	
+CO_321:0000036	Glume width	TO:0020034	glume width	true	
+CO_321:0000036	Glume width	TO:0020034	glume width	true	
+CO_321:0000036	Glume width	TO:0020034	glume width	true	
+CO_321:0000036	Glume width	TO:0020034	glume width	true	
+CO_321:0000036	Glume width	TO:0020034	glume width	true	
+CO_321:0000036	Glume width	TO:0020034	glume width	true	
+CO_321:0000036	Glume width	TO:0020034	glume width	true	
+CO_321:0000037	Grain color	TO:0002617	fruit color	false	
+CO_321:0000037	Grain color	TO:0002617	fruit color	false	
+CO_321:0000037	Grain color	TO:0002617	fruit color	true	
+CO_321:0000037	Grain color	TO:0002617	fruit color	true	
+CO_321:0000037	Grain color	TO:0002617	fruit color	true	
+CO_321:0000037	Grain color	TO:0002617	fruit color	true	
+CO_321:0000037	Grain color	TO:0002617	fruit color	true	
+CO_321:0000037	Grain color	TO:0002617	fruit color	true	
+CO_321:0000037	Grain color	TO:0002617	fruit color	true	
+CO_321:0000037	Grain color	TO:0002617	fruit color	true	
+CO_321:0000037	Grain color	TO:0002617	fruit color	true	
+CO_321:0000037	Grain color	TO:0002617	fruit color	true	
+CO_321:0000037	Grain color	TO:0002617	fruit color	true	
+CO_321:0000037	Grain color	TO:0002617	fruit color	true	
+CO_321:0000037	Grain color	TO:0002617	fruit color	true	
+CO_321:0000037	Grain color	TO:0002617	fruit color	true	
+CO_321:0000037	Grain color	TO:0002617	fruit color	true	
+CO_321:0000037	Grain color	TO:0002617	fruit color	true	
+CO_321:0000037	Grain color	TO:0002617	fruit color	true	
+CO_321:0000037	Grain color	TO:0002617	fruit color	true	
+CO_321:0000037	Grain color	TO:0000707	pericarp color	false	
+CO_321:0000037	Grain color	TO:0000707	pericarp color	false	
+CO_321:0000037	Grain color	TO:0000707	pericarp color	true	
+CO_321:0000037	Grain color	TO:0000707	pericarp color	true	
+CO_321:0000037	Grain color	TO:0000707	pericarp color	true	
+CO_321:0000037	Grain color	TO:0000707	pericarp color	true	
+CO_321:0000037	Grain color	TO:0000707	pericarp color	true	
+CO_321:0000037	Grain color	TO:0000707	pericarp color	true	
+CO_321:0000037	Grain color	TO:0000707	pericarp color	true	
+CO_321:0000037	Grain color	TO:0000707	pericarp color	true	
+CO_321:0000037	Grain color	TO:0000707	pericarp color	true	
+CO_321:0000037	Grain color	TO:0000707	pericarp color	true	
+CO_321:0000037	Grain color	TO:0000707	pericarp color	true	
+CO_321:0000037	Grain color	TO:0000707	pericarp color	true	
+CO_321:0000037	Grain color	TO:0000707	pericarp color	true	
+CO_321:0000037	Grain color	TO:0000707	pericarp color	true	
+CO_321:0000037	Grain color	TO:0000707	pericarp color	true	
+CO_321:0000037	Grain color	TO:0000707	pericarp color	true	
+CO_321:0000037	Grain color	TO:0000707	pericarp color	true	
+CO_321:0000037	Grain color	TO:0000707	pericarp color	true	
+CO_321:0000037	Grain color	TO:0002617	fruit color	false	
+CO_321:0000037	Grain color	TO:0002617	fruit color	false	
+CO_321:0000037	Grain color	TO:0002617	fruit color	true	
+CO_321:0000037	Grain color	TO:0002617	fruit color	true	
+CO_321:0000037	Grain color	TO:0002617	fruit color	true	
+CO_321:0000037	Grain color	TO:0002617	fruit color	true	
+CO_321:0000037	Grain color	TO:0002617	fruit color	true	
+CO_321:0000037	Grain color	TO:0002617	fruit color	true	
+CO_321:0000037	Grain color	TO:0002617	fruit color	true	
+CO_321:0000037	Grain color	TO:0002617	fruit color	true	
+CO_321:0000037	Grain color	TO:0002617	fruit color	true	
+CO_321:0000037	Grain color	TO:0002617	fruit color	true	
+CO_321:0000037	Grain color	TO:0002617	fruit color	true	
+CO_321:0000037	Grain color	TO:0002617	fruit color	true	
+CO_321:0000037	Grain color	TO:0002617	fruit color	true	
+CO_321:0000037	Grain color	TO:0002617	fruit color	true	
+CO_321:0000037	Grain color	TO:0002617	fruit color	true	
+CO_321:0000037	Grain color	TO:0002617	fruit color	true	
+CO_321:0000037	Grain color	TO:0002617	fruit color	true	
+CO_321:0000037	Grain color	TO:0002617	fruit color	true	
+CO_321:0000037	Grain color	TO:0000707	pericarp color	false	
+CO_321:0000037	Grain color	TO:0000707	pericarp color	false	
+CO_321:0000037	Grain color	TO:0000707	pericarp color	true	
+CO_321:0000037	Grain color	TO:0000707	pericarp color	true	
+CO_321:0000037	Grain color	TO:0000707	pericarp color	true	
+CO_321:0000037	Grain color	TO:0000707	pericarp color	true	
+CO_321:0000037	Grain color	TO:0000707	pericarp color	true	
+CO_321:0000037	Grain color	TO:0000707	pericarp color	true	
+CO_321:0000037	Grain color	TO:0000707	pericarp color	true	
+CO_321:0000037	Grain color	TO:0000707	pericarp color	true	
+CO_321:0000037	Grain color	TO:0000707	pericarp color	true	
+CO_321:0000037	Grain color	TO:0000707	pericarp color	true	
+CO_321:0000037	Grain color	TO:0000707	pericarp color	true	
+CO_321:0000037	Grain color	TO:0000707	pericarp color	true	
+CO_321:0000037	Grain color	TO:0000707	pericarp color	true	
+CO_321:0000037	Grain color	TO:0000707	pericarp color	true	
+CO_321:0000037	Grain color	TO:0000707	pericarp color	true	
+CO_321:0000037	Grain color	TO:0000707	pericarp color	true	
+CO_321:0000037	Grain color	TO:0000707	pericarp color	true	
+CO_321:0000037	Grain color	TO:0000707	pericarp color	true	
+CO_321:0000039	Grain plumpness	TO:0002627	fruit width	true	
+CO_321:0000039	Grain plumpness	TO:0002627	fruit width	true	
+CO_321:0000039	Grain plumpness	TO:0002627	fruit width	true	
+CO_321:0000039	Grain plumpness	TO:0002627	fruit width	true	
+CO_321:0000040	Grain size	TO:0000397	grain size	false	
+CO_321:0000040	Grain size	TO:0000397	grain size	true	
+CO_321:0000040	Grain size	TO:0000397	grain size	true	
+CO_321:0000040	Grain size	TO:0000397	grain size	true	
+CO_321:0000040	Grain size	TO:0000397	grain size	true	
+CO_321:0000040	Grain size	TO:0000397	grain size	true	
+CO_321:0000040	Grain size	TO:0000397	grain size	true	
+CO_321:0000040	Grain size	TO:0000397	grain size	true	
+CO_321:0000040	Grain size	TO:0000397	grain size	true	
+CO_321:0000040	Grain size	TO:0000397	grain size	true	
+CO_321:0000044	Leaf length	TO:0000135	leaf length	false	
+CO_321:0000044	Leaf length	TO:0000135	leaf length	true	
+CO_321:0000044	Leaf length	TO:0000135	leaf length	true	
+CO_321:0000044	Leaf length	TO:0000135	leaf length	true	
+CO_321:0000044	Leaf length	TO:0000135	leaf length	true	
+CO_321:0000044	Leaf length	TO:0000135	leaf length	true	
+CO_321:0000044	Leaf length	TO:0000135	leaf length	true	
+CO_321:0000044	Leaf length	TO:0000135	leaf length	true	
+CO_321:0000044	Leaf length	TO:0000135	leaf length	true	
+CO_321:0000044	Leaf length	TO:0000135	leaf length	true	
+CO_321:0000047	Leaf thickness	TO:0000258	leaf thickness	true	
+CO_321:0000047	Leaf thickness	TO:0000258	leaf thickness	false	
+CO_321:0000048	Leaf glaucousness	TO:0000709	leaf gloss	false	
+CO_321:0000048	Leaf glaucousness	TO:0000709	leaf gloss	false	
+CO_321:0000048	Leaf glaucousness	TO:0000709	leaf gloss	true	
+CO_321:0000048	Leaf glaucousness	TO:0000709	leaf gloss	true	
+CO_321:0000048	Leaf glaucousness	TO:0000709	leaf gloss	true	
+CO_321:0000048	Leaf glaucousness	TO:0000709	leaf gloss	true	
+CO_321:0000048	Leaf glaucousness	TO:0000709	leaf gloss	true	
+CO_321:0000048	Leaf glaucousness	TO:0000709	leaf gloss	true	
+CO_321:0000048	Leaf glaucousness	TO:0000709	leaf gloss	true	
+CO_321:0000048	Leaf glaucousness	TO:0000709	leaf gloss	true	
+CO_321:0000048	Leaf glaucousness	TO:0000709	leaf gloss	true	
+CO_321:0000048	Leaf glaucousness	TO:0000709	leaf gloss	true	
+CO_321:0000048	Leaf glaucousness	TO:0000709	leaf gloss	true	
+CO_321:0000048	Leaf glaucousness	TO:0000709	leaf gloss	true	
+CO_321:0000048	Leaf glaucousness	TO:0000709	leaf gloss	true	
+CO_321:0000048	Leaf glaucousness	TO:0000709	leaf gloss	true	
+CO_321:0000048	Leaf glaucousness	TO:0000709	leaf gloss	true	
+CO_321:0000048	Leaf glaucousness	TO:0000709	leaf gloss	true	
+CO_321:0000048	Leaf glaucousness	TO:0000709	leaf gloss	true	
+CO_321:0000048	Leaf glaucousness	TO:0000709	leaf gloss	true	
+CO_321:0000048	Leaf glaucousness	TO:0000709	leaf gloss	false	
+CO_321:0000048	Leaf glaucousness	TO:0000709	leaf gloss	false	
+CO_321:0000048	Leaf glaucousness	TO:0000709	leaf gloss	true	
+CO_321:0000048	Leaf glaucousness	TO:0000709	leaf gloss	true	
+CO_321:0000048	Leaf glaucousness	TO:0000709	leaf gloss	true	
+CO_321:0000048	Leaf glaucousness	TO:0000709	leaf gloss	true	
+CO_321:0000048	Leaf glaucousness	TO:0000709	leaf gloss	true	
+CO_321:0000048	Leaf glaucousness	TO:0000709	leaf gloss	true	
+CO_321:0000048	Leaf glaucousness	TO:0000709	leaf gloss	true	
+CO_321:0000048	Leaf glaucousness	TO:0000709	leaf gloss	true	
+CO_321:0000048	Leaf glaucousness	TO:0000709	leaf gloss	true	
+CO_321:0000048	Leaf glaucousness	TO:0000709	leaf gloss	true	
+CO_321:0000048	Leaf glaucousness	TO:0000709	leaf gloss	true	
+CO_321:0000048	Leaf glaucousness	TO:0000709	leaf gloss	true	
+CO_321:0000048	Leaf glaucousness	TO:0000709	leaf gloss	true	
+CO_321:0000048	Leaf glaucousness	TO:0000709	leaf gloss	true	
+CO_321:0000048	Leaf glaucousness	TO:0000709	leaf gloss	true	
+CO_321:0000048	Leaf glaucousness	TO:0000709	leaf gloss	true	
+CO_321:0000048	Leaf glaucousness	TO:0000709	leaf gloss	true	
+CO_321:0000048	Leaf glaucousness	TO:0000709	leaf gloss	true	
+CO_321:0000049	Leaf width	TO:0000370	leaf width	false	
+CO_321:0000049	Leaf width	TO:0000370	leaf width	true	
+CO_321:0000049	Leaf width	TO:0000370	leaf width	true	
+CO_321:0000049	Leaf width	TO:0000370	leaf width	true	
+CO_321:0000049	Leaf width	TO:0000370	leaf width	true	
+CO_321:0000049	Leaf width	TO:0000370	leaf width	true	
+CO_321:0000049	Leaf width	TO:0000370	leaf width	true	
+CO_321:0000049	Leaf width	TO:0000370	leaf width	true	
+CO_321:0000049	Leaf width	TO:0000370	leaf width	true	
+CO_321:0000049	Leaf width	TO:0000370	leaf width	true	
+CO_321:0000051	Node number	TO:0000634	node number	false	
+CO_321:0000051	Node number	TO:0000634	node number	true	
+CO_321:0000051	Node number	TO:0000634	node number	true	
+CO_321:0000051	Node number	TO:0000634	node number	true	
+CO_321:0000051	Node number	TO:0000634	node number	true	
+CO_321:0000051	Node number	TO:0000634	node number	true	
+CO_321:0000051	Node number	TO:0000634	node number	true	
+CO_321:0000051	Node number	TO:0000634	node number	true	
+CO_321:0000051	Node number	TO:0000634	node number	true	
+CO_321:0000051	Node number	TO:0000634	node number	true	
+CO_321:0000052	Peduncle length	TO:0002691	peduncle length	true	
+CO_321:0000052	Peduncle length	TO:0002691	peduncle length	true	
+CO_321:0000052	Peduncle length	TO:0002691	peduncle length	false	
+CO_321:0000052	Peduncle length	TO:0002691	peduncle length	false	
+CO_321:0000052	Peduncle length	TO:0002691	peduncle length	false	
+CO_321:0000052	Peduncle length	TO:0002691	peduncle length	false	
+CO_321:0000052	Peduncle length	TO:0002691	peduncle length	true	
+CO_321:0000052	Peduncle length	TO:0002691	peduncle length	true	
+CO_321:0000056	Spike length	TO:0002768	spikelet length	false	
+CO_321:0000056	Spike length	TO:0002768	spikelet length	false	
+CO_321:0000056	Spike length	TO:0002768	spikelet length	true	
+CO_321:0000056	Spike length	TO:0002768	spikelet length	true	
+CO_321:0000056	Spike length	TO:0002768	spikelet length	true	
+CO_321:0000056	Spike length	TO:0002768	spikelet length	true	
+CO_321:0000056	Spike length	TO:0002768	spikelet length	true	
+CO_321:0000056	Spike length	TO:0002768	spikelet length	true	
+CO_321:0000056	Spike length	TO:0002768	spikelet length	true	
+CO_321:0000056	Spike length	TO:0002768	spikelet length	true	
+CO_321:0000056	Spike length	TO:0002768	spikelet length	true	
+CO_321:0000056	Spike length	TO:0002768	spikelet length	true	
+CO_321:0000056	Spike length	TO:0002768	spikelet length	true	
+CO_321:0000056	Spike length	TO:0002768	spikelet length	true	
+CO_321:0000056	Spike length	TO:0002768	spikelet length	true	
+CO_321:0000056	Spike length	TO:0002768	spikelet length	true	
+CO_321:0000056	Spike length	TO:0002768	spikelet length	true	
+CO_321:0000056	Spike length	TO:0002768	spikelet length	true	
+CO_321:0000056	Spike length	TO:0002768	spikelet length	true	
+CO_321:0000056	Spike length	TO:0002768	spikelet length	true	
+CO_321:0000056	Spike length	TO:0002768	spikelet length	false	
+CO_321:0000056	Spike length	TO:0002768	spikelet length	false	
+CO_321:0000056	Spike length	TO:0002768	spikelet length	true	
+CO_321:0000056	Spike length	TO:0002768	spikelet length	true	
+CO_321:0000056	Spike length	TO:0002768	spikelet length	true	
+CO_321:0000056	Spike length	TO:0002768	spikelet length	true	
+CO_321:0000056	Spike length	TO:0002768	spikelet length	true	
+CO_321:0000056	Spike length	TO:0002768	spikelet length	true	
+CO_321:0000056	Spike length	TO:0002768	spikelet length	true	
+CO_321:0000056	Spike length	TO:0002768	spikelet length	true	
+CO_321:0000056	Spike length	TO:0002768	spikelet length	true	
+CO_321:0000056	Spike length	TO:0002768	spikelet length	true	
+CO_321:0000056	Spike length	TO:0002768	spikelet length	true	
+CO_321:0000056	Spike length	TO:0002768	spikelet length	true	
+CO_321:0000056	Spike length	TO:0002768	spikelet length	true	
+CO_321:0000056	Spike length	TO:0002768	spikelet length	true	
+CO_321:0000056	Spike length	TO:0002768	spikelet length	true	
+CO_321:0000056	Spike length	TO:0002768	spikelet length	true	
+CO_321:0000056	Spike length	TO:0002768	spikelet length	true	
+CO_321:0000056	Spike length	TO:0002768	spikelet length	true	
+CO_321:0000058	Spikelets per spike	TO:0000040	panicle length	true	
+CO_321:0000058	Spikelets per spike	TO:0000040	panicle length	true	
+CO_321:0000058	Spikelets per spike	TO:0000040	panicle length	false	
+CO_321:0000058	Spikelets per spike	TO:0000040	panicle length	false	
+CO_321:0000058	Spikelets per spike	TO:0000040	panicle length	false	
+CO_321:0000058	Spikelets per spike	TO:0000040	panicle length	false	
+CO_321:0000058	Spikelets per spike	TO:0000040	panicle length	true	
+CO_321:0000058	Spikelets per spike	TO:0000040	panicle length	true	
+CO_321:0000060	Stem height	TO:0000576	stem length	false	
+CO_321:0000060	Stem height	TO:0000576	stem length	false	
+CO_321:0000060	Stem height	TO:0000576	stem length	true	
+CO_321:0000060	Stem height	TO:0000576	stem length	true	
+CO_321:0000060	Stem height	TO:0000576	stem length	true	
+CO_321:0000060	Stem height	TO:0000576	stem length	true	
+CO_321:0000060	Stem height	TO:0000576	stem length	true	
+CO_321:0000060	Stem height	TO:0000576	stem length	true	
+CO_321:0000060	Stem height	TO:0000576	stem length	true	
+CO_321:0000060	Stem height	TO:0000576	stem length	true	
+CO_321:0000060	Stem height	TO:0000576	stem length	true	
+CO_321:0000060	Stem height	TO:0000576	stem length	true	
+CO_321:0000060	Stem height	TO:0000576	stem length	true	
+CO_321:0000060	Stem height	TO:0000576	stem length	true	
+CO_321:0000060	Stem height	TO:0000576	stem length	true	
+CO_321:0000060	Stem height	TO:0000576	stem length	true	
+CO_321:0000060	Stem height	TO:0000576	stem length	true	
+CO_321:0000060	Stem height	TO:0000576	stem length	true	
+CO_321:0000060	Stem height	TO:0000576	stem length	true	
+CO_321:0000060	Stem height	TO:0000576	stem length	true	
+CO_321:0000060	Stem height	TO:0000576	stem length	false	
+CO_321:0000060	Stem height	TO:0000576	stem length	false	
+CO_321:0000060	Stem height	TO:0000576	stem length	true	
+CO_321:0000060	Stem height	TO:0000576	stem length	true	
+CO_321:0000060	Stem height	TO:0000576	stem length	true	
+CO_321:0000060	Stem height	TO:0000576	stem length	true	
+CO_321:0000060	Stem height	TO:0000576	stem length	true	
+CO_321:0000060	Stem height	TO:0000576	stem length	true	
+CO_321:0000060	Stem height	TO:0000576	stem length	true	
+CO_321:0000060	Stem height	TO:0000576	stem length	true	
+CO_321:0000060	Stem height	TO:0000576	stem length	true	
+CO_321:0000060	Stem height	TO:0000576	stem length	true	
+CO_321:0000060	Stem height	TO:0000576	stem length	true	
+CO_321:0000060	Stem height	TO:0000576	stem length	true	
+CO_321:0000060	Stem height	TO:0000576	stem length	true	
+CO_321:0000060	Stem height	TO:0000576	stem length	true	
+CO_321:0000060	Stem height	TO:0000576	stem length	true	
+CO_321:0000060	Stem height	TO:0000576	stem length	true	
+CO_321:0000060	Stem height	TO:0000576	stem length	true	
+CO_321:0000060	Stem height	TO:0000576	stem length	true	
+CO_321:0000062	Stem thickness	TO:0000339	stem thickness	true	
+CO_321:0000062	Stem thickness	TO:0000339	stem thickness	false	
+CO_321:0000063	Stomatal resistance	TO:0000523	stomatal resistance	false	
+CO_321:0000063	Stomatal resistance	TO:0000523	stomatal resistance	false	
+CO_321:0000063	Stomatal resistance	TO:0000523	stomatal resistance	false	
+CO_321:0000063	Stomatal resistance	TO:0000523	stomatal resistance	true	
+CO_321:0000063	Stomatal resistance	TO:0000523	stomatal resistance	true	
+CO_321:0000063	Stomatal resistance	TO:0000523	stomatal resistance	false	
+CO_321:0000063	Stomatal resistance	TO:0000523	stomatal resistance	false	
+CO_321:0000063	Stomatal resistance	TO:0000523	stomatal resistance	false	
+CO_321:0000063	Stomatal resistance	TO:0000523	stomatal resistance	false	
+CO_321:0000063	Stomatal resistance	TO:0000523	stomatal resistance	false	
+CO_321:0000063	Stomatal resistance	TO:0000523	stomatal resistance	false	
+CO_321:0000063	Stomatal resistance	TO:0000523	stomatal resistance	true	
+CO_321:0000063	Stomatal resistance	TO:0000523	stomatal resistance	true	
+CO_321:0000076	Abiotic stress trait	TO:0000168	abiotic stress trait	false	
+CO_321:0000076	Abiotic stress trait	TO:0000168	abiotic stress trait	true	
+CO_321:0000077	Biotic stress trait	TO:0000179	biotic stress trait	false	
+CO_321:0000077	Biotic stress trait	TO:0000179	biotic stress trait	true	
+CO_321:0000077	Biotic stress trait	TO:0000179	biotic stress trait	true	
+CO_321:0000077	Biotic stress trait	TO:0000179	biotic stress trait	true	
+CO_321:0000077	Biotic stress trait	TO:0000179	biotic stress trait	true	
+CO_321:0000077	Biotic stress trait	TO:0000179	biotic stress trait	true	
+CO_321:0000077	Biotic stress trait	TO:0000179	biotic stress trait	true	
+CO_321:0000077	Biotic stress trait	TO:0000179	biotic stress trait	true	
+CO_321:0000077	Biotic stress trait	TO:0000179	biotic stress trait	true	
+CO_321:0000077	Biotic stress trait	TO:0000179	biotic stress trait	true	
+CO_321:0000080	Cold tolerance	TO:0000303	cold tolerance	true	
+CO_321:0000080	Cold tolerance	TO:0000303	cold tolerance	true	
+CO_321:0000080	Cold tolerance	TO:0000303	cold tolerance	true	
+CO_321:0000080	Cold tolerance	TO:0000303	cold tolerance	true	
+CO_321:0000080	Cold tolerance	TO:0000303	cold tolerance	false	
+CO_321:0000080	Cold tolerance	TO:0000303	cold tolerance	false	
+CO_321:0000080	Cold tolerance	TO:0000303	cold tolerance	false	
+CO_321:0000080	Cold tolerance	TO:0000303	cold tolerance	false	
+CO_321:0000080	Cold tolerance	TO:0000303	cold tolerance	false	
+CO_321:0000080	Cold tolerance	TO:0000303	cold tolerance	false	
+CO_321:0000080	Cold tolerance	TO:0000303	cold tolerance	false	
+CO_321:0000080	Cold tolerance	TO:0000303	cold tolerance	false	
+CO_321:0000080	Cold tolerance	TO:0000303	cold tolerance	false	
+CO_321:0000080	Cold tolerance	TO:0000303	cold tolerance	true	
+CO_321:0000080	Cold tolerance	TO:0000303	cold tolerance	true	
+CO_321:0000080	Cold tolerance	TO:0000303	cold tolerance	true	
+CO_321:0000080	Cold tolerance	TO:0000303	cold tolerance	true	
+CO_321:0000080	Cold tolerance	TO:0000303	cold tolerance	true	
+CO_321:0000080	Cold tolerance	TO:0000303	cold tolerance	true	
+CO_321:0000080	Cold tolerance	TO:0000303	cold tolerance	true	
+CO_321:0000080	Cold tolerance	TO:0000303	cold tolerance	true	
+CO_321:0000080	Cold tolerance	TO:0000303	cold tolerance	true	
+CO_321:0000080	Cold tolerance	TO:0000303	cold tolerance	true	
+CO_321:0000080	Cold tolerance	TO:0000303	cold tolerance	true	
+CO_321:0000080	Cold tolerance	TO:0000303	cold tolerance	true	
+CO_321:0000086	Armyworm damage	TO:0000273	armyworm resistance	false	
+CO_321:0000086	Armyworm damage	TO:0000273	armyworm resistance	true	
+CO_321:0000086	Armyworm damage	TO:0000273	armyworm resistance	true	
+CO_321:0000086	Armyworm damage	TO:0000273	armyworm resistance	true	
+CO_321:0000086	Armyworm damage	TO:0000273	armyworm resistance	true	
+CO_321:0000086	Armyworm damage	TO:0000273	armyworm resistance	true	
+CO_321:0000086	Armyworm damage	TO:0000273	armyworm resistance	true	
+CO_321:0000086	Armyworm damage	TO:0000273	armyworm resistance	true	
+CO_321:0000086	Armyworm damage	TO:0000273	armyworm resistance	true	
+CO_321:0000086	Armyworm damage	TO:0000273	armyworm resistance	true	
+CO_321:0000087	Bird damage	TO:0000260	bird damage resistance	false	
+CO_321:0000087	Bird damage	TO:0000260	bird damage resistance	true	
+CO_321:0000087	Bird damage	TO:0000260	bird damage resistance	true	
+CO_321:0000087	Bird damage	TO:0000260	bird damage resistance	true	
+CO_321:0000087	Bird damage	TO:0000260	bird damage resistance	true	
+CO_321:0000087	Bird damage	TO:0000260	bird damage resistance	true	
+CO_321:0000087	Bird damage	TO:0000260	bird damage resistance	true	
+CO_321:0000087	Bird damage	TO:0000260	bird damage resistance	true	
+CO_321:0000087	Bird damage	TO:0000260	bird damage resistance	true	
+CO_321:0000087	Bird damage	TO:0000260	bird damage resistance	true	
+CO_321:0000096	Barley yellow dwarf	TO:0020067	barley yellow dwarf virus disease resistance	false	
+CO_321:0000096	Barley yellow dwarf	TO:0020067	barley yellow dwarf virus disease resistance	true	
+CO_321:0000096	Barley yellow dwarf	TO:0020067	barley yellow dwarf virus disease resistance	true	
+CO_321:0000096	Barley yellow dwarf	TO:0020067	barley yellow dwarf virus disease resistance	true	
+CO_321:0000096	Barley yellow dwarf	TO:0020067	barley yellow dwarf virus disease resistance	true	
+CO_321:0000096	Barley yellow dwarf	TO:0020067	barley yellow dwarf virus disease resistance	true	
+CO_321:0000096	Barley yellow dwarf	TO:0020067	barley yellow dwarf virus disease resistance	true	
+CO_321:0000096	Barley yellow dwarf	TO:0020067	barley yellow dwarf virus disease resistance	true	
+CO_321:0000096	Barley yellow dwarf	TO:0020067	barley yellow dwarf virus disease resistance	true	
+CO_321:0000096	Barley yellow dwarf	TO:0020067	barley yellow dwarf virus disease resistance	true	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	false	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	false	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	false	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	true	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	true	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	true	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	true	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	true	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	true	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	true	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	true	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	true	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	true	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	true	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	true	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	true	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	true	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	true	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	true	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	true	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	true	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	true	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	true	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	true	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	true	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	true	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	true	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	true	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	true	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	true	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	false	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	false	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	false	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	true	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	true	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	true	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	true	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	true	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	true	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	true	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	true	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	true	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	true	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	true	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	true	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	true	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	true	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	true	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	true	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	true	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	true	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	true	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	true	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	true	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	true	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	true	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	true	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	true	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	true	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	true	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	false	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	false	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	false	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	true	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	true	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	true	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	true	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	true	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	true	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	true	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	true	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	true	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	true	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	true	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	true	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	true	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	true	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	true	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	true	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	true	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	true	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	true	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	true	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	true	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	true	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	true	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	true	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	true	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	true	
+CO_321:0000116	Spot blotch	TO:0020052	barley spot blotch disease resistance	true	
+CO_321:0000123	Harvest index	TO:0000128	harvest index	false	
+CO_321:0000123	Harvest index	TO:0000128	harvest index	false	
+CO_321:0000123	Harvest index	TO:0000128	harvest index	true	
+CO_321:0000123	Harvest index	TO:0000128	harvest index	true	
+CO_321:0000123	Harvest index	TO:0000128	harvest index	true	
+CO_321:0000123	Harvest index	TO:0000128	harvest index	true	
+CO_321:0000123	Harvest index	TO:0000128	harvest index	true	
+CO_321:0000123	Harvest index	TO:0000128	harvest index	true	
+CO_321:0000123	Harvest index	TO:0000128	harvest index	true	
+CO_321:0000123	Harvest index	TO:0000128	harvest index	true	
+CO_321:0000123	Harvest index	TO:0000128	harvest index	true	
+CO_321:0000123	Harvest index	TO:0000128	harvest index	true	
+CO_321:0000123	Harvest index	TO:0000128	harvest index	true	
+CO_321:0000123	Harvest index	TO:0000128	harvest index	true	
+CO_321:0000123	Harvest index	TO:0000128	harvest index	true	
+CO_321:0000123	Harvest index	TO:0000128	harvest index	true	
+CO_321:0000123	Harvest index	TO:0000128	harvest index	true	
+CO_321:0000123	Harvest index	TO:0000128	harvest index	true	
+CO_321:0000123	Harvest index	TO:0000128	harvest index	true	
+CO_321:0000123	Harvest index	TO:0000128	harvest index	true	
+CO_321:0000123	Harvest index	TO:0000128	harvest index	false	
+CO_321:0000123	Harvest index	TO:0000128	harvest index	false	
+CO_321:0000123	Harvest index	TO:0000128	harvest index	true	
+CO_321:0000123	Harvest index	TO:0000128	harvest index	true	
+CO_321:0000123	Harvest index	TO:0000128	harvest index	true	
+CO_321:0000123	Harvest index	TO:0000128	harvest index	true	
+CO_321:0000123	Harvest index	TO:0000128	harvest index	true	
+CO_321:0000123	Harvest index	TO:0000128	harvest index	true	
+CO_321:0000123	Harvest index	TO:0000128	harvest index	true	
+CO_321:0000123	Harvest index	TO:0000128	harvest index	true	
+CO_321:0000123	Harvest index	TO:0000128	harvest index	true	
+CO_321:0000123	Harvest index	TO:0000128	harvest index	true	
+CO_321:0000123	Harvest index	TO:0000128	harvest index	true	
+CO_321:0000123	Harvest index	TO:0000128	harvest index	true	
+CO_321:0000123	Harvest index	TO:0000128	harvest index	true	
+CO_321:0000123	Harvest index	TO:0000128	harvest index	true	
+CO_321:0000123	Harvest index	TO:0000128	harvest index	true	
+CO_321:0000123	Harvest index	TO:0000128	harvest index	true	
+CO_321:0000123	Harvest index	TO:0000128	harvest index	true	
+CO_321:0000123	Harvest index	TO:0000128	harvest index	true	
+CO_321:0000129	Stripe rust severity	TO:0020054	barley stripe rust disease resistance	false	
+CO_321:0000129	Stripe rust severity	TO:0020054	barley stripe rust disease resistance	false	
+CO_321:0000129	Stripe rust severity	TO:0020054	barley stripe rust disease resistance	true	
+CO_321:0000129	Stripe rust severity	TO:0020054	barley stripe rust disease resistance	true	
+CO_321:0000129	Stripe rust severity	TO:0020054	barley stripe rust disease resistance	true	
+CO_321:0000129	Stripe rust severity	TO:0020054	barley stripe rust disease resistance	true	
+CO_321:0000129	Stripe rust severity	TO:0020054	barley stripe rust disease resistance	true	
+CO_321:0000129	Stripe rust severity	TO:0020054	barley stripe rust disease resistance	true	
+CO_321:0000129	Stripe rust severity	TO:0020054	barley stripe rust disease resistance	true	
+CO_321:0000129	Stripe rust severity	TO:0020054	barley stripe rust disease resistance	true	
+CO_321:0000129	Stripe rust severity	TO:0020054	barley stripe rust disease resistance	true	
+CO_321:0000129	Stripe rust severity	TO:0020054	barley stripe rust disease resistance	true	
+CO_321:0000129	Stripe rust severity	TO:0020054	barley stripe rust disease resistance	true	
+CO_321:0000129	Stripe rust severity	TO:0020054	barley stripe rust disease resistance	true	
+CO_321:0000129	Stripe rust severity	TO:0020054	barley stripe rust disease resistance	true	
+CO_321:0000129	Stripe rust severity	TO:0020054	barley stripe rust disease resistance	true	
+CO_321:0000129	Stripe rust severity	TO:0020054	barley stripe rust disease resistance	true	
+CO_321:0000129	Stripe rust severity	TO:0020054	barley stripe rust disease resistance	true	
+CO_321:0000129	Stripe rust severity	TO:0020054	barley stripe rust disease resistance	true	
+CO_321:0000129	Stripe rust severity	TO:0020054	barley stripe rust disease resistance	true	
+CO_321:0000129	Stripe rust severity	TO:0020054	barley stripe rust disease resistance	false	
+CO_321:0000129	Stripe rust severity	TO:0020054	barley stripe rust disease resistance	false	
+CO_321:0000129	Stripe rust severity	TO:0020054	barley stripe rust disease resistance	true	
+CO_321:0000129	Stripe rust severity	TO:0020054	barley stripe rust disease resistance	true	
+CO_321:0000129	Stripe rust severity	TO:0020054	barley stripe rust disease resistance	true	
+CO_321:0000129	Stripe rust severity	TO:0020054	barley stripe rust disease resistance	true	
+CO_321:0000129	Stripe rust severity	TO:0020054	barley stripe rust disease resistance	true	
+CO_321:0000129	Stripe rust severity	TO:0020054	barley stripe rust disease resistance	true	
+CO_321:0000129	Stripe rust severity	TO:0020054	barley stripe rust disease resistance	true	
+CO_321:0000129	Stripe rust severity	TO:0020054	barley stripe rust disease resistance	true	
+CO_321:0000129	Stripe rust severity	TO:0020054	barley stripe rust disease resistance	true	
+CO_321:0000129	Stripe rust severity	TO:0020054	barley stripe rust disease resistance	true	
+CO_321:0000129	Stripe rust severity	TO:0020054	barley stripe rust disease resistance	true	
+CO_321:0000129	Stripe rust severity	TO:0020054	barley stripe rust disease resistance	true	
+CO_321:0000129	Stripe rust severity	TO:0020054	barley stripe rust disease resistance	true	
+CO_321:0000129	Stripe rust severity	TO:0020054	barley stripe rust disease resistance	true	
+CO_321:0000129	Stripe rust severity	TO:0020054	barley stripe rust disease resistance	true	
+CO_321:0000129	Stripe rust severity	TO:0020054	barley stripe rust disease resistance	true	
+CO_321:0000129	Stripe rust severity	TO:0020054	barley stripe rust disease resistance	true	
+CO_321:0000129	Stripe rust severity	TO:0020054	barley stripe rust disease resistance	true	
+CO_321:0000131	Drought tolerance	TO:0000276	drought tolerance	true	
+CO_321:0000131	Drought tolerance	TO:0000276	drought tolerance	false	
+CO_321:0000131	Drought tolerance	TO:0000276	drought tolerance	false	
+CO_321:0000131	Drought tolerance	TO:0000276	drought tolerance	false	
+CO_321:0000131	Drought tolerance	TO:0000276	drought tolerance	false	
+CO_321:0000132	Salinity tolerance	TO:0006001	salt tolerance	true	
+CO_321:0000132	Salinity tolerance	TO:0006001	salt tolerance	false	
+CO_321:0000132	Salinity tolerance	TO:0006001	salt tolerance	false	
+CO_321:0000132	Salinity tolerance	TO:0006001	salt tolerance	false	
+CO_321:0000132	Salinity tolerance	TO:0006001	salt tolerance	false	
+CO_321:0000143	Stomatal frequency	TO:0000566	stomatal frequency	true	
+CO_321:0000143	Stomatal frequency	TO:0000566	stomatal frequency	true	
+CO_321:0000143	Stomatal frequency	TO:0000566	stomatal frequency	false	
+CO_321:0000143	Stomatal frequency	TO:0000566	stomatal frequency	false	
+CO_321:0000143	Stomatal frequency	TO:0000566	stomatal frequency	false	
+CO_321:0000143	Stomatal frequency	TO:0000566	stomatal frequency	false	
+CO_321:0000143	Stomatal frequency	TO:0000566	stomatal frequency	false	
+CO_321:0000143	Stomatal frequency	TO:0000566	stomatal frequency	false	
+CO_321:0000143	Stomatal frequency	TO:0000566	stomatal frequency	false	
+CO_321:0000143	Stomatal frequency	TO:0000566	stomatal frequency	false	
+CO_321:0000143	Stomatal frequency	TO:0000566	stomatal frequency	false	
+CO_321:0000143	Stomatal frequency	TO:0000566	stomatal frequency	true	
+CO_321:0000143	Stomatal frequency	TO:0000566	stomatal frequency	true	
+CO_321:0000159	Test weight	TO:0000612	grain density	false	
+CO_321:0000159	Test weight	TO:0000612	grain density	true	
+CO_321:0000159	Test weight	TO:0000612	grain density	true	
+CO_321:0000159	Test weight	TO:0000612	grain density	true	
+CO_321:0000159	Test weight	TO:0000612	grain density	true	
+CO_321:0000159	Test weight	TO:0000612	grain density	true	
+CO_321:0000159	Test weight	TO:0000612	grain density	true	
+CO_321:0000159	Test weight	TO:0000612	grain density	true	
+CO_321:0000159	Test weight	TO:0000612	grain density	true	
+CO_321:0000159	Test weight	TO:0000612	grain density	true	
+CO_321:0000166	Spikes number	TO:0000152	panicle number	true	
+CO_321:0000166	Spikes number	TO:0000152	panicle number	true	
+CO_321:0000166	Spikes number	TO:0000152	panicle number	true	
+CO_321:0000166	Spikes number	TO:0000152	panicle number	true	
+CO_321:0000166	Spikes number	TO:0000152	panicle number	true	
+CO_321:0000166	Spikes number	TO:0000152	panicle number	true	
+CO_321:0000166	Spikes number	TO:0000152	panicle number	true	
+CO_321:0000166	Spikes number	TO:0000152	panicle number	true	
+CO_321:0000166	Spikes number	TO:0000152	panicle number	true	
+CO_321:0000166	Spikes number	TO:0000152	panicle number	true	
+CO_321:0000166	Spikes number	TO:0000152	panicle number	true	
+CO_321:0000166	Spikes number	TO:0000152	panicle number	true	
+CO_321:0000166	Spikes number	TO:0000152	panicle number	true	
+CO_321:0000166	Spikes number	TO:0000152	panicle number	true	
+CO_321:0000166	Spikes number	TO:0000152	panicle number	true	
+CO_321:0000166	Spikes number	TO:0000152	panicle number	true	
+CO_321:0000171	Barley scald	TO:0020051	barley leaf scald disease resistance	false	
+CO_321:0000171	Barley scald	TO:0020051	barley leaf scald disease resistance	true	
+CO_321:0000171	Barley scald	TO:0020051	barley leaf scald disease resistance	true	
+CO_321:0000171	Barley scald	TO:0020051	barley leaf scald disease resistance	true	
+CO_321:0000171	Barley scald	TO:0020051	barley leaf scald disease resistance	true	
+CO_321:0000171	Barley scald	TO:0020051	barley leaf scald disease resistance	true	
+CO_321:0000171	Barley scald	TO:0020051	barley leaf scald disease resistance	true	
+CO_321:0000171	Barley scald	TO:0020051	barley leaf scald disease resistance	true	
+CO_321:0000171	Barley scald	TO:0020051	barley leaf scald disease resistance	true	
+CO_321:0000171	Barley scald	TO:0020051	barley leaf scald disease resistance	true	
+CO_321:0000176	Heat tolerance	TO:0000259	heat tolerance	true	
+CO_321:0000176	Heat tolerance	TO:0000259	heat tolerance	false	
+CO_321:0000176	Heat tolerance	TO:0000259	heat tolerance	false	
+CO_321:0000176	Heat tolerance	TO:0000259	heat tolerance	false	
+CO_321:0000176	Heat tolerance	TO:0000259	heat tolerance	false	
+CO_321:0000184	Leaf area index	TO:0012001	leaf area index	false	
+CO_321:0000184	Leaf area index	TO:0012001	leaf area index	false	
+CO_321:0000184	Leaf area index	TO:0012001	leaf area index	true	
+CO_321:0000184	Leaf area index	TO:0012001	leaf area index	true	
+CO_321:0000184	Leaf area index	TO:0012001	leaf area index	true	
+CO_321:0000184	Leaf area index	TO:0012001	leaf area index	true	
+CO_321:0000184	Leaf area index	TO:0012001	leaf area index	true	
+CO_321:0000184	Leaf area index	TO:0012001	leaf area index	true	
+CO_321:0000184	Leaf area index	TO:0012001	leaf area index	true	
+CO_321:0000184	Leaf area index	TO:0012001	leaf area index	true	
+CO_321:0000184	Leaf area index	TO:0012001	leaf area index	true	
+CO_321:0000184	Leaf area index	TO:0012001	leaf area index	true	
+CO_321:0000184	Leaf area index	TO:0012001	leaf area index	true	
+CO_321:0000184	Leaf area index	TO:0012001	leaf area index	true	
+CO_321:0000184	Leaf area index	TO:0012001	leaf area index	true	
+CO_321:0000184	Leaf area index	TO:0012001	leaf area index	true	
+CO_321:0000184	Leaf area index	TO:0012001	leaf area index	true	
+CO_321:0000184	Leaf area index	TO:0012001	leaf area index	true	
+CO_321:0000184	Leaf area index	TO:0012001	leaf area index	true	
+CO_321:0000184	Leaf area index	TO:0012001	leaf area index	true	
+CO_321:0000184	Leaf area index	TO:0012001	leaf area index	false	
+CO_321:0000184	Leaf area index	TO:0012001	leaf area index	false	
+CO_321:0000184	Leaf area index	TO:0012001	leaf area index	true	
+CO_321:0000184	Leaf area index	TO:0012001	leaf area index	true	
+CO_321:0000184	Leaf area index	TO:0012001	leaf area index	true	
+CO_321:0000184	Leaf area index	TO:0012001	leaf area index	true	
+CO_321:0000184	Leaf area index	TO:0012001	leaf area index	true	
+CO_321:0000184	Leaf area index	TO:0012001	leaf area index	true	
+CO_321:0000184	Leaf area index	TO:0012001	leaf area index	true	
+CO_321:0000184	Leaf area index	TO:0012001	leaf area index	true	
+CO_321:0000184	Leaf area index	TO:0012001	leaf area index	true	
+CO_321:0000184	Leaf area index	TO:0012001	leaf area index	true	
+CO_321:0000184	Leaf area index	TO:0012001	leaf area index	true	
+CO_321:0000184	Leaf area index	TO:0012001	leaf area index	true	
+CO_321:0000184	Leaf area index	TO:0012001	leaf area index	true	
+CO_321:0000184	Leaf area index	TO:0012001	leaf area index	true	
+CO_321:0000184	Leaf area index	TO:0012001	leaf area index	true	
+CO_321:0000184	Leaf area index	TO:0012001	leaf area index	true	
+CO_321:0000184	Leaf area index	TO:0012001	leaf area index	true	
+CO_321:0000184	Leaf area index	TO:0012001	leaf area index	true	
+CO_321:0000193	Canopy temperature	TO:0000157	canopy temperature	true	
+CO_321:0000193	Canopy temperature	TO:0000157	canopy temperature	false	
+CO_321:0000206	Simple ratio	TO:0000323	stem rot disease resistance	false	
+CO_321:0000206	Simple ratio	TO:0000323	stem rot disease resistance	true	
+CO_321:0000206	Simple ratio	TO:0000323	stem rot disease resistance	true	
+CO_321:0000206	Simple ratio	TO:0000323	stem rot disease resistance	true	
+CO_321:0000206	Simple ratio	TO:0000323	stem rot disease resistance	true	
+CO_321:0000206	Simple ratio	TO:0000323	stem rot disease resistance	true	
+CO_321:0000206	Simple ratio	TO:0000323	stem rot disease resistance	true	
+CO_321:0000206	Simple ratio	TO:0000323	stem rot disease resistance	true	
+CO_321:0000206	Simple ratio	TO:0000323	stem rot disease resistance	true	
+CO_321:0000206	Simple ratio	TO:0000323	stem rot disease resistance	true	
+CO_321:0000222	Iron content	TO:0020089	iron content	false	
+CO_321:0000222	Iron content	TO:0020089	iron content	false	
+CO_321:0000222	Iron content	TO:0020089	iron content	true	
+CO_321:0000222	Iron content	TO:0020089	iron content	true	
+CO_321:0000222	Iron content	TO:0020089	iron content	true	
+CO_321:0000222	Iron content	TO:0020089	iron content	true	
+CO_321:0000222	Iron content	TO:0020089	iron content	true	
+CO_321:0000222	Iron content	TO:0020089	iron content	true	
+CO_321:0000222	Iron content	TO:0020089	iron content	true	
+CO_321:0000222	Iron content	TO:0020089	iron content	true	
+CO_321:0000222	Iron content	TO:0020089	iron content	true	
+CO_321:0000222	Iron content	TO:0020089	iron content	true	
+CO_321:0000222	Iron content	TO:0020089	iron content	true	
+CO_321:0000222	Iron content	TO:0020089	iron content	true	
+CO_321:0000222	Iron content	TO:0020089	iron content	true	
+CO_321:0000222	Iron content	TO:0020089	iron content	true	
+CO_321:0000222	Iron content	TO:0020089	iron content	true	
+CO_321:0000222	Iron content	TO:0020089	iron content	true	
+CO_321:0000222	Iron content	TO:0020089	iron content	true	
+CO_321:0000222	Iron content	TO:0020089	iron content	true	
+CO_321:0000222	Iron content	TO:0020089	iron content	false	
+CO_321:0000222	Iron content	TO:0020089	iron content	false	
+CO_321:0000222	Iron content	TO:0020089	iron content	true	
+CO_321:0000222	Iron content	TO:0020089	iron content	true	
+CO_321:0000222	Iron content	TO:0020089	iron content	true	
+CO_321:0000222	Iron content	TO:0020089	iron content	true	
+CO_321:0000222	Iron content	TO:0020089	iron content	true	
+CO_321:0000222	Iron content	TO:0020089	iron content	true	
+CO_321:0000222	Iron content	TO:0020089	iron content	true	
+CO_321:0000222	Iron content	TO:0020089	iron content	true	
+CO_321:0000222	Iron content	TO:0020089	iron content	true	
+CO_321:0000222	Iron content	TO:0020089	iron content	true	
+CO_321:0000222	Iron content	TO:0020089	iron content	true	
+CO_321:0000222	Iron content	TO:0020089	iron content	true	
+CO_321:0000222	Iron content	TO:0020089	iron content	true	
+CO_321:0000222	Iron content	TO:0020089	iron content	true	
+CO_321:0000222	Iron content	TO:0020089	iron content	true	
+CO_321:0000222	Iron content	TO:0020089	iron content	true	
+CO_321:0000222	Iron content	TO:0020089	iron content	true	
+CO_321:0000222	Iron content	TO:0020089	iron content	true	
+CO_321:0000224	Zinc content	TO:0020090	zinc content	false	
+CO_321:0000224	Zinc content	TO:0020090	zinc content	false	
+CO_321:0000224	Zinc content	TO:0020090	zinc content	true	
+CO_321:0000224	Zinc content	TO:0020090	zinc content	true	
+CO_321:0000224	Zinc content	TO:0020090	zinc content	true	
+CO_321:0000224	Zinc content	TO:0020090	zinc content	true	
+CO_321:0000224	Zinc content	TO:0020090	zinc content	true	
+CO_321:0000224	Zinc content	TO:0020090	zinc content	true	
+CO_321:0000224	Zinc content	TO:0020090	zinc content	true	
+CO_321:0000224	Zinc content	TO:0020090	zinc content	true	
+CO_321:0000224	Zinc content	TO:0020090	zinc content	true	
+CO_321:0000224	Zinc content	TO:0020090	zinc content	true	
+CO_321:0000224	Zinc content	TO:0020090	zinc content	true	
+CO_321:0000224	Zinc content	TO:0020090	zinc content	true	
+CO_321:0000224	Zinc content	TO:0020090	zinc content	true	
+CO_321:0000224	Zinc content	TO:0020090	zinc content	true	
+CO_321:0000224	Zinc content	TO:0020090	zinc content	true	
+CO_321:0000224	Zinc content	TO:0020090	zinc content	true	
+CO_321:0000224	Zinc content	TO:0020090	zinc content	true	
+CO_321:0000224	Zinc content	TO:0020090	zinc content	true	
+CO_321:0000224	Zinc content	TO:0020090	zinc content	false	
+CO_321:0000224	Zinc content	TO:0020090	zinc content	false	
+CO_321:0000224	Zinc content	TO:0020090	zinc content	true	
+CO_321:0000224	Zinc content	TO:0020090	zinc content	true	
+CO_321:0000224	Zinc content	TO:0020090	zinc content	true	
+CO_321:0000224	Zinc content	TO:0020090	zinc content	true	
+CO_321:0000224	Zinc content	TO:0020090	zinc content	true	
+CO_321:0000224	Zinc content	TO:0020090	zinc content	true	
+CO_321:0000224	Zinc content	TO:0020090	zinc content	true	
+CO_321:0000224	Zinc content	TO:0020090	zinc content	true	
+CO_321:0000224	Zinc content	TO:0020090	zinc content	true	
+CO_321:0000224	Zinc content	TO:0020090	zinc content	true	
+CO_321:0000224	Zinc content	TO:0020090	zinc content	true	
+CO_321:0000224	Zinc content	TO:0020090	zinc content	true	
+CO_321:0000224	Zinc content	TO:0020090	zinc content	true	
+CO_321:0000224	Zinc content	TO:0020090	zinc content	true	
+CO_321:0000224	Zinc content	TO:0020090	zinc content	true	
+CO_321:0000224	Zinc content	TO:0020090	zinc content	true	
+CO_321:0000224	Zinc content	TO:0020090	zinc content	true	
+CO_321:0000224	Zinc content	TO:0020090	zinc content	true	
+CO_321:0000431	s/m	TO:0000106	male sterility type	false	
+CO_321:0000431	s/m	TO:0000106	male sterility type	true	
+CO_321:0000431	s/m	TO:0000106	male sterility type	true	
+CO_321:0000431	s/m	TO:0000106	male sterility type	true	
+CO_321:0000431	s/m	TO:0000106	male sterility type	true	
+CO_321:0000431	s/m	TO:0000106	male sterility type	true	
+CO_321:0000431	s/m	TO:0000106	male sterility type	true	
+CO_321:0000431	s/m	TO:0000106	male sterility type	true	
+CO_321:0000431	s/m	TO:0000106	male sterility type	true	
+CO_321:0000431	s/m	TO:0000106	male sterility type	true	
+TO:0000040	panicle length	CO_321:0000058	Spikelets per spike	true	
+TO:0000040	panicle length	CO_321:0000058	Spikelets per spike	true	
+TO:0000040	panicle length	CO_321:0000058	Spikelets per spike	false	
+TO:0000040	panicle length	CO_321:0000058	Spikelets per spike	false	
+TO:0000040	panicle length	CO_321:0000058	Spikelets per spike	false	
+TO:0000040	panicle length	CO_321:0000058	Spikelets per spike	false	
+TO:0000040	panicle length	CO_321:0000058	Spikelets per spike	true	
+TO:0000040	panicle length	CO_321:0000058	Spikelets per spike	true	
+TO:0000057	grain moisture	CO_321:0000012	Grain moisture	true	
+TO:0000057	grain moisture	CO_321:0000012	Grain moisture	true	
+TO:0000057	grain moisture	CO_321:0000012	Grain moisture	true	
+TO:0000057	grain moisture	CO_321:0000012	Grain moisture	true	
+TO:0000057	grain moisture	CO_321:0000012	Grain moisture	false	
+TO:0000057	grain moisture	CO_321:0000012	Grain moisture	false	
+TO:0000057	grain moisture	CO_321:0000012	Grain moisture	false	
+TO:0000057	grain moisture	CO_321:0000012	Grain moisture	false	
+TO:0000072	awn length	CO_321:0000026	Awn length	false	
+TO:0000072	awn length	CO_321:0000026	Awn length	true	
+TO:0000072	awn length	CO_321:0000026	Awn length	true	
+TO:0000072	awn length	CO_321:0000026	Awn length	true	
+TO:0000072	awn length	CO_321:0000026	Awn length	true	
+TO:0000072	awn length	CO_321:0000026	Awn length	true	
+TO:0000072	awn length	CO_321:0000026	Awn length	true	
+TO:0000072	awn length	CO_321:0000026	Awn length	true	
+TO:0000072	awn length	CO_321:0000026	Awn length	true	
+TO:0000072	awn length	CO_321:0000026	Awn length	true	
+TO:0000106	male sterility type	CO_321:0000431	s/m	false	
+TO:0000106	male sterility type	CO_321:0000431	s/m	true	
+TO:0000106	male sterility type	CO_321:0000431	s/m	true	
+TO:0000106	male sterility type	CO_321:0000431	s/m	true	
+TO:0000106	male sterility type	CO_321:0000431	s/m	true	
+TO:0000106	male sterility type	CO_321:0000431	s/m	true	
+TO:0000106	male sterility type	CO_321:0000431	s/m	true	
+TO:0000106	male sterility type	CO_321:0000431	s/m	true	
+TO:0000106	male sterility type	CO_321:0000431	s/m	true	
+TO:0000106	male sterility type	CO_321:0000431	s/m	true	
+TO:0000128	harvest index	CO_321:0000123	Harvest index	false	
+TO:0000128	harvest index	CO_321:0000123	Harvest index	false	
+TO:0000128	harvest index	CO_321:0000123	Harvest index	true	
+TO:0000128	harvest index	CO_321:0000123	Harvest index	true	
+TO:0000128	harvest index	CO_321:0000123	Harvest index	true	
+TO:0000128	harvest index	CO_321:0000123	Harvest index	true	
+TO:0000128	harvest index	CO_321:0000123	Harvest index	true	
+TO:0000128	harvest index	CO_321:0000123	Harvest index	true	
+TO:0000128	harvest index	CO_321:0000123	Harvest index	true	
+TO:0000128	harvest index	CO_321:0000123	Harvest index	true	
+TO:0000128	harvest index	CO_321:0000123	Harvest index	true	
+TO:0000128	harvest index	CO_321:0000123	Harvest index	true	
+TO:0000128	harvest index	CO_321:0000123	Harvest index	true	
+TO:0000128	harvest index	CO_321:0000123	Harvest index	true	
+TO:0000128	harvest index	CO_321:0000123	Harvest index	true	
+TO:0000128	harvest index	CO_321:0000123	Harvest index	true	
+TO:0000128	harvest index	CO_321:0000123	Harvest index	true	
+TO:0000128	harvest index	CO_321:0000123	Harvest index	true	
+TO:0000128	harvest index	CO_321:0000123	Harvest index	true	
+TO:0000128	harvest index	CO_321:0000123	Harvest index	true	
+TO:0000128	harvest index	CO_321:0000123	Harvest index	false	
+TO:0000128	harvest index	CO_321:0000123	Harvest index	false	
+TO:0000128	harvest index	CO_321:0000123	Harvest index	true	
+TO:0000128	harvest index	CO_321:0000123	Harvest index	true	
+TO:0000128	harvest index	CO_321:0000123	Harvest index	true	
+TO:0000128	harvest index	CO_321:0000123	Harvest index	true	
+TO:0000128	harvest index	CO_321:0000123	Harvest index	true	
+TO:0000128	harvest index	CO_321:0000123	Harvest index	true	
+TO:0000128	harvest index	CO_321:0000123	Harvest index	true	
+TO:0000128	harvest index	CO_321:0000123	Harvest index	true	
+TO:0000128	harvest index	CO_321:0000123	Harvest index	true	
+TO:0000128	harvest index	CO_321:0000123	Harvest index	true	
+TO:0000128	harvest index	CO_321:0000123	Harvest index	true	
+TO:0000128	harvest index	CO_321:0000123	Harvest index	true	
+TO:0000128	harvest index	CO_321:0000123	Harvest index	true	
+TO:0000128	harvest index	CO_321:0000123	Harvest index	true	
+TO:0000128	harvest index	CO_321:0000123	Harvest index	true	
+TO:0000128	harvest index	CO_321:0000123	Harvest index	true	
+TO:0000128	harvest index	CO_321:0000123	Harvest index	true	
+TO:0000128	harvest index	CO_321:0000123	Harvest index	true	
+TO:0000135	leaf length	CO_321:0000044	Leaf length	false	
+TO:0000135	leaf length	CO_321:0000044	Leaf length	true	
+TO:0000135	leaf length	CO_321:0000044	Leaf length	true	
+TO:0000135	leaf length	CO_321:0000044	Leaf length	true	
+TO:0000135	leaf length	CO_321:0000044	Leaf length	true	
+TO:0000135	leaf length	CO_321:0000044	Leaf length	true	
+TO:0000135	leaf length	CO_321:0000044	Leaf length	true	
+TO:0000135	leaf length	CO_321:0000044	Leaf length	true	
+TO:0000135	leaf length	CO_321:0000044	Leaf length	true	
+TO:0000135	leaf length	CO_321:0000044	Leaf length	true	
+TO:0000137	days to heading	CO_321:0000007	Days to heading	true	
+TO:0000137	days to heading	CO_321:0000007	Days to heading	true	
+TO:0000137	days to heading	CO_321:0000007	Days to heading	true	
+TO:0000137	days to heading	CO_321:0000007	Days to heading	true	
+TO:0000137	days to heading	CO_321:0000007	Days to heading	false	
+TO:0000137	days to heading	CO_321:0000007	Days to heading	false	
+TO:0000137	days to heading	CO_321:0000007	Days to heading	false	
+TO:0000137	days to heading	CO_321:0000007	Days to heading	false	
+TO:0000152	panicle number	CO_321:0000166	Spikes number	true	
+TO:0000152	panicle number	CO_321:0000166	Spikes number	true	
+TO:0000152	panicle number	CO_321:0000166	Spikes number	true	
+TO:0000152	panicle number	CO_321:0000166	Spikes number	true	
+TO:0000152	panicle number	CO_321:0000166	Spikes number	true	
+TO:0000152	panicle number	CO_321:0000166	Spikes number	true	
+TO:0000152	panicle number	CO_321:0000166	Spikes number	true	
+TO:0000152	panicle number	CO_321:0000166	Spikes number	true	
+TO:0000152	panicle number	CO_321:0000166	Spikes number	true	
+TO:0000152	panicle number	CO_321:0000166	Spikes number	true	
+TO:0000152	panicle number	CO_321:0000166	Spikes number	true	
+TO:0000152	panicle number	CO_321:0000166	Spikes number	true	
+TO:0000152	panicle number	CO_321:0000166	Spikes number	true	
+TO:0000152	panicle number	CO_321:0000166	Spikes number	true	
+TO:0000152	panicle number	CO_321:0000166	Spikes number	true	
+TO:0000152	panicle number	CO_321:0000166	Spikes number	true	
+TO:0000157	canopy temperature	CO_321:0000193	Canopy temperature	true	
+TO:0000157	canopy temperature	CO_321:0000193	Canopy temperature	false	
+TO:0000164	stress trait	CO_321:0000004	Stress trait	false	
+TO:0000164	stress trait	CO_321:0000004	Stress trait	true	
+TO:0000164	stress trait	CO_321:0000004	Stress trait	true	
+TO:0000164	stress trait	CO_321:0000004	Stress trait	true	
+TO:0000164	stress trait	CO_321:0000004	Stress trait	true	
+TO:0000164	stress trait	CO_321:0000004	Stress trait	true	
+TO:0000164	stress trait	CO_321:0000004	Stress trait	true	
+TO:0000164	stress trait	CO_321:0000004	Stress trait	true	
+TO:0000164	stress trait	CO_321:0000004	Stress trait	true	
+TO:0000164	stress trait	CO_321:0000004	Stress trait	true	
+TO:0000168	abiotic stress trait	CO_321:0000076	Abiotic stress trait	false	
+TO:0000168	abiotic stress trait	CO_321:0000076	Abiotic stress trait	true	
+TO:0000179	biotic stress trait	CO_321:0000077	Biotic stress trait	false	
+TO:0000179	biotic stress trait	CO_321:0000077	Biotic stress trait	true	
+TO:0000179	biotic stress trait	CO_321:0000077	Biotic stress trait	true	
+TO:0000179	biotic stress trait	CO_321:0000077	Biotic stress trait	true	
+TO:0000179	biotic stress trait	CO_321:0000077	Biotic stress trait	true	
+TO:0000179	biotic stress trait	CO_321:0000077	Biotic stress trait	true	
+TO:0000179	biotic stress trait	CO_321:0000077	Biotic stress trait	true	
+TO:0000179	biotic stress trait	CO_321:0000077	Biotic stress trait	true	
+TO:0000179	biotic stress trait	CO_321:0000077	Biotic stress trait	true	
+TO:0000179	biotic stress trait	CO_321:0000077	Biotic stress trait	true	
+TO:0000207	plant height	CO_321:0000020	Plant height	false	
+TO:0000207	plant height	CO_321:0000020	Plant height	false	
+TO:0000207	plant height	CO_321:0000020	Plant height	true	
+TO:0000207	plant height	CO_321:0000020	Plant height	true	
+TO:0000207	plant height	CO_321:0000020	Plant height	true	
+TO:0000207	plant height	CO_321:0000020	Plant height	true	
+TO:0000207	plant height	CO_321:0000020	Plant height	true	
+TO:0000207	plant height	CO_321:0000020	Plant height	true	
+TO:0000207	plant height	CO_321:0000020	Plant height	true	
+TO:0000207	plant height	CO_321:0000020	Plant height	true	
+TO:0000207	plant height	CO_321:0000020	Plant height	true	
+TO:0000207	plant height	CO_321:0000020	Plant height	true	
+TO:0000207	plant height	CO_321:0000020	Plant height	true	
+TO:0000207	plant height	CO_321:0000020	Plant height	true	
+TO:0000207	plant height	CO_321:0000020	Plant height	true	
+TO:0000207	plant height	CO_321:0000020	Plant height	true	
+TO:0000207	plant height	CO_321:0000020	Plant height	true	
+TO:0000207	plant height	CO_321:0000020	Plant height	true	
+TO:0000207	plant height	CO_321:0000020	Plant height	true	
+TO:0000207	plant height	CO_321:0000020	Plant height	true	
+TO:0000207	plant height	CO_321:0000020	Plant height	false	
+TO:0000207	plant height	CO_321:0000020	Plant height	false	
+TO:0000207	plant height	CO_321:0000020	Plant height	true	
+TO:0000207	plant height	CO_321:0000020	Plant height	true	
+TO:0000207	plant height	CO_321:0000020	Plant height	true	
+TO:0000207	plant height	CO_321:0000020	Plant height	true	
+TO:0000207	plant height	CO_321:0000020	Plant height	true	
+TO:0000207	plant height	CO_321:0000020	Plant height	true	
+TO:0000207	plant height	CO_321:0000020	Plant height	true	
+TO:0000207	plant height	CO_321:0000020	Plant height	true	
+TO:0000207	plant height	CO_321:0000020	Plant height	true	
+TO:0000207	plant height	CO_321:0000020	Plant height	true	
+TO:0000207	plant height	CO_321:0000020	Plant height	true	
+TO:0000207	plant height	CO_321:0000020	Plant height	true	
+TO:0000207	plant height	CO_321:0000020	Plant height	true	
+TO:0000207	plant height	CO_321:0000020	Plant height	true	
+TO:0000207	plant height	CO_321:0000020	Plant height	true	
+TO:0000207	plant height	CO_321:0000020	Plant height	true	
+TO:0000207	plant height	CO_321:0000020	Plant height	true	
+TO:0000207	plant height	CO_321:0000020	Plant height	true	
+TO:0000221	glume color	CO_321:0000031	Glume color	false	
+TO:0000221	glume color	CO_321:0000031	Glume color	false	
+TO:0000221	glume color	CO_321:0000031	Glume color	true	
+TO:0000221	glume color	CO_321:0000031	Glume color	true	
+TO:0000221	glume color	CO_321:0000031	Glume color	true	
+TO:0000221	glume color	CO_321:0000031	Glume color	true	
+TO:0000221	glume color	CO_321:0000031	Glume color	true	
+TO:0000221	glume color	CO_321:0000031	Glume color	true	
+TO:0000221	glume color	CO_321:0000031	Glume color	true	
+TO:0000221	glume color	CO_321:0000031	Glume color	true	
+TO:0000221	glume color	CO_321:0000031	Glume color	true	
+TO:0000221	glume color	CO_321:0000031	Glume color	true	
+TO:0000221	glume color	CO_321:0000031	Glume color	true	
+TO:0000221	glume color	CO_321:0000031	Glume color	true	
+TO:0000221	glume color	CO_321:0000031	Glume color	true	
+TO:0000221	glume color	CO_321:0000031	Glume color	true	
+TO:0000221	glume color	CO_321:0000031	Glume color	true	
+TO:0000221	glume color	CO_321:0000031	Glume color	true	
+TO:0000221	glume color	CO_321:0000031	Glume color	true	
+TO:0000221	glume color	CO_321:0000031	Glume color	true	
+TO:0000221	glume color	CO_321:0000031	Glume color	false	
+TO:0000221	glume color	CO_321:0000031	Glume color	false	
+TO:0000221	glume color	CO_321:0000031	Glume color	true	
+TO:0000221	glume color	CO_321:0000031	Glume color	true	
+TO:0000221	glume color	CO_321:0000031	Glume color	true	
+TO:0000221	glume color	CO_321:0000031	Glume color	true	
+TO:0000221	glume color	CO_321:0000031	Glume color	true	
+TO:0000221	glume color	CO_321:0000031	Glume color	true	
+TO:0000221	glume color	CO_321:0000031	Glume color	true	
+TO:0000221	glume color	CO_321:0000031	Glume color	true	
+TO:0000221	glume color	CO_321:0000031	Glume color	true	
+TO:0000221	glume color	CO_321:0000031	Glume color	true	
+TO:0000221	glume color	CO_321:0000031	Glume color	true	
+TO:0000221	glume color	CO_321:0000031	Glume color	true	
+TO:0000221	glume color	CO_321:0000031	Glume color	true	
+TO:0000221	glume color	CO_321:0000031	Glume color	true	
+TO:0000221	glume color	CO_321:0000031	Glume color	true	
+TO:0000221	glume color	CO_321:0000031	Glume color	true	
+TO:0000221	glume color	CO_321:0000031	Glume color	true	
+TO:0000221	glume color	CO_321:0000031	Glume color	true	
+TO:0000258	leaf thickness	CO_321:0000047	Leaf thickness	true	
+TO:0000258	leaf thickness	CO_321:0000047	Leaf thickness	false	
+TO:0000259	heat tolerance	CO_321:0000176	Heat tolerance	true	
+TO:0000259	heat tolerance	CO_321:0000176	Heat tolerance	false	
+TO:0000259	heat tolerance	CO_321:0000176	Heat tolerance	false	
+TO:0000259	heat tolerance	CO_321:0000176	Heat tolerance	false	
+TO:0000259	heat tolerance	CO_321:0000176	Heat tolerance	false	
+TO:0000260	bird damage resistance	CO_321:0000087	Bird damage	false	
+TO:0000260	bird damage resistance	CO_321:0000087	Bird damage	true	
+TO:0000260	bird damage resistance	CO_321:0000087	Bird damage	true	
+TO:0000260	bird damage resistance	CO_321:0000087	Bird damage	true	
+TO:0000260	bird damage resistance	CO_321:0000087	Bird damage	true	
+TO:0000260	bird damage resistance	CO_321:0000087	Bird damage	true	
+TO:0000260	bird damage resistance	CO_321:0000087	Bird damage	true	
+TO:0000260	bird damage resistance	CO_321:0000087	Bird damage	true	
+TO:0000260	bird damage resistance	CO_321:0000087	Bird damage	true	
+TO:0000260	bird damage resistance	CO_321:0000087	Bird damage	true	
+TO:0000273	armyworm resistance	CO_321:0000086	Armyworm damage	false	
+TO:0000273	armyworm resistance	CO_321:0000086	Armyworm damage	true	
+TO:0000273	armyworm resistance	CO_321:0000086	Armyworm damage	true	
+TO:0000273	armyworm resistance	CO_321:0000086	Armyworm damage	true	
+TO:0000273	armyworm resistance	CO_321:0000086	Armyworm damage	true	
+TO:0000273	armyworm resistance	CO_321:0000086	Armyworm damage	true	
+TO:0000273	armyworm resistance	CO_321:0000086	Armyworm damage	true	
+TO:0000273	armyworm resistance	CO_321:0000086	Armyworm damage	true	
+TO:0000273	armyworm resistance	CO_321:0000086	Armyworm damage	true	
+TO:0000273	armyworm resistance	CO_321:0000086	Armyworm damage	true	
+TO:0000276	drought tolerance	CO_321:0000131	Drought tolerance	true	
+TO:0000276	drought tolerance	CO_321:0000131	Drought tolerance	false	
+TO:0000276	drought tolerance	CO_321:0000131	Drought tolerance	false	
+TO:0000276	drought tolerance	CO_321:0000131	Drought tolerance	false	
+TO:0000276	drought tolerance	CO_321:0000131	Drought tolerance	false	
+TO:0000296	vegetative vigor	CO_321:0000009	Early vigour	false	
+TO:0000296	vegetative vigor	CO_321:0000009	Early vigour	true	
+TO:0000303	cold tolerance	CO_321:0000080	Cold tolerance	true	
+TO:0000303	cold tolerance	CO_321:0000080	Cold tolerance	true	
+TO:0000303	cold tolerance	CO_321:0000080	Cold tolerance	true	
+TO:0000303	cold tolerance	CO_321:0000080	Cold tolerance	true	
+TO:0000303	cold tolerance	CO_321:0000080	Cold tolerance	false	
+TO:0000303	cold tolerance	CO_321:0000080	Cold tolerance	false	
+TO:0000303	cold tolerance	CO_321:0000080	Cold tolerance	false	
+TO:0000303	cold tolerance	CO_321:0000080	Cold tolerance	false	
+TO:0000303	cold tolerance	CO_321:0000080	Cold tolerance	false	
+TO:0000303	cold tolerance	CO_321:0000080	Cold tolerance	false	
+TO:0000303	cold tolerance	CO_321:0000080	Cold tolerance	false	
+TO:0000303	cold tolerance	CO_321:0000080	Cold tolerance	false	
+TO:0000303	cold tolerance	CO_321:0000080	Cold tolerance	false	
+TO:0000303	cold tolerance	CO_321:0000080	Cold tolerance	true	
+TO:0000303	cold tolerance	CO_321:0000080	Cold tolerance	true	
+TO:0000303	cold tolerance	CO_321:0000080	Cold tolerance	true	
+TO:0000303	cold tolerance	CO_321:0000080	Cold tolerance	true	
+TO:0000303	cold tolerance	CO_321:0000080	Cold tolerance	true	
+TO:0000303	cold tolerance	CO_321:0000080	Cold tolerance	true	
+TO:0000303	cold tolerance	CO_321:0000080	Cold tolerance	true	
+TO:0000303	cold tolerance	CO_321:0000080	Cold tolerance	true	
+TO:0000303	cold tolerance	CO_321:0000080	Cold tolerance	true	
+TO:0000303	cold tolerance	CO_321:0000080	Cold tolerance	true	
+TO:0000303	cold tolerance	CO_321:0000080	Cold tolerance	true	
+TO:0000303	cold tolerance	CO_321:0000080	Cold tolerance	true	
+TO:0000323	stem rot disease resistance	CO_321:0000206	Simple ratio	false	
+TO:0000323	stem rot disease resistance	CO_321:0000206	Simple ratio	true	
+TO:0000323	stem rot disease resistance	CO_321:0000206	Simple ratio	true	
+TO:0000323	stem rot disease resistance	CO_321:0000206	Simple ratio	true	
+TO:0000323	stem rot disease resistance	CO_321:0000206	Simple ratio	true	
+TO:0000323	stem rot disease resistance	CO_321:0000206	Simple ratio	true	
+TO:0000323	stem rot disease resistance	CO_321:0000206	Simple ratio	true	
+TO:0000323	stem rot disease resistance	CO_321:0000206	Simple ratio	true	
+TO:0000323	stem rot disease resistance	CO_321:0000206	Simple ratio	true	
+TO:0000323	stem rot disease resistance	CO_321:0000206	Simple ratio	true	
+TO:0000339	stem thickness	CO_321:0000062	Stem thickness	true	
+TO:0000339	stem thickness	CO_321:0000062	Stem thickness	false	
+TO:0000370	leaf width	CO_321:0000049	Leaf width	false	
+TO:0000370	leaf width	CO_321:0000049	Leaf width	true	
+TO:0000370	leaf width	CO_321:0000049	Leaf width	true	
+TO:0000370	leaf width	CO_321:0000049	Leaf width	true	
+TO:0000370	leaf width	CO_321:0000049	Leaf width	true	
+TO:0000370	leaf width	CO_321:0000049	Leaf width	true	
+TO:0000370	leaf width	CO_321:0000049	Leaf width	true	
+TO:0000370	leaf width	CO_321:0000049	Leaf width	true	
+TO:0000370	leaf width	CO_321:0000049	Leaf width	true	
+TO:0000370	leaf width	CO_321:0000049	Leaf width	true	
+TO:0000382	1000-seed weight	CO_321:0000025	1000-grain weight	false	
+TO:0000382	1000-seed weight	CO_321:0000025	1000-grain weight	false	
+TO:0000382	1000-seed weight	CO_321:0000025	1000-grain weight	true	
+TO:0000382	1000-seed weight	CO_321:0000025	1000-grain weight	true	
+TO:0000382	1000-seed weight	CO_321:0000025	1000-grain weight	true	
+TO:0000382	1000-seed weight	CO_321:0000025	1000-grain weight	true	
+TO:0000382	1000-seed weight	CO_321:0000025	1000-grain weight	true	
+TO:0000382	1000-seed weight	CO_321:0000025	1000-grain weight	true	
+TO:0000382	1000-seed weight	CO_321:0000025	1000-grain weight	true	
+TO:0000382	1000-seed weight	CO_321:0000025	1000-grain weight	true	
+TO:0000382	1000-seed weight	CO_321:0000025	1000-grain weight	true	
+TO:0000382	1000-seed weight	CO_321:0000025	1000-grain weight	true	
+TO:0000382	1000-seed weight	CO_321:0000025	1000-grain weight	true	
+TO:0000382	1000-seed weight	CO_321:0000025	1000-grain weight	true	
+TO:0000382	1000-seed weight	CO_321:0000025	1000-grain weight	true	
+TO:0000382	1000-seed weight	CO_321:0000025	1000-grain weight	true	
+TO:0000382	1000-seed weight	CO_321:0000025	1000-grain weight	true	
+TO:0000382	1000-seed weight	CO_321:0000025	1000-grain weight	true	
+TO:0000382	1000-seed weight	CO_321:0000025	1000-grain weight	true	
+TO:0000382	1000-seed weight	CO_321:0000025	1000-grain weight	true	
+TO:0000382	1000-seed weight	CO_321:0000025	1000-grain weight	false	
+TO:0000382	1000-seed weight	CO_321:0000025	1000-grain weight	false	
+TO:0000382	1000-seed weight	CO_321:0000025	1000-grain weight	true	
+TO:0000382	1000-seed weight	CO_321:0000025	1000-grain weight	true	
+TO:0000382	1000-seed weight	CO_321:0000025	1000-grain weight	true	
+TO:0000382	1000-seed weight	CO_321:0000025	1000-grain weight	true	
+TO:0000382	1000-seed weight	CO_321:0000025	1000-grain weight	true	
+TO:0000382	1000-seed weight	CO_321:0000025	1000-grain weight	true	
+TO:0000382	1000-seed weight	CO_321:0000025	1000-grain weight	true	
+TO:0000382	1000-seed weight	CO_321:0000025	1000-grain weight	true	
+TO:0000382	1000-seed weight	CO_321:0000025	1000-grain weight	true	
+TO:0000382	1000-seed weight	CO_321:0000025	1000-grain weight	true	
+TO:0000382	1000-seed weight	CO_321:0000025	1000-grain weight	true	
+TO:0000382	1000-seed weight	CO_321:0000025	1000-grain weight	true	
+TO:0000382	1000-seed weight	CO_321:0000025	1000-grain weight	true	
+TO:0000382	1000-seed weight	CO_321:0000025	1000-grain weight	true	
+TO:0000382	1000-seed weight	CO_321:0000025	1000-grain weight	true	
+TO:0000382	1000-seed weight	CO_321:0000025	1000-grain weight	true	
+TO:0000382	1000-seed weight	CO_321:0000025	1000-grain weight	true	
+TO:0000382	1000-seed weight	CO_321:0000025	1000-grain weight	true	
+TO:0000397	grain size	CO_321:0000040	Grain size	false	
+TO:0000397	grain size	CO_321:0000040	Grain size	true	
+TO:0000397	grain size	CO_321:0000040	Grain size	true	
+TO:0000397	grain size	CO_321:0000040	Grain size	true	
+TO:0000397	grain size	CO_321:0000040	Grain size	true	
+TO:0000397	grain size	CO_321:0000040	Grain size	true	
+TO:0000397	grain size	CO_321:0000040	Grain size	true	
+TO:0000397	grain size	CO_321:0000040	Grain size	true	
+TO:0000397	grain size	CO_321:0000040	Grain size	true	
+TO:0000397	grain size	CO_321:0000040	Grain size	true	
+TO:0000469	days to maturity	CO_321:0000008	Days to maturity	true	
+TO:0000469	days to maturity	CO_321:0000008	Days to maturity	true	
+TO:0000469	days to maturity	CO_321:0000008	Days to maturity	true	
+TO:0000469	days to maturity	CO_321:0000008	Days to maturity	true	
+TO:0000469	days to maturity	CO_321:0000008	Days to maturity	false	
+TO:0000469	days to maturity	CO_321:0000008	Days to maturity	false	
+TO:0000469	days to maturity	CO_321:0000008	Days to maturity	false	
+TO:0000469	days to maturity	CO_321:0000008	Days to maturity	false	
+TO:0000495	chlorophyll content	CO_321:0000028	Chlorophyll content	true	
+TO:0000495	chlorophyll content	CO_321:0000028	Chlorophyll content	false	
+TO:0000522	stomatal conductance	CO_321:0000018	Stomatal conductance	false	
+TO:0000522	stomatal conductance	CO_321:0000018	Stomatal conductance	false	
+TO:0000522	stomatal conductance	CO_321:0000018	Stomatal conductance	false	
+TO:0000522	stomatal conductance	CO_321:0000018	Stomatal conductance	true	
+TO:0000522	stomatal conductance	CO_321:0000018	Stomatal conductance	true	
+TO:0000522	stomatal conductance	CO_321:0000018	Stomatal conductance	false	
+TO:0000522	stomatal conductance	CO_321:0000018	Stomatal conductance	false	
+TO:0000522	stomatal conductance	CO_321:0000018	Stomatal conductance	false	
+TO:0000522	stomatal conductance	CO_321:0000018	Stomatal conductance	false	
+TO:0000522	stomatal conductance	CO_321:0000018	Stomatal conductance	false	
+TO:0000522	stomatal conductance	CO_321:0000018	Stomatal conductance	false	
+TO:0000522	stomatal conductance	CO_321:0000018	Stomatal conductance	true	
+TO:0000522	stomatal conductance	CO_321:0000018	Stomatal conductance	true	
+TO:0000523	stomatal resistance	CO_321:0000063	Stomatal resistance	false	
+TO:0000523	stomatal resistance	CO_321:0000063	Stomatal resistance	false	
+TO:0000523	stomatal resistance	CO_321:0000063	Stomatal resistance	false	
+TO:0000523	stomatal resistance	CO_321:0000063	Stomatal resistance	true	
+TO:0000523	stomatal resistance	CO_321:0000063	Stomatal resistance	true	
+TO:0000523	stomatal resistance	CO_321:0000063	Stomatal resistance	false	
+TO:0000523	stomatal resistance	CO_321:0000063	Stomatal resistance	false	
+TO:0000523	stomatal resistance	CO_321:0000063	Stomatal resistance	false	
+TO:0000523	stomatal resistance	CO_321:0000063	Stomatal resistance	false	
+TO:0000523	stomatal resistance	CO_321:0000063	Stomatal resistance	false	
+TO:0000523	stomatal resistance	CO_321:0000063	Stomatal resistance	false	
+TO:0000523	stomatal resistance	CO_321:0000063	Stomatal resistance	true	
+TO:0000523	stomatal resistance	CO_321:0000063	Stomatal resistance	true	
+TO:0000566	stomatal frequency	CO_321:0000143	Stomatal frequency	true	
+TO:0000566	stomatal frequency	CO_321:0000143	Stomatal frequency	true	
+TO:0000566	stomatal frequency	CO_321:0000143	Stomatal frequency	false	
+TO:0000566	stomatal frequency	CO_321:0000143	Stomatal frequency	false	
+TO:0000566	stomatal frequency	CO_321:0000143	Stomatal frequency	false	
+TO:0000566	stomatal frequency	CO_321:0000143	Stomatal frequency	false	
+TO:0000566	stomatal frequency	CO_321:0000143	Stomatal frequency	false	
+TO:0000566	stomatal frequency	CO_321:0000143	Stomatal frequency	false	
+TO:0000566	stomatal frequency	CO_321:0000143	Stomatal frequency	false	
+TO:0000566	stomatal frequency	CO_321:0000143	Stomatal frequency	false	
+TO:0000566	stomatal frequency	CO_321:0000143	Stomatal frequency	false	
+TO:0000566	stomatal frequency	CO_321:0000143	Stomatal frequency	true	
+TO:0000566	stomatal frequency	CO_321:0000143	Stomatal frequency	true	
+TO:0000576	stem length	CO_321:0000060	Stem height	false	
+TO:0000576	stem length	CO_321:0000060	Stem height	false	
+TO:0000576	stem length	CO_321:0000060	Stem height	true	
+TO:0000576	stem length	CO_321:0000060	Stem height	true	
+TO:0000576	stem length	CO_321:0000060	Stem height	true	
+TO:0000576	stem length	CO_321:0000060	Stem height	true	
+TO:0000576	stem length	CO_321:0000060	Stem height	true	
+TO:0000576	stem length	CO_321:0000060	Stem height	true	
+TO:0000576	stem length	CO_321:0000060	Stem height	true	
+TO:0000576	stem length	CO_321:0000060	Stem height	true	
+TO:0000576	stem length	CO_321:0000060	Stem height	true	
+TO:0000576	stem length	CO_321:0000060	Stem height	true	
+TO:0000576	stem length	CO_321:0000060	Stem height	true	
+TO:0000576	stem length	CO_321:0000060	Stem height	true	
+TO:0000576	stem length	CO_321:0000060	Stem height	true	
+TO:0000576	stem length	CO_321:0000060	Stem height	true	
+TO:0000576	stem length	CO_321:0000060	Stem height	true	
+TO:0000576	stem length	CO_321:0000060	Stem height	true	
+TO:0000576	stem length	CO_321:0000060	Stem height	true	
+TO:0000576	stem length	CO_321:0000060	Stem height	true	
+TO:0000576	stem length	CO_321:0000060	Stem height	false	
+TO:0000576	stem length	CO_321:0000060	Stem height	false	
+TO:0000576	stem length	CO_321:0000060	Stem height	true	
+TO:0000576	stem length	CO_321:0000060	Stem height	true	
+TO:0000576	stem length	CO_321:0000060	Stem height	true	
+TO:0000576	stem length	CO_321:0000060	Stem height	true	
+TO:0000576	stem length	CO_321:0000060	Stem height	true	
+TO:0000576	stem length	CO_321:0000060	Stem height	true	
+TO:0000576	stem length	CO_321:0000060	Stem height	true	
+TO:0000576	stem length	CO_321:0000060	Stem height	true	
+TO:0000576	stem length	CO_321:0000060	Stem height	true	
+TO:0000576	stem length	CO_321:0000060	Stem height	true	
+TO:0000576	stem length	CO_321:0000060	Stem height	true	
+TO:0000576	stem length	CO_321:0000060	Stem height	true	
+TO:0000576	stem length	CO_321:0000060	Stem height	true	
+TO:0000576	stem length	CO_321:0000060	Stem height	true	
+TO:0000576	stem length	CO_321:0000060	Stem height	true	
+TO:0000576	stem length	CO_321:0000060	Stem height	true	
+TO:0000576	stem length	CO_321:0000060	Stem height	true	
+TO:0000576	stem length	CO_321:0000060	Stem height	true	
+TO:0000597	quality trait	CO_321:0000003	Quality trait	true	
+TO:0000597	quality trait	CO_321:0000003	Quality trait	false	
+TO:0000612	grain density	CO_321:0000159	Test weight	false	
+TO:0000612	grain density	CO_321:0000159	Test weight	true	
+TO:0000612	grain density	CO_321:0000159	Test weight	true	
+TO:0000612	grain density	CO_321:0000159	Test weight	true	
+TO:0000612	grain density	CO_321:0000159	Test weight	true	
+TO:0000612	grain density	CO_321:0000159	Test weight	true	
+TO:0000612	grain density	CO_321:0000159	Test weight	true	
+TO:0000612	grain density	CO_321:0000159	Test weight	true	
+TO:0000612	grain density	CO_321:0000159	Test weight	true	
+TO:0000612	grain density	CO_321:0000159	Test weight	true	
+TO:0000634	node number	CO_321:0000051	Node number	false	
+TO:0000634	node number	CO_321:0000051	Node number	true	
+TO:0000634	node number	CO_321:0000051	Node number	true	
+TO:0000634	node number	CO_321:0000051	Node number	true	
+TO:0000634	node number	CO_321:0000051	Node number	true	
+TO:0000634	node number	CO_321:0000051	Node number	true	
+TO:0000634	node number	CO_321:0000051	Node number	true	
+TO:0000634	node number	CO_321:0000051	Node number	true	
+TO:0000634	node number	CO_321:0000051	Node number	true	
+TO:0000634	node number	CO_321:0000051	Node number	true	
+TO:0000707	pericarp color	CO_321:0000037	Grain color	false	
+TO:0000707	pericarp color	CO_321:0000037	Grain color	false	
+TO:0000707	pericarp color	CO_321:0000037	Grain color	true	
+TO:0000707	pericarp color	CO_321:0000037	Grain color	true	
+TO:0000707	pericarp color	CO_321:0000037	Grain color	true	
+TO:0000707	pericarp color	CO_321:0000037	Grain color	true	
+TO:0000707	pericarp color	CO_321:0000037	Grain color	true	
+TO:0000707	pericarp color	CO_321:0000037	Grain color	true	
+TO:0000707	pericarp color	CO_321:0000037	Grain color	true	
+TO:0000707	pericarp color	CO_321:0000037	Grain color	true	
+TO:0000707	pericarp color	CO_321:0000037	Grain color	true	
+TO:0000707	pericarp color	CO_321:0000037	Grain color	true	
+TO:0000707	pericarp color	CO_321:0000037	Grain color	true	
+TO:0000707	pericarp color	CO_321:0000037	Grain color	true	
+TO:0000707	pericarp color	CO_321:0000037	Grain color	true	
+TO:0000707	pericarp color	CO_321:0000037	Grain color	true	
+TO:0000707	pericarp color	CO_321:0000037	Grain color	true	
+TO:0000707	pericarp color	CO_321:0000037	Grain color	true	
+TO:0000707	pericarp color	CO_321:0000037	Grain color	true	
+TO:0000707	pericarp color	CO_321:0000037	Grain color	true	
+TO:0000707	pericarp color	CO_321:0000037	Grain color	false	
+TO:0000707	pericarp color	CO_321:0000037	Grain color	false	
+TO:0000707	pericarp color	CO_321:0000037	Grain color	true	
+TO:0000707	pericarp color	CO_321:0000037	Grain color	true	
+TO:0000707	pericarp color	CO_321:0000037	Grain color	true	
+TO:0000707	pericarp color	CO_321:0000037	Grain color	true	
+TO:0000707	pericarp color	CO_321:0000037	Grain color	true	
+TO:0000707	pericarp color	CO_321:0000037	Grain color	true	
+TO:0000707	pericarp color	CO_321:0000037	Grain color	true	
+TO:0000707	pericarp color	CO_321:0000037	Grain color	true	
+TO:0000707	pericarp color	CO_321:0000037	Grain color	true	
+TO:0000707	pericarp color	CO_321:0000037	Grain color	true	
+TO:0000707	pericarp color	CO_321:0000037	Grain color	true	
+TO:0000707	pericarp color	CO_321:0000037	Grain color	true	
+TO:0000707	pericarp color	CO_321:0000037	Grain color	true	
+TO:0000707	pericarp color	CO_321:0000037	Grain color	true	
+TO:0000707	pericarp color	CO_321:0000037	Grain color	true	
+TO:0000707	pericarp color	CO_321:0000037	Grain color	true	
+TO:0000707	pericarp color	CO_321:0000037	Grain color	true	
+TO:0000707	pericarp color	CO_321:0000037	Grain color	true	
+TO:0000709	leaf gloss	CO_321:0000048	Leaf glaucousness	false	
+TO:0000709	leaf gloss	CO_321:0000048	Leaf glaucousness	false	
+TO:0000709	leaf gloss	CO_321:0000048	Leaf glaucousness	true	
+TO:0000709	leaf gloss	CO_321:0000048	Leaf glaucousness	true	
+TO:0000709	leaf gloss	CO_321:0000048	Leaf glaucousness	true	
+TO:0000709	leaf gloss	CO_321:0000048	Leaf glaucousness	true	
+TO:0000709	leaf gloss	CO_321:0000048	Leaf glaucousness	true	
+TO:0000709	leaf gloss	CO_321:0000048	Leaf glaucousness	true	
+TO:0000709	leaf gloss	CO_321:0000048	Leaf glaucousness	true	
+TO:0000709	leaf gloss	CO_321:0000048	Leaf glaucousness	true	
+TO:0000709	leaf gloss	CO_321:0000048	Leaf glaucousness	true	
+TO:0000709	leaf gloss	CO_321:0000048	Leaf glaucousness	true	
+TO:0000709	leaf gloss	CO_321:0000048	Leaf glaucousness	true	
+TO:0000709	leaf gloss	CO_321:0000048	Leaf glaucousness	true	
+TO:0000709	leaf gloss	CO_321:0000048	Leaf glaucousness	true	
+TO:0000709	leaf gloss	CO_321:0000048	Leaf glaucousness	true	
+TO:0000709	leaf gloss	CO_321:0000048	Leaf glaucousness	true	
+TO:0000709	leaf gloss	CO_321:0000048	Leaf glaucousness	true	
+TO:0000709	leaf gloss	CO_321:0000048	Leaf glaucousness	true	
+TO:0000709	leaf gloss	CO_321:0000048	Leaf glaucousness	true	
+TO:0000709	leaf gloss	CO_321:0000048	Leaf glaucousness	false	
+TO:0000709	leaf gloss	CO_321:0000048	Leaf glaucousness	false	
+TO:0000709	leaf gloss	CO_321:0000048	Leaf glaucousness	true	
+TO:0000709	leaf gloss	CO_321:0000048	Leaf glaucousness	true	
+TO:0000709	leaf gloss	CO_321:0000048	Leaf glaucousness	true	
+TO:0000709	leaf gloss	CO_321:0000048	Leaf glaucousness	true	
+TO:0000709	leaf gloss	CO_321:0000048	Leaf glaucousness	true	
+TO:0000709	leaf gloss	CO_321:0000048	Leaf glaucousness	true	
+TO:0000709	leaf gloss	CO_321:0000048	Leaf glaucousness	true	
+TO:0000709	leaf gloss	CO_321:0000048	Leaf glaucousness	true	
+TO:0000709	leaf gloss	CO_321:0000048	Leaf glaucousness	true	
+TO:0000709	leaf gloss	CO_321:0000048	Leaf glaucousness	true	
+TO:0000709	leaf gloss	CO_321:0000048	Leaf glaucousness	true	
+TO:0000709	leaf gloss	CO_321:0000048	Leaf glaucousness	true	
+TO:0000709	leaf gloss	CO_321:0000048	Leaf glaucousness	true	
+TO:0000709	leaf gloss	CO_321:0000048	Leaf glaucousness	true	
+TO:0000709	leaf gloss	CO_321:0000048	Leaf glaucousness	true	
+TO:0000709	leaf gloss	CO_321:0000048	Leaf glaucousness	true	
+TO:0000709	leaf gloss	CO_321:0000048	Leaf glaucousness	true	
+TO:0000709	leaf gloss	CO_321:0000048	Leaf glaucousness	true	
+TO:0001007	coleoptile length	CO_321:0000029	Coleoptile length	false	
+TO:0001007	coleoptile length	CO_321:0000029	Coleoptile length	true	
+TO:0001008	days to flag leaf emergence	CO_321:0000030	Days to flag leaf emergence	true	
+TO:0001008	days to flag leaf emergence	CO_321:0000030	Days to flag leaf emergence	true	
+TO:0001008	days to flag leaf emergence	CO_321:0000030	Days to flag leaf emergence	true	
+TO:0001008	days to flag leaf emergence	CO_321:0000030	Days to flag leaf emergence	true	
+TO:0001008	days to flag leaf emergence	CO_321:0000030	Days to flag leaf emergence	true	
+TO:0001008	days to flag leaf emergence	CO_321:0000030	Days to flag leaf emergence	true	
+TO:0001008	days to flag leaf emergence	CO_321:0000030	Days to flag leaf emergence	true	
+TO:0001008	days to flag leaf emergence	CO_321:0000030	Days to flag leaf emergence	true	
+TO:0001008	days to flag leaf emergence	CO_321:0000030	Days to flag leaf emergence	true	
+TO:0001008	days to flag leaf emergence	CO_321:0000030	Days to flag leaf emergence	false	
+TO:0001008	days to flag leaf emergence	CO_321:0000030	Days to flag leaf emergence	false	
+TO:0001008	days to flag leaf emergence	CO_321:0000030	Days to flag leaf emergence	false	
+TO:0001008	days to flag leaf emergence	CO_321:0000030	Days to flag leaf emergence	false	
+TO:0001008	days to flag leaf emergence	CO_321:0000030	Days to flag leaf emergence	false	
+TO:0001008	days to flag leaf emergence	CO_321:0000030	Days to flag leaf emergence	false	
+TO:0001008	days to flag leaf emergence	CO_321:0000030	Days to flag leaf emergence	false	
+TO:0001008	days to flag leaf emergence	CO_321:0000030	Days to flag leaf emergence	false	
+TO:0001008	days to flag leaf emergence	CO_321:0000030	Days to flag leaf emergence	false	
+TO:0001034	relative plant height	CO_321:0000024	Relative plant height	true	
+TO:0001034	relative plant height	CO_321:0000024	Relative plant height	true	
+TO:0001034	relative plant height	CO_321:0000024	Relative plant height	false	
+TO:0001034	relative plant height	CO_321:0000024	Relative plant height	false	
+TO:0001034	relative plant height	CO_321:0000024	Relative plant height	false	
+TO:0001034	relative plant height	CO_321:0000024	Relative plant height	false	
+TO:0001034	relative plant height	CO_321:0000024	Relative plant height	true	
+TO:0001034	relative plant height	CO_321:0000024	Relative plant height	true	
+TO:0002617	fruit color	CO_321:0000037	Grain color	false	
+TO:0002617	fruit color	CO_321:0000037	Grain color	false	
+TO:0002617	fruit color	CO_321:0000037	Grain color	true	
+TO:0002617	fruit color	CO_321:0000037	Grain color	true	
+TO:0002617	fruit color	CO_321:0000037	Grain color	true	
+TO:0002617	fruit color	CO_321:0000037	Grain color	true	
+TO:0002617	fruit color	CO_321:0000037	Grain color	true	
+TO:0002617	fruit color	CO_321:0000037	Grain color	true	
+TO:0002617	fruit color	CO_321:0000037	Grain color	true	
+TO:0002617	fruit color	CO_321:0000037	Grain color	true	
+TO:0002617	fruit color	CO_321:0000037	Grain color	true	
+TO:0002617	fruit color	CO_321:0000037	Grain color	true	
+TO:0002617	fruit color	CO_321:0000037	Grain color	true	
+TO:0002617	fruit color	CO_321:0000037	Grain color	true	
+TO:0002617	fruit color	CO_321:0000037	Grain color	true	
+TO:0002617	fruit color	CO_321:0000037	Grain color	true	
+TO:0002617	fruit color	CO_321:0000037	Grain color	true	
+TO:0002617	fruit color	CO_321:0000037	Grain color	true	
+TO:0002617	fruit color	CO_321:0000037	Grain color	true	
+TO:0002617	fruit color	CO_321:0000037	Grain color	true	
+TO:0002617	fruit color	CO_321:0000037	Grain color	false	
+TO:0002617	fruit color	CO_321:0000037	Grain color	false	
+TO:0002617	fruit color	CO_321:0000037	Grain color	true	
+TO:0002617	fruit color	CO_321:0000037	Grain color	true	
+TO:0002617	fruit color	CO_321:0000037	Grain color	true	
+TO:0002617	fruit color	CO_321:0000037	Grain color	true	
+TO:0002617	fruit color	CO_321:0000037	Grain color	true	
+TO:0002617	fruit color	CO_321:0000037	Grain color	true	
+TO:0002617	fruit color	CO_321:0000037	Grain color	true	
+TO:0002617	fruit color	CO_321:0000037	Grain color	true	
+TO:0002617	fruit color	CO_321:0000037	Grain color	true	
+TO:0002617	fruit color	CO_321:0000037	Grain color	true	
+TO:0002617	fruit color	CO_321:0000037	Grain color	true	
+TO:0002617	fruit color	CO_321:0000037	Grain color	true	
+TO:0002617	fruit color	CO_321:0000037	Grain color	true	
+TO:0002617	fruit color	CO_321:0000037	Grain color	true	
+TO:0002617	fruit color	CO_321:0000037	Grain color	true	
+TO:0002617	fruit color	CO_321:0000037	Grain color	true	
+TO:0002617	fruit color	CO_321:0000037	Grain color	true	
+TO:0002617	fruit color	CO_321:0000037	Grain color	true	
+TO:0002627	fruit width	CO_321:0000039	Grain plumpness	true	
+TO:0002627	fruit width	CO_321:0000039	Grain plumpness	true	
+TO:0002627	fruit width	CO_321:0000039	Grain plumpness	true	
+TO:0002627	fruit width	CO_321:0000039	Grain plumpness	true	
+TO:0002691	peduncle length	CO_321:0000052	Peduncle length	true	
+TO:0002691	peduncle length	CO_321:0000052	Peduncle length	true	
+TO:0002691	peduncle length	CO_321:0000052	Peduncle length	false	
+TO:0002691	peduncle length	CO_321:0000052	Peduncle length	false	
+TO:0002691	peduncle length	CO_321:0000052	Peduncle length	false	
+TO:0002691	peduncle length	CO_321:0000052	Peduncle length	false	
+TO:0002691	peduncle length	CO_321:0000052	Peduncle length	true	
+TO:0002691	peduncle length	CO_321:0000052	Peduncle length	true	
+TO:0002734	awn presence	CO_321:0000027	Awnedness	true	
+TO:0002734	awn presence	CO_321:0000027	Awnedness	false	
+TO:0002756	shoot habit	CO_321:0000015	Growth habit	false	
+TO:0002756	shoot habit	CO_321:0000015	Growth habit	true	
+TO:0002756	shoot habit	CO_321:0000015	Growth habit	true	
+TO:0002756	shoot habit	CO_321:0000015	Growth habit	true	
+TO:0002756	shoot habit	CO_321:0000015	Growth habit	true	
+TO:0002756	shoot habit	CO_321:0000015	Growth habit	true	
+TO:0002756	shoot habit	CO_321:0000015	Growth habit	true	
+TO:0002756	shoot habit	CO_321:0000015	Growth habit	true	
+TO:0002756	shoot habit	CO_321:0000015	Growth habit	true	
+TO:0002756	shoot habit	CO_321:0000015	Growth habit	true	
+TO:0002759	grain number	CO_321:0000017	Grain number	false	
+TO:0002759	grain number	CO_321:0000017	Grain number	true	
+TO:0002759	grain number	CO_321:0000017	Grain number	true	
+TO:0002759	grain number	CO_321:0000017	Grain number	true	
+TO:0002759	grain number	CO_321:0000017	Grain number	true	
+TO:0002759	grain number	CO_321:0000017	Grain number	true	
+TO:0002759	grain number	CO_321:0000017	Grain number	true	
+TO:0002759	grain number	CO_321:0000017	Grain number	true	
+TO:0002759	grain number	CO_321:0000017	Grain number	true	
+TO:0002759	grain number	CO_321:0000017	Grain number	true	
+TO:0002768	spikelet length	CO_321:0000056	Spike length	false	
+TO:0002768	spikelet length	CO_321:0000056	Spike length	false	
+TO:0002768	spikelet length	CO_321:0000056	Spike length	true	
+TO:0002768	spikelet length	CO_321:0000056	Spike length	true	
+TO:0002768	spikelet length	CO_321:0000056	Spike length	true	
+TO:0002768	spikelet length	CO_321:0000056	Spike length	true	
+TO:0002768	spikelet length	CO_321:0000056	Spike length	true	
+TO:0002768	spikelet length	CO_321:0000056	Spike length	true	
+TO:0002768	spikelet length	CO_321:0000056	Spike length	true	
+TO:0002768	spikelet length	CO_321:0000056	Spike length	true	
+TO:0002768	spikelet length	CO_321:0000056	Spike length	true	
+TO:0002768	spikelet length	CO_321:0000056	Spike length	true	
+TO:0002768	spikelet length	CO_321:0000056	Spike length	true	
+TO:0002768	spikelet length	CO_321:0000056	Spike length	true	
+TO:0002768	spikelet length	CO_321:0000056	Spike length	true	
+TO:0002768	spikelet length	CO_321:0000056	Spike length	true	
+TO:0002768	spikelet length	CO_321:0000056	Spike length	true	
+TO:0002768	spikelet length	CO_321:0000056	Spike length	true	
+TO:0002768	spikelet length	CO_321:0000056	Spike length	true	
+TO:0002768	spikelet length	CO_321:0000056	Spike length	true	
+TO:0002768	spikelet length	CO_321:0000056	Spike length	false	
+TO:0002768	spikelet length	CO_321:0000056	Spike length	false	
+TO:0002768	spikelet length	CO_321:0000056	Spike length	true	
+TO:0002768	spikelet length	CO_321:0000056	Spike length	true	
+TO:0002768	spikelet length	CO_321:0000056	Spike length	true	
+TO:0002768	spikelet length	CO_321:0000056	Spike length	true	
+TO:0002768	spikelet length	CO_321:0000056	Spike length	true	
+TO:0002768	spikelet length	CO_321:0000056	Spike length	true	
+TO:0002768	spikelet length	CO_321:0000056	Spike length	true	
+TO:0002768	spikelet length	CO_321:0000056	Spike length	true	
+TO:0002768	spikelet length	CO_321:0000056	Spike length	true	
+TO:0002768	spikelet length	CO_321:0000056	Spike length	true	
+TO:0002768	spikelet length	CO_321:0000056	Spike length	true	
+TO:0002768	spikelet length	CO_321:0000056	Spike length	true	
+TO:0002768	spikelet length	CO_321:0000056	Spike length	true	
+TO:0002768	spikelet length	CO_321:0000056	Spike length	true	
+TO:0002768	spikelet length	CO_321:0000056	Spike length	true	
+TO:0002768	spikelet length	CO_321:0000056	Spike length	true	
+TO:0002768	spikelet length	CO_321:0000056	Spike length	true	
+TO:0002768	spikelet length	CO_321:0000056	Spike length	true	
+TO:0006001	salt tolerance	CO_321:0000132	Salinity tolerance	true	
+TO:0006001	salt tolerance	CO_321:0000132	Salinity tolerance	false	
+TO:0006001	salt tolerance	CO_321:0000132	Salinity tolerance	false	
+TO:0006001	salt tolerance	CO_321:0000132	Salinity tolerance	false	
+TO:0006001	salt tolerance	CO_321:0000132	Salinity tolerance	false	
+TO:0010001	percent germination	CO_321:0000011	Germination percentage	false	
+TO:0010001	percent germination	CO_321:0000011	Germination percentage	false	
+TO:0010001	percent germination	CO_321:0000011	Germination percentage	true	
+TO:0010001	percent germination	CO_321:0000011	Germination percentage	true	
+TO:0010001	percent germination	CO_321:0000011	Germination percentage	true	
+TO:0010001	percent germination	CO_321:0000011	Germination percentage	true	
+TO:0010001	percent germination	CO_321:0000011	Germination percentage	false	
+TO:0010001	percent germination	CO_321:0000011	Germination percentage	false	
+TO:0012001	leaf area index	CO_321:0000184	Leaf area index	false	
+TO:0012001	leaf area index	CO_321:0000184	Leaf area index	false	
+TO:0012001	leaf area index	CO_321:0000184	Leaf area index	true	
+TO:0012001	leaf area index	CO_321:0000184	Leaf area index	true	
+TO:0012001	leaf area index	CO_321:0000184	Leaf area index	true	
+TO:0012001	leaf area index	CO_321:0000184	Leaf area index	true	
+TO:0012001	leaf area index	CO_321:0000184	Leaf area index	true	
+TO:0012001	leaf area index	CO_321:0000184	Leaf area index	true	
+TO:0012001	leaf area index	CO_321:0000184	Leaf area index	true	
+TO:0012001	leaf area index	CO_321:0000184	Leaf area index	true	
+TO:0012001	leaf area index	CO_321:0000184	Leaf area index	true	
+TO:0012001	leaf area index	CO_321:0000184	Leaf area index	true	
+TO:0012001	leaf area index	CO_321:0000184	Leaf area index	true	
+TO:0012001	leaf area index	CO_321:0000184	Leaf area index	true	
+TO:0012001	leaf area index	CO_321:0000184	Leaf area index	true	
+TO:0012001	leaf area index	CO_321:0000184	Leaf area index	true	
+TO:0012001	leaf area index	CO_321:0000184	Leaf area index	true	
+TO:0012001	leaf area index	CO_321:0000184	Leaf area index	true	
+TO:0012001	leaf area index	CO_321:0000184	Leaf area index	true	
+TO:0012001	leaf area index	CO_321:0000184	Leaf area index	true	
+TO:0012001	leaf area index	CO_321:0000184	Leaf area index	false	
+TO:0012001	leaf area index	CO_321:0000184	Leaf area index	false	
+TO:0012001	leaf area index	CO_321:0000184	Leaf area index	true	
+TO:0012001	leaf area index	CO_321:0000184	Leaf area index	true	
+TO:0012001	leaf area index	CO_321:0000184	Leaf area index	true	
+TO:0012001	leaf area index	CO_321:0000184	Leaf area index	true	
+TO:0012001	leaf area index	CO_321:0000184	Leaf area index	true	
+TO:0012001	leaf area index	CO_321:0000184	Leaf area index	true	
+TO:0012001	leaf area index	CO_321:0000184	Leaf area index	true	
+TO:0012001	leaf area index	CO_321:0000184	Leaf area index	true	
+TO:0012001	leaf area index	CO_321:0000184	Leaf area index	true	
+TO:0012001	leaf area index	CO_321:0000184	Leaf area index	true	
+TO:0012001	leaf area index	CO_321:0000184	Leaf area index	true	
+TO:0012001	leaf area index	CO_321:0000184	Leaf area index	true	
+TO:0012001	leaf area index	CO_321:0000184	Leaf area index	true	
+TO:0012001	leaf area index	CO_321:0000184	Leaf area index	true	
+TO:0012001	leaf area index	CO_321:0000184	Leaf area index	true	
+TO:0012001	leaf area index	CO_321:0000184	Leaf area index	true	
+TO:0012001	leaf area index	CO_321:0000184	Leaf area index	true	
+TO:0012001	leaf area index	CO_321:0000184	Leaf area index	true	
+TO:0020033	glume length	CO_321:0000032	Glume length	false	
+TO:0020033	glume length	CO_321:0000032	Glume length	true	
+TO:0020033	glume length	CO_321:0000032	Glume length	true	
+TO:0020033	glume length	CO_321:0000032	Glume length	true	
+TO:0020033	glume length	CO_321:0000032	Glume length	true	
+TO:0020033	glume length	CO_321:0000032	Glume length	true	
+TO:0020033	glume length	CO_321:0000032	Glume length	true	
+TO:0020033	glume length	CO_321:0000032	Glume length	true	
+TO:0020033	glume length	CO_321:0000032	Glume length	true	
+TO:0020033	glume length	CO_321:0000032	Glume length	true	
+TO:0020034	glume width	CO_321:0000036	Glume width	false	
+TO:0020034	glume width	CO_321:0000036	Glume width	true	
+TO:0020034	glume width	CO_321:0000036	Glume width	true	
+TO:0020034	glume width	CO_321:0000036	Glume width	true	
+TO:0020034	glume width	CO_321:0000036	Glume width	true	
+TO:0020034	glume width	CO_321:0000036	Glume width	true	
+TO:0020034	glume width	CO_321:0000036	Glume width	true	
+TO:0020034	glume width	CO_321:0000036	Glume width	true	
+TO:0020034	glume width	CO_321:0000036	Glume width	true	
+TO:0020034	glume width	CO_321:0000036	Glume width	true	
+TO:0020035	glume pubescence density	CO_321:0000033	Glume pubescence density	true	
+TO:0020035	glume pubescence density	CO_321:0000033	Glume pubescence density	true	
+TO:0020035	glume pubescence density	CO_321:0000033	Glume pubescence density	false	
+TO:0020035	glume pubescence density	CO_321:0000033	Glume pubescence density	false	
+TO:0020035	glume pubescence density	CO_321:0000033	Glume pubescence density	true	
+TO:0020035	glume pubescence density	CO_321:0000033	Glume pubescence density	true	
+TO:0020035	glume pubescence density	CO_321:0000033	Glume pubescence density	false	
+TO:0020035	glume pubescence density	CO_321:0000033	Glume pubescence density	false	
+TO:0020037	glume pubescence length	CO_321:0000034	Glume pubescence length	true	
+TO:0020037	glume pubescence length	CO_321:0000034	Glume pubescence length	true	
+TO:0020037	glume pubescence length	CO_321:0000034	Glume pubescence length	false	
+TO:0020037	glume pubescence length	CO_321:0000034	Glume pubescence length	false	
+TO:0020037	glume pubescence length	CO_321:0000034	Glume pubescence length	false	
+TO:0020037	glume pubescence length	CO_321:0000034	Glume pubescence length	false	
+TO:0020037	glume pubescence length	CO_321:0000034	Glume pubescence length	true	
+TO:0020037	glume pubescence length	CO_321:0000034	Glume pubescence length	true	
+TO:0020051	barley leaf scald disease resistance	CO_321:0000171	Barley scald	false	
+TO:0020051	barley leaf scald disease resistance	CO_321:0000171	Barley scald	true	
+TO:0020051	barley leaf scald disease resistance	CO_321:0000171	Barley scald	true	
+TO:0020051	barley leaf scald disease resistance	CO_321:0000171	Barley scald	true	
+TO:0020051	barley leaf scald disease resistance	CO_321:0000171	Barley scald	true	
+TO:0020051	barley leaf scald disease resistance	CO_321:0000171	Barley scald	true	
+TO:0020051	barley leaf scald disease resistance	CO_321:0000171	Barley scald	true	
+TO:0020051	barley leaf scald disease resistance	CO_321:0000171	Barley scald	true	
+TO:0020051	barley leaf scald disease resistance	CO_321:0000171	Barley scald	true	
+TO:0020051	barley leaf scald disease resistance	CO_321:0000171	Barley scald	true	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	false	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	false	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	false	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	true	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	true	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	true	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	true	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	true	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	true	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	true	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	true	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	true	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	true	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	true	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	true	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	true	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	true	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	true	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	true	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	true	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	true	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	true	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	true	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	true	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	true	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	true	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	true	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	true	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	true	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	true	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	false	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	false	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	false	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	true	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	true	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	true	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	true	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	true	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	true	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	true	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	true	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	true	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	true	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	true	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	true	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	true	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	true	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	true	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	true	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	true	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	true	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	true	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	true	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	true	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	true	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	true	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	true	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	true	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	true	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	true	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	false	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	false	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	false	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	true	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	true	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	true	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	true	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	true	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	true	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	true	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	true	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	true	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	true	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	true	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	true	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	true	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	true	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	true	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	true	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	true	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	true	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	true	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	true	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	true	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	true	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	true	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	true	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	true	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	true	
+TO:0020052	barley spot blotch disease resistance	CO_321:0000116	Spot blotch	true	
+TO:0020054	barley stripe rust disease resistance	CO_321:0000129	Stripe rust severity	false	
+TO:0020054	barley stripe rust disease resistance	CO_321:0000129	Stripe rust severity	false	
+TO:0020054	barley stripe rust disease resistance	CO_321:0000129	Stripe rust severity	true	
+TO:0020054	barley stripe rust disease resistance	CO_321:0000129	Stripe rust severity	true	
+TO:0020054	barley stripe rust disease resistance	CO_321:0000129	Stripe rust severity	true	
+TO:0020054	barley stripe rust disease resistance	CO_321:0000129	Stripe rust severity	true	
+TO:0020054	barley stripe rust disease resistance	CO_321:0000129	Stripe rust severity	true	
+TO:0020054	barley stripe rust disease resistance	CO_321:0000129	Stripe rust severity	true	
+TO:0020054	barley stripe rust disease resistance	CO_321:0000129	Stripe rust severity	true	
+TO:0020054	barley stripe rust disease resistance	CO_321:0000129	Stripe rust severity	true	
+TO:0020054	barley stripe rust disease resistance	CO_321:0000129	Stripe rust severity	true	
+TO:0020054	barley stripe rust disease resistance	CO_321:0000129	Stripe rust severity	true	
+TO:0020054	barley stripe rust disease resistance	CO_321:0000129	Stripe rust severity	true	
+TO:0020054	barley stripe rust disease resistance	CO_321:0000129	Stripe rust severity	true	
+TO:0020054	barley stripe rust disease resistance	CO_321:0000129	Stripe rust severity	true	
+TO:0020054	barley stripe rust disease resistance	CO_321:0000129	Stripe rust severity	true	
+TO:0020054	barley stripe rust disease resistance	CO_321:0000129	Stripe rust severity	true	
+TO:0020054	barley stripe rust disease resistance	CO_321:0000129	Stripe rust severity	true	
+TO:0020054	barley stripe rust disease resistance	CO_321:0000129	Stripe rust severity	true	
+TO:0020054	barley stripe rust disease resistance	CO_321:0000129	Stripe rust severity	true	
+TO:0020054	barley stripe rust disease resistance	CO_321:0000129	Stripe rust severity	false	
+TO:0020054	barley stripe rust disease resistance	CO_321:0000129	Stripe rust severity	false	
+TO:0020054	barley stripe rust disease resistance	CO_321:0000129	Stripe rust severity	true	
+TO:0020054	barley stripe rust disease resistance	CO_321:0000129	Stripe rust severity	true	
+TO:0020054	barley stripe rust disease resistance	CO_321:0000129	Stripe rust severity	true	
+TO:0020054	barley stripe rust disease resistance	CO_321:0000129	Stripe rust severity	true	
+TO:0020054	barley stripe rust disease resistance	CO_321:0000129	Stripe rust severity	true	
+TO:0020054	barley stripe rust disease resistance	CO_321:0000129	Stripe rust severity	true	
+TO:0020054	barley stripe rust disease resistance	CO_321:0000129	Stripe rust severity	true	
+TO:0020054	barley stripe rust disease resistance	CO_321:0000129	Stripe rust severity	true	
+TO:0020054	barley stripe rust disease resistance	CO_321:0000129	Stripe rust severity	true	
+TO:0020054	barley stripe rust disease resistance	CO_321:0000129	Stripe rust severity	true	
+TO:0020054	barley stripe rust disease resistance	CO_321:0000129	Stripe rust severity	true	
+TO:0020054	barley stripe rust disease resistance	CO_321:0000129	Stripe rust severity	true	
+TO:0020054	barley stripe rust disease resistance	CO_321:0000129	Stripe rust severity	true	
+TO:0020054	barley stripe rust disease resistance	CO_321:0000129	Stripe rust severity	true	
+TO:0020054	barley stripe rust disease resistance	CO_321:0000129	Stripe rust severity	true	
+TO:0020054	barley stripe rust disease resistance	CO_321:0000129	Stripe rust severity	true	
+TO:0020054	barley stripe rust disease resistance	CO_321:0000129	Stripe rust severity	true	
+TO:0020054	barley stripe rust disease resistance	CO_321:0000129	Stripe rust severity	true	
+TO:0020067	barley yellow dwarf virus disease resistance	CO_321:0000096	Barley yellow dwarf	false	
+TO:0020067	barley yellow dwarf virus disease resistance	CO_321:0000096	Barley yellow dwarf	true	
+TO:0020067	barley yellow dwarf virus disease resistance	CO_321:0000096	Barley yellow dwarf	true	
+TO:0020067	barley yellow dwarf virus disease resistance	CO_321:0000096	Barley yellow dwarf	true	
+TO:0020067	barley yellow dwarf virus disease resistance	CO_321:0000096	Barley yellow dwarf	true	
+TO:0020067	barley yellow dwarf virus disease resistance	CO_321:0000096	Barley yellow dwarf	true	
+TO:0020067	barley yellow dwarf virus disease resistance	CO_321:0000096	Barley yellow dwarf	true	
+TO:0020067	barley yellow dwarf virus disease resistance	CO_321:0000096	Barley yellow dwarf	true	
+TO:0020067	barley yellow dwarf virus disease resistance	CO_321:0000096	Barley yellow dwarf	true	
+TO:0020067	barley yellow dwarf virus disease resistance	CO_321:0000096	Barley yellow dwarf	true	
+TO:0020089	iron content	CO_321:0000222	Iron content	false	
+TO:0020089	iron content	CO_321:0000222	Iron content	false	
+TO:0020089	iron content	CO_321:0000222	Iron content	true	
+TO:0020089	iron content	CO_321:0000222	Iron content	true	
+TO:0020089	iron content	CO_321:0000222	Iron content	true	
+TO:0020089	iron content	CO_321:0000222	Iron content	true	
+TO:0020089	iron content	CO_321:0000222	Iron content	true	
+TO:0020089	iron content	CO_321:0000222	Iron content	true	
+TO:0020089	iron content	CO_321:0000222	Iron content	true	
+TO:0020089	iron content	CO_321:0000222	Iron content	true	
+TO:0020089	iron content	CO_321:0000222	Iron content	true	
+TO:0020089	iron content	CO_321:0000222	Iron content	true	
+TO:0020089	iron content	CO_321:0000222	Iron content	true	
+TO:0020089	iron content	CO_321:0000222	Iron content	true	
+TO:0020089	iron content	CO_321:0000222	Iron content	true	
+TO:0020089	iron content	CO_321:0000222	Iron content	true	
+TO:0020089	iron content	CO_321:0000222	Iron content	true	
+TO:0020089	iron content	CO_321:0000222	Iron content	true	
+TO:0020089	iron content	CO_321:0000222	Iron content	true	
+TO:0020089	iron content	CO_321:0000222	Iron content	true	
+TO:0020089	iron content	CO_321:0000222	Iron content	false	
+TO:0020089	iron content	CO_321:0000222	Iron content	false	
+TO:0020089	iron content	CO_321:0000222	Iron content	true	
+TO:0020089	iron content	CO_321:0000222	Iron content	true	
+TO:0020089	iron content	CO_321:0000222	Iron content	true	
+TO:0020089	iron content	CO_321:0000222	Iron content	true	
+TO:0020089	iron content	CO_321:0000222	Iron content	true	
+TO:0020089	iron content	CO_321:0000222	Iron content	true	
+TO:0020089	iron content	CO_321:0000222	Iron content	true	
+TO:0020089	iron content	CO_321:0000222	Iron content	true	
+TO:0020089	iron content	CO_321:0000222	Iron content	true	
+TO:0020089	iron content	CO_321:0000222	Iron content	true	
+TO:0020089	iron content	CO_321:0000222	Iron content	true	
+TO:0020089	iron content	CO_321:0000222	Iron content	true	
+TO:0020089	iron content	CO_321:0000222	Iron content	true	
+TO:0020089	iron content	CO_321:0000222	Iron content	true	
+TO:0020089	iron content	CO_321:0000222	Iron content	true	
+TO:0020089	iron content	CO_321:0000222	Iron content	true	
+TO:0020089	iron content	CO_321:0000222	Iron content	true	
+TO:0020089	iron content	CO_321:0000222	Iron content	true	
+TO:0020090	zinc content	CO_321:0000224	Zinc content	false	
+TO:0020090	zinc content	CO_321:0000224	Zinc content	false	
+TO:0020090	zinc content	CO_321:0000224	Zinc content	true	
+TO:0020090	zinc content	CO_321:0000224	Zinc content	true	
+TO:0020090	zinc content	CO_321:0000224	Zinc content	true	
+TO:0020090	zinc content	CO_321:0000224	Zinc content	true	
+TO:0020090	zinc content	CO_321:0000224	Zinc content	true	
+TO:0020090	zinc content	CO_321:0000224	Zinc content	true	
+TO:0020090	zinc content	CO_321:0000224	Zinc content	true	
+TO:0020090	zinc content	CO_321:0000224	Zinc content	true	
+TO:0020090	zinc content	CO_321:0000224	Zinc content	true	
+TO:0020090	zinc content	CO_321:0000224	Zinc content	true	
+TO:0020090	zinc content	CO_321:0000224	Zinc content	true	
+TO:0020090	zinc content	CO_321:0000224	Zinc content	true	
+TO:0020090	zinc content	CO_321:0000224	Zinc content	true	
+TO:0020090	zinc content	CO_321:0000224	Zinc content	true	
+TO:0020090	zinc content	CO_321:0000224	Zinc content	true	
+TO:0020090	zinc content	CO_321:0000224	Zinc content	true	
+TO:0020090	zinc content	CO_321:0000224	Zinc content	true	
+TO:0020090	zinc content	CO_321:0000224	Zinc content	true	
+TO:0020090	zinc content	CO_321:0000224	Zinc content	false	
+TO:0020090	zinc content	CO_321:0000224	Zinc content	false	
+TO:0020090	zinc content	CO_321:0000224	Zinc content	true	
+TO:0020090	zinc content	CO_321:0000224	Zinc content	true	
+TO:0020090	zinc content	CO_321:0000224	Zinc content	true	
+TO:0020090	zinc content	CO_321:0000224	Zinc content	true	
+TO:0020090	zinc content	CO_321:0000224	Zinc content	true	
+TO:0020090	zinc content	CO_321:0000224	Zinc content	true	
+TO:0020090	zinc content	CO_321:0000224	Zinc content	true	
+TO:0020090	zinc content	CO_321:0000224	Zinc content	true	
+TO:0020090	zinc content	CO_321:0000224	Zinc content	true	
+TO:0020090	zinc content	CO_321:0000224	Zinc content	true	
+TO:0020090	zinc content	CO_321:0000224	Zinc content	true	
+TO:0020090	zinc content	CO_321:0000224	Zinc content	true	
+TO:0020090	zinc content	CO_321:0000224	Zinc content	true	
+TO:0020090	zinc content	CO_321:0000224	Zinc content	true	
+TO:0020090	zinc content	CO_321:0000224	Zinc content	true	
+TO:0020090	zinc content	CO_321:0000224	Zinc content	true	
+TO:0020090	zinc content	CO_321:0000224	Zinc content	true	
+TO:0020090	zinc content	CO_321:0000224	Zinc content	true	

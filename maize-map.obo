@@ -1,0 +1,236 @@
+ontology: map
+
+[Term]
+id: TO:0000157 ! canopy temperature
+xref: CO_322:0000142 ! Canopy temperature
+!! Score: 0.8836
+
+[Term]
+id: TO:0000707 ! pericarp color
+xref: CO_322:0000192 ! Pericarp color
+!! Score: 0.8836
+
+[Term]
+id: TO:0000056 ! stem color
+xref: CO_322:0000162 ! Stem color
+!! Score: 0.8836
+
+[Term]
+id: TO:0006002 ! proline content
+xref: CO_322:0000119 ! Proline content
+!! Score: 0.8836
+
+[Term]
+id: TO:0000164 ! stress trait
+xref: CO_322:0000042 ! Stress trait
+!! Score: 0.8836
+
+[Term]
+id: TO:0000495 ! chlorophyll content
+xref: CO_322:0000003 ! Chlorophyll content
+!! Score: 0.8836
+
+[Term]
+id: TO:0000179 ! biotic stress trait
+xref: CO_322:0000044 ! Biotic stress trait
+!! Score: 0.8836
+
+[Term]
+id: TO:0000057 ! grain moisture
+xref: CO_322:0000033 ! Grain moisture
+!! Score: 0.8836
+
+[Term]
+id: TO:0000168 ! abiotic stress trait
+xref: CO_322:0000043 ! Abiotic stress trait
+!! Score: 0.8836
+
+[Term]
+id: TO:0000597 ! quality trait
+xref: CO_322:0000029 ! Quality trait
+!! Score: 0.8836
+
+[Term]
+id: TO:0000207 ! plant height
+xref: CO_322:0000007 ! Plant height
+!! Score: 0.8836
+
+[Term]
+id: TO:0000135 ! leaf length
+xref: CO_322:0000025 ! Leaf length
+!! Score: 0.8836
+
+[Term]
+id: TO:0000370 ! leaf width
+xref: CO_322:0000026 ! Leaf width
+!! Score: 0.8836
+
+[Term]
+id: TO:0000359 ! female flowering
+xref: CO_322:0000004 ! Female flowering
+!! Score: 0.8836
+
+[Term]
+id: TO:0000469 ! days to maturity
+xref: CO_322:0000032 ! Days to maturity
+!! Score: 0.8836
+
+[Term]
+id: TO:0000818 ! inflorescence bract cover
+xref: CO_322:0000149 ! Husk cover
+!! Score: 0.8836
+
+[Term]
+id: TO:0000463 ! anthesis silking interval
+xref: CO_322:0000001 ! Anthesis silking interval
+!! Score: 0.8836
+
+[Term]
+id: TO:0000085 ! leaf rolling
+xref: CO_322:0000160 ! Leaf rolling
+!! Score: 0.8836
+
+[Term]
+id: TO:0000737 ! plant aspect
+xref: CO_322:0000011 ! Plant aspect
+!! Score: 0.8836
+
+[Term]
+id: TO:0000522 ! stomatal conductance
+xref: CO_322:0000134 ! Stomatal conductance
+!! Score: 0.8836
+
+[Term]
+id: TO:0000433 ! ear diameter
+xref: CO_322:0000170 ! Ear diameter
+!! Score: 0.8836
+
+[Term]
+id: TO:0000365 ! male flowering
+xref: CO_322:0000009 ! Male flowering
+!! Score: 0.8836
+
+[Term]
+id: TO:0000345 ! seed viability
+xref: CO_322:0000040 ! Seed viability
+!! Score: 0.8836
+
+[Term]
+id: TO:0000598 ! protein content
+xref: CO_322:0000121 ! Protein content
+!! Score: 0.8836
+
+[Term]
+id: TO:0000487 ! endosperm color
+xref: CO_322:0000186 ! Endosperm color
+!! Score: 0.8836
+
+[Term]
+id: TO:0000504 ! leaf temperature
+xref: CO_322:0000135 ! Leaf temperature
+!! Score: 0.8836
+
+[Term]
+id: TO:0000333 ! sugar content
+xref: CO_322:0000114 ! Sugar content
+!! Score: 0.8836
+
+[Term]
+id: TO:0002667 ! abscisic acid content
+xref: CO_322:0000113 ! Abscisic acid content
+!! Score: 0.8836
+
+[Term]
+id: TO:0000328 ! sucrose content
+xref: CO_322:0000120 ! Sucrose content
+!! Score: 0.8836
+
+[Term]
+id: TO:0000431 ! ear length
+xref: CO_322:0000015 ! Ear length
+!! Score: 0.8836
+
+[Term]
+id: TO:0000300 ! glucose content
+xref: CO_322:0000115 ! Glucose content
+!! Score: 0.8836
+
+[Term]
+id: TO:0002759 ! grain number
+xref: CO_322:0000010 ! Kernel number
+!! Score: 0.8742
+
+[Term]
+id: TO:0002627 ! fruit width
+xref: CO_322:0000175 ! Kernel width
+!! Score: 0.846
+
+[Term]
+id: TO:0000443 ! ear infructescence number
+xref: CO_322:0000021 ! Ear number per plant
+!! Score: 0.8366
+
+[Term]
+id: TO:0000734 ! grain length
+xref: CO_322:0000172 ! Kernel length
+!! Score: 0.8366
+
+[Term]
+id: TO:0000148 ! viral disease resistance
+xref: CO_322:0000047 ! Viral disease
+!! Score: 0.7298
+
+[Term]
+id: TO:0000938 ! kernel number per row
+xref: CO_322:0000167 ! Kernel row number
+!! Score: 0.7292
+
+[Term]
+id: TO:0000439 ! fungal disease resistance
+xref: CO_322:0000046 ! Fungal disease
+!! Score: 0.7217
+
+[Term]
+id: TO:0000315 ! bacterial disease resistance
+xref: CO_322:0000045 ! Bacterial disease
+!! Score: 0.7094
+
+[Term]
+id: TO:0000814 ! tassel inflorescence type
+xref: CO_322:0000164 ! Tassel type
+!! Score: 0.6935
+
+[Term]
+id: TO:0020010 ! sorghum downy mildew resistance
+xref: CO_322:0000080 ! Sorghum downy mildew
+!! Score: 0.6775
+
+[Term]
+id: TO:0000261 ! insect damage resistance
+xref: CO_322:0000048 ! Insect damage
+!! Score: 0.6735
+
+[Term]
+id: TO:0000933 ! plant phenological trait
+xref: CO_322:0000023 ! Phenological trait
+!! Score: 0.6735
+
+[Term]
+id: TO:0002728 ! fruit quality trait
+xref: CO_322:0000111 ! Whole-grain zinc content
+!! Score: 0.6528
+
+[Term]
+id: TO:0002653 ! endosperm storage protein content
+xref: CO_322:0000123 ! Endosperm protein content
+!! Score: 0.6398
+
+[Term]
+id: TO:0020093 ! nitrogen content
+xref: CO_322:0000138 ! Kernel nitrogen content
+!! Score: 0.6347
+
+[Term]
+id: TO:0000919 ! kernel weight
+xref: CO_322:0000133 ! 100 kernel weight
+!! Score: 0.6246

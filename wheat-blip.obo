@@ -1,0 +1,477 @@
+[Term]
+id: TO:0020051 ! barley leaf scald disease resistance
+xref: CO_321:0000171 ! Barley scald
+
+[Term]
+id: TO:0020054 ! barley stripe rust disease resistance
+xref: CO_321:0000129 ! Stripe rust severity
+
+[Term]
+id: TO:0020035 ! glume pubescence density
+xref: CO_321:0000033 ! Glume pubescence density
+
+[Term]
+id: TO:0000634 ! node number
+xref: CO_321:0000051 ! Node number
+
+[Term]
+id: TO:0000128 ! harvest index
+xref: CO_321:0000123 ! Harvest index
+
+[Term]
+id: CO_321:0000086 ! Armyworm damage
+xref: TO:0000273 ! armyworm resistance
+
+[Term]
+id: TO:0000566 ! stomatal frequency
+xref: CO_321:0000143 ! Stomatal frequency
+
+[Term]
+id: TO:0000258 ! leaf thickness
+xref: CO_321:0000047 ! Leaf thickness
+
+[Term]
+id: CO_321:0000077 ! Biotic stress trait
+xref: TO:0000179 ! biotic stress trait
+
+[Term]
+id: TO:0012001 ! leaf area index
+xref: CO_321:0000184 ! Leaf area index
+
+[Term]
+id: CO_321:0000166 ! Spikes number
+xref: TO:0000152 ! panicle number
+
+[Term]
+id: TO:0020052 ! barley spot blotch disease resistance
+xref: CO_321:0000116 ! Spot blotch
+
+[Term]
+id: CO_321:0000030 ! Days to flag leaf emergence
+xref: TO:0001008 ! days to flag leaf emergence
+
+[Term]
+id: TO:0000179 ! biotic stress trait
+xref: CO_321:0000077 ! Biotic stress trait
+
+[Term]
+id: TO:0000221 ! glume color
+xref: CO_321:0000031 ! Glume color
+
+[Term]
+id: CO_321:0000087 ! Bird damage
+xref: TO:0000260 ! bird damage resistance
+
+[Term]
+id: TO:0001007 ! coleoptile length
+xref: CO_321:0000029 ! Coleoptile length
+
+[Term]
+id: CO_321:0000007 ! Days to heading
+xref: TO:0000137 ! days to heading
+
+[Term]
+id: CO_321:0000062 ! Stem thickness
+xref: TO:0000339 ! stem thickness
+
+[Term]
+id: CO_321:0000056 ! Spike length
+xref: TO:0002768 ! spikelet length
+
+[Term]
+id: TO:0000523 ! stomatal resistance
+xref: CO_321:0000063 ! Stomatal resistance
+
+[Term]
+id: TO:0000207 ! plant height
+xref: CO_321:0000020 ! Plant height
+
+[Term]
+id: CO_321:0000184 ! Leaf area index
+xref: TO:0012001 ! leaf area index
+
+[Term]
+id: TO:0000382 ! 1000-seed weight
+xref: CO_321:0000025 ! 1000-grain weight
+
+[Term]
+id: TO:0000296 ! vegetative vigor
+xref: CO_321:0000009 ! Early vigour
+
+[Term]
+id: CO_321:0000171 ! Barley scald
+xref: TO:0020051 ! barley leaf scald disease resistance
+
+[Term]
+id: CO_321:0000063 ! Stomatal resistance
+xref: TO:0000523 ! stomatal resistance
+
+[Term]
+id: CO_321:0000008 ! Days to maturity
+xref: TO:0000469 ! days to maturity
+
+[Term]
+id: CO_321:0000224 ! Zinc content
+xref: TO:0020090 ! zinc content
+
+[Term]
+id: CO_321:0000012 ! Grain moisture
+xref: TO:0000057 ! grain moisture
+
+[Term]
+id: TO:0000157 ! canopy temperature
+xref: CO_321:0000193 ! Canopy temperature
+
+[Term]
+id: TO:0000135 ! leaf length
+xref: CO_321:0000044 ! Leaf length
+
+[Term]
+id: TO:0000576 ! stem length
+xref: CO_321:0000060 ! Stem height
+
+[Term]
+id: TO:0000707 ! pericarp color
+xref: CO_321:0000037 ! Grain color
+
+[Term]
+id: TO:0000164 ! stress trait
+xref: CO_321:0000004 ! Stress trait
+
+[Term]
+id: CO_321:0000176 ! Heat tolerance
+xref: TO:0000259 ! heat tolerance
+
+[Term]
+id: TO:0000057 ! grain moisture
+xref: CO_321:0000012 ! Grain moisture
+
+[Term]
+id: TO:0000303 ! cold tolerance
+xref: CO_321:0000080 ! Cold tolerance
+
+[Term]
+id: TO:0000273 ! armyworm resistance
+xref: CO_321:0000086 ! Armyworm damage
+
+[Term]
+id: CO_321:0000206 ! Simple ratio
+xref: TO:0000323 ! stem rot disease resistance
+
+[Term]
+id: CO_321:0000076 ! Abiotic stress trait
+xref: TO:0000168 ! abiotic stress trait
+
+[Term]
+id: TO:0000323 ! stem rot disease resistance
+xref: CO_321:0000206 ! Simple ratio
+
+[Term]
+id: CO_321:0000132 ! Salinity tolerance
+xref: TO:0006001 ! salt tolerance
+
+[Term]
+id: TO:0001034 ! relative plant height
+xref: CO_321:0000024 ! Relative plant height
+
+[Term]
+id: TO:0000522 ! stomatal conductance
+xref: CO_321:0000018 ! Stomatal conductance
+
+[Term]
+id: CO_321:0000096 ! Barley yellow dwarf
+xref: TO:0020067 ! barley yellow dwarf virus disease resistance
+
+[Term]
+id: CO_321:0000039 ! Grain plumpness
+xref: TO:0002627 ! fruit width
+
+[Term]
+id: TO:0000469 ! days to maturity
+xref: CO_321:0000008 ! Days to maturity
+
+[Term]
+id: TO:0000370 ! leaf width
+xref: CO_321:0000049 ! Leaf width
+
+[Term]
+id: CO_321:0000026 ! Awn length
+xref: TO:0000072 ! awn length
+
+[Term]
+id: TO:0002756 ! shoot habit
+xref: CO_321:0000015 ! Growth habit
+
+[Term]
+id: TO:0000495 ! chlorophyll content
+xref: CO_321:0000028 ! Chlorophyll content
+
+[Term]
+id: CO_321:0000060 ! Stem height
+xref: TO:0000576 ! stem length
+
+[Term]
+id: CO_321:0000040 ! Grain size
+xref: TO:0000397 ! grain size
+
+[Term]
+id: CO_321:0000048 ! Leaf glaucousness
+xref: TO:0000709 ! leaf gloss
+
+[Term]
+id: CO_321:0000031 ! Glume color
+xref: TO:0000221 ! glume color
+
+[Term]
+id: TO:0000137 ! days to heading
+xref: CO_321:0000007 ! Days to heading
+
+[Term]
+id: CO_321:0000159 ! Test weight
+xref: TO:0000612 ! grain density
+
+[Term]
+id: CO_321:0000017 ! Grain number
+xref: TO:0002759 ! grain number
+
+[Term]
+id: TO:0020034 ! glume width
+xref: CO_321:0000036 ! Glume width
+
+[Term]
+id: TO:0000612 ! grain density
+xref: CO_321:0000159 ! Test weight
+
+[Term]
+id: TO:0000072 ! awn length
+xref: CO_321:0000026 ! Awn length
+
+[Term]
+id: CO_321:0000193 ! Canopy temperature
+xref: TO:0000157 ! canopy temperature
+
+[Term]
+id: CO_321:0000036 ! Glume width
+xref: TO:0020034 ! glume width
+
+[Term]
+id: CO_321:0000047 ! Leaf thickness
+xref: TO:0000258 ! leaf thickness
+
+[Term]
+id: TO:0002734 ! awn presence
+xref: CO_321:0000027 ! Awnedness
+
+[Term]
+id: TO:0002691 ! peduncle length
+xref: CO_321:0000052 ! Peduncle length
+
+[Term]
+id: TO:0010001 ! percent germination
+xref: CO_321:0000011 ! Germination percentage
+
+[Term]
+id: TO:0002627 ! fruit width
+xref: CO_321:0000039 ! Grain plumpness
+
+[Term]
+id: CO_321:0000004 ! Stress trait
+xref: TO:0000164 ! stress trait
+
+[Term]
+id: CO_321:0000129 ! Stripe rust severity
+xref: TO:0020054 ! barley stripe rust disease resistance
+
+[Term]
+id: CO_321:0000011 ! Germination percentage
+xref: TO:0010001 ! percent germination
+
+[Term]
+id: CO_321:0000034 ! Glume pubescence length
+xref: TO:0020037 ! glume pubescence length
+
+[Term]
+id: TO:0000259 ! heat tolerance
+xref: CO_321:0000176 ! Heat tolerance
+
+[Term]
+id: TO:0000260 ! bird damage resistance
+xref: CO_321:0000087 ! Bird damage
+
+[Term]
+id: TO:0002617 ! fruit color
+xref: CO_321:0000037 ! Grain color
+
+[Term]
+id: CO_321:0000009 ! Early vigour
+xref: TO:0000296 ! vegetative vigor
+
+[Term]
+id: CO_321:0000116 ! Spot blotch
+xref: TO:0020052 ! barley spot blotch disease resistance
+
+[Term]
+id: CO_321:0000131 ! Drought tolerance
+xref: TO:0000276 ! drought tolerance
+
+[Term]
+id: CO_321:0000051 ! Node number
+xref: TO:0000634 ! node number
+
+[Term]
+id: TO:0006001 ! salt tolerance
+xref: CO_321:0000132 ! Salinity tolerance
+
+[Term]
+id: TO:0020089 ! iron content
+xref: CO_321:0000222 ! Iron content
+
+[Term]
+id: CO_321:0000143 ! Stomatal frequency
+xref: TO:0000566 ! stomatal frequency
+
+[Term]
+id: CO_321:0000044 ! Leaf length
+xref: TO:0000135 ! leaf length
+
+[Term]
+id: CO_321:0000058 ! Spikelets per spike
+xref: TO:0000040 ! panicle length
+
+[Term]
+id: CO_321:0000080 ! Cold tolerance
+xref: TO:0000303 ! cold tolerance
+
+[Term]
+id: CO_321:0000222 ! Iron content
+xref: TO:0020089 ! iron content
+
+[Term]
+id: TO:0020033 ! glume length
+xref: CO_321:0000032 ! Glume length
+
+[Term]
+id: TO:0001008 ! days to flag leaf emergence
+xref: CO_321:0000030 ! Days to flag leaf emergence
+
+[Term]
+id: TO:0000397 ! grain size
+xref: CO_321:0000040 ! Grain size
+
+[Term]
+id: CO_321:0000028 ! Chlorophyll content
+xref: TO:0000495 ! chlorophyll content
+
+[Term]
+id: CO_321:0000037 ! Grain color
+xref: TO:0000707 ! pericarp color
+xref: TO:0002617 ! fruit color
+
+[Term]
+id: CO_321:0000003 ! Quality trait
+xref: TO:0000597 ! quality trait
+
+[Term]
+id: TO:0000597 ! quality trait
+xref: CO_321:0000003 ! Quality trait
+
+[Term]
+id: TO:0000339 ! stem thickness
+xref: CO_321:0000062 ! Stem thickness
+
+[Term]
+id: CO_321:0000029 ! Coleoptile length
+xref: TO:0001007 ! coleoptile length
+
+[Term]
+id: CO_321:0000027 ! Awnedness
+xref: TO:0002734 ! awn presence
+
+[Term]
+id: TO:0000106 ! male sterility type
+xref: CO_321:0000431 ! s/m
+
+[Term]
+id: CO_321:0000033 ! Glume pubescence density
+xref: TO:0020035 ! glume pubescence density
+
+[Term]
+id: CO_321:0000052 ! Peduncle length
+xref: TO:0002691 ! peduncle length
+
+[Term]
+id: TO:0000040 ! panicle length
+xref: CO_321:0000058 ! Spikelets per spike
+
+[Term]
+id: CO_321:0000032 ! Glume length
+xref: TO:0020033 ! glume length
+
+[Term]
+id: CO_321:0000049 ! Leaf width
+xref: TO:0000370 ! leaf width
+
+[Term]
+id: CO_321:0000020 ! Plant height
+xref: TO:0000207 ! plant height
+
+[Term]
+id: TO:0020090 ! zinc content
+xref: CO_321:0000224 ! Zinc content
+
+[Term]
+id: TO:0000152 ! panicle number
+xref: CO_321:0000166 ! Spikes number
+
+[Term]
+id: CO_321:0000025 ! 1000-grain weight
+xref: TO:0000382 ! 1000-seed weight
+
+[Term]
+id: TO:0000276 ! drought tolerance
+xref: CO_321:0000131 ! Drought tolerance
+
+[Term]
+id: CO_321:0000015 ! Growth habit
+xref: TO:0002756 ! shoot habit
+
+[Term]
+id: TO:0020037 ! glume pubescence length
+xref: CO_321:0000034 ! Glume pubescence length
+
+[Term]
+id: TO:0002768 ! spikelet length
+xref: CO_321:0000056 ! Spike length
+
+[Term]
+id: TO:0000709 ! leaf gloss
+xref: CO_321:0000048 ! Leaf glaucousness
+
+[Term]
+id: CO_321:0000431 ! s/m
+xref: TO:0000106 ! male sterility type
+
+[Term]
+id: TO:0002759 ! grain number
+xref: CO_321:0000017 ! Grain number
+
+[Term]
+id: CO_321:0000024 ! Relative plant height
+xref: TO:0001034 ! relative plant height
+
+[Term]
+id: CO_321:0000018 ! Stomatal conductance
+xref: TO:0000522 ! stomatal conductance
+
+[Term]
+id: CO_321:0000123 ! Harvest index
+xref: TO:0000128 ! harvest index
+
+[Term]
+id: TO:0020067 ! barley yellow dwarf virus disease resistance
+xref: CO_321:0000096 ! Barley yellow dwarf
+
+[Term]
+id: TO:0000168 ! abiotic stress trait
+xref: CO_321:0000076 ! Abiotic stress trait
+

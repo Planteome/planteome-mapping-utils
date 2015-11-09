@@ -1,0 +1,64 @@
+SOY:0001979 ! Seed length to width ratio	SOY:0001600 ! Seed size	TO:0000411 ! seed length to width ratio	TO:0000391 ! seed size
+SOY:0001979 ! Seed length to width ratio	SOY:0001600 ! Seed size	TO:0000411 ! seed length to width ratio	TO:0000391 ! seed size
+SOY:0001979 ! Seed length to width ratio	SOY:0001600 ! Seed size	TO:0000411 ! seed length to width ratio	TO:0000391 ! seed size
+SOY:0001979 ! Seed length to width ratio	SOY:0001600 ! Seed size	TO:0000411 ! seed length to width ratio	TO:0000391 ! seed size
+TO:0001013 ! lateral root number	TO:0000084 ! root number	SOY:0001739 ! Lateral root number	SOY:0001891 ! Root number
+TO:0001013 ! lateral root number	TO:0000084 ! root number	SOY:0001739 ! Lateral root number	SOY:0001891 ! Root number
+TO:0001013 ! lateral root number	TO:0000084 ! root number	SOY:0001739 ! Lateral root number	SOY:0001891 ! Root number
+TO:0001013 ! lateral root number	TO:0000084 ! root number	SOY:0001739 ! Lateral root number	SOY:0001891 ! Root number
+SOY:0001313 ! Water Use Efficiency	SOY:0001701 ! Drought Tolerance	TO:0001017 ! water use efficiency	TO:0000276 ! drought tolerance
+SOY:0001313 ! Water Use Efficiency	SOY:0001701 ! Drought Tolerance	TO:0001017 ! water use efficiency	TO:0000276 ! drought tolerance
+SOY:0001313 ! Water Use Efficiency	SOY:0001701 ! Drought Tolerance	TO:0001017 ! water use efficiency	TO:0000276 ! drought tolerance
+SOY:0001313 ! Water Use Efficiency	SOY:0001701 ! Drought Tolerance	TO:0001017 ! water use efficiency	TO:0000276 ! drought tolerance
+TO:0000232 ! rice cytoplasmic male sterility	TO:0000106 ! male sterility type	SOY:0001344 ! Seed cysteine content	SOY:0001612 ! Male sterile
+TO:0000232 ! rice cytoplasmic male sterility	TO:0000106 ! male sterility type	SOY:0001344 ! Seed cysteine content	SOY:0001612 ! Male sterile
+TO:0000232 ! rice cytoplasmic male sterility	TO:0000106 ! male sterility type	SOY:0001344 ! Seed cysteine content	SOY:0001612 ! Male sterile
+TO:0000232 ! rice cytoplasmic male sterility	TO:0000106 ! male sterility type	SOY:0001344 ! Seed cysteine content	SOY:0001612 ! Male sterile
+TO:0000180 ! spikelet fertility	TO:0000657 ! spikelet anatomy and morphology trait	SOY:0001419 ! Seed Set	SOY:0001344 ! Seed cysteine content
+TO:0000180 ! spikelet fertility	TO:0000657 ! spikelet anatomy and morphology trait	SOY:0001419 ! Seed Set	SOY:0001344 ! Seed cysteine content
+TO:0000180 ! spikelet fertility	TO:0000657 ! spikelet anatomy and morphology trait	SOY:0001419 ! Seed Set	SOY:0001344 ! Seed cysteine content
+TO:0000180 ! spikelet fertility	TO:0000657 ! spikelet anatomy and morphology trait	SOY:0001419 ! Seed Set	SOY:0001344 ! Seed cysteine content
+SOY:0001803 ! Canopy wilt	SOY:0001701 ! Drought Tolerance	TO:0000085 ! leaf rolling	TO:0000276 ! drought tolerance
+SOY:0001803 ! Canopy wilt	SOY:0001701 ! Drought Tolerance	TO:0000085 ! leaf rolling	TO:0000276 ! drought tolerance
+SOY:0001803 ! Canopy wilt	SOY:0001701 ! Drought Tolerance	TO:0000085 ! leaf rolling	TO:0000276 ! drought tolerance
+SOY:0001803 ! Canopy wilt	SOY:0001701 ! Drought Tolerance	TO:0000085 ! leaf rolling	TO:0000276 ! drought tolerance
+TO:0000411 ! seed length to width ratio	TO:0000146 ! seed length	SOY:0001979 ! Seed length to width ratio	SOY:0001599 ! Seed length
+TO:0000411 ! seed length to width ratio	TO:0000146 ! seed length	SOY:0001979 ! Seed length to width ratio	SOY:0001599 ! Seed length
+TO:0000411 ! seed length to width ratio	TO:0000146 ! seed length	SOY:0001979 ! Seed length to width ratio	SOY:0001599 ! Seed length
+TO:0000411 ! seed length to width ratio	TO:0000146 ! seed length	SOY:0001979 ! Seed length to width ratio	SOY:0001599 ! Seed length
+SOY:0001855 ! Submergence survival rate	SOY:0001351 ! Flooding Tolerance	TO:0000524 ! submergence tolerance	TO:0000524 ! submergence tolerance
+SOY:0001855 ! Submergence survival rate	SOY:0001351 ! Flooding Tolerance	TO:0000524 ! submergence tolerance	TO:0000524 ! submergence tolerance
+SOY:0001855 ! Submergence survival rate	SOY:0001351 ! Flooding Tolerance	TO:0000524 ! submergence tolerance	TO:0000524 ! submergence tolerance
+SOY:0001855 ! Submergence survival rate	SOY:0001351 ! Flooding Tolerance	TO:0000524 ! submergence tolerance	TO:0000524 ! submergence tolerance
+TO:0000411 ! seed length to width ratio	TO:0000146 ! seed length	SOY:0001979 ! Seed length to width ratio	SOY:0001599 ! Seed length
+TO:0000411 ! seed length to width ratio	TO:0000146 ! seed length	SOY:0001979 ! Seed length to width ratio	SOY:0001599 ! Seed length
+TO:0000411 ! seed length to width ratio	TO:0000146 ! seed length	SOY:0001979 ! Seed length to width ratio	SOY:0001599 ! Seed length
+TO:0000411 ! seed length to width ratio	TO:0000146 ! seed length	SOY:0001979 ! Seed length to width ratio	SOY:0001599 ! Seed length
+TO:0000180 ! spikelet fertility	TO:0000657 ! spikelet anatomy and morphology trait	SOY:0001419 ! Seed Set	SOY:0001344 ! Seed cysteine content
+TO:0000180 ! spikelet fertility	TO:0000657 ! spikelet anatomy and morphology trait	SOY:0001419 ! Seed Set	SOY:0001344 ! Seed cysteine content
+TO:0000180 ! spikelet fertility	TO:0000657 ! spikelet anatomy and morphology trait	SOY:0001419 ! Seed Set	SOY:0001344 ! Seed cysteine content
+TO:0000180 ! spikelet fertility	TO:0000657 ! spikelet anatomy and morphology trait	SOY:0001419 ! Seed Set	SOY:0001344 ! Seed cysteine content
+SOY:0001803 ! Canopy wilt	SOY:0001701 ! Drought Tolerance	TO:0000085 ! leaf rolling	TO:0000276 ! drought tolerance
+SOY:0001803 ! Canopy wilt	SOY:0001701 ! Drought Tolerance	TO:0000085 ! leaf rolling	TO:0000276 ! drought tolerance
+SOY:0001803 ! Canopy wilt	SOY:0001701 ! Drought Tolerance	TO:0000085 ! leaf rolling	TO:0000276 ! drought tolerance
+SOY:0001803 ! Canopy wilt	SOY:0001701 ! Drought Tolerance	TO:0000085 ! leaf rolling	TO:0000276 ! drought tolerance
+SOY:0001313 ! Water Use Efficiency	SOY:0001701 ! Drought Tolerance	TO:0001017 ! water use efficiency	TO:0000276 ! drought tolerance
+SOY:0001313 ! Water Use Efficiency	SOY:0001701 ! Drought Tolerance	TO:0001017 ! water use efficiency	TO:0000276 ! drought tolerance
+SOY:0001313 ! Water Use Efficiency	SOY:0001701 ! Drought Tolerance	TO:0001017 ! water use efficiency	TO:0000276 ! drought tolerance
+SOY:0001313 ! Water Use Efficiency	SOY:0001701 ! Drought Tolerance	TO:0001017 ! water use efficiency	TO:0000276 ! drought tolerance
+TO:0000232 ! rice cytoplasmic male sterility	TO:0000106 ! male sterility type	SOY:0001344 ! Seed cysteine content	SOY:0001612 ! Male sterile
+TO:0000232 ! rice cytoplasmic male sterility	TO:0000106 ! male sterility type	SOY:0001344 ! Seed cysteine content	SOY:0001612 ! Male sterile
+TO:0000232 ! rice cytoplasmic male sterility	TO:0000106 ! male sterility type	SOY:0001344 ! Seed cysteine content	SOY:0001612 ! Male sterile
+TO:0000232 ! rice cytoplasmic male sterility	TO:0000106 ! male sterility type	SOY:0001344 ! Seed cysteine content	SOY:0001612 ! Male sterile
+SOY:0001855 ! Submergence survival rate	SOY:0001351 ! Flooding Tolerance	TO:0000524 ! submergence tolerance	TO:0000524 ! submergence tolerance
+SOY:0001855 ! Submergence survival rate	SOY:0001351 ! Flooding Tolerance	TO:0000524 ! submergence tolerance	TO:0000524 ! submergence tolerance
+SOY:0001855 ! Submergence survival rate	SOY:0001351 ! Flooding Tolerance	TO:0000524 ! submergence tolerance	TO:0000524 ! submergence tolerance
+SOY:0001855 ! Submergence survival rate	SOY:0001351 ! Flooding Tolerance	TO:0000524 ! submergence tolerance	TO:0000524 ! submergence tolerance
+TO:0001013 ! lateral root number	TO:0000084 ! root number	SOY:0001739 ! Lateral root number	SOY:0001891 ! Root number
+TO:0001013 ! lateral root number	TO:0000084 ! root number	SOY:0001739 ! Lateral root number	SOY:0001891 ! Root number
+TO:0001013 ! lateral root number	TO:0000084 ! root number	SOY:0001739 ! Lateral root number	SOY:0001891 ! Root number
+TO:0001013 ! lateral root number	TO:0000084 ! root number	SOY:0001739 ! Lateral root number	SOY:0001891 ! Root number
+SOY:0001979 ! Seed length to width ratio	SOY:0001600 ! Seed size	TO:0000411 ! seed length to width ratio	TO:0000391 ! seed size
+SOY:0001979 ! Seed length to width ratio	SOY:0001600 ! Seed size	TO:0000411 ! seed length to width ratio	TO:0000391 ! seed size
+SOY:0001979 ! Seed length to width ratio	SOY:0001600 ! Seed size	TO:0000411 ! seed length to width ratio	TO:0000391 ! seed size
+SOY:0001979 ! Seed length to width ratio	SOY:0001600 ! Seed size	TO:0000411 ! seed length to width ratio	TO:0000391 ! seed size

@@ -1,0 +1,351 @@
+ontology: map
+
+[Term]
+id: TO:0020089 ! iron content
+xref: CO_321:0000222 ! Iron content
+!! Score: 0.8836
+
+[Term]
+id: TO:0000164 ! stress trait
+xref: CO_321:0000004 ! Stress trait
+!! Score: 0.8836
+
+[Term]
+id: TO:0001007 ! coleoptile length
+xref: CO_321:0000029 ! Coleoptile length
+!! Score: 0.8836
+
+[Term]
+id: TO:0000495 ! chlorophyll content
+xref: CO_321:0000028 ! Chlorophyll content
+!! Score: 0.8836
+
+[Term]
+id: TO:0000339 ! stem thickness
+xref: CO_321:0000062 ! Stem thickness
+!! Score: 0.8836
+
+[Term]
+id: TO:0020090 ! zinc content
+xref: CO_321:0000224 ! Zinc content
+!! Score: 0.8836
+
+[Term]
+id: TO:0000179 ! biotic stress trait
+xref: CO_321:0000077 ! Biotic stress trait
+!! Score: 0.8836
+
+[Term]
+id: TO:0000168 ! abiotic stress trait
+xref: CO_321:0000076 ! Abiotic stress trait
+!! Score: 0.8836
+
+[Term]
+id: TO:0020035 ! glume pubescence density
+xref: CO_321:0000033 ! Glume pubescence density
+!! Score: 0.8836
+
+[Term]
+id: TO:0000303 ! cold tolerance
+xref: CO_321:0000080 ! Cold tolerance
+!! Score: 0.8836
+
+[Term]
+id: TO:0000072 ! awn length
+xref: CO_321:0000026 ! Awn length
+!! Score: 0.8836
+
+[Term]
+id: TO:0020034 ! glume width
+xref: CO_321:0000036 ! Glume width
+!! Score: 0.8836
+
+[Term]
+id: TO:0020051 ! barley leaf scald disease resistance
+xref: CO_321:0000171 ! Barley scald
+!! Score: 0.8836
+
+[Term]
+id: TO:0000370 ! leaf width
+xref: CO_321:0000049 ! Leaf width
+!! Score: 0.8836
+
+[Term]
+id: TO:0000221 ! glume color
+xref: CO_321:0000031 ! Glume color
+!! Score: 0.8836
+
+[Term]
+id: TO:0000522 ! stomatal conductance
+xref: CO_321:0000018 ! Stomatal conductance
+!! Score: 0.8836
+
+[Term]
+id: TO:0000634 ! node number
+xref: CO_321:0000051 ! Node number
+!! Score: 0.8836
+
+[Term]
+id: TO:0000566 ! stomatal frequency
+xref: CO_321:0000143 ! Stomatal frequency
+!! Score: 0.8836
+
+[Term]
+id: TO:0020052 ! barley spot blotch disease resistance
+xref: CO_321:0000116 ! Spot blotch
+!! Score: 0.8836
+
+[Term]
+id: TO:0000157 ! canopy temperature
+xref: CO_321:0000193 ! Canopy temperature
+!! Score: 0.8836
+
+[Term]
+id: TO:0000276 ! drought tolerance
+xref: CO_321:0000131 ! Drought tolerance
+!! Score: 0.8836
+
+[Term]
+id: TO:0020037 ! glume pubescence length
+xref: CO_321:0000034 ! Glume pubescence length
+!! Score: 0.8836
+
+[Term]
+id: TO:0000258 ! leaf thickness
+xref: CO_321:0000047 ! Leaf thickness
+!! Score: 0.8836
+
+[Term]
+id: TO:0001008 ! days to flag leaf emergence
+xref: CO_321:0000030 ! Days to flag leaf emergence
+!! Score: 0.8836
+
+[Term]
+id: TO:0000057 ! grain moisture
+xref: CO_321:0000012 ! Grain moisture
+!! Score: 0.8836
+
+[Term]
+id: TO:0020033 ! glume length
+xref: CO_321:0000032 ! Glume length
+!! Score: 0.8836
+
+[Term]
+id: TO:0012001 ! leaf area index
+xref: CO_321:0000184 ! Leaf area index
+!! Score: 0.8836
+
+[Term]
+id: TO:0006001 ! salt tolerance
+xref: CO_321:0000132 ! Salinity tolerance
+!! Score: 0.8836
+
+[Term]
+id: TO:0000597 ! quality trait
+xref: CO_321:0000003 ! Quality trait
+!! Score: 0.8836
+
+[Term]
+id: TO:0000207 ! plant height
+xref: CO_321:0000020 ! Plant height
+!! Score: 0.8836
+
+[Term]
+id: TO:0000135 ! leaf length
+xref: CO_321:0000044 ! Leaf length
+!! Score: 0.8836
+
+[Term]
+id: TO:0002691 ! peduncle length
+xref: CO_321:0000052 ! Peduncle length
+!! Score: 0.8836
+
+[Term]
+id: TO:0000469 ! days to maturity
+xref: CO_321:0000008 ! Days to maturity
+!! Score: 0.8836
+
+[Term]
+id: TO:0000137 ! days to heading
+xref: CO_321:0000007 ! Days to heading
+!! Score: 0.8836
+
+[Term]
+id: TO:0001034 ! relative plant height
+xref: CO_321:0000024 ! Relative plant height
+!! Score: 0.8836
+
+[Term]
+id: TO:0000128 ! harvest index
+xref: CO_321:0000123 ! Harvest index
+!! Score: 0.8836
+
+[Term]
+id: TO:0000259 ! heat tolerance
+xref: CO_321:0000176 ! Heat tolerance
+!! Score: 0.8836
+
+[Term]
+id: TO:0002759 ! grain number
+xref: CO_321:0000017 ! Grain number
+!! Score: 0.8836
+
+[Term]
+id: TO:0000523 ! stomatal resistance
+xref: CO_321:0000063 ! Stomatal resistance
+!! Score: 0.8836
+
+[Term]
+id: TO:0000397 ! grain size
+xref: CO_321:0000040 ! Grain size
+!! Score: 0.8836
+
+[Term]
+id: TO:0002734 ! awn presence
+xref: CO_321:0000027 ! Awnedness
+!! Score: 0.8742
+
+[Term]
+id: TO:0002617 ! fruit color
+xref: CO_321:0000037 ! Grain color
+!! Score: 0.8742
+
+[Term]
+id: TO:0000040 ! panicle length
+xref: CO_321:0000058 ! Spikelets per spike
+!! Score: 0.8742
+
+[Term]
+id: TO:0002768 ! spikelet length
+xref: CO_321:0000056 ! Spike length
+!! Score: 0.8742
+
+[Term]
+id: TO:0000612 ! grain density
+xref: CO_321:0000159 ! Test weight
+!! Score: 0.8742
+
+[Term]
+id: TO:0020055 ! wheat stripe rust disease resistance
+xref: CO_321:0000129 ! Stripe rust severity
+!! Score: 0.8742
+
+[Term]
+id: TO:0000296 ! vegetative vigor
+xref: CO_321:0000009 ! Early vigour
+!! Score: 0.8648
+
+[Term]
+id: TO:0000273 ! armyworm resistance
+xref: CO_321:0000086 ! Armyworm damage
+!! Score: 0.8648
+
+[Term]
+id: TO:0020067 ! barley yellow dwarf virus disease resistance
+xref: CO_321:0000096 ! Barley yellow dwarf
+!! Score: 0.8648
+
+[Term]
+id: TO:0000709 ! leaf gloss
+xref: CO_321:0000048 ! Leaf glaucousness
+!! Score: 0.8648
+
+[Term]
+id: TO:0010001 ! percent germination
+xref: CO_321:0000011 ! Germination percentage
+!! Score: 0.8648
+
+[Term]
+id: TO:0000382 ! 1000-seed weight
+xref: CO_321:0000025 ! 1000-grain weight
+!! Score: 0.8554
+
+[Term]
+id: TO:0020016 ! seed texture
+xref: CO_321:0000043 ! Grain texture
+!! Score: 0.8554
+
+[Term]
+id: TO:0002756 ! shoot habit
+xref: CO_321:0000015 ! Growth habit
+!! Score: 0.846
+
+[Term]
+id: TO:0000576 ! stem length
+xref: CO_321:0000060 ! Stem height
+!! Score: 0.8272
+
+[Term]
+id: TO:0000236 ! crop damage resistance
+xref: CO_321:0000083 ! Animal damage
+!! Score: 0.7558
+
+[Term]
+id: TO:0000161 ! radiation response trait
+xref: CO_321:0000164 ! Winter kill
+!! Score: 0.7558
+
+[Term]
+id: TO:0000148 ! viral disease resistance
+xref: CO_321:0000139 ! Viral disease
+!! Score: 0.7281
+
+[Term]
+id: TO:0000439 ! fungal disease resistance
+xref: CO_321:0000122 ! Fungal disease
+!! Score: 0.7201
+
+[Term]
+id: TO:0000315 ! bacterial disease resistance
+xref: CO_321:0000137 ! Bacterial disease
+!! Score: 0.7116
+
+[Term]
+id: TO:0001024 ! phosphorus content
+xref: CO_321:0000223 ! Phosphorous content
+!! Score: 0.6954
+
+[Term]
+id: TO:0000933 ! plant phenological trait
+xref: CO_321:0000010 ! Phenological trait
+!! Score: 0.6727
+
+[Term]
+id: TO:0000625 ! spikelet density
+xref: CO_321:0000055 ! Spike density
+!! Score: 0.663
+
+[Term]
+id: TO:0002728 ! fruit quality trait
+xref: CO_321:0000395 ! Alveograph ratio P/G
+!! Score: 0.6528
+
+[Term]
+id: TO:0000652 ! leaf necrosis
+xref: CO_321:0000175 ! Leaf tip necrosis
+!! Score: 0.6503
+
+[Term]
+id: TO:0000152 ! panicle number
+xref: CO_321:0000166 ! Spikes number
+!! Score: 0.6385
+
+[Term]
+id: TO:0000450 ! grain yield per panicle
+xref: CO_321:0000038 ! Grains per spike
+!! Score: 0.6364
+
+[Term]
+id: TO:0001022 ! days to tassel emergence
+xref: CO_321:0000021 ! Days to emergence
+!! Score: 0.6345
+
+[Term]
+id: TO:0002722 ! leaf pubescence
+xref: CO_321:0000046 ! Leaf pubescence length
+!! Score: 0.6266
+
+[Term]
+id: TO:0002643 ! carbon isotope discrimination
+xref: CO_321:0000195 ! Grain carbon isotope discrimination
+!! Score: 0.6204

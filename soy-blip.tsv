@@ -1,0 +1,912 @@
+SOY:0000071	Leaf Number	TO:0002636	leaflet number
+SOY:0000071	Leaf Number	TO:0000241	leaf number
+SOY:0001302	Shattering	TO:0000473	grain shattering
+SOY:0001313	Water Use Efficiency	TO:0001017	water use efficiency
+SOY:0001313	Water Use Efficiency	TO:0001017	water use efficiency
+SOY:0001313	Water Use Efficiency	TO:0001017	water use efficiency
+SOY:0001313	Water Use Efficiency	TO:0001017	water use efficiency
+SOY:0001320	Reaction to Phialophora gregata infection	TO:0020054	barley stripe rust disease resistance
+SOY:0001326	Carbon Isotope Discrimination	TO:0002643	carbon isotope discrimination
+SOY:0001326	Carbon Isotope Discrimination	TO:0002643	carbon isotope discrimination
+SOY:0001326	Carbon Isotope Discrimination	TO:0002643	carbon isotope discrimination
+SOY:0001326	Carbon Isotope Discrimination	TO:0002643	carbon isotope discrimination
+SOY:0001341	Hilum abscission	TO:0000930	seed shattering
+SOY:0001341	Hilum abscission	TO:0000930	seed shattering
+SOY:0001341	Hilum abscission	TO:0000930	seed shattering
+SOY:0001341	Hilum abscission	TO:0000930	seed shattering
+SOY:0001344	Seed cysteine content	TO:0000232	rice cytoplasmic male sterility
+SOY:0001344	Seed cysteine content	TO:0000232	rice cytoplasmic male sterility
+SOY:0001344	Seed cysteine content	TO:0000657	spikelet anatomy and morphology trait
+SOY:0001344	Seed cysteine content	TO:0000657	spikelet anatomy and morphology trait
+SOY:0001344	Seed cysteine content	TO:0000815	bract anatomy and morphology trait
+SOY:0001344	Seed cysteine content	TO:0000815	bract anatomy and morphology trait
+SOY:0001344	Seed cysteine content	TO:0000232	rice cytoplasmic male sterility
+SOY:0001344	Seed cysteine content	TO:0000232	rice cytoplasmic male sterility
+SOY:0001344	Seed cysteine content	TO:0000657	spikelet anatomy and morphology trait
+SOY:0001344	Seed cysteine content	TO:0000657	spikelet anatomy and morphology trait
+SOY:0001344	Seed cysteine content	TO:0000815	bract anatomy and morphology trait
+SOY:0001344	Seed cysteine content	TO:0000815	bract anatomy and morphology trait
+SOY:0001351	Flooding Tolerance	TO:0000524	submergence tolerance
+SOY:0001351	Flooding Tolerance	TO:0000524	submergence tolerance
+SOY:0001351	Flooding Tolerance	TO:0000524	submergence tolerance
+SOY:0001351	Flooding Tolerance	TO:0000524	submergence tolerance
+SOY:0001352	Flower Color	TO:0000537	flower color
+SOY:0001352	Flower Color	TO:0000537	flower color
+SOY:0001352	Flower Color	TO:0000537	flower color
+SOY:0001352	Flower Color	TO:0000537	flower color
+SOY:0001365	Plant Height	TO:0000207	plant height
+SOY:0001365	Plant Height	TO:0000207	plant height
+SOY:0001365	Plant Height	TO:0000207	plant height
+SOY:0001365	Plant Height	TO:0000207	plant height
+SOY:0001378	Leaf  Necrosis	TO:0000652	leaf necrosis
+SOY:0001379	Leaflet Length	TO:0000135	leaf length
+SOY:0001387	Leaflet Color	TO:0000326	leaf color
+SOY:0001387	Leaflet Color	TO:0000326	leaf color
+SOY:0001387	Leaflet Color	TO:0000326	leaf color
+SOY:0001387	Leaflet Color	TO:0000326	leaf color
+SOY:0001388	Leaflet number	TO:0002636	leaflet number
+SOY:0001389	Leaflet shape	TO:0000492	leaf shape
+SOY:0001414	Seed coat color	TO:0000190	seed coat color
+SOY:0001414	Seed coat color	TO:0000190	seed coat color
+SOY:0001414	Seed coat color	TO:0000190	seed coat color
+SOY:0001414	Seed coat color	TO:0000190	seed coat color
+SOY:0001415	Seed Coat Hardness	TO:0000889	seed coat hardness
+SOY:0001415	Seed Coat Hardness	TO:0000889	seed coat hardness
+SOY:0001415	Seed Coat Hardness	TO:0000889	seed coat hardness
+SOY:0001415	Seed Coat Hardness	TO:0000889	seed coat hardness
+SOY:0001416	Seed Coat Luster	TO:0000888	seed coat luster
+SOY:0001416	Seed Coat Luster	TO:0000888	seed coat luster
+SOY:0001416	Seed Coat Luster	TO:0000888	seed coat luster
+SOY:0001416	Seed Coat Luster	TO:0000888	seed coat luster
+SOY:0001417	Seed Shape	TO:0000484	seed shape
+SOY:0001597	Seed width	TO:0000149	seed width
+SOY:0001599	Seed length	TO:0000146	seed length
+SOY:0001599	Seed length	TO:0000146	seed length
+SOY:0001599	Seed length	TO:0000146	seed length
+SOY:0001599	Seed length	TO:0000146	seed length
+SOY:0001600	Seed size	TO:0000391	seed size
+SOY:0001602	Shoot phosphorus content	TO:0020114	shoot phosphorus content
+SOY:0001602	Shoot phosphorus content	TO:0020114	shoot phosphorus content
+SOY:0001602	Shoot phosphorus content	TO:0020114	shoot phosphorus content
+SOY:0001602	Shoot phosphorus content	TO:0020114	shoot phosphorus content
+SOY:0001611	Female sterile	TO:0000358	female sterility
+SOY:0001612	Male sterile	TO:0000106	male sterility type
+SOY:0001623	Seed sucrose content	TO:0000328	sucrose content
+SOY:0001623	Seed sucrose content	TO:0000328	sucrose content
+SOY:0001623	Seed sucrose content	TO:0000328	sucrose content
+SOY:0001623	Seed sucrose content	TO:0000328	sucrose content
+SOY:0001627	Sprout yield	TO:0000202	germination ratio
+SOY:0001629	Seed weight	TO:0000181	seed weight
+SOY:0001630	Seed Number	TO:0000445	seed number
+SOY:0001630	Seed Number	TO:0000445	seed number
+SOY:0001630	Seed Number	TO:0000445	seed number
+SOY:0001630	Seed Number	TO:0000445	seed number
+SOY:0001674	Saccharide:mono content	TO:0006006	monosaccharide content
+SOY:0001679	Internode length	TO:0000145	internode length
+SOY:0001701	Drought Tolerance	TO:0000276	drought tolerance
+SOY:0001701	Drought Tolerance	TO:0000276	drought tolerance
+SOY:0001701	Drought Tolerance	TO:0000276	drought tolerance
+SOY:0001701	Drought Tolerance	TO:0000276	drought tolerance
+SOY:0001717	Pod length	TO:0002626	fruit length
+SOY:0001717	Pod length	TO:0002626	fruit length
+SOY:0001717	Pod length	TO:0002626	fruit length
+SOY:0001717	Pod length	TO:0002626	fruit length
+SOY:0001726	Ovule Abortion	TO:0000358	female sterility
+SOY:0001727	Embryo Abortion	TO:0000358	female sterility
+SOY:0001731	Net photosynthetic rate	TO:0001027	net photosynthetic rate
+SOY:0001736	Lateral root length	TO:0001012	lateral root length
+SOY:0001736	Lateral root length	TO:0001012	lateral root length
+SOY:0001736	Lateral root length	TO:0001012	lateral root length
+SOY:0001736	Lateral root length	TO:0001012	lateral root length
+SOY:0001739	Lateral root number	TO:0001013	lateral root number
+SOY:0001739	Lateral root number	TO:0001013	lateral root number
+SOY:0001739	Lateral root number	TO:0001013	lateral root number
+SOY:0001739	Lateral root number	TO:0001013	lateral root number
+SOY:0001740	Flower Number	TO:0002736	flower number
+SOY:0001743	Root Weight	TO:0000279	root weight
+SOY:0001746	Shoot weight	TO:0000568	shoot weight
+SOY:0001751	Drought Susceptibility Index	TO:0000155	drought susceptibility index
+SOY:0001751	Drought Susceptibility Index	TO:0000155	drought susceptibility index
+SOY:0001751	Drought Susceptibility Index	TO:0000155	drought susceptibility index
+SOY:0001751	Drought Susceptibility Index	TO:0000155	drought susceptibility index
+SOY:0001752	Node Number	TO:0000634	node number
+SOY:0001774	Petiole length	TO:0000766	petiole length
+SOY:0001774	Petiole length	TO:0000766	petiole length
+SOY:0001774	Petiole length	TO:0000766	petiole length
+SOY:0001774	Petiole length	TO:0000766	petiole length
+SOY:0001775	Petiole Shape	TO:0000767	petiole shape
+SOY:0001776	Petiole Size	TO:0000768	petiole size
+SOY:0001778	Petiolule Length	TO:0000887	petiolule length
+SOY:0001778	Petiolule Length	TO:0000887	petiolule length
+SOY:0001778	Petiolule Length	TO:0000887	petiolule length
+SOY:0001778	Petiolule Length	TO:0000887	petiolule length
+SOY:0001779	Petiolule Shape	TO:0000886	petiolule shape
+SOY:0001789	Stem strength	TO:0000051	stem strength
+SOY:0001803	Canopy wilt	TO:0000085	leaf rolling
+SOY:0001803	Canopy wilt	TO:0000085	leaf rolling
+SOY:0001807	Phototropism	TO:0002650	phototropism
+SOY:0001809	Heliotropism	TO:0002650	phototropism
+SOY:0001814	Herbicide sensitivity	TO:0000058	herbicide sensitivity
+SOY:0001833	Phosphorus content	TO:0001024	phosphorus content
+SOY:0001833	Phosphorus content	TO:0001024	phosphorus content
+SOY:0001833	Phosphorus content	TO:0001024	phosphorus content
+SOY:0001833	Phosphorus content	TO:0001024	phosphorus content
+SOY:0001834	Leaf phosphorus content	TO:0001025	leaf phosphorus content
+SOY:0001834	Leaf phosphorus content	TO:0001025	leaf phosphorus content
+SOY:0001834	Leaf phosphorus content	TO:0001025	leaf phosphorus content
+SOY:0001834	Leaf phosphorus content	TO:0001025	leaf phosphorus content
+SOY:0001835	Seed phosphorus content	TO:0002666	seed phosphorus content
+SOY:0001835	Seed phosphorus content	TO:0002666	seed phosphorus content
+SOY:0001835	Seed phosphorus content	TO:0002666	seed phosphorus content
+SOY:0001835	Seed phosphorus content	TO:0002666	seed phosphorus content
+SOY:0001844	Saccharide:oligo content	TO:0006003	oligosaccharide content
+SOY:0001844	Saccharide:oligo content	TO:0006003	oligosaccharide content
+SOY:0001844	Saccharide:oligo content	TO:0006003	oligosaccharide content
+SOY:0001844	Saccharide:oligo content	TO:0006003	oligosaccharide content
+SOY:0001844	Saccharide:oligo content	TO:0006003	oligosaccharide content
+SOY:0001844	Saccharide:oligo content	TO:0006003	oligosaccharide content
+SOY:0001844	Saccharide:oligo content	TO:0006003	oligosaccharide content
+SOY:0001844	Saccharide:oligo content	TO:0006003	oligosaccharide content
+SOY:0001844	Saccharide:oligo content	TO:0006003	oligosaccharide content
+SOY:0001846	Enzymatic activity	TO:0000599	enzyme activity trait
+SOY:0001846	Enzymatic activity	TO:0000599	enzyme activity trait
+SOY:0001846	Enzymatic activity	TO:0000599	enzyme activity trait
+SOY:0001846	Enzymatic activity	TO:0000599	enzyme activity trait
+SOY:0001848	Nitrogen content	TO:0020093	nitrogen content
+SOY:0001848	Nitrogen content	TO:0020093	nitrogen content
+SOY:0001848	Nitrogen content	TO:0020093	nitrogen content
+SOY:0001848	Nitrogen content	TO:0020093	nitrogen content
+SOY:0001855	Submergence survival rate	TO:0000524	submergence tolerance
+SOY:0001855	Submergence survival rate	TO:0000524	submergence tolerance
+SOY:0001855	Submergence survival rate	TO:0000524	submergence tolerance
+SOY:0001855	Submergence survival rate	TO:0000524	submergence tolerance
+SOY:0001858	Chlorophyll content	TO:0000495	chlorophyll content
+SOY:0001869	Root weight, dry	TO:0000078	root dry weight
+SOY:0001870	Root weight, fresh	TO:0000578	root fresh weight
+SOY:0001871	shoot weight, dry	TO:0000552	shoot dry weight
+SOY:0001872	shoot weight, fresh	TO:0000571	shoot fresh weight
+SOY:0001884	Root nodule number	TO:0000900	root nodule number
+SOY:0001884	Root nodule number	TO:0000900	root nodule number
+SOY:0001884	Root nodule number	TO:0000900	root nodule number
+SOY:0001884	Root nodule number	TO:0000900	root nodule number
+SOY:0001884	Root nodule number	TO:0000900	root nodule number
+SOY:0001884	Root nodule number	TO:0000900	root nodule number
+SOY:0001884	Root nodule number	TO:0000900	root nodule number
+SOY:0001884	Root nodule number	TO:0000900	root nodule number
+SOY:0001884	Root nodule number	TO:0000900	root nodule number
+SOY:0001889	Root color	TO:0000065	root color
+SOY:0001889	Root color	TO:0000065	root color
+SOY:0001889	Root color	TO:0000065	root color
+SOY:0001889	Root color	TO:0000065	root color
+SOY:0001891	Root number	TO:0000084	root number
+SOY:0001891	Root number	TO:0000084	root number
+SOY:0001891	Root number	TO:0000084	root number
+SOY:0001891	Root number	TO:0000084	root number
+SOY:0001893	Petiole color	TO:0002707	petiole color
+SOY:0001893	Petiole color	TO:0002707	petiole color
+SOY:0001893	Petiole color	TO:0002707	petiole color
+SOY:0001893	Petiole color	TO:0002707	petiole color
+SOY:0001906	Alpha-amylase activity	TO:0000288	alpha-amylase activity
+SOY:0001906	Alpha-amylase activity	TO:0000288	alpha-amylase activity
+SOY:0001906	Alpha-amylase activity	TO:0000288	alpha-amylase activity
+SOY:0001906	Alpha-amylase activity	TO:0000288	alpha-amylase activity
+SOY:0001908	Acid phosphatase activity	TO:0000705	acid phosphatase activity
+SOY:0001908	Acid phosphatase activity	TO:0000705	acid phosphatase activity
+SOY:0001908	Acid phosphatase activity	TO:0000705	acid phosphatase activity
+SOY:0001908	Acid phosphatase activity	TO:0000705	acid phosphatase activity
+SOY:0001951	Sulfonylurea herbicide sensitivity	TO:0000712	sulfonylurea herbicide sensitivity
+SOY:0001951	Sulfonylurea herbicide sensitivity	TO:0000712	sulfonylurea herbicide sensitivity
+SOY:0001951	Sulfonylurea herbicide sensitivity	TO:0000712	sulfonylurea herbicide sensitivity
+SOY:0001951	Sulfonylurea herbicide sensitivity	TO:0000712	sulfonylurea herbicide sensitivity
+SOY:0001971	Seed surface form	TO:0000086	sheath rot disease resistance
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+TO:0000051	stem strength	SOY:0001789	Stem strength
+TO:0000058	herbicide sensitivity	SOY:0001814	Herbicide sensitivity
+TO:0000065	root color	SOY:0001889	Root color
+TO:0000065	root color	SOY:0001889	Root color
+TO:0000065	root color	SOY:0001889	Root color
+TO:0000065	root color	SOY:0001889	Root color
+TO:0000078	root dry weight	SOY:0001869	Root weight, dry
+TO:0000084	root number	SOY:0001891	Root number
+TO:0000084	root number	SOY:0001891	Root number
+TO:0000084	root number	SOY:0001891	Root number
+TO:0000084	root number	SOY:0001891	Root number
+TO:0000085	leaf rolling	SOY:0001803	Canopy wilt
+TO:0000085	leaf rolling	SOY:0001803	Canopy wilt
+TO:0000086	sheath rot disease resistance	SOY:0001971	Seed surface form
+TO:0000106	male sterility type	SOY:0001612	Male sterile
+TO:0000135	leaf length	SOY:0001379	Leaflet Length
+TO:0000145	internode length	SOY:0001679	Internode length
+TO:0000146	seed length	SOY:0001599	Seed length
+TO:0000146	seed length	SOY:0001599	Seed length
+TO:0000146	seed length	SOY:0001599	Seed length
+TO:0000146	seed length	SOY:0001599	Seed length
+TO:0000149	seed width	SOY:0001597	Seed width
+TO:0000155	drought susceptibility index	SOY:0001751	Drought Susceptibility Index
+TO:0000155	drought susceptibility index	SOY:0001751	Drought Susceptibility Index
+TO:0000155	drought susceptibility index	SOY:0001751	Drought Susceptibility Index
+TO:0000155	drought susceptibility index	SOY:0001751	Drought Susceptibility Index
+TO:0000181	seed weight	SOY:0001629	Seed weight
+TO:0000190	seed coat color	SOY:0001414	Seed coat color
+TO:0000190	seed coat color	SOY:0001414	Seed coat color
+TO:0000190	seed coat color	SOY:0001414	Seed coat color
+TO:0000190	seed coat color	SOY:0001414	Seed coat color
+TO:0000202	germination ratio	SOY:0001627	Sprout yield
+TO:0000207	plant height	SOY:0001365	Plant Height
+TO:0000207	plant height	SOY:0001365	Plant Height
+TO:0000207	plant height	SOY:0001365	Plant Height
+TO:0000207	plant height	SOY:0001365	Plant Height
+TO:0000232	rice cytoplasmic male sterility	SOY:0001344	Seed cysteine content
+TO:0000232	rice cytoplasmic male sterility	SOY:0001344	Seed cysteine content
+TO:0000232	rice cytoplasmic male sterility	SOY:0001344	Seed cysteine content
+TO:0000232	rice cytoplasmic male sterility	SOY:0001344	Seed cysteine content
+TO:0000241	leaf number	SOY:0000071	Leaf Number
+TO:0000276	drought tolerance	SOY:0001701	Drought Tolerance
+TO:0000276	drought tolerance	SOY:0001701	Drought Tolerance
+TO:0000276	drought tolerance	SOY:0001701	Drought Tolerance
+TO:0000276	drought tolerance	SOY:0001701	Drought Tolerance
+TO:0000279	root weight	SOY:0001743	Root Weight
+TO:0000288	alpha-amylase activity	SOY:0001906	Alpha-amylase activity
+TO:0000288	alpha-amylase activity	SOY:0001906	Alpha-amylase activity
+TO:0000288	alpha-amylase activity	SOY:0001906	Alpha-amylase activity
+TO:0000288	alpha-amylase activity	SOY:0001906	Alpha-amylase activity
+TO:0000326	leaf color	SOY:0001387	Leaflet Color
+TO:0000326	leaf color	SOY:0001387	Leaflet Color
+TO:0000326	leaf color	SOY:0001387	Leaflet Color
+TO:0000326	leaf color	SOY:0001387	Leaflet Color
+TO:0000328	sucrose content	SOY:0001623	Seed sucrose content
+TO:0000328	sucrose content	SOY:0001623	Seed sucrose content
+TO:0000328	sucrose content	SOY:0001623	Seed sucrose content
+TO:0000328	sucrose content	SOY:0001623	Seed sucrose content
+TO:0000358	female sterility	SOY:0001611	Female sterile
+TO:0000358	female sterility	SOY:0001726	Ovule Abortion
+TO:0000358	female sterility	SOY:0001727	Embryo Abortion
+TO:0000391	seed size	SOY:0001600	Seed size
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000445	seed number	SOY:0001630	Seed Number
+TO:0000445	seed number	SOY:0001630	Seed Number
+TO:0000445	seed number	SOY:0001630	Seed Number
+TO:0000445	seed number	SOY:0001630	Seed Number
+TO:0000473	grain shattering	SOY:0001302	Shattering
+TO:0000484	seed shape	SOY:0001417	Seed Shape
+TO:0000492	leaf shape	SOY:0001389	Leaflet shape
+TO:0000495	chlorophyll content	SOY:0001858	Chlorophyll content
+TO:0000524	submergence tolerance	SOY:0001351	Flooding Tolerance
+TO:0000524	submergence tolerance	SOY:0001351	Flooding Tolerance
+TO:0000524	submergence tolerance	SOY:0001855	Submergence survival rate
+TO:0000524	submergence tolerance	SOY:0001855	Submergence survival rate
+TO:0000524	submergence tolerance	SOY:0001351	Flooding Tolerance
+TO:0000524	submergence tolerance	SOY:0001351	Flooding Tolerance
+TO:0000524	submergence tolerance	SOY:0001855	Submergence survival rate
+TO:0000524	submergence tolerance	SOY:0001855	Submergence survival rate
+TO:0000537	flower color	SOY:0001352	Flower Color
+TO:0000537	flower color	SOY:0001352	Flower Color
+TO:0000537	flower color	SOY:0001352	Flower Color
+TO:0000537	flower color	SOY:0001352	Flower Color
+TO:0000552	shoot dry weight	SOY:0001871	shoot weight, dry
+TO:0000568	shoot weight	SOY:0001746	Shoot weight
+TO:0000571	shoot fresh weight	SOY:0001872	shoot weight, fresh
+TO:0000578	root fresh weight	SOY:0001870	Root weight, fresh
+TO:0000599	enzyme activity trait	SOY:0001846	Enzymatic activity
+TO:0000599	enzyme activity trait	SOY:0001846	Enzymatic activity
+TO:0000599	enzyme activity trait	SOY:0001846	Enzymatic activity
+TO:0000599	enzyme activity trait	SOY:0001846	Enzymatic activity
+TO:0000634	node number	SOY:0001752	Node Number
+TO:0000652	leaf necrosis	SOY:0001378	Leaf  Necrosis
+TO:0000657	spikelet anatomy and morphology trait	SOY:0001344	Seed cysteine content
+TO:0000657	spikelet anatomy and morphology trait	SOY:0001344	Seed cysteine content
+TO:0000657	spikelet anatomy and morphology trait	SOY:0001344	Seed cysteine content
+TO:0000657	spikelet anatomy and morphology trait	SOY:0001344	Seed cysteine content
+TO:0000705	acid phosphatase activity	SOY:0001908	Acid phosphatase activity
+TO:0000705	acid phosphatase activity	SOY:0001908	Acid phosphatase activity
+TO:0000705	acid phosphatase activity	SOY:0001908	Acid phosphatase activity
+TO:0000705	acid phosphatase activity	SOY:0001908	Acid phosphatase activity
+TO:0000712	sulfonylurea herbicide sensitivity	SOY:0001951	Sulfonylurea herbicide sensitivity
+TO:0000712	sulfonylurea herbicide sensitivity	SOY:0001951	Sulfonylurea herbicide sensitivity
+TO:0000712	sulfonylurea herbicide sensitivity	SOY:0001951	Sulfonylurea herbicide sensitivity
+TO:0000712	sulfonylurea herbicide sensitivity	SOY:0001951	Sulfonylurea herbicide sensitivity
+TO:0000766	petiole length	SOY:0001774	Petiole length
+TO:0000766	petiole length	SOY:0001774	Petiole length
+TO:0000766	petiole length	SOY:0001774	Petiole length
+TO:0000766	petiole length	SOY:0001774	Petiole length
+TO:0000767	petiole shape	SOY:0001775	Petiole Shape
+TO:0000768	petiole size	SOY:0001776	Petiole Size
+TO:0000815	bract anatomy and morphology trait	SOY:0001344	Seed cysteine content
+TO:0000815	bract anatomy and morphology trait	SOY:0001344	Seed cysteine content
+TO:0000815	bract anatomy and morphology trait	SOY:0001344	Seed cysteine content
+TO:0000815	bract anatomy and morphology trait	SOY:0001344	Seed cysteine content
+TO:0000886	petiolule shape	SOY:0001779	Petiolule Shape
+TO:0000887	petiolule length	SOY:0001778	Petiolule Length
+TO:0000887	petiolule length	SOY:0001778	Petiolule Length
+TO:0000887	petiolule length	SOY:0001778	Petiolule Length
+TO:0000887	petiolule length	SOY:0001778	Petiolule Length
+TO:0000888	seed coat luster	SOY:0001416	Seed Coat Luster
+TO:0000888	seed coat luster	SOY:0001416	Seed Coat Luster
+TO:0000888	seed coat luster	SOY:0001416	Seed Coat Luster
+TO:0000888	seed coat luster	SOY:0001416	Seed Coat Luster
+TO:0000889	seed coat hardness	SOY:0001415	Seed Coat Hardness
+TO:0000889	seed coat hardness	SOY:0001415	Seed Coat Hardness
+TO:0000889	seed coat hardness	SOY:0001415	Seed Coat Hardness
+TO:0000889	seed coat hardness	SOY:0001415	Seed Coat Hardness
+TO:0000900	root nodule number	SOY:0001884	Root nodule number
+TO:0000900	root nodule number	SOY:0001884	Root nodule number
+TO:0000900	root nodule number	SOY:0001884	Root nodule number
+TO:0000900	root nodule number	SOY:0001884	Root nodule number
+TO:0000900	root nodule number	SOY:0001884	Root nodule number
+TO:0000900	root nodule number	SOY:0001884	Root nodule number
+TO:0000900	root nodule number	SOY:0001884	Root nodule number
+TO:0000900	root nodule number	SOY:0001884	Root nodule number
+TO:0000900	root nodule number	SOY:0001884	Root nodule number
+TO:0000930	seed shattering	SOY:0001341	Hilum abscission
+TO:0000930	seed shattering	SOY:0001341	Hilum abscission
+TO:0000930	seed shattering	SOY:0001341	Hilum abscission
+TO:0000930	seed shattering	SOY:0001341	Hilum abscission
+TO:0001012	lateral root length	SOY:0001736	Lateral root length
+TO:0001012	lateral root length	SOY:0001736	Lateral root length
+TO:0001012	lateral root length	SOY:0001736	Lateral root length
+TO:0001012	lateral root length	SOY:0001736	Lateral root length
+TO:0001013	lateral root number	SOY:0001739	Lateral root number
+TO:0001013	lateral root number	SOY:0001739	Lateral root number
+TO:0001013	lateral root number	SOY:0001739	Lateral root number
+TO:0001013	lateral root number	SOY:0001739	Lateral root number
+TO:0001017	water use efficiency	SOY:0001313	Water Use Efficiency
+TO:0001017	water use efficiency	SOY:0001313	Water Use Efficiency
+TO:0001017	water use efficiency	SOY:0001313	Water Use Efficiency
+TO:0001017	water use efficiency	SOY:0001313	Water Use Efficiency
+TO:0001024	phosphorus content	SOY:0001833	Phosphorus content
+TO:0001024	phosphorus content	SOY:0001833	Phosphorus content
+TO:0001024	phosphorus content	SOY:0001833	Phosphorus content
+TO:0001024	phosphorus content	SOY:0001833	Phosphorus content
+TO:0001025	leaf phosphorus content	SOY:0001834	Leaf phosphorus content
+TO:0001025	leaf phosphorus content	SOY:0001834	Leaf phosphorus content
+TO:0001025	leaf phosphorus content	SOY:0001834	Leaf phosphorus content
+TO:0001025	leaf phosphorus content	SOY:0001834	Leaf phosphorus content
+TO:0001027	net photosynthetic rate	SOY:0001731	Net photosynthetic rate
+TO:0002626	fruit length	SOY:0001717	Pod length
+TO:0002626	fruit length	SOY:0001717	Pod length
+TO:0002626	fruit length	SOY:0001717	Pod length
+TO:0002626	fruit length	SOY:0001717	Pod length
+TO:0002636	leaflet number	SOY:0000071	Leaf Number
+TO:0002636	leaflet number	SOY:0001388	Leaflet number
+TO:0002643	carbon isotope discrimination	SOY:0001326	Carbon Isotope Discrimination
+TO:0002643	carbon isotope discrimination	SOY:0001326	Carbon Isotope Discrimination
+TO:0002643	carbon isotope discrimination	SOY:0001326	Carbon Isotope Discrimination
+TO:0002643	carbon isotope discrimination	SOY:0001326	Carbon Isotope Discrimination
+TO:0002650	phototropism	SOY:0001807	Phototropism
+TO:0002650	phototropism	SOY:0001809	Heliotropism
+TO:0002666	seed phosphorus content	SOY:0001835	Seed phosphorus content
+TO:0002666	seed phosphorus content	SOY:0001835	Seed phosphorus content
+TO:0002666	seed phosphorus content	SOY:0001835	Seed phosphorus content
+TO:0002666	seed phosphorus content	SOY:0001835	Seed phosphorus content
+TO:0002707	petiole color	SOY:0001893	Petiole color
+TO:0002707	petiole color	SOY:0001893	Petiole color
+TO:0002707	petiole color	SOY:0001893	Petiole color
+TO:0002707	petiole color	SOY:0001893	Petiole color
+TO:0002736	flower number	SOY:0001740	Flower Number
+TO:0006003	oligosaccharide content	SOY:0001844	Saccharide:oligo content
+TO:0006003	oligosaccharide content	SOY:0001844	Saccharide:oligo content
+TO:0006003	oligosaccharide content	SOY:0001844	Saccharide:oligo content
+TO:0006003	oligosaccharide content	SOY:0001844	Saccharide:oligo content
+TO:0006003	oligosaccharide content	SOY:0001844	Saccharide:oligo content
+TO:0006003	oligosaccharide content	SOY:0001844	Saccharide:oligo content
+TO:0006003	oligosaccharide content	SOY:0001844	Saccharide:oligo content
+TO:0006003	oligosaccharide content	SOY:0001844	Saccharide:oligo content
+TO:0006003	oligosaccharide content	SOY:0001844	Saccharide:oligo content
+TO:0006006	monosaccharide content	SOY:0001674	Saccharide:mono content
+TO:0020054	barley stripe rust disease resistance	SOY:0001320	Reaction to Phialophora gregata infection
+TO:0020093	nitrogen content	SOY:0001848	Nitrogen content
+TO:0020093	nitrogen content	SOY:0001848	Nitrogen content
+TO:0020093	nitrogen content	SOY:0001848	Nitrogen content
+TO:0020093	nitrogen content	SOY:0001848	Nitrogen content
+TO:0020114	shoot phosphorus content	SOY:0001602	Shoot phosphorus content
+TO:0020114	shoot phosphorus content	SOY:0001602	Shoot phosphorus content
+TO:0020114	shoot phosphorus content	SOY:0001602	Shoot phosphorus content
+TO:0020114	shoot phosphorus content	SOY:0001602	Shoot phosphorus content
+SOY:0001320	Reaction to Phialophora gregata infection	TO:0020054	barley stripe rust disease resistance
+SOY:0001320	Reaction to Phialophora gregata infection	TO:0020054	barley stripe rust disease resistance
+SOY:0001320	Reaction to Phialophora gregata infection	TO:0020054	barley stripe rust disease resistance
+SOY:0001320	Reaction to Phialophora gregata infection	TO:0020054	barley stripe rust disease resistance
+SOY:0001320	Reaction to Phialophora gregata infection	TO:0020054	barley stripe rust disease resistance
+SOY:0001320	Reaction to Phialophora gregata infection	TO:0020054	barley stripe rust disease resistance
+SOY:0001320	Reaction to Phialophora gregata infection	TO:0020054	barley stripe rust disease resistance
+SOY:0001320	Reaction to Phialophora gregata infection	TO:0020054	barley stripe rust disease resistance
+SOY:0001320	Reaction to Phialophora gregata infection	TO:0020054	barley stripe rust disease resistance
+SOY:0001341	Hilum abscission	TO:0000930	seed shattering
+SOY:0001341	Hilum abscission	TO:0000930	seed shattering
+SOY:0001341	Hilum abscission	TO:0000930	seed shattering
+SOY:0001341	Hilum abscission	TO:0000930	seed shattering
+SOY:0001379	Leaflet Length	TO:0000135	leaf length
+SOY:0001379	Leaflet Length	TO:0000135	leaf length
+SOY:0001379	Leaflet Length	TO:0000135	leaf length
+SOY:0001379	Leaflet Length	TO:0000135	leaf length
+SOY:0001379	Leaflet Length	TO:0000135	leaf length
+SOY:0001379	Leaflet Length	TO:0000135	leaf length
+SOY:0001379	Leaflet Length	TO:0000135	leaf length
+SOY:0001379	Leaflet Length	TO:0000135	leaf length
+SOY:0001379	Leaflet Length	TO:0000135	leaf length
+SOY:0001387	Leaflet Color	TO:0000326	leaf color
+SOY:0001387	Leaflet Color	TO:0000326	leaf color
+SOY:0001387	Leaflet Color	TO:0000326	leaf color
+SOY:0001387	Leaflet Color	TO:0000326	leaf color
+SOY:0001387	Leaflet Color	TO:0000326	leaf color
+SOY:0001387	Leaflet Color	TO:0000326	leaf color
+SOY:0001387	Leaflet Color	TO:0000326	leaf color
+SOY:0001387	Leaflet Color	TO:0000326	leaf color
+SOY:0001387	Leaflet Color	TO:0000326	leaf color
+SOY:0001387	Leaflet Color	TO:0000326	leaf color
+SOY:0001387	Leaflet Color	TO:0000326	leaf color
+SOY:0001387	Leaflet Color	TO:0000326	leaf color
+SOY:0001387	Leaflet Color	TO:0000326	leaf color
+SOY:0001387	Leaflet Color	TO:0000326	leaf color
+SOY:0001387	Leaflet Color	TO:0000326	leaf color
+SOY:0001387	Leaflet Color	TO:0000326	leaf color
+SOY:0001387	Leaflet Color	TO:0000326	leaf color
+SOY:0001387	Leaflet Color	TO:0000326	leaf color
+SOY:0001387	Leaflet Color	TO:0000326	leaf color
+SOY:0001387	Leaflet Color	TO:0000326	leaf color
+SOY:0001387	Leaflet Color	TO:0000326	leaf color
+SOY:0001387	Leaflet Color	TO:0000326	leaf color
+SOY:0001387	Leaflet Color	TO:0000326	leaf color
+SOY:0001387	Leaflet Color	TO:0000326	leaf color
+SOY:0001387	Leaflet Color	TO:0000326	leaf color
+SOY:0001387	Leaflet Color	TO:0000326	leaf color
+SOY:0001387	Leaflet Color	TO:0000326	leaf color
+SOY:0001387	Leaflet Color	TO:0000326	leaf color
+SOY:0001387	Leaflet Color	TO:0000326	leaf color
+SOY:0001387	Leaflet Color	TO:0000326	leaf color
+SOY:0001387	Leaflet Color	TO:0000326	leaf color
+SOY:0001387	Leaflet Color	TO:0000326	leaf color
+SOY:0001387	Leaflet Color	TO:0000326	leaf color
+SOY:0001387	Leaflet Color	TO:0000326	leaf color
+SOY:0001387	Leaflet Color	TO:0000326	leaf color
+SOY:0001387	Leaflet Color	TO:0000326	leaf color
+SOY:0001419	Seed Set	TO:0000180	spikelet fertility
+SOY:0001419	Seed Set	TO:0000180	spikelet fertility
+SOY:0001419	Seed Set	TO:0000180	spikelet fertility
+SOY:0001419	Seed Set	TO:0000180	spikelet fertility
+SOY:0001630	Seed Number	TO:0000445	seed number
+SOY:0001630	Seed Number	TO:0000445	seed number
+SOY:0001630	Seed Number	TO:0000445	seed number
+SOY:0001630	Seed Number	TO:0000445	seed number
+SOY:0001630	Seed Number	TO:0000445	seed number
+SOY:0001630	Seed Number	TO:0000445	seed number
+SOY:0001630	Seed Number	TO:0000445	seed number
+SOY:0001630	Seed Number	TO:0000445	seed number
+SOY:0001630	Seed Number	TO:0000445	seed number
+SOY:0001630	Seed Number	TO:0000445	seed number
+SOY:0001630	Seed Number	TO:0000445	seed number
+SOY:0001630	Seed Number	TO:0000445	seed number
+SOY:0001630	Seed Number	TO:0000445	seed number
+SOY:0001630	Seed Number	TO:0000445	seed number
+SOY:0001630	Seed Number	TO:0000445	seed number
+SOY:0001630	Seed Number	TO:0000445	seed number
+SOY:0001630	Seed Number	TO:0000445	seed number
+SOY:0001630	Seed Number	TO:0000445	seed number
+SOY:0001630	Seed Number	TO:0000445	seed number
+SOY:0001630	Seed Number	TO:0000445	seed number
+SOY:0001630	Seed Number	TO:0000445	seed number
+SOY:0001630	Seed Number	TO:0000445	seed number
+SOY:0001630	Seed Number	TO:0000445	seed number
+SOY:0001630	Seed Number	TO:0000445	seed number
+SOY:0001630	Seed Number	TO:0000445	seed number
+SOY:0001630	Seed Number	TO:0000445	seed number
+SOY:0001630	Seed Number	TO:0000445	seed number
+SOY:0001630	Seed Number	TO:0000445	seed number
+SOY:0001630	Seed Number	TO:0000445	seed number
+SOY:0001630	Seed Number	TO:0000445	seed number
+SOY:0001630	Seed Number	TO:0000445	seed number
+SOY:0001630	Seed Number	TO:0000445	seed number
+SOY:0001630	Seed Number	TO:0000445	seed number
+SOY:0001630	Seed Number	TO:0000445	seed number
+SOY:0001630	Seed Number	TO:0000445	seed number
+SOY:0001630	Seed Number	TO:0000445	seed number
+SOY:0001639	Flower development traits	TO:0000622	flower development trait
+SOY:0001639	Flower development traits	TO:0000622	flower development trait
+SOY:0001639	Flower development traits	TO:0000622	flower development trait
+SOY:0001639	Flower development traits	TO:0000622	flower development trait
+SOY:0001717	Pod length	TO:0002626	fruit length
+SOY:0001717	Pod length	TO:0002626	fruit length
+SOY:0001717	Pod length	TO:0002626	fruit length
+SOY:0001717	Pod length	TO:0002626	fruit length
+SOY:0001717	Pod length	TO:0002626	fruit length
+SOY:0001717	Pod length	TO:0002626	fruit length
+SOY:0001717	Pod length	TO:0002626	fruit length
+SOY:0001717	Pod length	TO:0002626	fruit length
+SOY:0001717	Pod length	TO:0002626	fruit length
+SOY:0001717	Pod length	TO:0002626	fruit length
+SOY:0001717	Pod length	TO:0002626	fruit length
+SOY:0001717	Pod length	TO:0002626	fruit length
+SOY:0001717	Pod length	TO:0002626	fruit length
+SOY:0001717	Pod length	TO:0002626	fruit length
+SOY:0001717	Pod length	TO:0002626	fruit length
+SOY:0001717	Pod length	TO:0002626	fruit length
+SOY:0001717	Pod length	TO:0002626	fruit length
+SOY:0001717	Pod length	TO:0002626	fruit length
+SOY:0001717	Pod length	TO:0002626	fruit length
+SOY:0001717	Pod length	TO:0002626	fruit length
+SOY:0001717	Pod length	TO:0002626	fruit length
+SOY:0001717	Pod length	TO:0002626	fruit length
+SOY:0001717	Pod length	TO:0002626	fruit length
+SOY:0001717	Pod length	TO:0002626	fruit length
+SOY:0001717	Pod length	TO:0002626	fruit length
+SOY:0001717	Pod length	TO:0002626	fruit length
+SOY:0001717	Pod length	TO:0002626	fruit length
+SOY:0001717	Pod length	TO:0002626	fruit length
+SOY:0001717	Pod length	TO:0002626	fruit length
+SOY:0001717	Pod length	TO:0002626	fruit length
+SOY:0001717	Pod length	TO:0002626	fruit length
+SOY:0001717	Pod length	TO:0002626	fruit length
+SOY:0001717	Pod length	TO:0002626	fruit length
+SOY:0001717	Pod length	TO:0002626	fruit length
+SOY:0001717	Pod length	TO:0002626	fruit length
+SOY:0001717	Pod length	TO:0002626	fruit length
+SOY:0001743	Root Weight	TO:0000279	root weight
+SOY:0001743	Root Weight	TO:0000279	root weight
+SOY:0001743	Root Weight	TO:0000279	root weight
+SOY:0001743	Root Weight	TO:0000279	root weight
+SOY:0001743	Root Weight	TO:0000279	root weight
+SOY:0001743	Root Weight	TO:0000279	root weight
+SOY:0001743	Root Weight	TO:0000279	root weight
+SOY:0001743	Root Weight	TO:0000279	root weight
+SOY:0001743	Root Weight	TO:0000279	root weight
+SOY:0001846	Enzymatic activity	TO:0000599	enzyme activity trait
+SOY:0001846	Enzymatic activity	TO:0000599	enzyme activity trait
+SOY:0001846	Enzymatic activity	TO:0000599	enzyme activity trait
+SOY:0001846	Enzymatic activity	TO:0000599	enzyme activity trait
+SOY:0001906	Alpha-amylase activity	TO:0000288	alpha-amylase activity
+SOY:0001906	Alpha-amylase activity	TO:0000288	alpha-amylase activity
+SOY:0001906	Alpha-amylase activity	TO:0000288	alpha-amylase activity
+SOY:0001906	Alpha-amylase activity	TO:0000288	alpha-amylase activity
+SOY:0001971	Seed surface form	TO:0000086	sheath rot disease resistance
+SOY:0001971	Seed surface form	TO:0000086	sheath rot disease resistance
+SOY:0001971	Seed surface form	TO:0000086	sheath rot disease resistance
+SOY:0001971	Seed surface form	TO:0000086	sheath rot disease resistance
+SOY:0001971	Seed surface form	TO:0000086	sheath rot disease resistance
+SOY:0001971	Seed surface form	TO:0000086	sheath rot disease resistance
+SOY:0001971	Seed surface form	TO:0000086	sheath rot disease resistance
+SOY:0001971	Seed surface form	TO:0000086	sheath rot disease resistance
+SOY:0001971	Seed surface form	TO:0000086	sheath rot disease resistance
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001979	Seed length to width ratio	TO:0000411	seed length to width ratio
+SOY:0001985	Flower morphology and anatomy traits	TO:0000499	flower anatomy and morphology trait
+TO:0000086	sheath rot disease resistance	SOY:0001971	Seed surface form
+TO:0000086	sheath rot disease resistance	SOY:0001971	Seed surface form
+TO:0000086	sheath rot disease resistance	SOY:0001971	Seed surface form
+TO:0000086	sheath rot disease resistance	SOY:0001971	Seed surface form
+TO:0000086	sheath rot disease resistance	SOY:0001971	Seed surface form
+TO:0000086	sheath rot disease resistance	SOY:0001971	Seed surface form
+TO:0000086	sheath rot disease resistance	SOY:0001971	Seed surface form
+TO:0000086	sheath rot disease resistance	SOY:0001971	Seed surface form
+TO:0000086	sheath rot disease resistance	SOY:0001971	Seed surface form
+TO:0000135	leaf length	SOY:0001379	Leaflet Length
+TO:0000135	leaf length	SOY:0001379	Leaflet Length
+TO:0000135	leaf length	SOY:0001379	Leaflet Length
+TO:0000135	leaf length	SOY:0001379	Leaflet Length
+TO:0000135	leaf length	SOY:0001379	Leaflet Length
+TO:0000135	leaf length	SOY:0001379	Leaflet Length
+TO:0000135	leaf length	SOY:0001379	Leaflet Length
+TO:0000135	leaf length	SOY:0001379	Leaflet Length
+TO:0000135	leaf length	SOY:0001379	Leaflet Length
+TO:0000180	spikelet fertility	SOY:0001419	Seed Set
+TO:0000180	spikelet fertility	SOY:0001419	Seed Set
+TO:0000180	spikelet fertility	SOY:0001419	Seed Set
+TO:0000180	spikelet fertility	SOY:0001419	Seed Set
+TO:0000279	root weight	SOY:0001743	Root Weight
+TO:0000279	root weight	SOY:0001743	Root Weight
+TO:0000279	root weight	SOY:0001743	Root Weight
+TO:0000279	root weight	SOY:0001743	Root Weight
+TO:0000279	root weight	SOY:0001743	Root Weight
+TO:0000279	root weight	SOY:0001743	Root Weight
+TO:0000279	root weight	SOY:0001743	Root Weight
+TO:0000279	root weight	SOY:0001743	Root Weight
+TO:0000279	root weight	SOY:0001743	Root Weight
+TO:0000288	alpha-amylase activity	SOY:0001906	Alpha-amylase activity
+TO:0000288	alpha-amylase activity	SOY:0001906	Alpha-amylase activity
+TO:0000288	alpha-amylase activity	SOY:0001906	Alpha-amylase activity
+TO:0000288	alpha-amylase activity	SOY:0001906	Alpha-amylase activity
+TO:0000326	leaf color	SOY:0001387	Leaflet Color
+TO:0000326	leaf color	SOY:0001387	Leaflet Color
+TO:0000326	leaf color	SOY:0001387	Leaflet Color
+TO:0000326	leaf color	SOY:0001387	Leaflet Color
+TO:0000326	leaf color	SOY:0001387	Leaflet Color
+TO:0000326	leaf color	SOY:0001387	Leaflet Color
+TO:0000326	leaf color	SOY:0001387	Leaflet Color
+TO:0000326	leaf color	SOY:0001387	Leaflet Color
+TO:0000326	leaf color	SOY:0001387	Leaflet Color
+TO:0000326	leaf color	SOY:0001387	Leaflet Color
+TO:0000326	leaf color	SOY:0001387	Leaflet Color
+TO:0000326	leaf color	SOY:0001387	Leaflet Color
+TO:0000326	leaf color	SOY:0001387	Leaflet Color
+TO:0000326	leaf color	SOY:0001387	Leaflet Color
+TO:0000326	leaf color	SOY:0001387	Leaflet Color
+TO:0000326	leaf color	SOY:0001387	Leaflet Color
+TO:0000326	leaf color	SOY:0001387	Leaflet Color
+TO:0000326	leaf color	SOY:0001387	Leaflet Color
+TO:0000326	leaf color	SOY:0001387	Leaflet Color
+TO:0000326	leaf color	SOY:0001387	Leaflet Color
+TO:0000326	leaf color	SOY:0001387	Leaflet Color
+TO:0000326	leaf color	SOY:0001387	Leaflet Color
+TO:0000326	leaf color	SOY:0001387	Leaflet Color
+TO:0000326	leaf color	SOY:0001387	Leaflet Color
+TO:0000326	leaf color	SOY:0001387	Leaflet Color
+TO:0000326	leaf color	SOY:0001387	Leaflet Color
+TO:0000326	leaf color	SOY:0001387	Leaflet Color
+TO:0000326	leaf color	SOY:0001387	Leaflet Color
+TO:0000326	leaf color	SOY:0001387	Leaflet Color
+TO:0000326	leaf color	SOY:0001387	Leaflet Color
+TO:0000326	leaf color	SOY:0001387	Leaflet Color
+TO:0000326	leaf color	SOY:0001387	Leaflet Color
+TO:0000326	leaf color	SOY:0001387	Leaflet Color
+TO:0000326	leaf color	SOY:0001387	Leaflet Color
+TO:0000326	leaf color	SOY:0001387	Leaflet Color
+TO:0000326	leaf color	SOY:0001387	Leaflet Color
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000411	seed length to width ratio	SOY:0001979	Seed length to width ratio
+TO:0000445	seed number	SOY:0001630	Seed Number
+TO:0000445	seed number	SOY:0001630	Seed Number
+TO:0000445	seed number	SOY:0001630	Seed Number
+TO:0000445	seed number	SOY:0001630	Seed Number
+TO:0000445	seed number	SOY:0001630	Seed Number
+TO:0000445	seed number	SOY:0001630	Seed Number
+TO:0000445	seed number	SOY:0001630	Seed Number
+TO:0000445	seed number	SOY:0001630	Seed Number
+TO:0000445	seed number	SOY:0001630	Seed Number
+TO:0000445	seed number	SOY:0001630	Seed Number
+TO:0000445	seed number	SOY:0001630	Seed Number
+TO:0000445	seed number	SOY:0001630	Seed Number
+TO:0000445	seed number	SOY:0001630	Seed Number
+TO:0000445	seed number	SOY:0001630	Seed Number
+TO:0000445	seed number	SOY:0001630	Seed Number
+TO:0000445	seed number	SOY:0001630	Seed Number
+TO:0000445	seed number	SOY:0001630	Seed Number
+TO:0000445	seed number	SOY:0001630	Seed Number
+TO:0000445	seed number	SOY:0001630	Seed Number
+TO:0000445	seed number	SOY:0001630	Seed Number
+TO:0000445	seed number	SOY:0001630	Seed Number
+TO:0000445	seed number	SOY:0001630	Seed Number
+TO:0000445	seed number	SOY:0001630	Seed Number
+TO:0000445	seed number	SOY:0001630	Seed Number
+TO:0000445	seed number	SOY:0001630	Seed Number
+TO:0000445	seed number	SOY:0001630	Seed Number
+TO:0000445	seed number	SOY:0001630	Seed Number
+TO:0000445	seed number	SOY:0001630	Seed Number
+TO:0000445	seed number	SOY:0001630	Seed Number
+TO:0000445	seed number	SOY:0001630	Seed Number
+TO:0000445	seed number	SOY:0001630	Seed Number
+TO:0000445	seed number	SOY:0001630	Seed Number
+TO:0000445	seed number	SOY:0001630	Seed Number
+TO:0000445	seed number	SOY:0001630	Seed Number
+TO:0000445	seed number	SOY:0001630	Seed Number
+TO:0000445	seed number	SOY:0001630	Seed Number
+TO:0000499	flower anatomy and morphology trait	SOY:0001985	Flower morphology and anatomy traits
+TO:0000599	enzyme activity trait	SOY:0001846	Enzymatic activity
+TO:0000599	enzyme activity trait	SOY:0001846	Enzymatic activity
+TO:0000599	enzyme activity trait	SOY:0001846	Enzymatic activity
+TO:0000599	enzyme activity trait	SOY:0001846	Enzymatic activity
+TO:0000622	flower development trait	SOY:0001639	Flower development traits
+TO:0000622	flower development trait	SOY:0001639	Flower development traits
+TO:0000622	flower development trait	SOY:0001639	Flower development traits
+TO:0000622	flower development trait	SOY:0001639	Flower development traits
+TO:0000930	seed shattering	SOY:0001341	Hilum abscission
+TO:0000930	seed shattering	SOY:0001341	Hilum abscission
+TO:0000930	seed shattering	SOY:0001341	Hilum abscission
+TO:0000930	seed shattering	SOY:0001341	Hilum abscission
+TO:0002626	fruit length	SOY:0001717	Pod length
+TO:0002626	fruit length	SOY:0001717	Pod length
+TO:0002626	fruit length	SOY:0001717	Pod length
+TO:0002626	fruit length	SOY:0001717	Pod length
+TO:0002626	fruit length	SOY:0001717	Pod length
+TO:0002626	fruit length	SOY:0001717	Pod length
+TO:0002626	fruit length	SOY:0001717	Pod length
+TO:0002626	fruit length	SOY:0001717	Pod length
+TO:0002626	fruit length	SOY:0001717	Pod length
+TO:0002626	fruit length	SOY:0001717	Pod length
+TO:0002626	fruit length	SOY:0001717	Pod length
+TO:0002626	fruit length	SOY:0001717	Pod length
+TO:0002626	fruit length	SOY:0001717	Pod length
+TO:0002626	fruit length	SOY:0001717	Pod length
+TO:0002626	fruit length	SOY:0001717	Pod length
+TO:0002626	fruit length	SOY:0001717	Pod length
+TO:0002626	fruit length	SOY:0001717	Pod length
+TO:0002626	fruit length	SOY:0001717	Pod length
+TO:0002626	fruit length	SOY:0001717	Pod length
+TO:0002626	fruit length	SOY:0001717	Pod length
+TO:0002626	fruit length	SOY:0001717	Pod length
+TO:0002626	fruit length	SOY:0001717	Pod length
+TO:0002626	fruit length	SOY:0001717	Pod length
+TO:0002626	fruit length	SOY:0001717	Pod length
+TO:0002626	fruit length	SOY:0001717	Pod length
+TO:0002626	fruit length	SOY:0001717	Pod length
+TO:0002626	fruit length	SOY:0001717	Pod length
+TO:0002626	fruit length	SOY:0001717	Pod length
+TO:0002626	fruit length	SOY:0001717	Pod length
+TO:0002626	fruit length	SOY:0001717	Pod length
+TO:0002626	fruit length	SOY:0001717	Pod length
+TO:0002626	fruit length	SOY:0001717	Pod length
+TO:0002626	fruit length	SOY:0001717	Pod length
+TO:0002626	fruit length	SOY:0001717	Pod length
+TO:0002626	fruit length	SOY:0001717	Pod length
+TO:0002626	fruit length	SOY:0001717	Pod length
+TO:0020054	barley stripe rust disease resistance	SOY:0001320	Reaction to Phialophora gregata infection
+TO:0020054	barley stripe rust disease resistance	SOY:0001320	Reaction to Phialophora gregata infection
+TO:0020054	barley stripe rust disease resistance	SOY:0001320	Reaction to Phialophora gregata infection
+TO:0020054	barley stripe rust disease resistance	SOY:0001320	Reaction to Phialophora gregata infection
+TO:0020054	barley stripe rust disease resistance	SOY:0001320	Reaction to Phialophora gregata infection
+TO:0020054	barley stripe rust disease resistance	SOY:0001320	Reaction to Phialophora gregata infection
+TO:0020054	barley stripe rust disease resistance	SOY:0001320	Reaction to Phialophora gregata infection
+TO:0020054	barley stripe rust disease resistance	SOY:0001320	Reaction to Phialophora gregata infection
+TO:0020054	barley stripe rust disease resistance	SOY:0001320	Reaction to Phialophora gregata infection

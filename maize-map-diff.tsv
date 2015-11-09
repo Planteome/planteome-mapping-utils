@@ -1,0 +1,25 @@
+TO:0000157 ! canopy temperature	TO:0000168 ! abiotic stress trait	CO_322:0000142 ! Canopy temperature	CO_322:0000043 ! Abiotic stress trait
+TO:0000157 ! canopy temperature	TO:0000164 ! stress trait	CO_322:0000142 ! Canopy temperature	CO_322:0000042 ! Stress trait
+TO:0000707 ! pericarp color	TO:0002728 ! fruit quality trait	CO_322:0000192 ! Pericarp color	CO_322:0000111 ! Whole-grain zinc content
+TO:0000707 ! pericarp color	TO:0000597 ! quality trait	CO_322:0000192 ! Pericarp color	CO_322:0000029 ! Quality trait
+TO:0000057 ! grain moisture	TO:0000597 ! quality trait	CO_322:0000033 ! Grain moisture	CO_322:0000029 ! Quality trait
+TO:0000463 ! anthesis silking interval	TO:0000933 ! plant phenological trait	CO_322:0000001 ! Anthesis silking interval	CO_322:0000023 ! Phenological trait
+TO:0000345 ! seed viability	TO:0000597 ! quality trait	CO_322:0000040 ! Seed viability	CO_322:0000029 ! Quality trait
+TO:0000328 ! sucrose content	TO:0000333 ! sugar content	CO_322:0000120 ! Sucrose content	CO_322:0000114 ! Sugar content
+TO:0000300 ! glucose content	TO:0000333 ! sugar content	CO_322:0000115 ! Glucose content	CO_322:0000114 ! Sugar content
+CO_322:0000032 ! Days to maturity	CO_322:0000023 ! Phenological trait	TO:0000469 ! days to maturity	TO:0000933 ! plant phenological trait
+CO_322:0000032 ! Days to maturity	CO_322:0000023 ! Phenological trait	TO:0000469 ! days to maturity	TO:0000933 ! plant phenological trait
+CO_322:0000032 ! Days to maturity	CO_322:0000023 ! Phenological trait	TO:0000469 ! days to maturity	TO:0000933 ! plant phenological trait
+CO_322:0000032 ! Days to maturity	CO_322:0000023 ! Phenological trait	TO:0000469 ! days to maturity	TO:0000933 ! plant phenological trait
+CO_322:0000160 ! Leaf rolling	CO_322:0000043 ! Abiotic stress trait	TO:0000085 ! leaf rolling	TO:0000168 ! abiotic stress trait
+CO_322:0000160 ! Leaf rolling	CO_322:0000043 ! Abiotic stress trait	TO:0000085 ! leaf rolling	TO:0000168 ! abiotic stress trait
+CO_322:0000160 ! Leaf rolling	CO_322:0000042 ! Stress trait	TO:0000085 ! leaf rolling	TO:0000164 ! stress trait
+CO_322:0000160 ! Leaf rolling	CO_322:0000042 ! Stress trait	TO:0000085 ! leaf rolling	TO:0000164 ! stress trait
+CO_322:0000160 ! Leaf rolling	CO_322:0000043 ! Abiotic stress trait	TO:0000085 ! leaf rolling	TO:0000168 ! abiotic stress trait
+CO_322:0000160 ! Leaf rolling	CO_322:0000043 ! Abiotic stress trait	TO:0000085 ! leaf rolling	TO:0000168 ! abiotic stress trait
+CO_322:0000160 ! Leaf rolling	CO_322:0000042 ! Stress trait	TO:0000085 ! leaf rolling	TO:0000164 ! stress trait
+CO_322:0000160 ! Leaf rolling	CO_322:0000042 ! Stress trait	TO:0000085 ! leaf rolling	TO:0000164 ! stress trait
+CO_322:0000121 ! Protein content	CO_322:0000029 ! Quality trait	TO:0000598 ! protein content	TO:0000597 ! quality trait
+CO_322:0000121 ! Protein content	CO_322:0000029 ! Quality trait	TO:0000598 ! protein content	TO:0000597 ! quality trait
+CO_322:0000121 ! Protein content	CO_322:0000029 ! Quality trait	TO:0000598 ! protein content	TO:0000597 ! quality trait
+CO_322:0000121 ! Protein content	CO_322:0000029 ! Quality trait	TO:0000598 ! protein content	TO:0000597 ! quality trait

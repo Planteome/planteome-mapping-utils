@@ -1,0 +1,2562 @@
+[Term]
+id: CO_334:0100434/2 ! Intermediate
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100448/1 ! No symptom
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100475/2 ! Mild
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100485/5 ! Extremely severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100550/2 ! Short
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100489/5 ! Extremely severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: TO:0002667 ! abscisic acid content
+xref: CO_334:0000047 ! Abscisic Acid Content
+
+[Term]
+id: CO_334:0000047 ! Abscisic Acid Content
+xref: TO:0002667 ! abscisic acid content
+
+[Term]
+id: CO_334:0100494/1 ! Short
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100489/2 ! Mild
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100545/2 ! Medium
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100473/1 ! No symptom
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100548/1 ! Ovoid
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100438/2 ! Mild
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100500/2 ! difficult
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100450/4 ! Very severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100539/2 ! suitable
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100471/1 ! No symptom
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100489/3 ! Severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100529/1 ! No symptom
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100447/2 ! Mild
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0000075 ! Amylose Content
+xref: TO:0000196 ! amylose content
+
+[Term]
+id: CO_334:0100486/3 ! Severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100459/4 ! Very severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100503/2 ! Sweet
+xref: TO:0000700 ! fruit sweetness
+
+[Term]
+id: CO_334:0100550/3 ! Medium
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100437/1 ! No symptom
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100518/2 ! Intermediate
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100478/3 ! Severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100570/3 ! irregular
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100570/2 ! Tending toward horizontal
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100543/1 ! Light green
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100504/3 ! Yellow
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: TO:0000196 ! amylose content
+xref: CO_334:0000075 ! Amylose Content
+
+[Term]
+id: CO_334:0100567/3 ! 3
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100531/2 ! Mild
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100547/3 ! Deflexed
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100544/3 ! Moderate pubescence
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100554/4 ! High pubescence
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100552/4 ! Totally pigmented
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0000127 ! Stem weight
+xref: TO:0000952 ! stem weight
+
+[Term]
+id: CO_334:0100436/5 ! Extremely severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100460/5 ! Extremely severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100460/4 ! Very severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100449/1 ! No symptom
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100496/1 ! White or cream
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100450/1 ! No symptom
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100571/2 ! Medium
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100439/3 ! Severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100437/4 ! Very severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100548/5 ! Lanceolate
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100547/1 ! Erect
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100498/3 ! pink
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0000081 ! Leaf Vein Color
+xref: TO:0000719 ! leaf vein color
+
+[Term]
+id: TO:0000327 ! shoot system yield trait
+xref: CO_334:0100434/1 ! Low
+xref: CO_334:0100434/2 ! Intermediate
+xref: CO_334:0100434/3 ! High
+xref: CO_334:0100435/1 ! No symptom
+xref: CO_334:0100435/2 ! Mild
+xref: CO_334:0100435/3 ! Severe
+xref: CO_334:0100435/4 ! Very severe
+xref: CO_334:0100435/5 ! Extremely severe
+xref: CO_334:0100436/1 ! No symptom
+xref: CO_334:0100436/2 ! Mild
+xref: CO_334:0100436/3 ! Severe
+xref: CO_334:0100436/4 ! Very severe
+xref: CO_334:0100436/5 ! Extremely severe
+xref: CO_334:0100437/1 ! No symptom
+xref: CO_334:0100437/2 ! Mild
+xref: CO_334:0100437/3 ! Severe
+xref: CO_334:0100437/4 ! Very severe
+xref: CO_334:0100437/5 ! Extremely severe
+xref: CO_334:0100438/1 ! No symptom
+xref: CO_334:0100438/2 ! Mild
+xref: CO_334:0100438/3 ! Severe
+xref: CO_334:0100438/4 ! Very severe
+xref: CO_334:0100438/5 ! Extremely severe
+xref: CO_334:0100439/1 ! No symptom
+xref: CO_334:0100439/2 ! Mild
+xref: CO_334:0100439/3 ! Severe
+xref: CO_334:0100439/4 ! Very severe
+xref: CO_334:0100439/5 ! Extremely severe
+xref: CO_334:0100440/1 ! No symptom
+xref: CO_334:0100440/2 ! Mild
+xref: CO_334:0100440/3 ! Severe
+xref: CO_334:0100440/4 ! Very severe
+xref: CO_334:0100440/5 ! Extremely severe
+xref: CO_334:0100447/1 ! No symptom
+xref: CO_334:0100447/2 ! Mild
+xref: CO_334:0100447/3 ! Severe
+xref: CO_334:0100447/4 ! Very severe
+xref: CO_334:0100447/5 ! Extremely severe
+xref: CO_334:0100448/1 ! No symptom
+xref: CO_334:0100448/2 ! Mild
+xref: CO_334:0100448/3 ! Severe
+xref: CO_334:0100448/4 ! Very severe
+xref: CO_334:0100448/5 ! Extremely severe
+xref: CO_334:0100449/1 ! No symptom
+xref: CO_334:0100449/2 ! Mild
+xref: CO_334:0100449/3 ! Severe
+xref: CO_334:0100449/4 ! Very severe
+xref: CO_334:0100449/5 ! Extremely severe
+xref: CO_334:0100450/1 ! No symptom
+xref: CO_334:0100450/2 ! Mild
+xref: CO_334:0100450/3 ! Severe
+xref: CO_334:0100450/4 ! Very severe
+xref: CO_334:0100450/5 ! Extremely severe
+xref: CO_334:0100451/1 ! No symptom
+xref: CO_334:0100451/2 ! Mild
+xref: CO_334:0100451/3 ! Severe
+xref: CO_334:0100451/4 ! Very severe
+xref: CO_334:0100451/5 ! Extremely severe
+xref: CO_334:0100457/1 ! No symptom
+xref: CO_334:0100457/2 ! Mild
+xref: CO_334:0100457/3 ! Severe
+xref: CO_334:0100457/4 ! Very severe
+xref: CO_334:0100457/5 ! Extremely severe
+xref: CO_334:0100458/1 ! No symptom
+xref: CO_334:0100458/2 ! Mild
+xref: CO_334:0100458/3 ! Severe
+xref: CO_334:0100458/4 ! Very severe
+xref: CO_334:0100458/5 ! Extremely severe
+xref: CO_334:0100459/1 ! No symptom
+xref: CO_334:0100459/2 ! Mild
+xref: CO_334:0100459/3 ! Severe
+xref: CO_334:0100459/4 ! Very severe
+xref: CO_334:0100459/5 ! Extremely severe
+xref: CO_334:0100460/1 ! No symptom
+xref: CO_334:0100460/2 ! Mild
+xref: CO_334:0100460/3 ! Severe
+xref: CO_334:0100460/4 ! Very severe
+xref: CO_334:0100460/5 ! Extremely severe
+xref: CO_334:0100461/1 ! No symptom
+xref: CO_334:0100461/2 ! Mild
+xref: CO_334:0100461/3 ! Severe
+xref: CO_334:0100461/4 ! Very severe
+xref: CO_334:0100461/5 ! Extremely severe
+xref: CO_334:0100470/1 ! No symptom
+xref: CO_334:0100470/2 ! Mild
+xref: CO_334:0100470/3 ! Severe
+xref: CO_334:0100470/4 ! Very severe
+xref: CO_334:0100470/5 ! Extremely severe
+xref: CO_334:0100471/1 ! No symptom
+xref: CO_334:0100471/2 ! Mild
+xref: CO_334:0100471/3 ! Severe
+xref: CO_334:0100471/4 ! Very severe
+xref: CO_334:0100471/5 ! Extremely severe
+xref: CO_334:0100472/1 ! No symptom
+xref: CO_334:0100472/2 ! Mild
+xref: CO_334:0100472/3 ! Severe
+xref: CO_334:0100472/4 ! Very severe
+xref: CO_334:0100472/5 ! Extremely severe
+xref: CO_334:0100473/1 ! No symptom
+xref: CO_334:0100473/2 ! Mild
+xref: CO_334:0100473/3 ! Severe
+xref: CO_334:0100473/4 ! Very severe
+xref: CO_334:0100473/5 ! Extremely severe
+xref: CO_334:0100475/1 ! No symptom
+xref: CO_334:0100475/2 ! Mild
+xref: CO_334:0100475/3 ! Severe
+xref: CO_334:0100475/4 ! Very severe
+xref: CO_334:0100475/5 ! Extremely severe
+xref: CO_334:0100476/1 ! No symptom
+xref: CO_334:0100476/2 ! Mild
+xref: CO_334:0100476/3 ! Severe
+xref: CO_334:0100476/4 ! Very severe
+xref: CO_334:0100476/5 ! Extremely severe
+xref: CO_334:0100477/1 ! No symptom
+xref: CO_334:0100477/2 ! Mild
+xref: CO_334:0100477/3 ! Severe
+xref: CO_334:0100477/4 ! Very severe
+xref: CO_334:0100477/5 ! Extremely severe
+xref: CO_334:0100478/1 ! No symptom
+xref: CO_334:0100478/2 ! Mild
+xref: CO_334:0100478/3 ! Severe
+xref: CO_334:0100478/4 ! Very severe
+xref: CO_334:0100478/5 ! Extremely severe
+xref: CO_334:0100479/1 ! No symptom
+xref: CO_334:0100479/2 ! Mild
+xref: CO_334:0100479/3 ! Severe
+xref: CO_334:0100479/4 ! Very severe
+xref: CO_334:0100479/5 ! Extremely severe
+xref: CO_334:0100485/1 ! No symptom
+xref: CO_334:0100485/2 ! Mild
+xref: CO_334:0100485/3 ! Severe
+xref: CO_334:0100485/4 ! Very severe
+xref: CO_334:0100485/5 ! Extremely severe
+xref: CO_334:0100486/1 ! No symptom
+xref: CO_334:0100486/2 ! Mild
+xref: CO_334:0100486/3 ! Severe
+xref: CO_334:0100486/4 ! Very severe
+xref: CO_334:0100486/5 ! Extremely severe
+xref: CO_334:0100489/1 ! No symptom
+xref: CO_334:0100489/2 ! Mild
+xref: CO_334:0100489/3 ! Severe
+xref: CO_334:0100489/4 ! Very severe
+xref: CO_334:0100489/5 ! Extremely severe
+xref: CO_334:0100494/1 ! Short
+xref: CO_334:0100494/2 ! Medium
+xref: CO_334:0100494/3 ! Long
+xref: CO_334:0100495/1 ! Conical
+xref: CO_334:0100495/2 ! conical-cylindrical
+xref: CO_334:0100495/3 ! Cylindrical
+xref: CO_334:0100495/4 ! Fusiform
+xref: CO_334:0100495/5 ! Irregular
+xref: CO_334:0100495/6 ! Combination of above
+xref: CO_334:0100496/1 ! White or cream
+xref: CO_334:0100496/2 ! yellow
+xref: CO_334:0100496/3 ! pink
+xref: CO_334:0100496/4 ! purple
+xref: CO_334:0100497/1 ! White or cream
+xref: CO_334:0100497/2 ! yellow
+xref: CO_334:0100497/3 ! pink
+xref: CO_334:0100497/4 ! purple
+xref: CO_334:0100498/1 ! White or cream
+xref: CO_334:0100498/2 ! yellow
+xref: CO_334:0100498/3 ! pink
+xref: CO_334:0100499/2 ! Short
+xref: CO_334:0100499/3 ! Medium
+xref: CO_334:0100499/4 ! Long
+xref: CO_334:0100500/1 ! easy
+xref: CO_334:0100500/2 ! difficult
+xref: CO_334:0100502/2 ! Slightly poundable
+xref: CO_334:0100502/3 ! Poundable
+xref: CO_334:0100502/4 ! Very poundable
+xref: CO_334:0100503/1 ! Bland
+xref: CO_334:0100503/3 ! Bitter
+xref: CO_334:0100504/1 ! White
+xref: CO_334:0100504/2 ! Cream
+xref: CO_334:0100504/3 ! Yellow
+xref: CO_334:0100505/1 ! not detectable
+xref: CO_334:0100505/2 ! very high
+xref: CO_334:0100507/1 ! Silver
+xref: CO_334:0100507/2 ! light brown or orange
+xref: CO_334:0100507/3 ! dark brown
+xref: CO_334:0100507/4 ! dark green
+xref: CO_334:0100508/2 ! 15-30
+xref: CO_334:0100508/3 ! 45-60
+xref: CO_334:0100508/4 ! 75-90
+xref: CO_334:0100511/1 ! no stress
+xref: CO_334:0100511/2 ! low susceptibility
+xref: CO_334:0100511/3 ! medium suceptibility
+xref: CO_334:0100511/4 ! high susceptibility
+xref: CO_334:0100512/1 ! Excellent
+xref: CO_334:0100512/2 ! Good
+xref: CO_334:0100512/3 ! Fair
+xref: CO_334:0100512/4 ! Bad
+xref: CO_334:0100512/5 ! Very bad
+xref: CO_334:0100513/2 ! Present
+xref: CO_334:0100514/2 ! Present
+xref: CO_334:0100515/2 ! Pedunclate
+xref: CO_334:0100515/3 ! Mixed
+xref: CO_334:0100516/2 ! Present
+xref: CO_334:0100516/3 ! Mixte"}
+xref: CO_334:0100517/1 ! White or cream
+xref: CO_334:0100517/2 ! Light brown
+xref: CO_334:0100517/3 ! Dark brown
+xref: CO_334:0100518/1 ! Smooth
+xref: CO_334:0100518/2 ! Intermediate
+xref: CO_334:0100518/3 ! Rough
+xref: CO_334:0100525/1 ! white
+xref: CO_334:0100525/2 ! light cream
+xref: CO_334:0100525/3 ! cream
+xref: CO_334:0100525/4 ! light yellow
+xref: CO_334:0100525/5 ! yellow
+xref: CO_334:0100525/6 ! deep yellow
+xref: CO_334:0100525/7 ! orange
+xref: CO_334:0100525/8 ! pink
+xref: CO_334:0100528/2 ! low branching(<0.5m)
+xref: CO_334:0100528/3 ! medium branching(>0.5m<
+xref: CO_334:0100528/4 ! high branching
+xref: CO_334:0100529/1 ! No symptom
+xref: CO_334:0100529/2 ! Mild
+xref: CO_334:0100529/3 ! Severe
+xref: CO_334:0100529/4 ! Very severe
+xref: CO_334:0100529/5 ! Extremely severe
+xref: CO_334:0100531/1 ! No symptom
+xref: CO_334:0100531/2 ! Mild
+xref: CO_334:0100531/3 ! Severe
+xref: CO_334:0100531/4 ! Very severe
+xref: CO_334:0100531/5 ! Extremely severe
+xref: CO_334:0100539/2 ! suitable
+xref: CO_334:0100540/1 ! Low
+xref: CO_334:0100540/2 ! Medium
+xref: CO_334:0100540/3 ! High
+xref: CO_334:0100541/1 ! Light green
+xref: CO_334:0100541/2 ! Dark green
+xref: CO_334:0100541/3 ! Green purple
+xref: CO_334:0100541/4 ! Purple
+xref: CO_334:0100542/1 ! Light green
+xref: CO_334:0100542/2 ! Dark green
+xref: CO_334:0100542/3 ! Green purple
+xref: CO_334:0100542/4 ! Purple
+xref: CO_334:0100543/1 ! Light green
+xref: CO_334:0100543/2 ! Dark green
+xref: CO_334:0100543/3 ! Green purple
+xref: CO_334:0100543/4 ! Purple
+xref: CO_334:0100544/2 ! Little pubescence
+xref: CO_334:0100544/3 ! Moderate pubescence
+xref: CO_334:0100544/4 ! High pubescence
+xref: CO_334:0100545/1 ! Short
+xref: CO_334:0100545/2 ! Medium
+xref: CO_334:0100545/3 ! Long
+xref: CO_334:0100547/1 ! Erect
+xref: CO_334:0100547/2 ! Horizontal
+xref: CO_334:0100547/3 ! Deflexed
+xref: CO_334:0100547/4 ! Retorse
+xref: CO_334:0100548/1 ! Ovoid
+xref: CO_334:0100548/2 ! Elliptic-lanceolate
+xref: CO_334:0100548/3 ! Obovate-lanceolate
+xref: CO_334:0100548/4 ! Oblong-lanceolate
+xref: CO_334:0100548/5 ! Lanceolate
+xref: CO_334:0100548/6 ! Straight or Linear
+xref: CO_334:0100549/2 ! 15-30
+xref: CO_334:0100549/3 ! 45-60
+xref: CO_334:0100549/4 ! 75-90
+xref: CO_334:0100550/2 ! Short
+xref: CO_334:0100550/3 ! Medium
+xref: CO_334:0100550/4 ! Long
+xref: CO_334:0100551/1 ! Light green
+xref: CO_334:0100551/2 ! Dark green
+xref: CO_334:0100551/3 ! Green purple
+xref: CO_334:0100551/4 ! Red
+xref: CO_334:0100551/5 ! Purple
+xref: CO_334:0100552/2 ! Top part
+xref: CO_334:0100552/3 ! Central part
+xref: CO_334:0100552/4 ! Totally pigmented
+xref: CO_334:0100553/1 ! Straight
+xref: CO_334:0100553/2 ! Zig-zag
+xref: CO_334:0100554/2 ! Little pubescence
+xref: CO_334:0100554/3 ! Moderate pubescence
+xref: CO_334:0100554/4 ! High pubescence
+xref: CO_334:0100555/1 ! Little prominence
+xref: CO_334:0100555/2 ! Moderate
+xref: CO_334:0100555/3 ! Prominent
+xref: CO_334:0100559/1 ! White or cream
+xref: CO_334:0100559/2 ! Orange
+xref: CO_334:0100559/3 ! Green
+xref: CO_334:0100559/4 ! Red
+xref: CO_334:0100559/5 ! Purple
+xref: CO_334:0100560/1 ! White
+xref: CO_334:0100560/2 ! Orange
+xref: CO_334:0100560/3 ! Green
+xref: CO_334:0100560/4 ! Red
+xref: CO_334:0100560/5 ! Purple
+xref: CO_334:0100561/1 ! White
+xref: CO_334:0100561/2 ! Orange
+xref: CO_334:0100561/3 ! Green
+xref: CO_334:0100561/4 ! Red
+xref: CO_334:0100561/5 ! Purple
+xref: CO_334:0100562/1 ! White
+xref: CO_334:0100562/2 ! Orange
+xref: CO_334:0100562/3 ! Green
+xref: CO_334:0100562/4 ! Red
+xref: CO_334:0100562/5 ! Purple
+xref: CO_334:0100564/2 ! Present
+xref: CO_334:0100565/2 ! Present
+xref: CO_334:0100566/1 ! Smooth
+xref: CO_334:0100566/2 ! Rough
+xref: CO_334:0100567/1 ! 1
+xref: CO_334:0100567/2 ! 2
+xref: CO_334:0100567/3 ! 3
+xref: CO_334:0100567/4 ! 4
+xref: CO_334:0100568/1 ! Brown
+xref: CO_334:0100568/2 ! Grey
+xref: CO_334:0100568/3 ! Black
+xref: CO_334:0100568/4 ! Dark brown
+xref: CO_334:0100569/1 ! White or cream
+xref: CO_334:0100569/2 ! Pink or red
+xref: CO_334:0100569/3 ! Purple
+xref: CO_334:0100570/1 ! Tending toward vertical
+xref: CO_334:0100570/2 ! Tending toward horizontal
+xref: CO_334:0100570/3 ! irregular
+xref: CO_334:0100571/1 ! Short
+xref: CO_334:0100571/2 ! Medium
+xref: CO_334:0100571/3 ! Long
+xref: CO_334:0100603/1 ! erect
+xref: CO_334:0100603/2 ! dichotomous
+xref: CO_334:0100603/3 ! trichotomous
+xref: CO_334:0100603/4 ! tetrachotomous
+xref: CO_334:0100615/1 ! none
+xref: CO_334:0100615/2 ! mild chlorotic blotches on <10% of leaves
+xref: CO_334:0100615/3 ! damaged moderate chlorotic blotches on 10-30% of leaves
+xref: CO_334:0100615/4 ! chlorosis on 30-50% of leaves
+xref: CO_334:0100615/5 ! chlorosis on >50% of leaves
+xref: CO_334:0100616/1 ! present
+
+[Term]
+id: CO_334:0100440/1 ! No symptom
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100615/5 ! chlorosis on >50% of leaves
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100436/1 ! No symptom
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100561/3 ! Green
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100615/4 ! chlorosis on 30-50% of leaves
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100477/1 ! No symptom
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100472/2 ! Mild
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100525/5 ! yellow
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100486/4 ! Very severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: TO:0002707 ! petiole color
+xref: CO_334:0000023 ! Petiole Color
+
+[Term]
+id: CO_334:0100495/6 ! Combination of above
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100450/2 ! Mild
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100615/3 ! damaged moderate chlorotic blotches on 10-30% of leaves
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100495/5 ! Irregular
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100548/2 ! Elliptic-lanceolate
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100496/2 ! yellow
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100476/1 ! No symptom
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100460/3 ! Severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100479/5 ! Extremely severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100562/1 ! White
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100494/3 ! Long
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100525/7 ! orange
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: TO:0000597 ! quality trait
+xref: CO_334:Quality%20traits ! Quality traits
+
+[Term]
+id: CO_334:0000018 ! Plant Height
+xref: TO:0000207 ! plant height
+
+[Term]
+id: CO_334:0100449/4 ! Very severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0000110 ! Fruit Set
+xref: TO:0000852 ! fruit set
+
+[Term]
+id: CO_334:0000057 ! Stigma Color
+xref: TO:0000185 ! stigma color
+
+[Term]
+id: CO_334:0100459/1 ! No symptom
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100603/1 ! erect
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100551/5 ! Purple
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100548/4 ! Oblong-lanceolate
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100458/3 ! Severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100551/4 ! Red
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100559/3 ! Green
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100562/3 ! Green
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100504/2 ! Cream
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100562/2 ! Orange
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100471/2 ! Mild
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100451/4 ! Very severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100507/2 ! light brown or orange
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100473/4 ! Very severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100458/2 ! Mild
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100485/1 ! No symptom
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100447/5 ! Extremely severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100545/1 ! Short
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100436/3 ! Severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: TO:0000084 ! root number
+xref: CO_334:0000011 ! Root Number
+
+[Term]
+id: CO_334:0100477/5 ! Extremely severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100541/3 ! Green purple
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100434/3 ! High
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100528/3 ! medium branching(>0.5m<
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100459/5 ! Extremely severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100568/2 ! Grey
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100512/3 ! Fair
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0000070 ! Protein Content
+xref: TO:0000598 ! protein content
+
+[Term]
+id: CO_334:0100498/2 ! yellow
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100568/3 ! Black
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100499/4 ! Long
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100555/1 ! Little prominence
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: TO:0000207 ! plant height
+xref: CO_334:0000018 ! Plant Height
+
+[Term]
+id: CO_334:0100471/3 ! Severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: TO:0000573 ! sepal color
+xref: CO_334:0000060 ! Sepal Color
+
+[Term]
+id: CO_334:0100486/1 ! No symptom
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100564/2 ! Present
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100508/4 ! 75-90
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100479/2 ! Mild
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: TO:0000372 ! amylose to amylopectin ratio
+xref: CO_334:0000124 ! Amylose Amylopectin Ratio
+
+[Term]
+id: CO_334:0100450/3 ! Severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100544/4 ! High pubescence
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100603/3 ! trichotomous
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100549/3 ! 45-60
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: TO:0000571 ! shoot fresh weight
+xref: CO_334:0000016 ! Fresh Shoot Weight
+
+[Term]
+id: TO:0000185 ! stigma color
+xref: CO_334:0000057 ! Stigma Color
+
+[Term]
+id: CO_334:0100475/4 ! Very severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100553/2 ! Zig-zag
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: TO:0000187 ! anther color
+xref: CO_334:0000061 ! Anther Color
+
+[Term]
+id: TO:0000700 ! fruit sweetness
+xref: CO_334:0100503/2 ! Sweet
+
+[Term]
+id: CO_334:0100447/3 ! Severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100603/4 ! tetrachotomous
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100475/5 ! Extremely severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100615/2 ! mild chlorotic blotches on <10% of leaves
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100497/2 ! yellow
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100569/3 ! Purple
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100559/1 ! White or cream
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100559/5 ! Purple
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100457/3 ! Severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100511/2 ! low susceptibility
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100472/1 ! No symptom
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0000024 ! Petiole Length
+xref: TO:0000766 ! petiole length
+
+[Term]
+id: CO_334:0100438/3 ! Severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100434/1 ! Low
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100478/4 ! Very severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100461/5 ! Extremely severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100471/4 ! Very severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100448/5 ! Extremely severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100512/1 ! Excellent
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100436/2 ! Mild
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100470/1 ! No symptom
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100551/1 ! Light green
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100457/5 ! Extremely severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100473/3 ! Severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: TO:0020089 ! iron content
+xref: CO_334:0000068 ! Iron Content
+
+[Term]
+id: TO:0000953 ! stem number
+xref: CO_334:0000129 ! Stem number
+
+[Term]
+id: CO_334:0100562/5 ! Purple
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100542/1 ! Light green
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100531/3 ! Severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100485/3 ! Severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100566/2 ! Rough
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100560/2 ! Orange
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100460/2 ! Mild
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100531/1 ! No symptom
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: TO:0000486 ! seed color
+xref: CO_334:0000063 ! Seed Color
+
+[Term]
+id: CO_334:0100569/2 ! Pink or red
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100515/3 ! Mixed
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100437/5 ! Extremely severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100447/1 ! No symptom
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100548/6 ! Straight or Linear
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100512/5 ! Very bad
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100440/5 ! Extremely severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100560/3 ! Green
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:Quality%20traits ! Quality traits
+xref: TO:0000597 ! quality trait
+
+[Term]
+id: CO_334:0100470/3 ! Severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100540/2 ! Medium
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100512/2 ! Good
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:Biotic%20stress%20traits ! Biotic stress traits
+xref: TO:0000179 ! biotic stress trait
+
+[Term]
+id: CO_334:0100437/3 ! Severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100496/3 ! pink
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100438/1 ! No symptom
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: TO:0000128 ! harvest index
+xref: CO_334:0000015 ! Harvest Index
+
+[Term]
+id: CO_334:0100525/8 ! pink
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100529/2 ! Mild
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100540/3 ! High
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100511/3 ! medium suceptibility
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100513/2 ! Present
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100507/1 ! Silver
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100437/2 ! Mild
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: TO:0000179 ! biotic stress trait
+xref: CO_334:Biotic%20stress%20traits ! Biotic stress traits
+
+[Term]
+id: CO_334:0100449/5 ! Extremely severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100555/2 ! Moderate
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100451/3 ! Severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100497/4 ! purple
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0000016 ! Fresh Shoot Weight
+xref: TO:0000571 ! shoot fresh weight
+
+[Term]
+id: CO_334:0100435/2 ! Mild
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100495/4 ! Fusiform
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100525/6 ! deep yellow
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100616/1 ! present
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100515/2 ! Pedunclate
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: TO:0000696 ! starch content
+xref: CO_334:0000071 ! Starch Content
+
+[Term]
+id: CO_334:0000078 ! Zinc Content
+xref: TO:0020090 ! zinc content
+
+[Term]
+id: CO_334:0000015 ! Harvest Index
+xref: TO:0000128 ! harvest index
+
+[Term]
+id: CO_334:0100439/2 ! Mild
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100504/1 ! White
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100559/2 ! Orange
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100512/4 ! Bad
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100459/2 ! Mild
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100525/3 ! cream
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100450/5 ! Extremely severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100470/4 ! Very severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: TO:0000852 ! fruit set
+xref: CO_334:0000110 ! Fruit Set
+
+[Term]
+id: CO_334:0100567/1 ! 1
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100438/4 ! Very severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100477/2 ! Mild
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: TO:0000056 ! stem color
+xref: CO_334:0000062 ! Stem Color
+
+[Term]
+id: CO_334:0100486/2 ! Mild
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100553/1 ! Straight
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100505/2 ! very high
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100472/3 ! Severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100567/2 ! 2
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100478/1 ! No symptom
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100525/4 ! light yellow
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100514/2 ! Present
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100477/4 ! Very severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100439/1 ! No symptom
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100547/4 ! Retorse
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100551/2 ! Dark green
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100457/2 ! Mild
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100552/2 ! Top part
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100489/4 ! Very severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100476/2 ! Mild
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100435/3 ! Severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100460/1 ! No symptom
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100568/1 ! Brown
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100435/5 ! Extremely severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100525/2 ! light cream
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100516/2 ! Present
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: TO:0000333 ! sugar content
+xref: CO_334:0000072 ! Sugar Content
+
+[Term]
+id: CO_334:0100541/1 ! Light green
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100543/2 ! Dark green
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0000107 ! Male Sterile
+xref: TO:0000437 ! male sterility
+
+[Term]
+id: CO_334:0100548/3 ! Obovate-lanceolate
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0000068 ! Iron Content
+xref: TO:0020089 ! iron content
+
+[Term]
+id: CO_334:0100500/1 ! easy
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0000060 ! Sepal Color
+xref: TO:0000573 ! sepal color
+
+[Term]
+id: CO_334:0100529/3 ! Severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100470/2 ! Mild
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100547/2 ! Horizontal
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0000124 ! Amylose Amylopectin Ratio
+xref: TO:0000372 ! amylose to amylopectin ratio
+
+[Term]
+id: CO_334:0000066 ! Ash Content
+xref: TO:0000607 ! ash content
+
+[Term]
+id: CO_334:0100478/5 ! Extremely severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100541/2 ! Dark green
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100496/4 ! purple
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100485/2 ! Mild
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100555/3 ! Prominent
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100495/2 ! conical-cylindrical
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0000062 ! Stem Color
+xref: TO:0000056 ! stem color
+
+[Term]
+id: TO:0000766 ! petiole length
+xref: CO_334:0000024 ! Petiole Length
+
+[Term]
+id: CO_334:0100542/2 ! Dark green
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100516/3 ! Mixte"}
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100470/5 ! Extremely severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100529/5 ! Extremely severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100476/5 ! Extremely severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100502/3 ! Poundable
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100568/4 ! Dark brown
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100531/4 ! Very severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100451/1 ! No symptom
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100439/4 ! Very severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100566/1 ! Smooth
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100541/4 ! Purple
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0000129 ! Stem number
+xref: TO:0000953 ! stem number
+
+[Term]
+id: CO_334:0100498/1 ! White or cream
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100495/3 ! Cylindrical
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100497/3 ! pink
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100440/4 ! Very severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100447/4 ! Very severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100554/3 ! Moderate pubescence
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100544/2 ! Little pubescence
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100461/1 ! No symptom
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100542/3 ! Green purple
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0000063 ! Seed Color
+xref: TO:0000486 ! seed color
+
+[Term]
+id: CO_334:0100517/1 ! White or cream
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: TO:0000607 ! ash content
+xref: CO_334:0000066 ! Ash Content
+
+[Term]
+id: CO_334:0100435/4 ! Very severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0000072 ! Sugar Content
+xref: TO:0000333 ! sugar content
+
+[Term]
+id: CO_334:0100507/3 ! dark brown
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100570/1 ! Tending toward vertical
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100435/1 ! No symptom
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100471/5 ! Extremely severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100473/2 ! Mild
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100448/3 ! Severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: TO:0000097 ! amylopectin content
+xref: CO_334:0000121 ! Amylopectin Content
+
+[Term]
+id: CO_334:0100449/2 ! Mild
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100448/2 ! Mild
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: TO:0000719 ! leaf vein color
+xref: CO_334:0000081 ! Leaf Vein Color
+
+[Term]
+id: CO_334:0100476/3 ! Severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100495/1 ! Conical
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100451/2 ! Mild
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100458/4 ! Very severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100439/5 ! Extremely severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100528/2 ! low branching(<0.5m)
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100503/1 ! Bland
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100517/2 ! Light brown
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100561/1 ! White
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100438/5 ! Extremely severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100615/1 ! none
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100472/5 ! Extremely severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100531/5 ! Extremely severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100552/3 ! Central part
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100559/4 ! Red
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100511/1 ! no stress
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0000061 ! Anther Color
+xref: TO:0000187 ! anther color
+
+[Term]
+id: CO_334:0100458/5 ! Extremely severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100545/3 ! Long
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: TO:0000437 ! male sterility
+xref: CO_334:0000107 ! Male Sterile
+
+[Term]
+id: CO_334:0100569/1 ! White or cream
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100485/4 ! Very severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100517/3 ! Dark brown
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100550/4 ! Long
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100549/4 ! 75-90
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100473/5 ! Extremely severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100475/1 ! No symptom
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100508/2 ! 15-30
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100560/5 ! Purple
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100440/2 ! Mild
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100565/2 ! Present
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100440/3 ! Severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0000071 ! Starch Content
+xref: TO:0000696 ! starch content
+
+[Term]
+id: CO_334:0100560/4 ! Red
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100554/2 ! Little pubescence
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100479/1 ! No symptom
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100458/1 ! No symptom
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100562/4 ! Red
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: TO:0000598 ! protein content
+xref: CO_334:0000070 ! Protein Content
+
+[Term]
+id: CO_334:0100567/4 ! 4
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: TO:0000072 ! awn length
+xref: CO_334:0100434/1 ! Low
+xref: CO_334:0100434/2 ! Intermediate
+xref: CO_334:0100434/3 ! High
+xref: CO_334:0100435/1 ! No symptom
+xref: CO_334:0100435/2 ! Mild
+xref: CO_334:0100435/3 ! Severe
+xref: CO_334:0100435/4 ! Very severe
+xref: CO_334:0100435/5 ! Extremely severe
+xref: CO_334:0100436/1 ! No symptom
+xref: CO_334:0100436/2 ! Mild
+xref: CO_334:0100436/3 ! Severe
+xref: CO_334:0100436/4 ! Very severe
+xref: CO_334:0100436/5 ! Extremely severe
+xref: CO_334:0100437/1 ! No symptom
+xref: CO_334:0100437/2 ! Mild
+xref: CO_334:0100437/3 ! Severe
+xref: CO_334:0100437/4 ! Very severe
+xref: CO_334:0100437/5 ! Extremely severe
+xref: CO_334:0100438/1 ! No symptom
+xref: CO_334:0100438/2 ! Mild
+xref: CO_334:0100438/3 ! Severe
+xref: CO_334:0100438/4 ! Very severe
+xref: CO_334:0100438/5 ! Extremely severe
+xref: CO_334:0100439/1 ! No symptom
+xref: CO_334:0100439/2 ! Mild
+xref: CO_334:0100439/3 ! Severe
+xref: CO_334:0100439/4 ! Very severe
+xref: CO_334:0100439/5 ! Extremely severe
+xref: CO_334:0100440/1 ! No symptom
+xref: CO_334:0100440/2 ! Mild
+xref: CO_334:0100440/3 ! Severe
+xref: CO_334:0100440/4 ! Very severe
+xref: CO_334:0100440/5 ! Extremely severe
+xref: CO_334:0100447/1 ! No symptom
+xref: CO_334:0100447/2 ! Mild
+xref: CO_334:0100447/3 ! Severe
+xref: CO_334:0100447/4 ! Very severe
+xref: CO_334:0100447/5 ! Extremely severe
+xref: CO_334:0100448/1 ! No symptom
+xref: CO_334:0100448/2 ! Mild
+xref: CO_334:0100448/3 ! Severe
+xref: CO_334:0100448/4 ! Very severe
+xref: CO_334:0100448/5 ! Extremely severe
+xref: CO_334:0100449/1 ! No symptom
+xref: CO_334:0100449/2 ! Mild
+xref: CO_334:0100449/3 ! Severe
+xref: CO_334:0100449/4 ! Very severe
+xref: CO_334:0100449/5 ! Extremely severe
+xref: CO_334:0100450/1 ! No symptom
+xref: CO_334:0100450/2 ! Mild
+xref: CO_334:0100450/3 ! Severe
+xref: CO_334:0100450/4 ! Very severe
+xref: CO_334:0100450/5 ! Extremely severe
+xref: CO_334:0100451/1 ! No symptom
+xref: CO_334:0100451/2 ! Mild
+xref: CO_334:0100451/3 ! Severe
+xref: CO_334:0100451/4 ! Very severe
+xref: CO_334:0100451/5 ! Extremely severe
+xref: CO_334:0100457/1 ! No symptom
+xref: CO_334:0100457/2 ! Mild
+xref: CO_334:0100457/3 ! Severe
+xref: CO_334:0100457/4 ! Very severe
+xref: CO_334:0100457/5 ! Extremely severe
+xref: CO_334:0100458/1 ! No symptom
+xref: CO_334:0100458/2 ! Mild
+xref: CO_334:0100458/3 ! Severe
+xref: CO_334:0100458/4 ! Very severe
+xref: CO_334:0100458/5 ! Extremely severe
+xref: CO_334:0100459/1 ! No symptom
+xref: CO_334:0100459/2 ! Mild
+xref: CO_334:0100459/3 ! Severe
+xref: CO_334:0100459/4 ! Very severe
+xref: CO_334:0100459/5 ! Extremely severe
+xref: CO_334:0100460/1 ! No symptom
+xref: CO_334:0100460/2 ! Mild
+xref: CO_334:0100460/3 ! Severe
+xref: CO_334:0100460/4 ! Very severe
+xref: CO_334:0100460/5 ! Extremely severe
+xref: CO_334:0100461/1 ! No symptom
+xref: CO_334:0100461/2 ! Mild
+xref: CO_334:0100461/3 ! Severe
+xref: CO_334:0100461/4 ! Very severe
+xref: CO_334:0100461/5 ! Extremely severe
+xref: CO_334:0100470/1 ! No symptom
+xref: CO_334:0100470/2 ! Mild
+xref: CO_334:0100470/3 ! Severe
+xref: CO_334:0100470/4 ! Very severe
+xref: CO_334:0100470/5 ! Extremely severe
+xref: CO_334:0100471/1 ! No symptom
+xref: CO_334:0100471/2 ! Mild
+xref: CO_334:0100471/3 ! Severe
+xref: CO_334:0100471/4 ! Very severe
+xref: CO_334:0100471/5 ! Extremely severe
+xref: CO_334:0100472/1 ! No symptom
+xref: CO_334:0100472/2 ! Mild
+xref: CO_334:0100472/3 ! Severe
+xref: CO_334:0100472/4 ! Very severe
+xref: CO_334:0100472/5 ! Extremely severe
+xref: CO_334:0100473/1 ! No symptom
+xref: CO_334:0100473/2 ! Mild
+xref: CO_334:0100473/3 ! Severe
+xref: CO_334:0100473/4 ! Very severe
+xref: CO_334:0100473/5 ! Extremely severe
+xref: CO_334:0100475/1 ! No symptom
+xref: CO_334:0100475/2 ! Mild
+xref: CO_334:0100475/3 ! Severe
+xref: CO_334:0100475/4 ! Very severe
+xref: CO_334:0100475/5 ! Extremely severe
+xref: CO_334:0100476/1 ! No symptom
+xref: CO_334:0100476/2 ! Mild
+xref: CO_334:0100476/3 ! Severe
+xref: CO_334:0100476/4 ! Very severe
+xref: CO_334:0100476/5 ! Extremely severe
+xref: CO_334:0100477/1 ! No symptom
+xref: CO_334:0100477/2 ! Mild
+xref: CO_334:0100477/3 ! Severe
+xref: CO_334:0100477/4 ! Very severe
+xref: CO_334:0100477/5 ! Extremely severe
+xref: CO_334:0100478/1 ! No symptom
+xref: CO_334:0100478/2 ! Mild
+xref: CO_334:0100478/3 ! Severe
+xref: CO_334:0100478/4 ! Very severe
+xref: CO_334:0100478/5 ! Extremely severe
+xref: CO_334:0100479/1 ! No symptom
+xref: CO_334:0100479/2 ! Mild
+xref: CO_334:0100479/3 ! Severe
+xref: CO_334:0100479/4 ! Very severe
+xref: CO_334:0100479/5 ! Extremely severe
+xref: CO_334:0100485/1 ! No symptom
+xref: CO_334:0100485/2 ! Mild
+xref: CO_334:0100485/3 ! Severe
+xref: CO_334:0100485/4 ! Very severe
+xref: CO_334:0100485/5 ! Extremely severe
+xref: CO_334:0100486/1 ! No symptom
+xref: CO_334:0100486/2 ! Mild
+xref: CO_334:0100486/3 ! Severe
+xref: CO_334:0100486/4 ! Very severe
+xref: CO_334:0100486/5 ! Extremely severe
+xref: CO_334:0100489/1 ! No symptom
+xref: CO_334:0100489/2 ! Mild
+xref: CO_334:0100489/3 ! Severe
+xref: CO_334:0100489/4 ! Very severe
+xref: CO_334:0100489/5 ! Extremely severe
+xref: CO_334:0100494/1 ! Short
+xref: CO_334:0100494/2 ! Medium
+xref: CO_334:0100494/3 ! Long
+xref: CO_334:0100495/1 ! Conical
+xref: CO_334:0100495/2 ! conical-cylindrical
+xref: CO_334:0100495/3 ! Cylindrical
+xref: CO_334:0100495/4 ! Fusiform
+xref: CO_334:0100495/5 ! Irregular
+xref: CO_334:0100495/6 ! Combination of above
+xref: CO_334:0100496/1 ! White or cream
+xref: CO_334:0100496/2 ! yellow
+xref: CO_334:0100496/3 ! pink
+xref: CO_334:0100496/4 ! purple
+xref: CO_334:0100497/1 ! White or cream
+xref: CO_334:0100497/2 ! yellow
+xref: CO_334:0100497/3 ! pink
+xref: CO_334:0100497/4 ! purple
+xref: CO_334:0100498/1 ! White or cream
+xref: CO_334:0100498/2 ! yellow
+xref: CO_334:0100498/3 ! pink
+xref: CO_334:0100499/2 ! Short
+xref: CO_334:0100499/3 ! Medium
+xref: CO_334:0100499/4 ! Long
+xref: CO_334:0100500/1 ! easy
+xref: CO_334:0100500/2 ! difficult
+xref: CO_334:0100502/2 ! Slightly poundable
+xref: CO_334:0100502/3 ! Poundable
+xref: CO_334:0100502/4 ! Very poundable
+xref: CO_334:0100503/1 ! Bland
+xref: CO_334:0100503/3 ! Bitter
+xref: CO_334:0100504/1 ! White
+xref: CO_334:0100504/2 ! Cream
+xref: CO_334:0100504/3 ! Yellow
+xref: CO_334:0100505/1 ! not detectable
+xref: CO_334:0100505/2 ! very high
+xref: CO_334:0100507/1 ! Silver
+xref: CO_334:0100507/2 ! light brown or orange
+xref: CO_334:0100507/3 ! dark brown
+xref: CO_334:0100507/4 ! dark green
+xref: CO_334:0100508/2 ! 15-30
+xref: CO_334:0100508/3 ! 45-60
+xref: CO_334:0100508/4 ! 75-90
+xref: CO_334:0100511/1 ! no stress
+xref: CO_334:0100511/2 ! low susceptibility
+xref: CO_334:0100511/3 ! medium suceptibility
+xref: CO_334:0100511/4 ! high susceptibility
+xref: CO_334:0100512/1 ! Excellent
+xref: CO_334:0100512/2 ! Good
+xref: CO_334:0100512/3 ! Fair
+xref: CO_334:0100512/4 ! Bad
+xref: CO_334:0100512/5 ! Very bad
+xref: CO_334:0100513/2 ! Present
+xref: CO_334:0100514/2 ! Present
+xref: CO_334:0100515/2 ! Pedunclate
+xref: CO_334:0100515/3 ! Mixed
+xref: CO_334:0100516/2 ! Present
+xref: CO_334:0100516/3 ! Mixte"}
+xref: CO_334:0100517/1 ! White or cream
+xref: CO_334:0100517/2 ! Light brown
+xref: CO_334:0100517/3 ! Dark brown
+xref: CO_334:0100518/1 ! Smooth
+xref: CO_334:0100518/2 ! Intermediate
+xref: CO_334:0100518/3 ! Rough
+xref: CO_334:0100525/1 ! white
+xref: CO_334:0100525/2 ! light cream
+xref: CO_334:0100525/3 ! cream
+xref: CO_334:0100525/4 ! light yellow
+xref: CO_334:0100525/5 ! yellow
+xref: CO_334:0100525/6 ! deep yellow
+xref: CO_334:0100525/7 ! orange
+xref: CO_334:0100525/8 ! pink
+xref: CO_334:0100528/2 ! low branching(<0.5m)
+xref: CO_334:0100528/3 ! medium branching(>0.5m<
+xref: CO_334:0100528/4 ! high branching
+xref: CO_334:0100529/1 ! No symptom
+xref: CO_334:0100529/2 ! Mild
+xref: CO_334:0100529/3 ! Severe
+xref: CO_334:0100529/4 ! Very severe
+xref: CO_334:0100529/5 ! Extremely severe
+xref: CO_334:0100531/1 ! No symptom
+xref: CO_334:0100531/2 ! Mild
+xref: CO_334:0100531/3 ! Severe
+xref: CO_334:0100531/4 ! Very severe
+xref: CO_334:0100531/5 ! Extremely severe
+xref: CO_334:0100539/2 ! suitable
+xref: CO_334:0100540/1 ! Low
+xref: CO_334:0100540/2 ! Medium
+xref: CO_334:0100540/3 ! High
+xref: CO_334:0100541/1 ! Light green
+xref: CO_334:0100541/2 ! Dark green
+xref: CO_334:0100541/3 ! Green purple
+xref: CO_334:0100541/4 ! Purple
+xref: CO_334:0100542/1 ! Light green
+xref: CO_334:0100542/2 ! Dark green
+xref: CO_334:0100542/3 ! Green purple
+xref: CO_334:0100542/4 ! Purple
+xref: CO_334:0100543/1 ! Light green
+xref: CO_334:0100543/2 ! Dark green
+xref: CO_334:0100543/3 ! Green purple
+xref: CO_334:0100543/4 ! Purple
+xref: CO_334:0100544/2 ! Little pubescence
+xref: CO_334:0100544/3 ! Moderate pubescence
+xref: CO_334:0100544/4 ! High pubescence
+xref: CO_334:0100545/1 ! Short
+xref: CO_334:0100545/2 ! Medium
+xref: CO_334:0100545/3 ! Long
+xref: CO_334:0100547/1 ! Erect
+xref: CO_334:0100547/2 ! Horizontal
+xref: CO_334:0100547/3 ! Deflexed
+xref: CO_334:0100547/4 ! Retorse
+xref: CO_334:0100548/1 ! Ovoid
+xref: CO_334:0100548/2 ! Elliptic-lanceolate
+xref: CO_334:0100548/3 ! Obovate-lanceolate
+xref: CO_334:0100548/4 ! Oblong-lanceolate
+xref: CO_334:0100548/5 ! Lanceolate
+xref: CO_334:0100548/6 ! Straight or Linear
+xref: CO_334:0100549/2 ! 15-30
+xref: CO_334:0100549/3 ! 45-60
+xref: CO_334:0100549/4 ! 75-90
+xref: CO_334:0100550/2 ! Short
+xref: CO_334:0100550/3 ! Medium
+xref: CO_334:0100550/4 ! Long
+xref: CO_334:0100551/1 ! Light green
+xref: CO_334:0100551/2 ! Dark green
+xref: CO_334:0100551/3 ! Green purple
+xref: CO_334:0100551/4 ! Red
+xref: CO_334:0100551/5 ! Purple
+xref: CO_334:0100552/2 ! Top part
+xref: CO_334:0100552/3 ! Central part
+xref: CO_334:0100552/4 ! Totally pigmented
+xref: CO_334:0100553/1 ! Straight
+xref: CO_334:0100553/2 ! Zig-zag
+xref: CO_334:0100554/2 ! Little pubescence
+xref: CO_334:0100554/3 ! Moderate pubescence
+xref: CO_334:0100554/4 ! High pubescence
+xref: CO_334:0100555/1 ! Little prominence
+xref: CO_334:0100555/2 ! Moderate
+xref: CO_334:0100555/3 ! Prominent
+xref: CO_334:0100559/1 ! White or cream
+xref: CO_334:0100559/2 ! Orange
+xref: CO_334:0100559/3 ! Green
+xref: CO_334:0100559/4 ! Red
+xref: CO_334:0100559/5 ! Purple
+xref: CO_334:0100560/1 ! White
+xref: CO_334:0100560/2 ! Orange
+xref: CO_334:0100560/3 ! Green
+xref: CO_334:0100560/4 ! Red
+xref: CO_334:0100560/5 ! Purple
+xref: CO_334:0100561/1 ! White
+xref: CO_334:0100561/2 ! Orange
+xref: CO_334:0100561/3 ! Green
+xref: CO_334:0100561/4 ! Red
+xref: CO_334:0100561/5 ! Purple
+xref: CO_334:0100562/1 ! White
+xref: CO_334:0100562/2 ! Orange
+xref: CO_334:0100562/3 ! Green
+xref: CO_334:0100562/4 ! Red
+xref: CO_334:0100562/5 ! Purple
+xref: CO_334:0100564/2 ! Present
+xref: CO_334:0100565/2 ! Present
+xref: CO_334:0100566/1 ! Smooth
+xref: CO_334:0100566/2 ! Rough
+xref: CO_334:0100567/1 ! 1
+xref: CO_334:0100567/2 ! 2
+xref: CO_334:0100567/3 ! 3
+xref: CO_334:0100567/4 ! 4
+xref: CO_334:0100568/1 ! Brown
+xref: CO_334:0100568/2 ! Grey
+xref: CO_334:0100568/3 ! Black
+xref: CO_334:0100568/4 ! Dark brown
+xref: CO_334:0100569/1 ! White or cream
+xref: CO_334:0100569/2 ! Pink or red
+xref: CO_334:0100569/3 ! Purple
+xref: CO_334:0100570/1 ! Tending toward vertical
+xref: CO_334:0100570/2 ! Tending toward horizontal
+xref: CO_334:0100570/3 ! irregular
+xref: CO_334:0100571/1 ! Short
+xref: CO_334:0100571/2 ! Medium
+xref: CO_334:0100571/3 ! Long
+xref: CO_334:0100603/1 ! erect
+xref: CO_334:0100603/2 ! dichotomous
+xref: CO_334:0100603/3 ! trichotomous
+xref: CO_334:0100603/4 ! tetrachotomous
+xref: CO_334:0100615/1 ! none
+xref: CO_334:0100615/2 ! mild chlorotic blotches on <10% of leaves
+xref: CO_334:0100615/3 ! damaged moderate chlorotic blotches on 10-30% of leaves
+xref: CO_334:0100615/4 ! chlorosis on 30-50% of leaves
+xref: CO_334:0100615/5 ! chlorosis on >50% of leaves
+xref: CO_334:0100616/1 ! present
+
+[Term]
+id: CO_334:0000023 ! Petiole Color
+xref: TO:0002707 ! petiole color
+
+[Term]
+id: CO_334:0100571/1 ! Short
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0000011 ! Root Number
+xref: TO:0000084 ! root number
+
+[Term]
+id: CO_334:0100549/2 ! 15-30
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100561/2 ! Orange
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100499/3 ! Medium
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100502/2 ! Slightly poundable
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100479/3 ! Severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100436/4 ! Very severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100472/4 ! Very severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100499/2 ! Short
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100511/4 ! high susceptibility
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100461/3 ! Severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100476/4 ! Very severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100505/1 ! not detectable
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100560/1 ! White
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100457/1 ! No symptom
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100502/4 ! Very poundable
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100518/1 ! Smooth
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100540/1 ! Low
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100494/2 ! Medium
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100507/4 ! dark green
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100461/4 ! Very severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100529/4 ! Very severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100571/3 ! Long
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100543/4 ! Purple
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100457/4 ! Very severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100479/4 ! Very severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100497/1 ! White or cream
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100486/5 ! Extremely severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100551/3 ! Green purple
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100461/2 ! Mild
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100603/2 ! dichotomous
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: TO:0020090 ! zinc content
+xref: CO_334:0000078 ! Zinc Content
+
+[Term]
+id: CO_334:0100561/5 ! Purple
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100459/3 ! Severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100542/4 ! Purple
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100449/3 ! Severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100448/4 ! Very severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100503/3 ! Bitter
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100508/3 ! 45-60
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100451/5 ! Extremely severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100475/3 ! Severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100477/3 ! Severe
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: TO:0000952 ! stem weight
+xref: CO_334:0000127 ! Stem weight
+
+[Term]
+id: CO_334:0000121 ! Amylopectin Content
+xref: TO:0000097 ! amylopectin content
+
+[Term]
+id: CO_334:0100489/1 ! No symptom
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100528/4 ! high branching
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100543/3 ! Green purple
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100478/2 ! Mild
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100518/3 ! Rough
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100525/1 ! white
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+
+[Term]
+id: CO_334:0100561/4 ! Red
+xref: TO:0000072 ! awn length
+xref: TO:0000327 ! shoot system yield trait
+

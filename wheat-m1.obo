@@ -1,0 +1,351 @@
+ontology: map
+
+[Term]
+id: TO:0020089
+xref: CO_321:0000222
+!! Score: 0.8836
+
+[Term]
+id: TO:0000164
+xref: CO_321:0000004
+!! Score: 0.8836
+
+[Term]
+id: TO:0001007
+xref: CO_321:0000029
+!! Score: 0.8836
+
+[Term]
+id: TO:0000495
+xref: CO_321:0000028
+!! Score: 0.8836
+
+[Term]
+id: TO:0000339
+xref: CO_321:0000062
+!! Score: 0.8836
+
+[Term]
+id: TO:0020090
+xref: CO_321:0000224
+!! Score: 0.8836
+
+[Term]
+id: TO:0000179
+xref: CO_321:0000077
+!! Score: 0.8836
+
+[Term]
+id: TO:0000168
+xref: CO_321:0000076
+!! Score: 0.8836
+
+[Term]
+id: TO:0020035
+xref: CO_321:0000033
+!! Score: 0.8836
+
+[Term]
+id: TO:0000303
+xref: CO_321:0000080
+!! Score: 0.8836
+
+[Term]
+id: TO:0000072
+xref: CO_321:0000026
+!! Score: 0.8836
+
+[Term]
+id: TO:0020034
+xref: CO_321:0000036
+!! Score: 0.8836
+
+[Term]
+id: TO:0020051
+xref: CO_321:0000171
+!! Score: 0.8836
+
+[Term]
+id: TO:0000370
+xref: CO_321:0000049
+!! Score: 0.8836
+
+[Term]
+id: TO:0000221
+xref: CO_321:0000031
+!! Score: 0.8836
+
+[Term]
+id: TO:0000522
+xref: CO_321:0000018
+!! Score: 0.8836
+
+[Term]
+id: TO:0000634
+xref: CO_321:0000051
+!! Score: 0.8836
+
+[Term]
+id: TO:0000566
+xref: CO_321:0000143
+!! Score: 0.8836
+
+[Term]
+id: TO:0020052
+xref: CO_321:0000116
+!! Score: 0.8836
+
+[Term]
+id: TO:0000157
+xref: CO_321:0000193
+!! Score: 0.8836
+
+[Term]
+id: TO:0000276
+xref: CO_321:0000131
+!! Score: 0.8836
+
+[Term]
+id: TO:0020037
+xref: CO_321:0000034
+!! Score: 0.8836
+
+[Term]
+id: TO:0000258
+xref: CO_321:0000047
+!! Score: 0.8836
+
+[Term]
+id: TO:0001008
+xref: CO_321:0000030
+!! Score: 0.8836
+
+[Term]
+id: TO:0000057
+xref: CO_321:0000012
+!! Score: 0.8836
+
+[Term]
+id: TO:0020033
+xref: CO_321:0000032
+!! Score: 0.8836
+
+[Term]
+id: TO:0012001
+xref: CO_321:0000184
+!! Score: 0.8836
+
+[Term]
+id: TO:0006001
+xref: CO_321:0000132
+!! Score: 0.8836
+
+[Term]
+id: TO:0000597
+xref: CO_321:0000003
+!! Score: 0.8836
+
+[Term]
+id: TO:0000207
+xref: CO_321:0000020
+!! Score: 0.8836
+
+[Term]
+id: TO:0000135
+xref: CO_321:0000044
+!! Score: 0.8836
+
+[Term]
+id: TO:0002691
+xref: CO_321:0000052
+!! Score: 0.8836
+
+[Term]
+id: TO:0000469
+xref: CO_321:0000008
+!! Score: 0.8836
+
+[Term]
+id: TO:0000137
+xref: CO_321:0000007
+!! Score: 0.8836
+
+[Term]
+id: TO:0001034
+xref: CO_321:0000024
+!! Score: 0.8836
+
+[Term]
+id: TO:0000128
+xref: CO_321:0000123
+!! Score: 0.8836
+
+[Term]
+id: TO:0000259
+xref: CO_321:0000176
+!! Score: 0.8836
+
+[Term]
+id: TO:0002759
+xref: CO_321:0000017
+!! Score: 0.8836
+
+[Term]
+id: TO:0000523
+xref: CO_321:0000063
+!! Score: 0.8836
+
+[Term]
+id: TO:0000397
+xref: CO_321:0000040
+!! Score: 0.8836
+
+[Term]
+id: TO:0002734
+xref: CO_321:0000027
+!! Score: 0.8742
+
+[Term]
+id: TO:0002617
+xref: CO_321:0000037
+!! Score: 0.8742
+
+[Term]
+id: TO:0000040
+xref: CO_321:0000058
+!! Score: 0.8742
+
+[Term]
+id: TO:0002768
+xref: CO_321:0000056
+!! Score: 0.8742
+
+[Term]
+id: TO:0000612
+xref: CO_321:0000159
+!! Score: 0.8742
+
+[Term]
+id: TO:0020055
+xref: CO_321:0000129
+!! Score: 0.8742
+
+[Term]
+id: TO:0000296
+xref: CO_321:0000009
+!! Score: 0.8648
+
+[Term]
+id: TO:0000273
+xref: CO_321:0000086
+!! Score: 0.8648
+
+[Term]
+id: TO:0020067
+xref: CO_321:0000096
+!! Score: 0.8648
+
+[Term]
+id: TO:0000709
+xref: CO_321:0000048
+!! Score: 0.8648
+
+[Term]
+id: TO:0010001
+xref: CO_321:0000011
+!! Score: 0.8648
+
+[Term]
+id: TO:0000382
+xref: CO_321:0000025
+!! Score: 0.8554
+
+[Term]
+id: TO:0020016
+xref: CO_321:0000043
+!! Score: 0.8554
+
+[Term]
+id: TO:0002756
+xref: CO_321:0000015
+!! Score: 0.846
+
+[Term]
+id: TO:0000576
+xref: CO_321:0000060
+!! Score: 0.8272
+
+[Term]
+id: TO:0000236
+xref: CO_321:0000083
+!! Score: 0.7558
+
+[Term]
+id: TO:0000161
+xref: CO_321:0000164
+!! Score: 0.7558
+
+[Term]
+id: TO:0000148
+xref: CO_321:0000139
+!! Score: 0.7281
+
+[Term]
+id: TO:0000439
+xref: CO_321:0000122
+!! Score: 0.7201
+
+[Term]
+id: TO:0000315
+xref: CO_321:0000137
+!! Score: 0.7116
+
+[Term]
+id: TO:0001024
+xref: CO_321:0000223
+!! Score: 0.6954
+
+[Term]
+id: TO:0000933
+xref: CO_321:0000010
+!! Score: 0.6727
+
+[Term]
+id: TO:0000625
+xref: CO_321:0000055
+!! Score: 0.663
+
+[Term]
+id: TO:0002728
+xref: CO_321:0000395
+!! Score: 0.6528
+
+[Term]
+id: TO:0000652
+xref: CO_321:0000175
+!! Score: 0.6503
+
+[Term]
+id: TO:0000152
+xref: CO_321:0000166
+!! Score: 0.6385
+
+[Term]
+id: TO:0000450
+xref: CO_321:0000038
+!! Score: 0.6364
+
+[Term]
+id: TO:0001022
+xref: CO_321:0000021
+!! Score: 0.6345
+
+[Term]
+id: TO:0002722
+xref: CO_321:0000046
+!! Score: 0.6266
+
+[Term]
+id: TO:0002643
+xref: CO_321:0000195
+!! Score: 0.6204

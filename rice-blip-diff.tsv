@@ -1,0 +1,834 @@
+CO_320:0000100 ! grain weight	CO_320:0000101 ! grain quality trait	TO:0000181 ! seed weight	TO:0000162 ! grain quality trait
+CO_320:0000100 ! grain weight	CO_320:0000101 ! grain quality trait	TO:0000181 ! seed weight	TO:0000162 ! grain quality trait
+CO_320:0000100 ! grain weight	CO_320:0000101 ! grain quality trait	TO:0000181 ! seed weight	TO:0000162 ! grain quality trait
+CO_320:0000100 ! grain weight	CO_320:0000101 ! grain quality trait	TO:0000181 ! seed weight	TO:0000162 ! grain quality trait
+CO_320:0000100 ! grain weight	CO_320:0000101 ! grain quality trait	TO:0000269 ! 100-seed weight	TO:0000162 ! grain quality trait
+CO_320:0000100 ! grain weight	CO_320:0000101 ! grain quality trait	TO:0000269 ! 100-seed weight	TO:0000162 ! grain quality trait
+CO_320:0000100 ! grain weight	CO_320:0000101 ! grain quality trait	TO:0000269 ! 100-seed weight	TO:0000162 ! grain quality trait
+CO_320:0000100 ! grain weight	CO_320:0000101 ! grain quality trait	TO:0000269 ! 100-seed weight	TO:0000162 ! grain quality trait
+CO_320:0000100 ! grain weight	CO_320:0000101 ! grain quality trait	TO:0000590 ! dehulled grain weight	TO:0000162 ! grain quality trait
+CO_320:0000100 ! grain weight	CO_320:0000101 ! grain quality trait	TO:0000590 ! dehulled grain weight	TO:0000162 ! grain quality trait
+CO_320:0000102 ! amylose content	CO_320:0000101 ! grain quality trait	TO:0000196 ! amylose content	TO:0000162 ! grain quality trait
+CO_320:0000102 ! amylose content	CO_320:0000101 ! grain quality trait	TO:0000196 ! amylose content	TO:0000162 ! grain quality trait
+CO_320:0000102 ! amylose content	CO_320:0000101 ! grain quality trait	TO:0000196 ! amylose content	TO:0000162 ! grain quality trait
+CO_320:0000102 ! amylose content	CO_320:0000101 ! grain quality trait	TO:0000196 ! amylose content	TO:0000162 ! grain quality trait
+CO_320:0000103 ! aroma	CO_320:0000101 ! grain quality trait	TO:0000087 ! aroma	TO:0000162 ! grain quality trait
+CO_320:0000103 ! aroma	CO_320:0000101 ! grain quality trait	TO:0000087 ! aroma	TO:0000162 ! grain quality trait
+CO_320:0000103 ! aroma	CO_320:0000101 ! grain quality trait	TO:0000087 ! aroma	TO:0000162 ! grain quality trait
+CO_320:0000103 ! aroma	CO_320:0000101 ! grain quality trait	TO:0000087 ! aroma	TO:0000162 ! grain quality trait
+CO_320:0000104 ! chalkiness of endosperm	CO_320:0000101 ! grain quality trait	TO:0000266 ! chalky endosperm	TO:0000162 ! grain quality trait
+CO_320:0000104 ! chalkiness of endosperm	CO_320:0000101 ! grain quality trait	TO:0000266 ! chalky endosperm	TO:0000162 ! grain quality trait
+CO_320:0000104 ! chalkiness of endosperm	CO_320:0000101 ! grain quality trait	TO:0000266 ! chalky endosperm	TO:0000162 ! grain quality trait
+CO_320:0000104 ! chalkiness of endosperm	CO_320:0000101 ! grain quality trait	TO:0000266 ! chalky endosperm	TO:0000162 ! grain quality trait
+CO_320:0000105 ! elongation in deepwater	CO_320:0000101 ! grain quality trait	TO:0000377 ! cooked grain elongation	TO:0000162 ! grain quality trait
+CO_320:0000105 ! elongation in deepwater	CO_320:0000101 ! grain quality trait	TO:0000377 ! cooked grain elongation	TO:0000162 ! grain quality trait
+CO_320:0000106 ! gel consistency	CO_320:0000101 ! grain quality trait	TO:0000211 ! gel consistency	TO:0000162 ! grain quality trait
+CO_320:0000106 ! gel consistency	CO_320:0000101 ! grain quality trait	TO:0000211 ! gel consistency	TO:0000162 ! grain quality trait
+CO_320:0000106 ! gel consistency	CO_320:0000101 ! grain quality trait	TO:0000211 ! gel consistency	TO:0000162 ! grain quality trait
+CO_320:0000106 ! gel consistency	CO_320:0000101 ! grain quality trait	TO:0000211 ! gel consistency	TO:0000162 ! grain quality trait
+CO_320:0000107 ! gelatinization temperature	CO_320:0000101 ! grain quality trait	TO:0000462 ! gelatinization temperature	TO:0000162 ! grain quality trait
+CO_320:0000107 ! gelatinization temperature	CO_320:0000101 ! grain quality trait	TO:0000462 ! gelatinization temperature	TO:0000162 ! grain quality trait
+CO_320:0000107 ! gelatinization temperature	CO_320:0000101 ! grain quality trait	TO:0000462 ! gelatinization temperature	TO:0000162 ! grain quality trait
+CO_320:0000107 ! gelatinization temperature	CO_320:0000101 ! grain quality trait	TO:0000462 ! gelatinization temperature	TO:0000162 ! grain quality trait
+CO_320:0000109 ! brown rice shape	CO_320:0000101 ! grain quality trait	TO:0000287 ! brown rice shape	TO:0000162 ! grain quality trait
+CO_320:0000109 ! brown rice shape	CO_320:0000101 ! grain quality trait	TO:0000287 ! brown rice shape	TO:0000162 ! grain quality trait
+CO_320:0000109 ! brown rice shape	CO_320:0000101 ! grain quality trait	TO:0000287 ! brown rice shape	TO:0000162 ! grain quality trait
+CO_320:0000109 ! brown rice shape	CO_320:0000101 ! grain quality trait	TO:0000287 ! brown rice shape	TO:0000162 ! grain quality trait
+CO_320:0000110 ! brown rice length	CO_320:0000101 ! grain quality trait	TO:0000041 ! brown rice length	TO:0000162 ! grain quality trait
+CO_320:0000110 ! brown rice length	CO_320:0000101 ! grain quality trait	TO:0000041 ! brown rice length	TO:0000162 ! grain quality trait
+CO_320:0000110 ! brown rice length	CO_320:0000101 ! grain quality trait	TO:0000041 ! brown rice length	TO:0000162 ! grain quality trait
+CO_320:0000110 ! brown rice length	CO_320:0000101 ! grain quality trait	TO:0000041 ! brown rice length	TO:0000162 ! grain quality trait
+CO_320:0000111 ! brown rice protein	CO_320:0000101 ! grain quality trait	TO:0000138 ! brown rice protein	TO:0000162 ! grain quality trait
+CO_320:0000111 ! brown rice protein	CO_320:0000101 ! grain quality trait	TO:0000138 ! brown rice protein	TO:0000162 ! grain quality trait
+CO_320:0000111 ! brown rice protein	CO_320:0000101 ! grain quality trait	TO:0000138 ! brown rice protein	TO:0000162 ! grain quality trait
+CO_320:0000111 ! brown rice protein	CO_320:0000101 ! grain quality trait	TO:0000138 ! brown rice protein	TO:0000162 ! grain quality trait
+CO_320:0000113 ! endosperm quality	CO_320:0000101 ! grain quality trait	TO:0000587 ! endosperm quality	TO:0000162 ! grain quality trait
+CO_320:0000113 ! endosperm quality	CO_320:0000101 ! grain quality trait	TO:0000587 ! endosperm quality	TO:0000162 ! grain quality trait
+CO_320:0000113 ! endosperm quality	CO_320:0000101 ! grain quality trait	TO:0000587 ! endosperm quality	TO:0000162 ! grain quality trait
+CO_320:0000113 ! endosperm quality	CO_320:0000101 ! grain quality trait	TO:0000587 ! endosperm quality	TO:0000162 ! grain quality trait
+CO_320:0000114 ! grain moisture	CO_320:0000101 ! grain quality trait	TO:0000057 ! grain moisture	TO:0000162 ! grain quality trait
+CO_320:0000114 ! grain moisture	CO_320:0000101 ! grain quality trait	TO:0000057 ! grain moisture	TO:0000162 ! grain quality trait
+CO_320:0000114 ! grain moisture	CO_320:0000101 ! grain quality trait	TO:0000057 ! grain moisture	TO:0000162 ! grain quality trait
+CO_320:0000114 ! grain moisture	CO_320:0000101 ! grain quality trait	TO:0000057 ! grain moisture	TO:0000162 ! grain quality trait
+CO_320:0000115 ! seed coat color	CO_320:0000101 ! grain quality trait	TO:0000190 ! seed coat color	TO:0000162 ! grain quality trait
+CO_320:0000115 ! seed coat color	CO_320:0000101 ! grain quality trait	TO:0000190 ! seed coat color	TO:0000162 ! grain quality trait
+CO_320:0000115 ! seed coat color	CO_320:0000101 ! grain quality trait	TO:0000190 ! seed coat color	TO:0000162 ! grain quality trait
+CO_320:0000115 ! seed coat color	CO_320:0000101 ! grain quality trait	TO:0000190 ! seed coat color	TO:0000162 ! grain quality trait
+CO_320:0000116 ! alkali digestion	CO_320:0000101 ! grain quality trait	TO:0000134 ! alkali digestion	TO:0000162 ! grain quality trait
+CO_320:0000116 ! alkali digestion	CO_320:0000101 ! grain quality trait	TO:0000134 ! alkali digestion	TO:0000162 ! grain quality trait
+CO_320:0000116 ! alkali digestion	CO_320:0000101 ! grain quality trait	TO:0000134 ! alkali digestion	TO:0000162 ! grain quality trait
+CO_320:0000116 ! alkali digestion	CO_320:0000101 ! grain quality trait	TO:0000134 ! alkali digestion	TO:0000162 ! grain quality trait
+CO_320:0000159 ! spikelet sterility	CO_320:0000095 ! male sterility	TO:0000436 ! spikelet sterility	TO:0000437 ! male sterility
+CO_320:0000159 ! spikelet sterility	CO_320:0000095 ! male sterility	TO:0000436 ! spikelet sterility	TO:0000437 ! male sterility
+CO_320:0000159 ! spikelet sterility	CO_320:0000095 ! male sterility	TO:0000436 ! spikelet sterility	TO:0000437 ! male sterility
+CO_320:0000159 ! spikelet sterility	CO_320:0000095 ! male sterility	TO:0000436 ! spikelet sterility	TO:0000437 ! male sterility
+CO_320:0000159 ! spikelet sterility	CO_320:0000095 ! male sterility	TO:0000436 ! spikelet sterility	TO:0000437 ! male sterility
+CO_320:0000159 ! spikelet sterility	CO_320:0000095 ! male sterility	TO:0000436 ! spikelet sterility	TO:0000437 ! male sterility
+CO_320:0000159 ! spikelet sterility	CO_320:0000095 ! male sterility	TO:0000436 ! spikelet sterility	TO:0000437 ! male sterility
+CO_320:0000159 ! spikelet sterility	CO_320:0000095 ! male sterility	TO:0000436 ! spikelet sterility	TO:0000437 ! male sterility
+CO_320:0000165 ! 100-grain weight	CO_320:0000100 ! grain weight	TO:0000591 ! 100-dehulled grain weight	TO:0000181 ! seed weight
+CO_320:0000165 ! 100-grain weight	CO_320:0000100 ! grain weight	TO:0000591 ! 100-dehulled grain weight	TO:0000181 ! seed weight
+CO_320:0000165 ! 100-grain weight	CO_320:0000100 ! grain weight	TO:0000591 ! 100-dehulled grain weight	TO:0000269 ! 100-seed weight
+CO_320:0000165 ! 100-grain weight	CO_320:0000100 ! grain weight	TO:0000591 ! 100-dehulled grain weight	TO:0000269 ! 100-seed weight
+CO_320:0000165 ! 100-grain weight	CO_320:0000100 ! grain weight	TO:0000591 ! 100-dehulled grain weight	TO:0000589 ! average grain weight
+CO_320:0000165 ! 100-grain weight	CO_320:0000100 ! grain weight	TO:0000591 ! 100-dehulled grain weight	TO:0000589 ! average grain weight
+CO_320:0000165 ! 100-grain weight	CO_320:0000101 ! grain quality trait	TO:0000591 ! 100-dehulled grain weight	TO:0000162 ! grain quality trait
+CO_320:0000165 ! 100-grain weight	CO_320:0000101 ! grain quality trait	TO:0000591 ! 100-dehulled grain weight	TO:0000162 ! grain quality trait
+CO_320:0000166 ! 1000-grain weight	CO_320:0000100 ! grain weight	TO:0000592 ! 1000-dehulled grain weight	TO:0000181 ! seed weight
+CO_320:0000166 ! 1000-grain weight	CO_320:0000100 ! grain weight	TO:0000592 ! 1000-dehulled grain weight	TO:0000181 ! seed weight
+CO_320:0000166 ! 1000-grain weight	CO_320:0000100 ! grain weight	TO:0000592 ! 1000-dehulled grain weight	TO:0000269 ! 100-seed weight
+CO_320:0000166 ! 1000-grain weight	CO_320:0000100 ! grain weight	TO:0000592 ! 1000-dehulled grain weight	TO:0000269 ! 100-seed weight
+CO_320:0000166 ! 1000-grain weight	CO_320:0000100 ! grain weight	TO:0000592 ! 1000-dehulled grain weight	TO:0000589 ! average grain weight
+CO_320:0000166 ! 1000-grain weight	CO_320:0000100 ! grain weight	TO:0000592 ! 1000-dehulled grain weight	TO:0000589 ! average grain weight
+CO_320:0000166 ! 1000-grain weight	CO_320:0000101 ! grain quality trait	TO:0000592 ! 1000-dehulled grain weight	TO:0000162 ! grain quality trait
+CO_320:0000166 ! 1000-grain weight	CO_320:0000101 ! grain quality trait	TO:0000592 ! 1000-dehulled grain weight	TO:0000162 ! grain quality trait
+TO:0000269 ! 100-seed weight	TO:0000181 ! seed weight	CO_320:0000165 ! 100-grain weight	CO_320:0000010 ! seed weight
+TO:0000269 ! 100-seed weight	TO:0000181 ! seed weight	CO_320:0000165 ! 100-grain weight	CO_320:0000010 ! seed weight
+TO:0000269 ! 100-seed weight	TO:0000181 ! seed weight	CO_320:0000165 ! 100-grain weight	CO_320:0000010 ! seed weight
+TO:0000269 ! 100-seed weight	TO:0000181 ! seed weight	CO_320:0000165 ! 100-grain weight	CO_320:0000010 ! seed weight
+CO_320:0000107 ! gelatinization temperature	CO_320:0000101 ! grain quality trait	TO:0000462 ! gelatinization temperature	TO:0000162 ! grain quality trait
+CO_320:0000107 ! gelatinization temperature	CO_320:0000101 ! grain quality trait	TO:0000462 ! gelatinization temperature	TO:0000162 ! grain quality trait
+CO_320:0000107 ! gelatinization temperature	CO_320:0000101 ! grain quality trait	TO:0000462 ! gelatinization temperature	TO:0000162 ! grain quality trait
+CO_320:0000107 ! gelatinization temperature	CO_320:0000101 ! grain quality trait	TO:0000462 ! gelatinization temperature	TO:0000162 ! grain quality trait
+CO_320:0000060 ! drought sensitivity	CO_320:0000163 ! drought stress trait	TO:0000092 ! deep root to shoot ratio	TO:0000394 ! drought related trait
+CO_320:0000060 ! drought sensitivity	CO_320:0000163 ! drought stress trait	TO:0000092 ! deep root to shoot ratio	TO:0000394 ! drought related trait
+CO_320:0000060 ! drought sensitivity	CO_320:0000163 ! drought stress trait	TO:0000092 ! deep root to shoot ratio	TO:0000394 ! drought related trait
+CO_320:0000060 ! drought sensitivity	CO_320:0000163 ! drought stress trait	TO:0000092 ! deep root to shoot ratio	TO:0000394 ! drought related trait
+CO_320:0000060 ! drought sensitivity	CO_320:0000160 ! abiotic stress trait	TO:0000092 ! deep root to shoot ratio	TO:0000168 ! abiotic stress trait
+CO_320:0000060 ! drought sensitivity	CO_320:0000160 ! abiotic stress trait	TO:0000092 ! deep root to shoot ratio	TO:0000168 ! abiotic stress trait
+CO_320:0000060 ! drought sensitivity	CO_320:0000053 ! stress trait	TO:0000092 ! deep root to shoot ratio	TO:0000164 ! stress trait
+CO_320:0000060 ! drought sensitivity	CO_320:0000053 ! stress trait	TO:0000092 ! deep root to shoot ratio	TO:0000164 ! stress trait
+CO_320:0000060 ! drought sensitivity	CO_320:0000163 ! drought stress trait	TO:0000092 ! deep root to shoot ratio	TO:0000394 ! drought related trait
+CO_320:0000060 ! drought sensitivity	CO_320:0000163 ! drought stress trait	TO:0000092 ! deep root to shoot ratio	TO:0000394 ! drought related trait
+CO_320:0000060 ! drought sensitivity	CO_320:0000163 ! drought stress trait	TO:0000092 ! deep root to shoot ratio	TO:0000394 ! drought related trait
+CO_320:0000060 ! drought sensitivity	CO_320:0000163 ! drought stress trait	TO:0000092 ! deep root to shoot ratio	TO:0000394 ! drought related trait
+CO_320:0000060 ! drought sensitivity	CO_320:0000160 ! abiotic stress trait	TO:0000092 ! deep root to shoot ratio	TO:0000168 ! abiotic stress trait
+CO_320:0000060 ! drought sensitivity	CO_320:0000160 ! abiotic stress trait	TO:0000092 ! deep root to shoot ratio	TO:0000168 ! abiotic stress trait
+CO_320:0000060 ! drought sensitivity	CO_320:0000053 ! stress trait	TO:0000092 ! deep root to shoot ratio	TO:0000164 ! stress trait
+CO_320:0000060 ! drought sensitivity	CO_320:0000053 ! stress trait	TO:0000092 ! deep root to shoot ratio	TO:0000164 ! stress trait
+CO_320:0000110 ! brown rice length	CO_320:0000101 ! grain quality trait	TO:0000041 ! brown rice length	TO:0000162 ! grain quality trait
+CO_320:0000110 ! brown rice length	CO_320:0000101 ! grain quality trait	TO:0000041 ! brown rice length	TO:0000162 ! grain quality trait
+CO_320:0000110 ! brown rice length	CO_320:0000101 ! grain quality trait	TO:0000041 ! brown rice length	TO:0000162 ! grain quality trait
+CO_320:0000110 ! brown rice length	CO_320:0000101 ! grain quality trait	TO:0000041 ! brown rice length	TO:0000162 ! grain quality trait
+TO:0000218 ! pollen abortion type	TO:0000437 ! male sterility	CO_320:0000092 ! abortion pattern	CO_320:0000095 ! male sterility
+TO:0000218 ! pollen abortion type	TO:0000437 ! male sterility	CO_320:0000092 ! abortion pattern	CO_320:0000095 ! male sterility
+TO:0000218 ! pollen abortion type	TO:0000437 ! male sterility	CO_320:0000092 ! abortion pattern	CO_320:0000095 ! male sterility
+TO:0000218 ! pollen abortion type	TO:0000437 ! male sterility	CO_320:0000092 ! abortion pattern	CO_320:0000095 ! male sterility
+TO:0000266 ! chalky endosperm	TO:0000587 ! endosperm quality	CO_320:0000104 ! chalkiness of endosperm	CO_320:0000113 ! endosperm quality
+TO:0000266 ! chalky endosperm	TO:0000587 ! endosperm quality	CO_320:0000104 ! chalkiness of endosperm	CO_320:0000113 ! endosperm quality
+TO:0000266 ! chalky endosperm	TO:0000587 ! endosperm quality	CO_320:0000104 ! chalkiness of endosperm	CO_320:0000113 ! endosperm quality
+TO:0000266 ! chalky endosperm	TO:0000587 ! endosperm quality	CO_320:0000104 ! chalkiness of endosperm	CO_320:0000113 ! endosperm quality
+CO_320:0000114 ! grain moisture	CO_320:0000101 ! grain quality trait	TO:0000057 ! grain moisture	TO:0000162 ! grain quality trait
+CO_320:0000114 ! grain moisture	CO_320:0000101 ! grain quality trait	TO:0000057 ! grain moisture	TO:0000162 ! grain quality trait
+CO_320:0000114 ! grain moisture	CO_320:0000101 ! grain quality trait	TO:0000057 ! grain moisture	TO:0000162 ! grain quality trait
+CO_320:0000114 ! grain moisture	CO_320:0000101 ! grain quality trait	TO:0000057 ! grain moisture	TO:0000162 ! grain quality trait
+TO:0000068 ! lodging incidence	TO:0000168 ! abiotic stress trait	CO_320:0000080 ! lodging incidence	CO_320:0000160 ! abiotic stress trait
+TO:0000068 ! lodging incidence	TO:0000168 ! abiotic stress trait	CO_320:0000080 ! lodging incidence	CO_320:0000160 ! abiotic stress trait
+TO:0000068 ! lodging incidence	TO:0000164 ! stress trait	CO_320:0000080 ! lodging incidence	CO_320:0000053 ! stress trait
+TO:0000068 ! lodging incidence	TO:0000164 ! stress trait	CO_320:0000080 ! lodging incidence	CO_320:0000053 ! stress trait
+TO:0000068 ! lodging incidence	TO:0000168 ! abiotic stress trait	CO_320:0000080 ! lodging incidence	CO_320:0000160 ! abiotic stress trait
+TO:0000068 ! lodging incidence	TO:0000168 ! abiotic stress trait	CO_320:0000080 ! lodging incidence	CO_320:0000160 ! abiotic stress trait
+TO:0000068 ! lodging incidence	TO:0000164 ! stress trait	CO_320:0000080 ! lodging incidence	CO_320:0000053 ! stress trait
+TO:0000068 ! lodging incidence	TO:0000164 ! stress trait	CO_320:0000080 ! lodging incidence	CO_320:0000053 ! stress trait
+CO_320:0000104 ! chalkiness of endosperm	CO_320:0000101 ! grain quality trait	TO:0000266 ! chalky endosperm	TO:0000162 ! grain quality trait
+CO_320:0000104 ! chalkiness of endosperm	CO_320:0000101 ! grain quality trait	TO:0000266 ! chalky endosperm	TO:0000162 ! grain quality trait
+CO_320:0000104 ! chalkiness of endosperm	CO_320:0000101 ! grain quality trait	TO:0000266 ! chalky endosperm	TO:0000162 ! grain quality trait
+CO_320:0000104 ! chalkiness of endosperm	CO_320:0000101 ! grain quality trait	TO:0000266 ! chalky endosperm	TO:0000162 ! grain quality trait
+CO_320:0000116 ! alkali digestion	CO_320:0000101 ! grain quality trait	TO:0000134 ! alkali digestion	TO:0000162 ! grain quality trait
+CO_320:0000116 ! alkali digestion	CO_320:0000101 ! grain quality trait	TO:0000134 ! alkali digestion	TO:0000162 ! grain quality trait
+CO_320:0000116 ! alkali digestion	CO_320:0000101 ! grain quality trait	TO:0000134 ! alkali digestion	TO:0000162 ! grain quality trait
+CO_320:0000116 ! alkali digestion	CO_320:0000101 ! grain quality trait	TO:0000134 ! alkali digestion	TO:0000162 ! grain quality trait
+TO:0000280 ! seedling vigor	TO:0000296 ! vegetative vigor	CO_320:0000077 ! seedling vigor	CO_320:0000167 ! vegetative vigor
+TO:0000280 ! seedling vigor	TO:0000296 ! vegetative vigor	CO_320:0000077 ! seedling vigor	CO_320:0000167 ! vegetative vigor
+TO:0000280 ! seedling vigor	TO:0000296 ! vegetative vigor	CO_320:0000077 ! seedling vigor	CO_320:0000167 ! vegetative vigor
+TO:0000280 ! seedling vigor	TO:0000296 ! vegetative vigor	CO_320:0000077 ! seedling vigor	CO_320:0000167 ! vegetative vigor
+TO:0000355 ! heterosis	TO:0000371 ! yield trait	CO_320:0000081 ! heterosis in F1 hybrid	CO_320:0000073 ! grain yield
+TO:0000355 ! heterosis	TO:0000371 ! yield trait	CO_320:0000081 ! heterosis in F1 hybrid	CO_320:0000073 ! grain yield
+TO:0000355 ! heterosis	TO:0000371 ! yield trait	CO_320:0000081 ! heterosis in F1 hybrid	CO_320:0000073 ! grain yield
+TO:0000355 ! heterosis	TO:0000371 ! yield trait	CO_320:0000081 ! heterosis in F1 hybrid	CO_320:0000073 ! grain yield
+TO:0000285 ! nodal tillering	TO:0000329 ! tillering ability	CO_320:0000008 ! nodal tillering	CO_320:0000079 ! tillering ability
+TO:0000285 ! nodal tillering	TO:0000329 ! tillering ability	CO_320:0000008 ! nodal tillering	CO_320:0000079 ! tillering ability
+TO:0000285 ! nodal tillering	TO:0000371 ! yield trait	CO_320:0000008 ! nodal tillering	CO_320:0000073 ! grain yield
+TO:0000285 ! nodal tillering	TO:0000371 ! yield trait	CO_320:0000008 ! nodal tillering	CO_320:0000073 ! grain yield
+TO:0000285 ! nodal tillering	TO:0000329 ! tillering ability	CO_320:0000008 ! nodal tillering	CO_320:0000079 ! tillering ability
+TO:0000285 ! nodal tillering	TO:0000329 ! tillering ability	CO_320:0000008 ! nodal tillering	CO_320:0000079 ! tillering ability
+TO:0000285 ! nodal tillering	TO:0000371 ! yield trait	CO_320:0000008 ! nodal tillering	CO_320:0000073 ! grain yield
+TO:0000285 ! nodal tillering	TO:0000371 ! yield trait	CO_320:0000008 ! nodal tillering	CO_320:0000073 ! grain yield
+TO:0000051 ! stem strength	TO:0000168 ! abiotic stress trait	CO_320:0000084 ! culm strength	CO_320:0000160 ! abiotic stress trait
+TO:0000051 ! stem strength	TO:0000168 ! abiotic stress trait	CO_320:0000084 ! culm strength	CO_320:0000160 ! abiotic stress trait
+TO:0000051 ! stem strength	TO:0000164 ! stress trait	CO_320:0000084 ! culm strength	CO_320:0000053 ! stress trait
+TO:0000051 ! stem strength	TO:0000164 ! stress trait	CO_320:0000084 ! culm strength	CO_320:0000053 ! stress trait
+TO:0000051 ! stem strength	TO:0000168 ! abiotic stress trait	CO_320:0000084 ! culm strength	CO_320:0000160 ! abiotic stress trait
+TO:0000051 ! stem strength	TO:0000168 ! abiotic stress trait	CO_320:0000084 ! culm strength	CO_320:0000160 ! abiotic stress trait
+TO:0000051 ! stem strength	TO:0000164 ! stress trait	CO_320:0000084 ! culm strength	CO_320:0000053 ! stress trait
+TO:0000051 ! stem strength	TO:0000164 ! stress trait	CO_320:0000084 ! culm strength	CO_320:0000053 ! stress trait
+CO_320:0000115 ! seed coat color	CO_320:0000101 ! grain quality trait	TO:0000190 ! seed coat color	TO:0000162 ! grain quality trait
+CO_320:0000115 ! seed coat color	CO_320:0000101 ! grain quality trait	TO:0000190 ! seed coat color	TO:0000162 ! grain quality trait
+CO_320:0000115 ! seed coat color	CO_320:0000101 ! grain quality trait	TO:0000190 ! seed coat color	TO:0000162 ! grain quality trait
+CO_320:0000115 ! seed coat color	CO_320:0000101 ! grain quality trait	TO:0000190 ! seed coat color	TO:0000162 ! grain quality trait
+TO:0000402 ! grain width	TO:0002627 ! fruit width	CO_320:0000005 ! grain width	CO_320:0000117 ! brown rice width
+TO:0000402 ! grain width	TO:0002627 ! fruit width	CO_320:0000005 ! grain width	CO_320:0000117 ! brown rice width
+TO:0000402 ! grain width	TO:0002627 ! fruit width	CO_320:0000005 ! grain width	CO_320:0000117 ! brown rice width
+TO:0000402 ! grain width	TO:0002627 ! fruit width	CO_320:0000005 ! grain width	CO_320:0000117 ! brown rice width
+CO_320:0000102 ! amylose content	CO_320:0000101 ! grain quality trait	TO:0000196 ! amylose content	TO:0000162 ! grain quality trait
+CO_320:0000102 ! amylose content	CO_320:0000101 ! grain quality trait	TO:0000196 ! amylose content	TO:0000162 ! grain quality trait
+CO_320:0000102 ! amylose content	CO_320:0000101 ! grain quality trait	TO:0000196 ! amylose content	TO:0000162 ! grain quality trait
+CO_320:0000102 ! amylose content	CO_320:0000101 ! grain quality trait	TO:0000196 ! amylose content	TO:0000162 ! grain quality trait
+CO_320:0000111 ! brown rice protein	CO_320:0000101 ! grain quality trait	TO:0000090 ! penetrated root thickness	TO:0000162 ! grain quality trait
+CO_320:0000111 ! brown rice protein	CO_320:0000101 ! grain quality trait	TO:0000090 ! penetrated root thickness	TO:0000162 ! grain quality trait
+CO_320:0000111 ! brown rice protein	CO_320:0000101 ! grain quality trait	TO:0000090 ! penetrated root thickness	TO:0000162 ! grain quality trait
+CO_320:0000111 ! brown rice protein	CO_320:0000101 ! grain quality trait	TO:0000090 ! penetrated root thickness	TO:0000162 ! grain quality trait
+CO_320:0000111 ! brown rice protein	CO_320:0000101 ! grain quality trait	TO:0000138 ! brown rice protein	TO:0000162 ! grain quality trait
+CO_320:0000111 ! brown rice protein	CO_320:0000101 ! grain quality trait	TO:0000138 ! brown rice protein	TO:0000162 ! grain quality trait
+CO_320:0000111 ! brown rice protein	CO_320:0000101 ! grain quality trait	TO:0000138 ! brown rice protein	TO:0000162 ! grain quality trait
+CO_320:0000111 ! brown rice protein	CO_320:0000101 ! grain quality trait	TO:0000138 ! brown rice protein	TO:0000162 ! grain quality trait
+CO_320:0000109 ! brown rice shape	CO_320:0000101 ! grain quality trait	TO:0000287 ! brown rice shape	TO:0000162 ! grain quality trait
+CO_320:0000109 ! brown rice shape	CO_320:0000101 ! grain quality trait	TO:0000287 ! brown rice shape	TO:0000162 ! grain quality trait
+CO_320:0000109 ! brown rice shape	CO_320:0000101 ! grain quality trait	TO:0000287 ! brown rice shape	TO:0000162 ! grain quality trait
+CO_320:0000109 ! brown rice shape	CO_320:0000101 ! grain quality trait	TO:0000287 ! brown rice shape	TO:0000162 ! grain quality trait
+TO:0000399 ! grain thickness	TO:0000162 ! grain quality trait	CO_320:0000020 ! grain thickness	CO_320:0000101 ! grain quality trait
+TO:0000399 ! grain thickness	TO:0000162 ! grain quality trait	CO_320:0000020 ! grain thickness	CO_320:0000101 ! grain quality trait
+TO:0000399 ! grain thickness	TO:0000162 ! grain quality trait	CO_320:0000020 ! grain thickness	CO_320:0000101 ! grain quality trait
+TO:0000399 ! grain thickness	TO:0000162 ! grain quality trait	CO_320:0000020 ! grain thickness	CO_320:0000101 ! grain quality trait
+CO_320:0000166 ! 1000-grain weight	CO_320:0000100 ! grain weight	TO:0000382 ! 1000-seed weight	TO:0000269 ! 100-seed weight
+CO_320:0000166 ! 1000-grain weight	CO_320:0000100 ! grain weight	TO:0000382 ! 1000-seed weight	TO:0000269 ! 100-seed weight
+CO_320:0000166 ! 1000-grain weight	CO_320:0000100 ! grain weight	TO:0000382 ! 1000-seed weight	TO:0000590 ! dehulled grain weight
+CO_320:0000166 ! 1000-grain weight	CO_320:0000100 ! grain weight	TO:0000382 ! 1000-seed weight	TO:0000589 ! average grain weight
+CO_320:0000166 ! 1000-grain weight	CO_320:0000100 ! grain weight	TO:0000382 ! 1000-seed weight	TO:0000589 ! average grain weight
+CO_320:0000166 ! 1000-grain weight	CO_320:0000101 ! grain quality trait	TO:0000382 ! 1000-seed weight	TO:0000162 ! grain quality trait
+CO_320:0000166 ! 1000-grain weight	CO_320:0000101 ! grain quality trait	TO:0000382 ! 1000-seed weight	TO:0000162 ! grain quality trait
+CO_320:0000166 ! 1000-grain weight	CO_320:0000100 ! grain weight	TO:0000382 ! 1000-seed weight	TO:0000269 ! 100-seed weight
+CO_320:0000166 ! 1000-grain weight	CO_320:0000100 ! grain weight	TO:0000382 ! 1000-seed weight	TO:0000269 ! 100-seed weight
+CO_320:0000166 ! 1000-grain weight	CO_320:0000100 ! grain weight	TO:0000382 ! 1000-seed weight	TO:0000590 ! dehulled grain weight
+CO_320:0000166 ! 1000-grain weight	CO_320:0000100 ! grain weight	TO:0000382 ! 1000-seed weight	TO:0000589 ! average grain weight
+CO_320:0000166 ! 1000-grain weight	CO_320:0000100 ! grain weight	TO:0000382 ! 1000-seed weight	TO:0000589 ! average grain weight
+CO_320:0000166 ! 1000-grain weight	CO_320:0000101 ! grain quality trait	TO:0000382 ! 1000-seed weight	TO:0000162 ! grain quality trait
+CO_320:0000166 ! 1000-grain weight	CO_320:0000101 ! grain quality trait	TO:0000382 ! 1000-seed weight	TO:0000162 ! grain quality trait
+TO:0000019 ! seedling height	TO:0000207 ! plant height	CO_320:0000218 ! seedling height	CO_320:0000076 ! plant height
+TO:0000019 ! seedling height	TO:0000207 ! plant height	CO_320:0000218 ! seedling height	CO_320:0000076 ! plant height
+TO:0000019 ! seedling height	TO:0000207 ! plant height	CO_320:0000218 ! seedling height	CO_320:0000076 ! plant height
+TO:0000019 ! seedling height	TO:0000207 ! plant height	CO_320:0000218 ! seedling height	CO_320:0000076 ! plant height
+TO:0000287 ! brown rice shape	TO:0002730 ! grain shape	CO_320:0000109 ! brown rice shape	CO_320:0000119 ! grain shape
+TO:0000287 ! brown rice shape	TO:0002730 ! grain shape	CO_320:0000109 ! brown rice shape	CO_320:0000119 ! grain shape
+TO:0000287 ! brown rice shape	TO:0002730 ! grain shape	CO_320:0000109 ! brown rice shape	CO_320:0000119 ! grain shape
+TO:0000287 ! brown rice shape	TO:0002730 ! grain shape	CO_320:0000109 ! brown rice shape	CO_320:0000119 ! grain shape
+CO_320:0000117 ! brown rice width	CO_320:0000101 ! grain quality trait	TO:0002627 ! fruit width	TO:0000162 ! grain quality trait
+CO_320:0000117 ! brown rice width	CO_320:0000101 ! grain quality trait	TO:0002627 ! fruit width	TO:0000162 ! grain quality trait
+CO_320:0000117 ! brown rice width	CO_320:0000101 ! grain quality trait	TO:0002627 ! fruit width	TO:0000162 ! grain quality trait
+CO_320:0000117 ! brown rice width	CO_320:0000101 ! grain quality trait	TO:0002627 ! fruit width	TO:0000162 ! grain quality trait
+CO_320:0000106 ! gel consistency	CO_320:0000101 ! grain quality trait	TO:0000211 ! gel consistency	TO:0000162 ! grain quality trait
+CO_320:0000106 ! gel consistency	CO_320:0000101 ! grain quality trait	TO:0000211 ! gel consistency	TO:0000162 ! grain quality trait
+CO_320:0000106 ! gel consistency	CO_320:0000101 ! grain quality trait	TO:0000211 ! gel consistency	TO:0000162 ! grain quality trait
+CO_320:0000106 ! gel consistency	CO_320:0000101 ! grain quality trait	TO:0000211 ! gel consistency	TO:0000162 ! grain quality trait
+TO:0000382 ! 1000-seed weight	TO:0000181 ! seed weight	CO_320:0000166 ! 1000-grain weight	CO_320:0000010 ! seed weight
+TO:0000382 ! 1000-seed weight	TO:0000181 ! seed weight	CO_320:0000166 ! 1000-grain weight	CO_320:0000010 ! seed weight
+TO:0000382 ! 1000-seed weight	TO:0000181 ! seed weight	CO_320:0000166 ! 1000-grain weight	CO_320:0000010 ! seed weight
+TO:0000382 ! 1000-seed weight	TO:0000181 ! seed weight	CO_320:0000166 ! 1000-grain weight	CO_320:0000010 ! seed weight
+TO:0000382 ! 1000-seed weight	TO:0000181 ! seed weight	CO_320:0000439 ! Weight of 1000 grain	CO_320:0000010 ! seed weight
+TO:0000382 ! 1000-seed weight	TO:0000181 ! seed weight	CO_320:0000439 ! Weight of 1000 grain	CO_320:0000010 ! seed weight
+TO:0000382 ! 1000-seed weight	TO:0000181 ! seed weight	CO_320:0000439 ! Weight of 1000 grain	CO_320:0000010 ! seed weight
+TO:0000382 ! 1000-seed weight	TO:0000181 ! seed weight	CO_320:0000439 ! Weight of 1000 grain	CO_320:0000010 ! seed weight
+TO:0000041 ! brown rice length	TO:0000734 ! grain length	CO_320:0000110 ! brown rice length	CO_320:0000004 ! grain length
+TO:0000041 ! brown rice length	TO:0000734 ! grain length	CO_320:0000110 ! brown rice length	CO_320:0000004 ! grain length
+TO:0000041 ! brown rice length	TO:0000734 ! grain length	CO_320:0000110 ! brown rice length	CO_320:0000004 ! grain length
+TO:0000041 ! brown rice length	TO:0000734 ! grain length	CO_320:0000110 ! brown rice length	CO_320:0000004 ! grain length
+TO:0000063 ! mimic response	TO:0000179 ! biotic stress trait	CO_320:0000050 ! lesion mimic	CO_320:0000168 ! biotic stress trait
+TO:0000063 ! mimic response	TO:0000179 ! biotic stress trait	CO_320:0000050 ! lesion mimic	CO_320:0000168 ! biotic stress trait
+TO:0000063 ! mimic response	TO:0000164 ! stress trait	CO_320:0000050 ! lesion mimic	CO_320:0000053 ! stress trait
+TO:0000063 ! mimic response	TO:0000164 ! stress trait	CO_320:0000050 ! lesion mimic	CO_320:0000053 ! stress trait
+TO:0000063 ! mimic response	TO:0000179 ! biotic stress trait	CO_320:0000050 ! lesion mimic	CO_320:0000168 ! biotic stress trait
+TO:0000063 ! mimic response	TO:0000179 ! biotic stress trait	CO_320:0000050 ! lesion mimic	CO_320:0000168 ! biotic stress trait
+TO:0000063 ! mimic response	TO:0000164 ! stress trait	CO_320:0000050 ! lesion mimic	CO_320:0000053 ! stress trait
+TO:0000063 ! mimic response	TO:0000164 ! stress trait	CO_320:0000050 ! lesion mimic	CO_320:0000053 ! stress trait
+TO:0000134 ! alkali digestion	TO:0000462 ! gelatinization temperature	CO_320:0000116 ! alkali digestion	CO_320:0000107 ! gelatinization temperature
+TO:0000134 ! alkali digestion	TO:0000462 ! gelatinization temperature	CO_320:0000116 ! alkali digestion	CO_320:0000107 ! gelatinization temperature
+TO:0000134 ! alkali digestion	TO:0000462 ! gelatinization temperature	CO_320:0000116 ! alkali digestion	CO_320:0000107 ! gelatinization temperature
+TO:0000134 ! alkali digestion	TO:0000462 ! gelatinization temperature	CO_320:0000116 ! alkali digestion	CO_320:0000107 ! gelatinization temperature
+TO:0000576 ! stem length	TO:0000168 ! abiotic stress trait	CO_320:0000030 ! culm length	CO_320:0000160 ! abiotic stress trait
+TO:0000576 ! stem length	TO:0000168 ! abiotic stress trait	CO_320:0000030 ! culm length	CO_320:0000160 ! abiotic stress trait
+TO:0000576 ! stem length	TO:0000164 ! stress trait	CO_320:0000030 ! culm length	CO_320:0000053 ! stress trait
+TO:0000576 ! stem length	TO:0000164 ! stress trait	CO_320:0000030 ! culm length	CO_320:0000053 ! stress trait
+TO:0000576 ! stem length	TO:0000168 ! abiotic stress trait	CO_320:0000030 ! culm length	CO_320:0000160 ! abiotic stress trait
+TO:0000576 ! stem length	TO:0000168 ! abiotic stress trait	CO_320:0000030 ! culm length	CO_320:0000160 ! abiotic stress trait
+TO:0000576 ! stem length	TO:0000164 ! stress trait	CO_320:0000030 ! culm length	CO_320:0000053 ! stress trait
+TO:0000576 ! stem length	TO:0000164 ! stress trait	CO_320:0000030 ! culm length	CO_320:0000053 ! stress trait
+CO_320:0000113 ! endosperm quality	CO_320:0000101 ! grain quality trait	TO:0000587 ! endosperm quality	TO:0000162 ! grain quality trait
+CO_320:0000113 ! endosperm quality	CO_320:0000101 ! grain quality trait	TO:0000587 ! endosperm quality	TO:0000162 ! grain quality trait
+CO_320:0000113 ! endosperm quality	CO_320:0000101 ! grain quality trait	TO:0000587 ! endosperm quality	TO:0000162 ! grain quality trait
+CO_320:0000113 ! endosperm quality	CO_320:0000101 ! grain quality trait	TO:0000587 ! endosperm quality	TO:0000162 ! grain quality trait
+CO_320:0000100 ! grain weight	CO_320:0000101 ! grain quality trait	TO:0000589 ! average grain weight	TO:0000162 ! grain quality trait
+CO_320:0000100 ! grain weight	CO_320:0000101 ! grain quality trait	TO:0000589 ! average grain weight	TO:0000162 ! grain quality trait
+CO_320:0000100 ! grain weight	CO_320:0000101 ! grain quality trait	TO:0000589 ! average grain weight	TO:0000162 ! grain quality trait
+CO_320:0000100 ! grain weight	CO_320:0000101 ! grain quality trait	TO:0000589 ! average grain weight	TO:0000162 ! grain quality trait
+CO_320:0000159 ! spikelet sterility	CO_320:0000095 ! male sterility	TO:0000436 ! spikelet sterility	TO:0000437 ! male sterility
+CO_320:0000159 ! spikelet sterility	CO_320:0000095 ! male sterility	TO:0000436 ! spikelet sterility	TO:0000437 ! male sterility
+CO_320:0000159 ! spikelet sterility	CO_320:0000095 ! male sterility	TO:0000436 ! spikelet sterility	TO:0000437 ! male sterility
+CO_320:0000159 ! spikelet sterility	CO_320:0000095 ! male sterility	TO:0000436 ! spikelet sterility	TO:0000437 ! male sterility
+CO_320:0000159 ! spikelet sterility	CO_320:0000095 ! male sterility	TO:0000436 ! spikelet sterility	TO:0000437 ! male sterility
+CO_320:0000159 ! spikelet sterility	CO_320:0000095 ! male sterility	TO:0000436 ! spikelet sterility	TO:0000437 ! male sterility
+CO_320:0000159 ! spikelet sterility	CO_320:0000095 ! male sterility	TO:0000436 ! spikelet sterility	TO:0000437 ! male sterility
+CO_320:0000159 ! spikelet sterility	CO_320:0000095 ! male sterility	TO:0000436 ! spikelet sterility	TO:0000437 ! male sterility
+TO:0000329 ! tillering ability	TO:0000371 ! yield trait	CO_320:0000079 ! tillering ability	CO_320:0000073 ! grain yield
+TO:0000329 ! tillering ability	TO:0000371 ! yield trait	CO_320:0000079 ! tillering ability	CO_320:0000073 ! grain yield
+TO:0000329 ! tillering ability	TO:0000371 ! yield trait	CO_320:0000079 ! tillering ability	CO_320:0000073 ! grain yield
+TO:0000329 ! tillering ability	TO:0000371 ! yield trait	CO_320:0000079 ! tillering ability	CO_320:0000073 ! grain yield
+TO:0000396 ! grain yield trait	TO:0000371 ! yield trait	CO_320:0000073 ! grain yield	CO_320:0000073 ! grain yield
+TO:0000396 ! grain yield trait	TO:0000371 ! yield trait	CO_320:0000073 ! grain yield	CO_320:0000073 ! grain yield
+TO:0000396 ! grain yield trait	TO:0000371 ! yield trait	CO_320:0000073 ! grain yield	CO_320:0000073 ! grain yield
+TO:0000396 ! grain yield trait	TO:0000371 ! yield trait	CO_320:0000073 ! grain yield	CO_320:0000073 ! grain yield
+TO:0000524 ! submergence tolerance	TO:0000286 ! submergence sensitivity	CO_320:0000067 ! submergence tolerance	CO_320:0000067 ! submergence tolerance
+TO:0000524 ! submergence tolerance	TO:0000286 ! submergence sensitivity	CO_320:0000067 ! submergence tolerance	CO_320:0000067 ! submergence tolerance
+TO:0000524 ! submergence tolerance	TO:0000286 ! submergence sensitivity	CO_320:0000067 ! submergence tolerance	CO_320:0000067 ! submergence tolerance
+TO:0000524 ! submergence tolerance	TO:0000286 ! submergence sensitivity	CO_320:0000067 ! submergence tolerance	CO_320:0000067 ! submergence tolerance
+CO_320:0000103 ! aroma	CO_320:0000101 ! grain quality trait	TO:0000087 ! aroma	TO:0000162 ! grain quality trait
+CO_320:0000103 ! aroma	CO_320:0000101 ! grain quality trait	TO:0000087 ! aroma	TO:0000162 ! grain quality trait
+CO_320:0000103 ! aroma	CO_320:0000101 ! grain quality trait	TO:0000087 ! aroma	TO:0000162 ! grain quality trait
+CO_320:0000103 ! aroma	CO_320:0000101 ! grain quality trait	TO:0000087 ! aroma	TO:0000162 ! grain quality trait
+TO:0000339 ! stem thickness	TO:0000051 ! stem strength	CO_320:0000022 ! stem thickness	CO_320:0000084 ! culm strength
+TO:0000339 ! stem thickness	TO:0000051 ! stem strength	CO_320:0000022 ! stem thickness	CO_320:0000084 ! culm strength
+TO:0000339 ! stem thickness	TO:0000168 ! abiotic stress trait	CO_320:0000022 ! stem thickness	CO_320:0000160 ! abiotic stress trait
+TO:0000339 ! stem thickness	TO:0000168 ! abiotic stress trait	CO_320:0000022 ! stem thickness	CO_320:0000160 ! abiotic stress trait
+TO:0000339 ! stem thickness	TO:0000164 ! stress trait	CO_320:0000022 ! stem thickness	CO_320:0000053 ! stress trait
+TO:0000339 ! stem thickness	TO:0000164 ! stress trait	CO_320:0000022 ! stem thickness	CO_320:0000053 ! stress trait
+TO:0000339 ! stem thickness	TO:0000051 ! stem strength	CO_320:0000022 ! stem thickness	CO_320:0000084 ! culm strength
+TO:0000339 ! stem thickness	TO:0000051 ! stem strength	CO_320:0000022 ! stem thickness	CO_320:0000084 ! culm strength
+TO:0000339 ! stem thickness	TO:0000168 ! abiotic stress trait	CO_320:0000022 ! stem thickness	CO_320:0000160 ! abiotic stress trait
+TO:0000339 ! stem thickness	TO:0000168 ! abiotic stress trait	CO_320:0000022 ! stem thickness	CO_320:0000160 ! abiotic stress trait
+TO:0000339 ! stem thickness	TO:0000164 ! stress trait	CO_320:0000022 ! stem thickness	CO_320:0000053 ! stress trait
+TO:0000339 ! stem thickness	TO:0000164 ! stress trait	CO_320:0000022 ! stem thickness	CO_320:0000053 ! stress trait
+TO:0000028 ! unfilled grain number	TO:0000396 ! grain yield trait	CO_320:0000012 ! unfilled grain	CO_320:0000073 ! grain yield
+TO:0000028 ! unfilled grain number	TO:0000396 ! grain yield trait	CO_320:0000012 ! unfilled grain	CO_320:0000073 ! grain yield
+TO:0000028 ! unfilled grain number	TO:0000371 ! yield trait	CO_320:0000012 ! unfilled grain	CO_320:0000073 ! grain yield
+TO:0000028 ! unfilled grain number	TO:0000371 ! yield trait	CO_320:0000012 ! unfilled grain	CO_320:0000073 ! grain yield
+TO:0000028 ! unfilled grain number	TO:0000396 ! grain yield trait	CO_320:0000012 ! unfilled grain	CO_320:0000073 ! grain yield
+TO:0000028 ! unfilled grain number	TO:0000396 ! grain yield trait	CO_320:0000012 ! unfilled grain	CO_320:0000073 ! grain yield
+TO:0000028 ! unfilled grain number	TO:0000371 ! yield trait	CO_320:0000012 ! unfilled grain	CO_320:0000073 ! grain yield
+TO:0000028 ! unfilled grain number	TO:0000371 ! yield trait	CO_320:0000012 ! unfilled grain	CO_320:0000073 ! grain yield
+TO:0000330 ! outcrossing potential	TO:0000371 ! yield trait	CO_320:0000096 ! outcrossing potential	CO_320:0000073 ! grain yield
+TO:0000330 ! outcrossing potential	TO:0000371 ! yield trait	CO_320:0000096 ! outcrossing potential	CO_320:0000073 ! grain yield
+TO:0000330 ! outcrossing potential	TO:0000371 ! yield trait	CO_320:0000096 ! outcrossing potential	CO_320:0000073 ! grain yield
+TO:0000330 ! outcrossing potential	TO:0000371 ! yield trait	CO_320:0000096 ! outcrossing potential	CO_320:0000073 ! grain yield
+TO:0000367 ! basal leaf sheath color	TO:0002724 ! leaf sheath color	CO_320:0000023 ! basal leaf sheath color	CO_320:0000024 ! leaf sheath color
+TO:0000367 ! basal leaf sheath color	TO:0002724 ! leaf sheath color	CO_320:0000023 ! basal leaf sheath color	CO_320:0000024 ! leaf sheath color
+TO:0000367 ! basal leaf sheath color	TO:0002724 ! leaf sheath color	CO_320:0000023 ! basal leaf sheath color	CO_320:0000024 ! leaf sheath color
+TO:0000367 ! basal leaf sheath color	TO:0002724 ! leaf sheath color	CO_320:0000023 ! basal leaf sheath color	CO_320:0000024 ! leaf sheath color
+CO_320:0000165 ! 100-grain weight	CO_320:0000100 ! grain weight	TO:0000269 ! 100-seed weight	TO:0000269 ! 100-seed weight
+CO_320:0000165 ! 100-grain weight	CO_320:0000100 ! grain weight	TO:0000269 ! 100-seed weight	TO:0000269 ! 100-seed weight
+CO_320:0000165 ! 100-grain weight	CO_320:0000100 ! grain weight	TO:0000269 ! 100-seed weight	TO:0000590 ! dehulled grain weight
+CO_320:0000165 ! 100-grain weight	CO_320:0000100 ! grain weight	TO:0000269 ! 100-seed weight	TO:0000589 ! average grain weight
+CO_320:0000165 ! 100-grain weight	CO_320:0000100 ! grain weight	TO:0000269 ! 100-seed weight	TO:0000589 ! average grain weight
+CO_320:0000165 ! 100-grain weight	CO_320:0000101 ! grain quality trait	TO:0000269 ! 100-seed weight	TO:0000162 ! grain quality trait
+CO_320:0000165 ! 100-grain weight	CO_320:0000101 ! grain quality trait	TO:0000269 ! 100-seed weight	TO:0000162 ! grain quality trait
+CO_320:0000165 ! 100-grain weight	CO_320:0000100 ! grain weight	TO:0000269 ! 100-seed weight	TO:0000269 ! 100-seed weight
+CO_320:0000165 ! 100-grain weight	CO_320:0000100 ! grain weight	TO:0000269 ! 100-seed weight	TO:0000269 ! 100-seed weight
+CO_320:0000165 ! 100-grain weight	CO_320:0000100 ! grain weight	TO:0000269 ! 100-seed weight	TO:0000590 ! dehulled grain weight
+CO_320:0000165 ! 100-grain weight	CO_320:0000100 ! grain weight	TO:0000269 ! 100-seed weight	TO:0000589 ! average grain weight
+CO_320:0000165 ! 100-grain weight	CO_320:0000100 ! grain weight	TO:0000269 ! 100-seed weight	TO:0000589 ! average grain weight
+CO_320:0000165 ! 100-grain weight	CO_320:0000101 ! grain quality trait	TO:0000269 ! 100-seed weight	TO:0000162 ! grain quality trait
+CO_320:0000165 ! 100-grain weight	CO_320:0000101 ! grain quality trait	TO:0000269 ! 100-seed weight	TO:0000162 ! grain quality trait
+TO:0000308 ! male fertility restoration trait	TO:0000371 ! yield trait	CO_320:0000098 ! fertility restoration	CO_320:0000073 ! grain yield
+TO:0000308 ! male fertility restoration trait	TO:0000371 ! yield trait	CO_320:0000098 ! fertility restoration	CO_320:0000073 ! grain yield
+TO:0000308 ! male fertility restoration trait	TO:0000371 ! yield trait	CO_320:0000098 ! fertility restoration	CO_320:0000073 ! grain yield
+TO:0000308 ! male fertility restoration trait	TO:0000371 ! yield trait	CO_320:0000098 ! fertility restoration	CO_320:0000073 ! grain yield
+TO:0000589 ! average grain weight	TO:0000396 ! grain yield trait	CO_320:0000010 ! seed weight	CO_320:0000073 ! grain yield
+TO:0000589 ! average grain weight	TO:0000396 ! grain yield trait	CO_320:0000010 ! seed weight	CO_320:0000073 ! grain yield
+TO:0000589 ! average grain weight	TO:0000371 ! yield trait	CO_320:0000010 ! seed weight	CO_320:0000073 ! grain yield
+TO:0000589 ! average grain weight	TO:0000371 ! yield trait	CO_320:0000010 ! seed weight	CO_320:0000073 ! grain yield
+TO:0000589 ! average grain weight	TO:0000396 ! grain yield trait	CO_320:0000010 ! seed weight	CO_320:0000073 ! grain yield
+TO:0000589 ! average grain weight	TO:0000396 ! grain yield trait	CO_320:0000010 ! seed weight	CO_320:0000073 ! grain yield
+TO:0000589 ! average grain weight	TO:0000371 ! yield trait	CO_320:0000010 ! seed weight	CO_320:0000073 ! grain yield
+TO:0000589 ! average grain weight	TO:0000371 ! yield trait	CO_320:0000010 ! seed weight	CO_320:0000073 ! grain yield
+TO:0000589 ! average grain weight	TO:0000396 ! grain yield trait	CO_320:0000100 ! grain weight	CO_320:0000073 ! grain yield
+TO:0000589 ! average grain weight	TO:0000396 ! grain yield trait	CO_320:0000100 ! grain weight	CO_320:0000073 ! grain yield
+TO:0000589 ! average grain weight	TO:0000371 ! yield trait	CO_320:0000100 ! grain weight	CO_320:0000073 ! grain yield
+TO:0000589 ! average grain weight	TO:0000371 ! yield trait	CO_320:0000100 ! grain weight	CO_320:0000073 ! grain yield
+TO:0000589 ! average grain weight	TO:0000396 ! grain yield trait	CO_320:0000100 ! grain weight	CO_320:0000073 ! grain yield
+TO:0000589 ! average grain weight	TO:0000396 ! grain yield trait	CO_320:0000100 ! grain weight	CO_320:0000073 ! grain yield
+TO:0000589 ! average grain weight	TO:0000371 ! yield trait	CO_320:0000100 ! grain weight	CO_320:0000073 ! grain yield
+TO:0000589 ! average grain weight	TO:0000371 ! yield trait	CO_320:0000100 ! grain weight	CO_320:0000073 ! grain yield
+TO:0000402 ! grain width	TO:0002627 ! fruit width	CO_320:0000005 ! grain width	CO_320:0000117 ! brown rice width
+TO:0000402 ! grain width	TO:0002627 ! fruit width	CO_320:0000005 ! grain width	CO_320:0000117 ! brown rice width
+TO:0000402 ! grain width	TO:0002627 ! fruit width	CO_320:0000005 ! grain width	CO_320:0000117 ! brown rice width
+TO:0000402 ! grain width	TO:0002627 ! fruit width	CO_320:0000005 ! grain width	CO_320:0000117 ! brown rice width
+TO:0000285 ! nodal tillering	TO:0000329 ! tillering ability	CO_320:0000008 ! nodal tillering	CO_320:0000079 ! tillering ability
+TO:0000285 ! nodal tillering	TO:0000329 ! tillering ability	CO_320:0000008 ! nodal tillering	CO_320:0000079 ! tillering ability
+TO:0000285 ! nodal tillering	TO:0000329 ! tillering ability	CO_320:0000008 ! nodal tillering	CO_320:0000079 ! tillering ability
+TO:0000285 ! nodal tillering	TO:0000329 ! tillering ability	CO_320:0000008 ! nodal tillering	CO_320:0000079 ! tillering ability
+TO:0000285 ! nodal tillering	TO:0000371 ! yield trait	CO_320:0000008 ! nodal tillering	CO_320:0000073 ! grain yield
+TO:0000285 ! nodal tillering	TO:0000371 ! yield trait	CO_320:0000008 ! nodal tillering	CO_320:0000073 ! grain yield
+TO:0000285 ! nodal tillering	TO:0000329 ! tillering ability	CO_320:0000008 ! nodal tillering	CO_320:0000079 ! tillering ability
+TO:0000285 ! nodal tillering	TO:0000329 ! tillering ability	CO_320:0000008 ! nodal tillering	CO_320:0000079 ! tillering ability
+TO:0000285 ! nodal tillering	TO:0000329 ! tillering ability	CO_320:0000008 ! nodal tillering	CO_320:0000079 ! tillering ability
+TO:0000285 ! nodal tillering	TO:0000329 ! tillering ability	CO_320:0000008 ! nodal tillering	CO_320:0000079 ! tillering ability
+TO:0000285 ! nodal tillering	TO:0000371 ! yield trait	CO_320:0000008 ! nodal tillering	CO_320:0000073 ! grain yield
+TO:0000285 ! nodal tillering	TO:0000371 ! yield trait	CO_320:0000008 ! nodal tillering	CO_320:0000073 ! grain yield
+TO:0000028 ! unfilled grain number	TO:0000396 ! grain yield trait	CO_320:0000012 ! unfilled grain	CO_320:0000073 ! grain yield
+TO:0000028 ! unfilled grain number	TO:0000396 ! grain yield trait	CO_320:0000012 ! unfilled grain	CO_320:0000073 ! grain yield
+TO:0000028 ! unfilled grain number	TO:0000396 ! grain yield trait	CO_320:0000012 ! unfilled grain	CO_320:0000073 ! grain yield
+TO:0000028 ! unfilled grain number	TO:0000396 ! grain yield trait	CO_320:0000012 ! unfilled grain	CO_320:0000073 ! grain yield
+TO:0000028 ! unfilled grain number	TO:0000327 ! shoot system yield trait	CO_320:0000012 ! unfilled grain	CO_320:0000089 ! yield (biomass)
+TO:0000028 ! unfilled grain number	TO:0000371 ! yield trait	CO_320:0000012 ! unfilled grain	CO_320:0000073 ! grain yield
+TO:0000028 ! unfilled grain number	TO:0000371 ! yield trait	CO_320:0000012 ! unfilled grain	CO_320:0000073 ! grain yield
+TO:0000028 ! unfilled grain number	TO:0000396 ! grain yield trait	CO_320:0000012 ! unfilled grain	CO_320:0000073 ! grain yield
+TO:0000028 ! unfilled grain number	TO:0000396 ! grain yield trait	CO_320:0000012 ! unfilled grain	CO_320:0000073 ! grain yield
+TO:0000028 ! unfilled grain number	TO:0000396 ! grain yield trait	CO_320:0000012 ! unfilled grain	CO_320:0000073 ! grain yield
+TO:0000028 ! unfilled grain number	TO:0000396 ! grain yield trait	CO_320:0000012 ! unfilled grain	CO_320:0000073 ! grain yield
+TO:0000028 ! unfilled grain number	TO:0000327 ! shoot system yield trait	CO_320:0000012 ! unfilled grain	CO_320:0000089 ! yield (biomass)
+TO:0000028 ! unfilled grain number	TO:0000371 ! yield trait	CO_320:0000012 ! unfilled grain	CO_320:0000073 ! grain yield
+TO:0000028 ! unfilled grain number	TO:0000371 ! yield trait	CO_320:0000012 ! unfilled grain	CO_320:0000073 ! grain yield
+TO:0000367 ! basal leaf sheath color	TO:0002724 ! leaf sheath color	CO_320:0000023 ! basal leaf sheath color	CO_320:0000024 ! leaf sheath color
+TO:0000367 ! basal leaf sheath color	TO:0002724 ! leaf sheath color	CO_320:0000023 ! basal leaf sheath color	CO_320:0000024 ! leaf sheath color
+TO:0000367 ! basal leaf sheath color	TO:0002724 ! leaf sheath color	CO_320:0000023 ! basal leaf sheath color	CO_320:0000024 ! leaf sheath color
+TO:0000367 ! basal leaf sheath color	TO:0002724 ! leaf sheath color	CO_320:0000023 ! basal leaf sheath color	CO_320:0000024 ! leaf sheath color
+TO:0000367 ! basal leaf sheath color	TO:0002724 ! leaf sheath color	CO_320:0000024 ! leaf sheath color	CO_320:0000024 ! leaf sheath color
+TO:0000367 ! basal leaf sheath color	TO:0002724 ! leaf sheath color	CO_320:0000024 ! leaf sheath color	CO_320:0000024 ! leaf sheath color
+TO:0000367 ! basal leaf sheath color	TO:0002724 ! leaf sheath color	CO_320:0000024 ! leaf sheath color	CO_320:0000024 ! leaf sheath color
+TO:0000367 ! basal leaf sheath color	TO:0002724 ! leaf sheath color	CO_320:0000024 ! leaf sheath color	CO_320:0000024 ! leaf sheath color
+TO:0000576 ! stem length	TO:0000168 ! abiotic stress trait	CO_320:0000030 ! culm length	CO_320:0000160 ! abiotic stress trait
+TO:0000576 ! stem length	TO:0000168 ! abiotic stress trait	CO_320:0000030 ! culm length	CO_320:0000160 ! abiotic stress trait
+TO:0000576 ! stem length	TO:0000164 ! stress trait	CO_320:0000030 ! culm length	CO_320:0000053 ! stress trait
+TO:0000576 ! stem length	TO:0000164 ! stress trait	CO_320:0000030 ! culm length	CO_320:0000053 ! stress trait
+TO:0000576 ! stem length	TO:0000168 ! abiotic stress trait	CO_320:0000030 ! culm length	CO_320:0000160 ! abiotic stress trait
+TO:0000576 ! stem length	TO:0000168 ! abiotic stress trait	CO_320:0000030 ! culm length	CO_320:0000160 ! abiotic stress trait
+TO:0000576 ! stem length	TO:0000164 ! stress trait	CO_320:0000030 ! culm length	CO_320:0000053 ! stress trait
+TO:0000576 ! stem length	TO:0000164 ! stress trait	CO_320:0000030 ! culm length	CO_320:0000053 ! stress trait
+TO:0000063 ! mimic response	TO:0000179 ! biotic stress trait	CO_320:0000050 ! lesion mimic	CO_320:0000168 ! biotic stress trait
+TO:0000063 ! mimic response	TO:0000179 ! biotic stress trait	CO_320:0000050 ! lesion mimic	CO_320:0000168 ! biotic stress trait
+TO:0000063 ! mimic response	TO:0000164 ! stress trait	CO_320:0000050 ! lesion mimic	CO_320:0000053 ! stress trait
+TO:0000063 ! mimic response	TO:0000164 ! stress trait	CO_320:0000050 ! lesion mimic	CO_320:0000053 ! stress trait
+TO:0000063 ! mimic response	TO:0000179 ! biotic stress trait	CO_320:0000050 ! lesion mimic	CO_320:0000168 ! biotic stress trait
+TO:0000063 ! mimic response	TO:0000179 ! biotic stress trait	CO_320:0000050 ! lesion mimic	CO_320:0000168 ! biotic stress trait
+TO:0000063 ! mimic response	TO:0000164 ! stress trait	CO_320:0000050 ! lesion mimic	CO_320:0000053 ! stress trait
+TO:0000063 ! mimic response	TO:0000164 ! stress trait	CO_320:0000050 ! lesion mimic	CO_320:0000053 ! stress trait
+TO:0006001 ! salt tolerance	TO:0000429 ! salt sensitivity	CO_320:0000066 ! salt tolerance	CO_320:0000066 ! salt tolerance
+TO:0006001 ! salt tolerance	TO:0000429 ! salt sensitivity	CO_320:0000066 ! salt tolerance	CO_320:0000066 ! salt tolerance
+TO:0006001 ! salt tolerance	TO:0000429 ! salt sensitivity	CO_320:0000066 ! salt tolerance	CO_320:0000066 ! salt tolerance
+TO:0006001 ! salt tolerance	TO:0000429 ! salt sensitivity	CO_320:0000066 ! salt tolerance	CO_320:0000066 ! salt tolerance
+TO:0000524 ! submergence tolerance	TO:0000286 ! submergence sensitivity	CO_320:0000067 ! submergence tolerance	CO_320:0000067 ! submergence tolerance
+TO:0000524 ! submergence tolerance	TO:0000286 ! submergence sensitivity	CO_320:0000067 ! submergence tolerance	CO_320:0000067 ! submergence tolerance
+TO:0000524 ! submergence tolerance	TO:0000286 ! submergence sensitivity	CO_320:0000067 ! submergence tolerance	CO_320:0000067 ! submergence tolerance
+TO:0000524 ! submergence tolerance	TO:0000286 ! submergence sensitivity	CO_320:0000067 ! submergence tolerance	CO_320:0000067 ! submergence tolerance
+TO:0000524 ! submergence tolerance	TO:0000286 ! submergence sensitivity	CO_320:0000067 ! submergence tolerance	CO_320:0000067 ! submergence tolerance
+TO:0000524 ! submergence tolerance	TO:0000286 ! submergence sensitivity	CO_320:0000067 ! submergence tolerance	CO_320:0000067 ! submergence tolerance
+TO:0000524 ! submergence tolerance	TO:0000286 ! submergence sensitivity	CO_320:0000067 ! submergence tolerance	CO_320:0000067 ! submergence tolerance
+TO:0000524 ! submergence tolerance	TO:0000286 ! submergence sensitivity	CO_320:0000067 ! submergence tolerance	CO_320:0000067 ! submergence tolerance
+TO:0000396 ! grain yield trait	TO:0000327 ! shoot system yield trait	CO_320:0000073 ! grain yield	CO_320:0000089 ! yield (biomass)
+TO:0000396 ! grain yield trait	TO:0000371 ! yield trait	CO_320:0000073 ! grain yield	CO_320:0000073 ! grain yield
+TO:0000396 ! grain yield trait	TO:0000371 ! yield trait	CO_320:0000073 ! grain yield	CO_320:0000073 ! grain yield
+TO:0000396 ! grain yield trait	TO:0000327 ! shoot system yield trait	CO_320:0000073 ! grain yield	CO_320:0000089 ! yield (biomass)
+TO:0000396 ! grain yield trait	TO:0000371 ! yield trait	CO_320:0000073 ! grain yield	CO_320:0000073 ! grain yield
+TO:0000396 ! grain yield trait	TO:0000371 ! yield trait	CO_320:0000073 ! grain yield	CO_320:0000073 ! grain yield
+TO:0000280 ! seedling vigor	TO:0000296 ! vegetative vigor	CO_320:0000077 ! seedling vigor	CO_320:0000167 ! vegetative vigor
+TO:0000280 ! seedling vigor	TO:0000296 ! vegetative vigor	CO_320:0000077 ! seedling vigor	CO_320:0000167 ! vegetative vigor
+TO:0000280 ! seedling vigor	TO:0000296 ! vegetative vigor	CO_320:0000077 ! seedling vigor	CO_320:0000167 ! vegetative vigor
+TO:0000280 ! seedling vigor	TO:0000296 ! vegetative vigor	CO_320:0000077 ! seedling vigor	CO_320:0000167 ! vegetative vigor
+TO:0000280 ! seedling vigor	TO:0000296 ! vegetative vigor	CO_320:0000077 ! seedling vigor	CO_320:0000167 ! vegetative vigor
+TO:0000280 ! seedling vigor	TO:0000296 ! vegetative vigor	CO_320:0000077 ! seedling vigor	CO_320:0000167 ! vegetative vigor
+TO:0000280 ! seedling vigor	TO:0000296 ! vegetative vigor	CO_320:0000077 ! seedling vigor	CO_320:0000167 ! vegetative vigor
+TO:0000280 ! seedling vigor	TO:0000296 ! vegetative vigor	CO_320:0000077 ! seedling vigor	CO_320:0000167 ! vegetative vigor
+TO:0000329 ! tillering ability	TO:0000371 ! yield trait	CO_320:0000079 ! tillering ability	CO_320:0000073 ! grain yield
+TO:0000329 ! tillering ability	TO:0000371 ! yield trait	CO_320:0000079 ! tillering ability	CO_320:0000073 ! grain yield
+TO:0000329 ! tillering ability	TO:0000371 ! yield trait	CO_320:0000079 ! tillering ability	CO_320:0000073 ! grain yield
+TO:0000329 ! tillering ability	TO:0000371 ! yield trait	CO_320:0000079 ! tillering ability	CO_320:0000073 ! grain yield
+TO:0000355 ! heterosis	TO:0000371 ! yield trait	CO_320:0000081 ! heterosis in F1 hybrid	CO_320:0000073 ! grain yield
+TO:0000355 ! heterosis	TO:0000371 ! yield trait	CO_320:0000081 ! heterosis in F1 hybrid	CO_320:0000073 ! grain yield
+TO:0000355 ! heterosis	TO:0000371 ! yield trait	CO_320:0000081 ! heterosis in F1 hybrid	CO_320:0000073 ! grain yield
+TO:0000355 ! heterosis	TO:0000371 ! yield trait	CO_320:0000081 ! heterosis in F1 hybrid	CO_320:0000073 ! grain yield
+TO:0000344 ! days to flowering trait	TO:0002616 ! flowering time trait	CO_320:0000083 ! days to flowering	CO_320:0000099 ! anthesis
+TO:0000344 ! days to flowering trait	TO:0002616 ! flowering time trait	CO_320:0000083 ! days to flowering	CO_320:0000099 ! anthesis
+TO:0000327 ! shoot system yield trait	TO:0000371 ! yield trait	CO_320:0000089 ! yield (biomass)	CO_320:0000073 ! grain yield
+TO:0000327 ! shoot system yield trait	TO:0000371 ! yield trait	CO_320:0000089 ! yield (biomass)	CO_320:0000073 ! grain yield
+TO:0000218 ! pollen abortion type	TO:0000437 ! male sterility	CO_320:0000092 ! abortion pattern	CO_320:0000095 ! male sterility
+TO:0000218 ! pollen abortion type	TO:0000437 ! male sterility	CO_320:0000092 ! abortion pattern	CO_320:0000095 ! male sterility
+TO:0000218 ! pollen abortion type	TO:0000437 ! male sterility	CO_320:0000092 ! abortion pattern	CO_320:0000095 ! male sterility
+TO:0000218 ! pollen abortion type	TO:0000437 ! male sterility	CO_320:0000092 ! abortion pattern	CO_320:0000095 ! male sterility
+TO:0000218 ! pollen abortion type	TO:0000392 ! sterility or fertility trait	CO_320:0000092 ! abortion pattern	CO_320:0000097 ! fertility
+TO:0000218 ! pollen abortion type	TO:0000437 ! male sterility	CO_320:0000092 ! abortion pattern	CO_320:0000095 ! male sterility
+TO:0000218 ! pollen abortion type	TO:0000437 ! male sterility	CO_320:0000092 ! abortion pattern	CO_320:0000095 ! male sterility
+TO:0000218 ! pollen abortion type	TO:0000437 ! male sterility	CO_320:0000092 ! abortion pattern	CO_320:0000095 ! male sterility
+TO:0000218 ! pollen abortion type	TO:0000437 ! male sterility	CO_320:0000092 ! abortion pattern	CO_320:0000095 ! male sterility
+TO:0000218 ! pollen abortion type	TO:0000392 ! sterility or fertility trait	CO_320:0000092 ! abortion pattern	CO_320:0000097 ! fertility
+TO:0000437 ! male sterility	TO:0000392 ! sterility or fertility trait	CO_320:0000095 ! male sterility	CO_320:0000097 ! fertility
+TO:0000437 ! male sterility	TO:0000392 ! sterility or fertility trait	CO_320:0000095 ! male sterility	CO_320:0000097 ! fertility
+TO:0000330 ! outcrossing potential	TO:0000371 ! yield trait	CO_320:0000096 ! outcrossing potential	CO_320:0000073 ! grain yield
+TO:0000330 ! outcrossing potential	TO:0000371 ! yield trait	CO_320:0000096 ! outcrossing potential	CO_320:0000073 ! grain yield
+TO:0000330 ! outcrossing potential	TO:0000371 ! yield trait	CO_320:0000096 ! outcrossing potential	CO_320:0000073 ! grain yield
+TO:0000330 ! outcrossing potential	TO:0000371 ! yield trait	CO_320:0000096 ! outcrossing potential	CO_320:0000073 ! grain yield
+TO:0000497 ! fertility restoration trait	TO:0000392 ! sterility or fertility trait	CO_320:0000098 ! fertility restoration	CO_320:0000097 ! fertility
+TO:0000497 ! fertility restoration trait	TO:0000392 ! sterility or fertility trait	CO_320:0000098 ! fertility restoration	CO_320:0000097 ! fertility
+TO:0000269 ! 100-seed weight	TO:0000181 ! seed weight	CO_320:0000100 ! grain weight	CO_320:0000010 ! seed weight
+TO:0000269 ! 100-seed weight	TO:0000181 ! seed weight	CO_320:0000100 ! grain weight	CO_320:0000010 ! seed weight
+TO:0000269 ! 100-seed weight	TO:0000181 ! seed weight	CO_320:0000100 ! grain weight	CO_320:0000100 ! grain weight
+TO:0000269 ! 100-seed weight	TO:0000181 ! seed weight	CO_320:0000100 ! grain weight	CO_320:0000100 ! grain weight
+TO:0000269 ! 100-seed weight	TO:0000181 ! seed weight	CO_320:0000100 ! grain weight	CO_320:0000010 ! seed weight
+TO:0000269 ! 100-seed weight	TO:0000181 ! seed weight	CO_320:0000100 ! grain weight	CO_320:0000010 ! seed weight
+TO:0000269 ! 100-seed weight	TO:0000181 ! seed weight	CO_320:0000100 ! grain weight	CO_320:0000010 ! seed weight
+TO:0000269 ! 100-seed weight	TO:0000181 ! seed weight	CO_320:0000100 ! grain weight	CO_320:0000010 ! seed weight
+TO:0000269 ! 100-seed weight	TO:0000181 ! seed weight	CO_320:0000100 ! grain weight	CO_320:0000100 ! grain weight
+TO:0000269 ! 100-seed weight	TO:0000181 ! seed weight	CO_320:0000100 ! grain weight	CO_320:0000100 ! grain weight
+TO:0000269 ! 100-seed weight	TO:0000181 ! seed weight	CO_320:0000100 ! grain weight	CO_320:0000010 ! seed weight
+TO:0000269 ! 100-seed weight	TO:0000181 ! seed weight	CO_320:0000100 ! grain weight	CO_320:0000010 ! seed weight
+TO:0000266 ! chalky endosperm	TO:0000587 ! endosperm quality	CO_320:0000104 ! chalkiness of endosperm	CO_320:0000113 ! endosperm quality
+TO:0000266 ! chalky endosperm	TO:0000587 ! endosperm quality	CO_320:0000104 ! chalkiness of endosperm	CO_320:0000113 ! endosperm quality
+TO:0000266 ! chalky endosperm	TO:0000587 ! endosperm quality	CO_320:0000104 ! chalkiness of endosperm	CO_320:0000113 ! endosperm quality
+TO:0000266 ! chalky endosperm	TO:0000587 ! endosperm quality	CO_320:0000104 ! chalkiness of endosperm	CO_320:0000113 ! endosperm quality
+TO:0000266 ! chalky endosperm	TO:0000587 ! endosperm quality	CO_320:0000104 ! chalkiness of endosperm	CO_320:0000113 ! endosperm quality
+TO:0000266 ! chalky endosperm	TO:0000587 ! endosperm quality	CO_320:0000104 ! chalkiness of endosperm	CO_320:0000113 ! endosperm quality
+TO:0000266 ! chalky endosperm	TO:0000587 ! endosperm quality	CO_320:0000104 ! chalkiness of endosperm	CO_320:0000113 ! endosperm quality
+TO:0000266 ! chalky endosperm	TO:0000587 ! endosperm quality	CO_320:0000104 ! chalkiness of endosperm	CO_320:0000113 ! endosperm quality
+TO:0000287 ! brown rice shape	TO:0002730 ! grain shape	CO_320:0000109 ! brown rice shape	CO_320:0000119 ! grain shape
+TO:0000287 ! brown rice shape	TO:0002730 ! grain shape	CO_320:0000109 ! brown rice shape	CO_320:0000119 ! grain shape
+TO:0000287 ! brown rice shape	TO:0002730 ! grain shape	CO_320:0000109 ! brown rice shape	CO_320:0000119 ! grain shape
+TO:0000287 ! brown rice shape	TO:0002730 ! grain shape	CO_320:0000109 ! brown rice shape	CO_320:0000119 ! grain shape
+TO:0000287 ! brown rice shape	TO:0002730 ! grain shape	CO_320:0000109 ! brown rice shape	CO_320:0000119 ! grain shape
+TO:0000287 ! brown rice shape	TO:0002730 ! grain shape	CO_320:0000109 ! brown rice shape	CO_320:0000119 ! grain shape
+TO:0000287 ! brown rice shape	TO:0002730 ! grain shape	CO_320:0000109 ! brown rice shape	CO_320:0000119 ! grain shape
+TO:0000287 ! brown rice shape	TO:0002730 ! grain shape	CO_320:0000109 ! brown rice shape	CO_320:0000119 ! grain shape
+TO:0000041 ! brown rice length	TO:0000734 ! grain length	CO_320:0000110 ! brown rice length	CO_320:0000004 ! grain length
+TO:0000041 ! brown rice length	TO:0000734 ! grain length	CO_320:0000110 ! brown rice length	CO_320:0000004 ! grain length
+TO:0000041 ! brown rice length	TO:0000734 ! grain length	CO_320:0000110 ! brown rice length	CO_320:0000004 ! grain length
+TO:0000041 ! brown rice length	TO:0000734 ! grain length	CO_320:0000110 ! brown rice length	CO_320:0000004 ! grain length
+TO:0000134 ! alkali digestion	TO:0000462 ! gelatinization temperature	CO_320:0000116 ! alkali digestion	CO_320:0000107 ! gelatinization temperature
+TO:0000134 ! alkali digestion	TO:0000462 ! gelatinization temperature	CO_320:0000116 ! alkali digestion	CO_320:0000107 ! gelatinization temperature
+TO:0000134 ! alkali digestion	TO:0000462 ! gelatinization temperature	CO_320:0000116 ! alkali digestion	CO_320:0000107 ! gelatinization temperature
+TO:0000134 ! alkali digestion	TO:0000462 ! gelatinization temperature	CO_320:0000116 ! alkali digestion	CO_320:0000107 ! gelatinization temperature
+TO:0000134 ! alkali digestion	TO:0000462 ! gelatinization temperature	CO_320:0000116 ! alkali digestion	CO_320:0000107 ! gelatinization temperature
+TO:0000134 ! alkali digestion	TO:0000462 ! gelatinization temperature	CO_320:0000116 ! alkali digestion	CO_320:0000107 ! gelatinization temperature
+TO:0000134 ! alkali digestion	TO:0000462 ! gelatinization temperature	CO_320:0000116 ! alkali digestion	CO_320:0000107 ! gelatinization temperature
+TO:0000134 ! alkali digestion	TO:0000462 ! gelatinization temperature	CO_320:0000116 ! alkali digestion	CO_320:0000107 ! gelatinization temperature
+TO:0000053 ! pollen sterility	TO:0000392 ! sterility or fertility trait	CO_320:0000158 ! pollen sterility	CO_320:0000097 ! fertility
+TO:0000053 ! pollen sterility	TO:0000392 ! sterility or fertility trait	CO_320:0000158 ! pollen sterility	CO_320:0000097 ! fertility
+TO:0000436 ! spikelet sterility	TO:0000392 ! sterility or fertility trait	CO_320:0000159 ! spikelet sterility	CO_320:0000097 ! fertility
+TO:0000436 ! spikelet sterility	TO:0000392 ! sterility or fertility trait	CO_320:0000159 ! spikelet sterility	CO_320:0000097 ! fertility
+CO_320:0000165 ! 100-grain weight	CO_320:0000100 ! grain weight	TO:0000269 ! 100-seed weight	TO:0000589 ! average grain weight
+CO_320:0000165 ! 100-grain weight	CO_320:0000100 ! grain weight	TO:0000269 ! 100-seed weight	TO:0000589 ! average grain weight
+CO_320:0000165 ! 100-grain weight	CO_320:0000101 ! grain quality trait	TO:0000269 ! 100-seed weight	TO:0000162 ! grain quality trait
+CO_320:0000165 ! 100-grain weight	CO_320:0000101 ! grain quality trait	TO:0000269 ! 100-seed weight	TO:0000162 ! grain quality trait
+CO_320:0000165 ! 100-grain weight	CO_320:0000100 ! grain weight	TO:0000269 ! 100-seed weight	TO:0000589 ! average grain weight
+CO_320:0000165 ! 100-grain weight	CO_320:0000100 ! grain weight	TO:0000269 ! 100-seed weight	TO:0000589 ! average grain weight
+CO_320:0000165 ! 100-grain weight	CO_320:0000101 ! grain quality trait	TO:0000269 ! 100-seed weight	TO:0000162 ! grain quality trait
+CO_320:0000165 ! 100-grain weight	CO_320:0000101 ! grain quality trait	TO:0000269 ! 100-seed weight	TO:0000162 ! grain quality trait
+TO:0000028 ! unfilled grain number	TO:0000396 ! grain yield trait	CO_320:0000012 ! unfilled grain	CO_320:0000073 ! grain yield
+TO:0000028 ! unfilled grain number	TO:0000396 ! grain yield trait	CO_320:0000012 ! unfilled grain	CO_320:0000073 ! grain yield
+TO:0000028 ! unfilled grain number	TO:0000396 ! grain yield trait	CO_320:0000012 ! unfilled grain	CO_320:0000073 ! grain yield
+TO:0000028 ! unfilled grain number	TO:0000396 ! grain yield trait	CO_320:0000012 ! unfilled grain	CO_320:0000073 ! grain yield
+TO:0000028 ! unfilled grain number	TO:0000327 ! shoot system yield trait	CO_320:0000012 ! unfilled grain	CO_320:0000089 ! yield (biomass)
+TO:0000028 ! unfilled grain number	TO:0000371 ! yield trait	CO_320:0000012 ! unfilled grain	CO_320:0000073 ! grain yield
+TO:0000028 ! unfilled grain number	TO:0000371 ! yield trait	CO_320:0000012 ! unfilled grain	CO_320:0000073 ! grain yield
+TO:0000028 ! unfilled grain number	TO:0000396 ! grain yield trait	CO_320:0000012 ! unfilled grain	CO_320:0000073 ! grain yield
+TO:0000028 ! unfilled grain number	TO:0000396 ! grain yield trait	CO_320:0000012 ! unfilled grain	CO_320:0000073 ! grain yield
+TO:0000028 ! unfilled grain number	TO:0000396 ! grain yield trait	CO_320:0000012 ! unfilled grain	CO_320:0000073 ! grain yield
+TO:0000028 ! unfilled grain number	TO:0000396 ! grain yield trait	CO_320:0000012 ! unfilled grain	CO_320:0000073 ! grain yield
+TO:0000028 ! unfilled grain number	TO:0000327 ! shoot system yield trait	CO_320:0000012 ! unfilled grain	CO_320:0000089 ! yield (biomass)
+TO:0000028 ! unfilled grain number	TO:0000371 ! yield trait	CO_320:0000012 ! unfilled grain	CO_320:0000073 ! grain yield
+TO:0000028 ! unfilled grain number	TO:0000371 ! yield trait	CO_320:0000012 ! unfilled grain	CO_320:0000073 ! grain yield
+TO:0000344 ! days to flowering trait	TO:0002616 ! flowering time trait	CO_320:0000083 ! days to flowering	CO_320:0000099 ! anthesis
+TO:0000344 ! days to flowering trait	TO:0002616 ! flowering time trait	CO_320:0000083 ! days to flowering	CO_320:0000099 ! anthesis
+TO:0000330 ! outcrossing potential	TO:0000371 ! yield trait	CO_320:0000096 ! outcrossing potential	CO_320:0000073 ! grain yield
+TO:0000330 ! outcrossing potential	TO:0000371 ! yield trait	CO_320:0000096 ! outcrossing potential	CO_320:0000073 ! grain yield
+TO:0000330 ! outcrossing potential	TO:0000371 ! yield trait	CO_320:0000096 ! outcrossing potential	CO_320:0000073 ! grain yield
+TO:0000330 ! outcrossing potential	TO:0000371 ! yield trait	CO_320:0000096 ! outcrossing potential	CO_320:0000073 ! grain yield
+CO_320:0000103 ! aroma	CO_320:0000101 ! grain quality trait	TO:0000087 ! aroma	TO:0000162 ! grain quality trait
+CO_320:0000103 ! aroma	CO_320:0000101 ! grain quality trait	TO:0000087 ! aroma	TO:0000162 ! grain quality trait
+CO_320:0000103 ! aroma	CO_320:0000101 ! grain quality trait	TO:0000087 ! aroma	TO:0000162 ! grain quality trait
+CO_320:0000103 ! aroma	CO_320:0000101 ! grain quality trait	TO:0000087 ! aroma	TO:0000162 ! grain quality trait
+TO:0000041 ! brown rice length	TO:0000734 ! grain length	CO_320:0000110 ! brown rice length	CO_320:0000004 ! grain length
+TO:0000041 ! brown rice length	TO:0000734 ! grain length	CO_320:0000110 ! brown rice length	CO_320:0000004 ! grain length
+TO:0000041 ! brown rice length	TO:0000734 ! grain length	CO_320:0000110 ! brown rice length	CO_320:0000004 ! grain length
+TO:0000041 ! brown rice length	TO:0000734 ! grain length	CO_320:0000110 ! brown rice length	CO_320:0000004 ! grain length
+TO:0000524 ! submergence tolerance	TO:0000286 ! submergence sensitivity	CO_320:0000067 ! submergence tolerance	CO_320:0000067 ! submergence tolerance
+TO:0000524 ! submergence tolerance	TO:0000286 ! submergence sensitivity	CO_320:0000067 ! submergence tolerance	CO_320:0000067 ! submergence tolerance
+TO:0000524 ! submergence tolerance	TO:0000286 ! submergence sensitivity	CO_320:0000067 ! submergence tolerance	CO_320:0000067 ! submergence tolerance
+TO:0000524 ! submergence tolerance	TO:0000286 ! submergence sensitivity	CO_320:0000067 ! submergence tolerance	CO_320:0000067 ! submergence tolerance
+TO:0000524 ! submergence tolerance	TO:0000286 ! submergence sensitivity	CO_320:0000067 ! submergence tolerance	CO_320:0000067 ! submergence tolerance
+TO:0000524 ! submergence tolerance	TO:0000286 ! submergence sensitivity	CO_320:0000067 ! submergence tolerance	CO_320:0000067 ! submergence tolerance
+TO:0000524 ! submergence tolerance	TO:0000286 ! submergence sensitivity	CO_320:0000067 ! submergence tolerance	CO_320:0000067 ! submergence tolerance
+TO:0000524 ! submergence tolerance	TO:0000286 ! submergence sensitivity	CO_320:0000067 ! submergence tolerance	CO_320:0000067 ! submergence tolerance
+TO:0000019 ! seedling height	TO:0000207 ! plant height	CO_320:0000218 ! seedling height	CO_320:0000076 ! plant height
+TO:0000019 ! seedling height	TO:0000207 ! plant height	CO_320:0000218 ! seedling height	CO_320:0000076 ! plant height
+TO:0000019 ! seedling height	TO:0000207 ! plant height	CO_320:0000218 ! seedling height	CO_320:0000076 ! plant height
+TO:0000019 ! seedling height	TO:0000207 ! plant height	CO_320:0000218 ! seedling height	CO_320:0000076 ! plant height
+TO:0000019 ! seedling height	TO:0000207 ! plant height	CO_320:0000218 ! seedling height	CO_320:0000076 ! plant height
+TO:0000019 ! seedling height	TO:0000207 ! plant height	CO_320:0000218 ! seedling height	CO_320:0000076 ! plant height
+TO:0000019 ! seedling height	TO:0000207 ! plant height	CO_320:0000218 ! seedling height	CO_320:0000076 ! plant height
+TO:0000019 ! seedling height	TO:0000207 ! plant height	CO_320:0000218 ! seedling height	CO_320:0000076 ! plant height
+CO_320:0000102 ! amylose content	CO_320:0000101 ! grain quality trait	TO:0000196 ! amylose content	TO:0000162 ! grain quality trait
+CO_320:0000102 ! amylose content	CO_320:0000101 ! grain quality trait	TO:0000196 ! amylose content	TO:0000162 ! grain quality trait
+CO_320:0000102 ! amylose content	CO_320:0000101 ! grain quality trait	TO:0000196 ! amylose content	TO:0000162 ! grain quality trait
+CO_320:0000102 ! amylose content	CO_320:0000101 ! grain quality trait	TO:0000196 ! amylose content	TO:0000162 ! grain quality trait
+CO_320:0000104 ! chalkiness of endosperm	CO_320:0000101 ! grain quality trait	TO:0000266 ! chalky endosperm	TO:0000162 ! grain quality trait
+CO_320:0000104 ! chalkiness of endosperm	CO_320:0000101 ! grain quality trait	TO:0000266 ! chalky endosperm	TO:0000162 ! grain quality trait
+CO_320:0000104 ! chalkiness of endosperm	CO_320:0000101 ! grain quality trait	TO:0000266 ! chalky endosperm	TO:0000162 ! grain quality trait
+CO_320:0000104 ! chalkiness of endosperm	CO_320:0000101 ! grain quality trait	TO:0000266 ! chalky endosperm	TO:0000162 ! grain quality trait
+CO_320:0000115 ! seed coat color	CO_320:0000101 ! grain quality trait	TO:0000190 ! seed coat color	TO:0000162 ! grain quality trait
+CO_320:0000115 ! seed coat color	CO_320:0000101 ! grain quality trait	TO:0000190 ! seed coat color	TO:0000162 ! grain quality trait
+CO_320:0000115 ! seed coat color	CO_320:0000101 ! grain quality trait	TO:0000190 ! seed coat color	TO:0000162 ! grain quality trait
+CO_320:0000115 ! seed coat color	CO_320:0000101 ! grain quality trait	TO:0000190 ! seed coat color	TO:0000162 ! grain quality trait
+TO:0000266 ! chalky endosperm	TO:0000587 ! endosperm quality	CO_320:0000104 ! chalkiness of endosperm	CO_320:0000113 ! endosperm quality
+TO:0000266 ! chalky endosperm	TO:0000587 ! endosperm quality	CO_320:0000104 ! chalkiness of endosperm	CO_320:0000113 ! endosperm quality
+TO:0000266 ! chalky endosperm	TO:0000587 ! endosperm quality	CO_320:0000104 ! chalkiness of endosperm	CO_320:0000113 ! endosperm quality
+TO:0000266 ! chalky endosperm	TO:0000587 ! endosperm quality	CO_320:0000104 ! chalkiness of endosperm	CO_320:0000113 ! endosperm quality
+TO:0000266 ! chalky endosperm	TO:0000587 ! endosperm quality	CO_320:0000104 ! chalkiness of endosperm	CO_320:0000113 ! endosperm quality
+TO:0000266 ! chalky endosperm	TO:0000587 ! endosperm quality	CO_320:0000104 ! chalkiness of endosperm	CO_320:0000113 ! endosperm quality
+TO:0000266 ! chalky endosperm	TO:0000587 ! endosperm quality	CO_320:0000104 ! chalkiness of endosperm	CO_320:0000113 ! endosperm quality
+TO:0000266 ! chalky endosperm	TO:0000587 ! endosperm quality	CO_320:0000104 ! chalkiness of endosperm	CO_320:0000113 ! endosperm quality
+TO:0000134 ! alkali digestion	TO:0000462 ! gelatinization temperature	CO_320:0000116 ! alkali digestion	CO_320:0000107 ! gelatinization temperature
+TO:0000134 ! alkali digestion	TO:0000462 ! gelatinization temperature	CO_320:0000116 ! alkali digestion	CO_320:0000107 ! gelatinization temperature
+TO:0000134 ! alkali digestion	TO:0000462 ! gelatinization temperature	CO_320:0000116 ! alkali digestion	CO_320:0000107 ! gelatinization temperature
+TO:0000134 ! alkali digestion	TO:0000462 ! gelatinization temperature	CO_320:0000116 ! alkali digestion	CO_320:0000107 ! gelatinization temperature
+TO:0000134 ! alkali digestion	TO:0000462 ! gelatinization temperature	CO_320:0000116 ! alkali digestion	CO_320:0000107 ! gelatinization temperature
+TO:0000134 ! alkali digestion	TO:0000462 ! gelatinization temperature	CO_320:0000116 ! alkali digestion	CO_320:0000107 ! gelatinization temperature
+TO:0000134 ! alkali digestion	TO:0000462 ! gelatinization temperature	CO_320:0000116 ! alkali digestion	CO_320:0000107 ! gelatinization temperature
+TO:0000134 ! alkali digestion	TO:0000462 ! gelatinization temperature	CO_320:0000116 ! alkali digestion	CO_320:0000107 ! gelatinization temperature
+CO_320:0000117 ! brown rice width	CO_320:0000101 ! grain quality trait	TO:0002627 ! fruit width	TO:0000162 ! grain quality trait
+CO_320:0000117 ! brown rice width	CO_320:0000101 ! grain quality trait	TO:0002627 ! fruit width	TO:0000162 ! grain quality trait
+CO_320:0000117 ! brown rice width	CO_320:0000101 ! grain quality trait	TO:0002627 ! fruit width	TO:0000162 ! grain quality trait
+CO_320:0000117 ! brown rice width	CO_320:0000101 ! grain quality trait	TO:0002627 ! fruit width	TO:0000162 ! grain quality trait
+CO_320:0000107 ! gelatinization temperature	CO_320:0000101 ! grain quality trait	TO:0000462 ! gelatinization temperature	TO:0000162 ! grain quality trait
+CO_320:0000107 ! gelatinization temperature	CO_320:0000101 ! grain quality trait	TO:0000462 ! gelatinization temperature	TO:0000162 ! grain quality trait
+CO_320:0000107 ! gelatinization temperature	CO_320:0000101 ! grain quality trait	TO:0000462 ! gelatinization temperature	TO:0000162 ! grain quality trait
+CO_320:0000107 ! gelatinization temperature	CO_320:0000101 ! grain quality trait	TO:0000462 ! gelatinization temperature	TO:0000162 ! grain quality trait
+CO_320:0000106 ! gel consistency	CO_320:0000101 ! grain quality trait	TO:0000211 ! gel consistency	TO:0000162 ! grain quality trait
+CO_320:0000106 ! gel consistency	CO_320:0000101 ! grain quality trait	TO:0000211 ! gel consistency	TO:0000162 ! grain quality trait
+CO_320:0000106 ! gel consistency	CO_320:0000101 ! grain quality trait	TO:0000211 ! gel consistency	TO:0000162 ! grain quality trait
+CO_320:0000106 ! gel consistency	CO_320:0000101 ! grain quality trait	TO:0000211 ! gel consistency	TO:0000162 ! grain quality trait
+TO:0000399 ! grain thickness	TO:0000162 ! grain quality trait	CO_320:0000020 ! grain thickness	CO_320:0000101 ! grain quality trait
+TO:0000399 ! grain thickness	TO:0000162 ! grain quality trait	CO_320:0000020 ! grain thickness	CO_320:0000101 ! grain quality trait
+TO:0000399 ! grain thickness	TO:0000162 ! grain quality trait	CO_320:0000020 ! grain thickness	CO_320:0000101 ! grain quality trait
+TO:0000399 ! grain thickness	TO:0000162 ! grain quality trait	CO_320:0000020 ! grain thickness	CO_320:0000101 ! grain quality trait
+TO:0000367 ! basal leaf sheath color	TO:0002724 ! leaf sheath color	CO_320:0000023 ! basal leaf sheath color	CO_320:0000024 ! leaf sheath color
+TO:0000367 ! basal leaf sheath color	TO:0002724 ! leaf sheath color	CO_320:0000023 ! basal leaf sheath color	CO_320:0000024 ! leaf sheath color
+TO:0000367 ! basal leaf sheath color	TO:0002724 ! leaf sheath color	CO_320:0000023 ! basal leaf sheath color	CO_320:0000024 ! leaf sheath color
+TO:0000367 ! basal leaf sheath color	TO:0002724 ! leaf sheath color	CO_320:0000023 ! basal leaf sheath color	CO_320:0000024 ! leaf sheath color
+TO:0000053 ! pollen sterility	TO:0000392 ! sterility or fertility trait	CO_320:0000158 ! pollen sterility	CO_320:0000097 ! fertility
+TO:0000053 ! pollen sterility	TO:0000392 ! sterility or fertility trait	CO_320:0000158 ! pollen sterility	CO_320:0000097 ! fertility
+TO:0000339 ! stem thickness	TO:0000051 ! stem strength	CO_320:0000022 ! stem thickness	CO_320:0000084 ! culm strength
+TO:0000339 ! stem thickness	TO:0000051 ! stem strength	CO_320:0000022 ! stem thickness	CO_320:0000084 ! culm strength
+TO:0000339 ! stem thickness	TO:0000168 ! abiotic stress trait	CO_320:0000022 ! stem thickness	CO_320:0000160 ! abiotic stress trait
+TO:0000339 ! stem thickness	TO:0000168 ! abiotic stress trait	CO_320:0000022 ! stem thickness	CO_320:0000160 ! abiotic stress trait
+TO:0000339 ! stem thickness	TO:0000164 ! stress trait	CO_320:0000022 ! stem thickness	CO_320:0000053 ! stress trait
+TO:0000339 ! stem thickness	TO:0000164 ! stress trait	CO_320:0000022 ! stem thickness	CO_320:0000053 ! stress trait
+TO:0000339 ! stem thickness	TO:0000051 ! stem strength	CO_320:0000022 ! stem thickness	CO_320:0000084 ! culm strength
+TO:0000339 ! stem thickness	TO:0000051 ! stem strength	CO_320:0000022 ! stem thickness	CO_320:0000084 ! culm strength
+TO:0000339 ! stem thickness	TO:0000168 ! abiotic stress trait	CO_320:0000022 ! stem thickness	CO_320:0000160 ! abiotic stress trait
+TO:0000339 ! stem thickness	TO:0000168 ! abiotic stress trait	CO_320:0000022 ! stem thickness	CO_320:0000160 ! abiotic stress trait
+TO:0000339 ! stem thickness	TO:0000164 ! stress trait	CO_320:0000022 ! stem thickness	CO_320:0000053 ! stress trait
+TO:0000339 ! stem thickness	TO:0000164 ! stress trait	CO_320:0000022 ! stem thickness	CO_320:0000053 ! stress trait
+TO:0000218 ! pollen abortion type	TO:0000437 ! male sterility	CO_320:0000092 ! abortion pattern	CO_320:0000095 ! male sterility
+TO:0000218 ! pollen abortion type	TO:0000437 ! male sterility	CO_320:0000092 ! abortion pattern	CO_320:0000095 ! male sterility
+TO:0000218 ! pollen abortion type	TO:0000437 ! male sterility	CO_320:0000092 ! abortion pattern	CO_320:0000095 ! male sterility
+TO:0000218 ! pollen abortion type	TO:0000437 ! male sterility	CO_320:0000092 ! abortion pattern	CO_320:0000095 ! male sterility
+TO:0000218 ! pollen abortion type	TO:0000392 ! sterility or fertility trait	CO_320:0000092 ! abortion pattern	CO_320:0000097 ! fertility
+TO:0000218 ! pollen abortion type	TO:0000437 ! male sterility	CO_320:0000092 ! abortion pattern	CO_320:0000095 ! male sterility
+TO:0000218 ! pollen abortion type	TO:0000437 ! male sterility	CO_320:0000092 ! abortion pattern	CO_320:0000095 ! male sterility
+TO:0000218 ! pollen abortion type	TO:0000437 ! male sterility	CO_320:0000092 ! abortion pattern	CO_320:0000095 ! male sterility
+TO:0000218 ! pollen abortion type	TO:0000437 ! male sterility	CO_320:0000092 ! abortion pattern	CO_320:0000095 ! male sterility
+TO:0000218 ! pollen abortion type	TO:0000392 ! sterility or fertility trait	CO_320:0000092 ! abortion pattern	CO_320:0000097 ! fertility
+CO_320:0000159 ! spikelet sterility	CO_320:0000095 ! male sterility	TO:0000436 ! spikelet sterility	TO:0000437 ! male sterility
+CO_320:0000159 ! spikelet sterility	CO_320:0000095 ! male sterility	TO:0000436 ! spikelet sterility	TO:0000437 ! male sterility
+CO_320:0000159 ! spikelet sterility	CO_320:0000095 ! male sterility	TO:0000436 ! spikelet sterility	TO:0000437 ! male sterility
+CO_320:0000159 ! spikelet sterility	CO_320:0000095 ! male sterility	TO:0000436 ! spikelet sterility	TO:0000437 ! male sterility
+TO:0000287 ! brown rice shape	TO:0002730 ! grain shape	CO_320:0000109 ! brown rice shape	CO_320:0000119 ! grain shape
+TO:0000287 ! brown rice shape	TO:0002730 ! grain shape	CO_320:0000109 ! brown rice shape	CO_320:0000119 ! grain shape
+TO:0000287 ! brown rice shape	TO:0002730 ! grain shape	CO_320:0000109 ! brown rice shape	CO_320:0000119 ! grain shape
+TO:0000287 ! brown rice shape	TO:0002730 ! grain shape	CO_320:0000109 ! brown rice shape	CO_320:0000119 ! grain shape
+TO:0000287 ! brown rice shape	TO:0002730 ! grain shape	CO_320:0000109 ! brown rice shape	CO_320:0000119 ! grain shape
+TO:0000287 ! brown rice shape	TO:0002730 ! grain shape	CO_320:0000109 ! brown rice shape	CO_320:0000119 ! grain shape
+TO:0000287 ! brown rice shape	TO:0002730 ! grain shape	CO_320:0000109 ! brown rice shape	CO_320:0000119 ! grain shape
+TO:0000287 ! brown rice shape	TO:0002730 ! grain shape	CO_320:0000109 ! brown rice shape	CO_320:0000119 ! grain shape
+TO:0000382 ! 1000-seed weight	TO:0000181 ! seed weight	CO_320:0000166 ! 1000-grain weight	CO_320:0000010 ! seed weight
+TO:0000382 ! 1000-seed weight	TO:0000181 ! seed weight	CO_320:0000166 ! 1000-grain weight	CO_320:0000010 ! seed weight
+TO:0000382 ! 1000-seed weight	TO:0000181 ! seed weight	CO_320:0000166 ! 1000-grain weight	CO_320:0000010 ! seed weight
+TO:0000382 ! 1000-seed weight	TO:0000181 ! seed weight	CO_320:0000166 ! 1000-grain weight	CO_320:0000010 ! seed weight
+TO:0000382 ! 1000-seed weight	TO:0000181 ! seed weight	CO_320:0000166 ! 1000-grain weight	CO_320:0000010 ! seed weight
+TO:0000382 ! 1000-seed weight	TO:0000181 ! seed weight	CO_320:0000166 ! 1000-grain weight	CO_320:0000010 ! seed weight
+TO:0000382 ! 1000-seed weight	TO:0000181 ! seed weight	CO_320:0000166 ! 1000-grain weight	CO_320:0000010 ! seed weight
+TO:0000382 ! 1000-seed weight	TO:0000181 ! seed weight	CO_320:0000166 ! 1000-grain weight	CO_320:0000010 ! seed weight
+CO_320:0000109 ! brown rice shape	CO_320:0000101 ! grain quality trait	TO:0000287 ! brown rice shape	TO:0000162 ! grain quality trait
+CO_320:0000109 ! brown rice shape	CO_320:0000101 ! grain quality trait	TO:0000287 ! brown rice shape	TO:0000162 ! grain quality trait
+CO_320:0000109 ! brown rice shape	CO_320:0000101 ! grain quality trait	TO:0000287 ! brown rice shape	TO:0000162 ! grain quality trait
+CO_320:0000109 ! brown rice shape	CO_320:0000101 ! grain quality trait	TO:0000287 ! brown rice shape	TO:0000162 ! grain quality trait
+CO_320:0000111 ! brown rice protein	CO_320:0000101 ! grain quality trait	TO:0000090 ! penetrated root thickness	TO:0000162 ! grain quality trait
+CO_320:0000111 ! brown rice protein	CO_320:0000101 ! grain quality trait	TO:0000090 ! penetrated root thickness	TO:0000162 ! grain quality trait
+CO_320:0000111 ! brown rice protein	CO_320:0000101 ! grain quality trait	TO:0000090 ! penetrated root thickness	TO:0000162 ! grain quality trait
+CO_320:0000111 ! brown rice protein	CO_320:0000101 ! grain quality trait	TO:0000090 ! penetrated root thickness	TO:0000162 ! grain quality trait
+TO:0000285 ! nodal tillering	TO:0000329 ! tillering ability	CO_320:0000008 ! nodal tillering	CO_320:0000079 ! tillering ability
+TO:0000285 ! nodal tillering	TO:0000329 ! tillering ability	CO_320:0000008 ! nodal tillering	CO_320:0000079 ! tillering ability
+TO:0000285 ! nodal tillering	TO:0000329 ! tillering ability	CO_320:0000008 ! nodal tillering	CO_320:0000079 ! tillering ability
+TO:0000285 ! nodal tillering	TO:0000329 ! tillering ability	CO_320:0000008 ! nodal tillering	CO_320:0000079 ! tillering ability
+TO:0000285 ! nodal tillering	TO:0000371 ! yield trait	CO_320:0000008 ! nodal tillering	CO_320:0000073 ! grain yield
+TO:0000285 ! nodal tillering	TO:0000371 ! yield trait	CO_320:0000008 ! nodal tillering	CO_320:0000073 ! grain yield
+TO:0000285 ! nodal tillering	TO:0000329 ! tillering ability	CO_320:0000008 ! nodal tillering	CO_320:0000079 ! tillering ability
+TO:0000285 ! nodal tillering	TO:0000329 ! tillering ability	CO_320:0000008 ! nodal tillering	CO_320:0000079 ! tillering ability
+TO:0000285 ! nodal tillering	TO:0000329 ! tillering ability	CO_320:0000008 ! nodal tillering	CO_320:0000079 ! tillering ability
+TO:0000285 ! nodal tillering	TO:0000329 ! tillering ability	CO_320:0000008 ! nodal tillering	CO_320:0000079 ! tillering ability
+TO:0000285 ! nodal tillering	TO:0000371 ! yield trait	CO_320:0000008 ! nodal tillering	CO_320:0000073 ! grain yield
+TO:0000285 ! nodal tillering	TO:0000371 ! yield trait	CO_320:0000008 ! nodal tillering	CO_320:0000073 ! grain yield
+TO:0000396 ! grain yield trait	TO:0000327 ! shoot system yield trait	CO_320:0000073 ! grain yield	CO_320:0000089 ! yield (biomass)
+TO:0000396 ! grain yield trait	TO:0000371 ! yield trait	CO_320:0000073 ! grain yield	CO_320:0000073 ! grain yield
+TO:0000396 ! grain yield trait	TO:0000371 ! yield trait	CO_320:0000073 ! grain yield	CO_320:0000073 ! grain yield
+TO:0000396 ! grain yield trait	TO:0000327 ! shoot system yield trait	CO_320:0000073 ! grain yield	CO_320:0000089 ! yield (biomass)
+TO:0000396 ! grain yield trait	TO:0000371 ! yield trait	CO_320:0000073 ! grain yield	CO_320:0000073 ! grain yield
+TO:0000396 ! grain yield trait	TO:0000371 ! yield trait	CO_320:0000073 ! grain yield	CO_320:0000073 ! grain yield
+CO_320:0000166 ! 1000-grain weight	CO_320:0000100 ! grain weight	TO:0000382 ! 1000-seed weight	TO:0000589 ! average grain weight
+CO_320:0000166 ! 1000-grain weight	CO_320:0000100 ! grain weight	TO:0000382 ! 1000-seed weight	TO:0000589 ! average grain weight
+CO_320:0000166 ! 1000-grain weight	CO_320:0000101 ! grain quality trait	TO:0000382 ! 1000-seed weight	TO:0000162 ! grain quality trait
+CO_320:0000166 ! 1000-grain weight	CO_320:0000101 ! grain quality trait	TO:0000382 ! 1000-seed weight	TO:0000162 ! grain quality trait
+CO_320:0000166 ! 1000-grain weight	CO_320:0000100 ! grain weight	TO:0000382 ! 1000-seed weight	TO:0000589 ! average grain weight
+CO_320:0000166 ! 1000-grain weight	CO_320:0000100 ! grain weight	TO:0000382 ! 1000-seed weight	TO:0000589 ! average grain weight
+CO_320:0000166 ! 1000-grain weight	CO_320:0000101 ! grain quality trait	TO:0000382 ! 1000-seed weight	TO:0000162 ! grain quality trait
+CO_320:0000166 ! 1000-grain weight	CO_320:0000101 ! grain quality trait	TO:0000382 ! 1000-seed weight	TO:0000162 ! grain quality trait
+CO_320:0000110 ! brown rice length	CO_320:0000101 ! grain quality trait	TO:0000041 ! brown rice length	TO:0000162 ! grain quality trait
+CO_320:0000110 ! brown rice length	CO_320:0000101 ! grain quality trait	TO:0000041 ! brown rice length	TO:0000162 ! grain quality trait
+CO_320:0000110 ! brown rice length	CO_320:0000101 ! grain quality trait	TO:0000041 ! brown rice length	TO:0000162 ! grain quality trait
+CO_320:0000110 ! brown rice length	CO_320:0000101 ! grain quality trait	TO:0000041 ! brown rice length	TO:0000162 ! grain quality trait
+CO_320:0000116 ! alkali digestion	CO_320:0000101 ! grain quality trait	TO:0000134 ! alkali digestion	TO:0000162 ! grain quality trait
+CO_320:0000116 ! alkali digestion	CO_320:0000101 ! grain quality trait	TO:0000134 ! alkali digestion	TO:0000162 ! grain quality trait
+CO_320:0000116 ! alkali digestion	CO_320:0000101 ! grain quality trait	TO:0000134 ! alkali digestion	TO:0000162 ! grain quality trait
+CO_320:0000116 ! alkali digestion	CO_320:0000101 ! grain quality trait	TO:0000134 ! alkali digestion	TO:0000162 ! grain quality trait
+CO_320:0000114 ! grain moisture	CO_320:0000101 ! grain quality trait	TO:0000057 ! grain moisture	TO:0000162 ! grain quality trait
+CO_320:0000114 ! grain moisture	CO_320:0000101 ! grain quality trait	TO:0000057 ! grain moisture	TO:0000162 ! grain quality trait
+CO_320:0000114 ! grain moisture	CO_320:0000101 ! grain quality trait	TO:0000057 ! grain moisture	TO:0000162 ! grain quality trait
+CO_320:0000114 ! grain moisture	CO_320:0000101 ! grain quality trait	TO:0000057 ! grain moisture	TO:0000162 ! grain quality trait
+TO:0000402 ! grain width	TO:0002627 ! fruit width	CO_320:0000005 ! grain width	CO_320:0000117 ! brown rice width
+TO:0000402 ! grain width	TO:0002627 ! fruit width	CO_320:0000005 ! grain width	CO_320:0000117 ! brown rice width
+TO:0000402 ! grain width	TO:0002627 ! fruit width	CO_320:0000005 ! grain width	CO_320:0000117 ! brown rice width
+TO:0000402 ! grain width	TO:0002627 ! fruit width	CO_320:0000005 ! grain width	CO_320:0000117 ! brown rice width
+TO:0000589 ! average grain weight	TO:0000396 ! grain yield trait	CO_320:0000100 ! grain weight	CO_320:0000073 ! grain yield
+TO:0000589 ! average grain weight	TO:0000396 ! grain yield trait	CO_320:0000100 ! grain weight	CO_320:0000073 ! grain yield
+TO:0000589 ! average grain weight	TO:0000396 ! grain yield trait	CO_320:0000100 ! grain weight	CO_320:0000073 ! grain yield
+TO:0000589 ! average grain weight	TO:0000396 ! grain yield trait	CO_320:0000100 ! grain weight	CO_320:0000073 ! grain yield
+TO:0000589 ! average grain weight	TO:0000327 ! shoot system yield trait	CO_320:0000100 ! grain weight	CO_320:0000089 ! yield (biomass)
+TO:0000589 ! average grain weight	TO:0000371 ! yield trait	CO_320:0000100 ! grain weight	CO_320:0000073 ! grain yield
+TO:0000589 ! average grain weight	TO:0000371 ! yield trait	CO_320:0000100 ! grain weight	CO_320:0000073 ! grain yield
+TO:0000589 ! average grain weight	TO:0000396 ! grain yield trait	CO_320:0000100 ! grain weight	CO_320:0000073 ! grain yield
+TO:0000589 ! average grain weight	TO:0000396 ! grain yield trait	CO_320:0000100 ! grain weight	CO_320:0000073 ! grain yield
+TO:0000589 ! average grain weight	TO:0000396 ! grain yield trait	CO_320:0000100 ! grain weight	CO_320:0000073 ! grain yield
+TO:0000589 ! average grain weight	TO:0000396 ! grain yield trait	CO_320:0000100 ! grain weight	CO_320:0000073 ! grain yield
+TO:0000589 ! average grain weight	TO:0000327 ! shoot system yield trait	CO_320:0000100 ! grain weight	CO_320:0000089 ! yield (biomass)
+TO:0000589 ! average grain weight	TO:0000371 ! yield trait	CO_320:0000100 ! grain weight	CO_320:0000073 ! grain yield
+TO:0000589 ! average grain weight	TO:0000371 ! yield trait	CO_320:0000100 ! grain weight	CO_320:0000073 ! grain yield
+TO:0000436 ! spikelet sterility	TO:0000392 ! sterility or fertility trait	CO_320:0000159 ! spikelet sterility	CO_320:0000097 ! fertility
+TO:0000436 ! spikelet sterility	TO:0000392 ! sterility or fertility trait	CO_320:0000159 ! spikelet sterility	CO_320:0000097 ! fertility
+CO_320:0000111 ! brown rice protein	CO_320:0000101 ! grain quality trait	TO:0000138 ! brown rice protein	TO:0000162 ! grain quality trait
+CO_320:0000111 ! brown rice protein	CO_320:0000101 ! grain quality trait	TO:0000138 ! brown rice protein	TO:0000162 ! grain quality trait
+CO_320:0000111 ! brown rice protein	CO_320:0000101 ! grain quality trait	TO:0000138 ! brown rice protein	TO:0000162 ! grain quality trait
+CO_320:0000111 ! brown rice protein	CO_320:0000101 ! grain quality trait	TO:0000138 ! brown rice protein	TO:0000162 ! grain quality trait
+TO:0000280 ! seedling vigor	TO:0000296 ! vegetative vigor	CO_320:0000077 ! seedling vigor	CO_320:0000167 ! vegetative vigor
+TO:0000280 ! seedling vigor	TO:0000296 ! vegetative vigor	CO_320:0000077 ! seedling vigor	CO_320:0000167 ! vegetative vigor
+TO:0000280 ! seedling vigor	TO:0000296 ! vegetative vigor	CO_320:0000077 ! seedling vigor	CO_320:0000167 ! vegetative vigor
+TO:0000280 ! seedling vigor	TO:0000296 ! vegetative vigor	CO_320:0000077 ! seedling vigor	CO_320:0000167 ! vegetative vigor
+TO:0000280 ! seedling vigor	TO:0000296 ! vegetative vigor	CO_320:0000077 ! seedling vigor	CO_320:0000167 ! vegetative vigor
+TO:0000280 ! seedling vigor	TO:0000296 ! vegetative vigor	CO_320:0000077 ! seedling vigor	CO_320:0000167 ! vegetative vigor
+TO:0000280 ! seedling vigor	TO:0000296 ! vegetative vigor	CO_320:0000077 ! seedling vigor	CO_320:0000167 ! vegetative vigor
+TO:0000280 ! seedling vigor	TO:0000296 ! vegetative vigor	CO_320:0000077 ! seedling vigor	CO_320:0000167 ! vegetative vigor
+CO_320:0000060 ! drought sensitivity	CO_320:0000163 ! drought stress trait	TO:0000092 ! deep root to shoot ratio	TO:0000394 ! drought related trait
+CO_320:0000060 ! drought sensitivity	CO_320:0000163 ! drought stress trait	TO:0000092 ! deep root to shoot ratio	TO:0000394 ! drought related trait
+CO_320:0000060 ! drought sensitivity	CO_320:0000160 ! abiotic stress trait	TO:0000092 ! deep root to shoot ratio	TO:0000168 ! abiotic stress trait
+CO_320:0000060 ! drought sensitivity	CO_320:0000160 ! abiotic stress trait	TO:0000092 ! deep root to shoot ratio	TO:0000168 ! abiotic stress trait
+CO_320:0000060 ! drought sensitivity	CO_320:0000053 ! stress trait	TO:0000092 ! deep root to shoot ratio	TO:0000164 ! stress trait
+CO_320:0000060 ! drought sensitivity	CO_320:0000053 ! stress trait	TO:0000092 ! deep root to shoot ratio	TO:0000164 ! stress trait
+CO_320:0000060 ! drought sensitivity	CO_320:0000163 ! drought stress trait	TO:0000092 ! deep root to shoot ratio	TO:0000394 ! drought related trait
+CO_320:0000060 ! drought sensitivity	CO_320:0000163 ! drought stress trait	TO:0000092 ! deep root to shoot ratio	TO:0000394 ! drought related trait
+CO_320:0000060 ! drought sensitivity	CO_320:0000160 ! abiotic stress trait	TO:0000092 ! deep root to shoot ratio	TO:0000168 ! abiotic stress trait
+CO_320:0000060 ! drought sensitivity	CO_320:0000160 ! abiotic stress trait	TO:0000092 ! deep root to shoot ratio	TO:0000168 ! abiotic stress trait
+CO_320:0000060 ! drought sensitivity	CO_320:0000053 ! stress trait	TO:0000092 ! deep root to shoot ratio	TO:0000164 ! stress trait
+CO_320:0000060 ! drought sensitivity	CO_320:0000053 ! stress trait	TO:0000092 ! deep root to shoot ratio	TO:0000164 ! stress trait
+TO:0000063 ! mimic response	TO:0000179 ! biotic stress trait	CO_320:0000050 ! lesion mimic	CO_320:0000168 ! biotic stress trait
+TO:0000063 ! mimic response	TO:0000179 ! biotic stress trait	CO_320:0000050 ! lesion mimic	CO_320:0000168 ! biotic stress trait
+TO:0000063 ! mimic response	TO:0000164 ! stress trait	CO_320:0000050 ! lesion mimic	CO_320:0000053 ! stress trait
+TO:0000063 ! mimic response	TO:0000164 ! stress trait	CO_320:0000050 ! lesion mimic	CO_320:0000053 ! stress trait
+TO:0000063 ! mimic response	TO:0000179 ! biotic stress trait	CO_320:0000050 ! lesion mimic	CO_320:0000168 ! biotic stress trait
+TO:0000063 ! mimic response	TO:0000179 ! biotic stress trait	CO_320:0000050 ! lesion mimic	CO_320:0000168 ! biotic stress trait
+TO:0000063 ! mimic response	TO:0000164 ! stress trait	CO_320:0000050 ! lesion mimic	CO_320:0000053 ! stress trait
+TO:0000063 ! mimic response	TO:0000164 ! stress trait	CO_320:0000050 ! lesion mimic	CO_320:0000053 ! stress trait
+TO:0000355 ! heterosis	TO:0000371 ! yield trait	CO_320:0000081 ! heterosis in F1 hybrid	CO_320:0000073 ! grain yield
+TO:0000355 ! heterosis	TO:0000371 ! yield trait	CO_320:0000081 ! heterosis in F1 hybrid	CO_320:0000073 ! grain yield
+TO:0000355 ! heterosis	TO:0000371 ! yield trait	CO_320:0000081 ! heterosis in F1 hybrid	CO_320:0000073 ! grain yield
+TO:0000355 ! heterosis	TO:0000371 ! yield trait	CO_320:0000081 ! heterosis in F1 hybrid	CO_320:0000073 ! grain yield
+TO:0000068 ! lodging incidence	TO:0000168 ! abiotic stress trait	CO_320:0000080 ! lodging incidence	CO_320:0000160 ! abiotic stress trait
+TO:0000068 ! lodging incidence	TO:0000168 ! abiotic stress trait	CO_320:0000080 ! lodging incidence	CO_320:0000160 ! abiotic stress trait
+TO:0000068 ! lodging incidence	TO:0000164 ! stress trait	CO_320:0000080 ! lodging incidence	CO_320:0000053 ! stress trait
+TO:0000068 ! lodging incidence	TO:0000164 ! stress trait	CO_320:0000080 ! lodging incidence	CO_320:0000053 ! stress trait
+TO:0000068 ! lodging incidence	TO:0000168 ! abiotic stress trait	CO_320:0000080 ! lodging incidence	CO_320:0000160 ! abiotic stress trait
+TO:0000068 ! lodging incidence	TO:0000168 ! abiotic stress trait	CO_320:0000080 ! lodging incidence	CO_320:0000160 ! abiotic stress trait
+TO:0000068 ! lodging incidence	TO:0000164 ! stress trait	CO_320:0000080 ! lodging incidence	CO_320:0000053 ! stress trait
+TO:0000068 ! lodging incidence	TO:0000164 ! stress trait	CO_320:0000080 ! lodging incidence	CO_320:0000053 ! stress trait
+TO:0006001 ! salt tolerance	TO:0000429 ! salt sensitivity	CO_320:0000066 ! salt tolerance	CO_320:0000066 ! salt tolerance
+TO:0006001 ! salt tolerance	TO:0000429 ! salt sensitivity	CO_320:0000066 ! salt tolerance	CO_320:0000066 ! salt tolerance
+TO:0006001 ! salt tolerance	TO:0000429 ! salt sensitivity	CO_320:0000066 ! salt tolerance	CO_320:0000066 ! salt tolerance
+TO:0006001 ! salt tolerance	TO:0000429 ! salt sensitivity	CO_320:0000066 ! salt tolerance	CO_320:0000066 ! salt tolerance
+TO:0000589 ! average grain weight	TO:0000396 ! grain yield trait	CO_320:0000010 ! seed weight	CO_320:0000073 ! grain yield
+TO:0000589 ! average grain weight	TO:0000396 ! grain yield trait	CO_320:0000010 ! seed weight	CO_320:0000073 ! grain yield
+TO:0000589 ! average grain weight	TO:0000396 ! grain yield trait	CO_320:0000010 ! seed weight	CO_320:0000073 ! grain yield
+TO:0000589 ! average grain weight	TO:0000396 ! grain yield trait	CO_320:0000010 ! seed weight	CO_320:0000073 ! grain yield
+TO:0000589 ! average grain weight	TO:0000327 ! shoot system yield trait	CO_320:0000010 ! seed weight	CO_320:0000089 ! yield (biomass)
+TO:0000589 ! average grain weight	TO:0000371 ! yield trait	CO_320:0000010 ! seed weight	CO_320:0000073 ! grain yield
+TO:0000589 ! average grain weight	TO:0000371 ! yield trait	CO_320:0000010 ! seed weight	CO_320:0000073 ! grain yield
+TO:0000589 ! average grain weight	TO:0000396 ! grain yield trait	CO_320:0000010 ! seed weight	CO_320:0000073 ! grain yield
+TO:0000589 ! average grain weight	TO:0000396 ! grain yield trait	CO_320:0000010 ! seed weight	CO_320:0000073 ! grain yield
+TO:0000589 ! average grain weight	TO:0000396 ! grain yield trait	CO_320:0000010 ! seed weight	CO_320:0000073 ! grain yield
+TO:0000589 ! average grain weight	TO:0000396 ! grain yield trait	CO_320:0000010 ! seed weight	CO_320:0000073 ! grain yield
+TO:0000589 ! average grain weight	TO:0000327 ! shoot system yield trait	CO_320:0000010 ! seed weight	CO_320:0000089 ! yield (biomass)
+TO:0000589 ! average grain weight	TO:0000371 ! yield trait	CO_320:0000010 ! seed weight	CO_320:0000073 ! grain yield
+TO:0000589 ! average grain weight	TO:0000371 ! yield trait	CO_320:0000010 ! seed weight	CO_320:0000073 ! grain yield
+TO:0000051 ! stem strength	TO:0000168 ! abiotic stress trait	CO_320:0000084 ! culm strength	CO_320:0000160 ! abiotic stress trait
+TO:0000051 ! stem strength	TO:0000168 ! abiotic stress trait	CO_320:0000084 ! culm strength	CO_320:0000160 ! abiotic stress trait
+TO:0000051 ! stem strength	TO:0000164 ! stress trait	CO_320:0000084 ! culm strength	CO_320:0000053 ! stress trait
+TO:0000051 ! stem strength	TO:0000164 ! stress trait	CO_320:0000084 ! culm strength	CO_320:0000053 ! stress trait
+TO:0000051 ! stem strength	TO:0000168 ! abiotic stress trait	CO_320:0000084 ! culm strength	CO_320:0000160 ! abiotic stress trait
+TO:0000051 ! stem strength	TO:0000168 ! abiotic stress trait	CO_320:0000084 ! culm strength	CO_320:0000160 ! abiotic stress trait
+TO:0000051 ! stem strength	TO:0000164 ! stress trait	CO_320:0000084 ! culm strength	CO_320:0000053 ! stress trait
+TO:0000051 ! stem strength	TO:0000164 ! stress trait	CO_320:0000084 ! culm strength	CO_320:0000053 ! stress trait
+TO:0000308 ! male fertility restoration trait	TO:0000371 ! yield trait	CO_320:0000098 ! fertility restoration	CO_320:0000073 ! grain yield
+TO:0000308 ! male fertility restoration trait	TO:0000371 ! yield trait	CO_320:0000098 ! fertility restoration	CO_320:0000073 ! grain yield
+TO:0000308 ! male fertility restoration trait	TO:0000497 ! fertility restoration trait	CO_320:0000098 ! fertility restoration	CO_320:0000098 ! fertility restoration
+TO:0000308 ! male fertility restoration trait	TO:0000497 ! fertility restoration trait	CO_320:0000098 ! fertility restoration	CO_320:0000098 ! fertility restoration
+TO:0000308 ! male fertility restoration trait	TO:0000392 ! sterility or fertility trait	CO_320:0000098 ! fertility restoration	CO_320:0000097 ! fertility
+TO:0000308 ! male fertility restoration trait	TO:0000371 ! yield trait	CO_320:0000098 ! fertility restoration	CO_320:0000073 ! grain yield
+TO:0000308 ! male fertility restoration trait	TO:0000371 ! yield trait	CO_320:0000098 ! fertility restoration	CO_320:0000073 ! grain yield
+TO:0000308 ! male fertility restoration trait	TO:0000497 ! fertility restoration trait	CO_320:0000098 ! fertility restoration	CO_320:0000098 ! fertility restoration
+TO:0000308 ! male fertility restoration trait	TO:0000497 ! fertility restoration trait	CO_320:0000098 ! fertility restoration	CO_320:0000098 ! fertility restoration
+TO:0000308 ! male fertility restoration trait	TO:0000392 ! sterility or fertility trait	CO_320:0000098 ! fertility restoration	CO_320:0000097 ! fertility
+CO_320:0000113 ! endosperm quality	CO_320:0000101 ! grain quality trait	TO:0000587 ! endosperm quality	TO:0000162 ! grain quality trait
+CO_320:0000113 ! endosperm quality	CO_320:0000101 ! grain quality trait	TO:0000587 ! endosperm quality	TO:0000162 ! grain quality trait
+CO_320:0000113 ! endosperm quality	CO_320:0000101 ! grain quality trait	TO:0000587 ! endosperm quality	TO:0000162 ! grain quality trait
+CO_320:0000113 ! endosperm quality	CO_320:0000101 ! grain quality trait	TO:0000587 ! endosperm quality	TO:0000162 ! grain quality trait
+TO:0000576 ! stem length	TO:0000168 ! abiotic stress trait	CO_320:0000030 ! culm length	CO_320:0000160 ! abiotic stress trait
+TO:0000576 ! stem length	TO:0000168 ! abiotic stress trait	CO_320:0000030 ! culm length	CO_320:0000160 ! abiotic stress trait
+TO:0000576 ! stem length	TO:0000164 ! stress trait	CO_320:0000030 ! culm length	CO_320:0000053 ! stress trait
+TO:0000576 ! stem length	TO:0000164 ! stress trait	CO_320:0000030 ! culm length	CO_320:0000053 ! stress trait
+TO:0000576 ! stem length	TO:0000168 ! abiotic stress trait	CO_320:0000030 ! culm length	CO_320:0000160 ! abiotic stress trait
+TO:0000576 ! stem length	TO:0000168 ! abiotic stress trait	CO_320:0000030 ! culm length	CO_320:0000160 ! abiotic stress trait
+TO:0000576 ! stem length	TO:0000164 ! stress trait	CO_320:0000030 ! culm length	CO_320:0000053 ! stress trait
+TO:0000576 ! stem length	TO:0000164 ! stress trait	CO_320:0000030 ! culm length	CO_320:0000053 ! stress trait
+TO:0000437 ! male sterility	TO:0000392 ! sterility or fertility trait	CO_320:0000095 ! male sterility	CO_320:0000097 ! fertility
+TO:0000437 ! male sterility	TO:0000392 ! sterility or fertility trait	CO_320:0000095 ! male sterility	CO_320:0000097 ! fertility
+TO:0000269 ! 100-seed weight	TO:0000181 ! seed weight	CO_320:0000165 ! 100-grain weight	CO_320:0000010 ! seed weight
+TO:0000269 ! 100-seed weight	TO:0000181 ! seed weight	CO_320:0000165 ! 100-grain weight	CO_320:0000010 ! seed weight
+TO:0000269 ! 100-seed weight	TO:0000181 ! seed weight	CO_320:0000165 ! 100-grain weight	CO_320:0000010 ! seed weight
+TO:0000269 ! 100-seed weight	TO:0000181 ! seed weight	CO_320:0000165 ! 100-grain weight	CO_320:0000010 ! seed weight
+TO:0000269 ! 100-seed weight	TO:0000181 ! seed weight	CO_320:0000165 ! 100-grain weight	CO_320:0000010 ! seed weight
+TO:0000269 ! 100-seed weight	TO:0000181 ! seed weight	CO_320:0000165 ! 100-grain weight	CO_320:0000010 ! seed weight
+TO:0000269 ! 100-seed weight	TO:0000181 ! seed weight	CO_320:0000165 ! 100-grain weight	CO_320:0000010 ! seed weight
+TO:0000269 ! 100-seed weight	TO:0000181 ! seed weight	CO_320:0000165 ! 100-grain weight	CO_320:0000010 ! seed weight
+TO:0000329 ! tillering ability	TO:0000371 ! yield trait	CO_320:0000079 ! tillering ability	CO_320:0000073 ! grain yield
+TO:0000329 ! tillering ability	TO:0000371 ! yield trait	CO_320:0000079 ! tillering ability	CO_320:0000073 ! grain yield
+TO:0000329 ! tillering ability	TO:0000371 ! yield trait	CO_320:0000079 ! tillering ability	CO_320:0000073 ! grain yield
+TO:0000329 ! tillering ability	TO:0000371 ! yield trait	CO_320:0000079 ! tillering ability	CO_320:0000073 ! grain yield
+TO:0000382 ! 1000-seed weight	TO:0000181 ! seed weight	CO_320:0000439 ! Weight of 1000 grain	CO_320:0000010 ! seed weight
+TO:0000382 ! 1000-seed weight	TO:0000181 ! seed weight	CO_320:0000439 ! Weight of 1000 grain	CO_320:0000010 ! seed weight
+TO:0000382 ! 1000-seed weight	TO:0000181 ! seed weight	CO_320:0000439 ! Weight of 1000 grain	CO_320:0000100 ! grain weight
+TO:0000382 ! 1000-seed weight	TO:0000181 ! seed weight	CO_320:0000439 ! Weight of 1000 grain	CO_320:0000100 ! grain weight
+TO:0000382 ! 1000-seed weight	TO:0000181 ! seed weight	CO_320:0000439 ! Weight of 1000 grain	CO_320:0000010 ! seed weight
+TO:0000382 ! 1000-seed weight	TO:0000181 ! seed weight	CO_320:0000439 ! Weight of 1000 grain	CO_320:0000010 ! seed weight
+TO:0000382 ! 1000-seed weight	TO:0000181 ! seed weight	CO_320:0000439 ! Weight of 1000 grain	CO_320:0000010 ! seed weight
+TO:0000382 ! 1000-seed weight	TO:0000181 ! seed weight	CO_320:0000439 ! Weight of 1000 grain	CO_320:0000010 ! seed weight
+TO:0000382 ! 1000-seed weight	TO:0000181 ! seed weight	CO_320:0000439 ! Weight of 1000 grain	CO_320:0000100 ! grain weight
+TO:0000382 ! 1000-seed weight	TO:0000181 ! seed weight	CO_320:0000439 ! Weight of 1000 grain	CO_320:0000100 ! grain weight
+TO:0000382 ! 1000-seed weight	TO:0000181 ! seed weight	CO_320:0000439 ! Weight of 1000 grain	CO_320:0000010 ! seed weight
+TO:0000382 ! 1000-seed weight	TO:0000181 ! seed weight	CO_320:0000439 ! Weight of 1000 grain	CO_320:0000010 ! seed weight
+CO_320:0000100 ! grain weight	CO_320:0000101 ! grain quality trait	TO:0000589 ! average grain weight	TO:0000162 ! grain quality trait
+CO_320:0000100 ! grain weight	CO_320:0000101 ! grain quality trait	TO:0000589 ! average grain weight	TO:0000162 ! grain quality trait
+CO_320:0000100 ! grain weight	CO_320:0000101 ! grain quality trait	TO:0000589 ! average grain weight	TO:0000162 ! grain quality trait
+CO_320:0000100 ! grain weight	CO_320:0000101 ! grain quality trait	TO:0000589 ! average grain weight	TO:0000162 ! grain quality trait

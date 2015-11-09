@@ -1,0 +1,130 @@
+TO:0000566 ! stomatal frequency	TO:0000168 ! abiotic stress trait	CO_321:0000143 ! Stomatal frequency	CO_321:0000076 ! Abiotic stress trait
+TO:0000566 ! stomatal frequency	TO:0000168 ! abiotic stress trait	CO_321:0000143 ! Stomatal frequency	CO_321:0000076 ! Abiotic stress trait
+TO:0000566 ! stomatal frequency	TO:0000164 ! stress trait	CO_321:0000143 ! Stomatal frequency	CO_321:0000004 ! Stress trait
+TO:0000566 ! stomatal frequency	TO:0000164 ! stress trait	CO_321:0000143 ! Stomatal frequency	CO_321:0000004 ! Stress trait
+TO:0000566 ! stomatal frequency	TO:0000168 ! abiotic stress trait	CO_321:0000143 ! Stomatal frequency	CO_321:0000076 ! Abiotic stress trait
+TO:0000566 ! stomatal frequency	TO:0000168 ! abiotic stress trait	CO_321:0000143 ! Stomatal frequency	CO_321:0000076 ! Abiotic stress trait
+TO:0000566 ! stomatal frequency	TO:0000164 ! stress trait	CO_321:0000143 ! Stomatal frequency	CO_321:0000004 ! Stress trait
+TO:0000566 ! stomatal frequency	TO:0000164 ! stress trait	CO_321:0000143 ! Stomatal frequency	CO_321:0000004 ! Stress trait
+CO_321:0000224 ! Zinc content	CO_321:0000003 ! Quality trait	TO:0020090 ! zinc content	TO:0000597 ! quality trait
+CO_321:0000224 ! Zinc content	CO_321:0000003 ! Quality trait	TO:0020090 ! zinc content	TO:0000597 ! quality trait
+CO_321:0000224 ! Zinc content	CO_321:0000003 ! Quality trait	TO:0020090 ! zinc content	TO:0000597 ! quality trait
+CO_321:0000224 ! Zinc content	CO_321:0000003 ! Quality trait	TO:0020090 ! zinc content	TO:0000597 ! quality trait
+TO:0000157 ! canopy temperature	TO:0000168 ! abiotic stress trait	CO_321:0000193 ! Canopy temperature	CO_321:0000076 ! Abiotic stress trait
+TO:0000157 ! canopy temperature	TO:0000168 ! abiotic stress trait	CO_321:0000193 ! Canopy temperature	CO_321:0000076 ! Abiotic stress trait
+TO:0000157 ! canopy temperature	TO:0000164 ! stress trait	CO_321:0000193 ! Canopy temperature	CO_321:0000004 ! Stress trait
+TO:0000157 ! canopy temperature	TO:0000164 ! stress trait	CO_321:0000193 ! Canopy temperature	CO_321:0000004 ! Stress trait
+TO:0000157 ! canopy temperature	TO:0000168 ! abiotic stress trait	CO_321:0000193 ! Canopy temperature	CO_321:0000076 ! Abiotic stress trait
+TO:0000157 ! canopy temperature	TO:0000168 ! abiotic stress trait	CO_321:0000193 ! Canopy temperature	CO_321:0000076 ! Abiotic stress trait
+TO:0000157 ! canopy temperature	TO:0000164 ! stress trait	CO_321:0000193 ! Canopy temperature	CO_321:0000004 ! Stress trait
+TO:0000157 ! canopy temperature	TO:0000164 ! stress trait	CO_321:0000193 ! Canopy temperature	CO_321:0000004 ! Stress trait
+TO:0000576 ! stem length	TO:0000168 ! abiotic stress trait	CO_321:0000060 ! Stem height	CO_321:0000076 ! Abiotic stress trait
+TO:0000576 ! stem length	TO:0000168 ! abiotic stress trait	CO_321:0000060 ! Stem height	CO_321:0000076 ! Abiotic stress trait
+TO:0000576 ! stem length	TO:0000164 ! stress trait	CO_321:0000060 ! Stem height	CO_321:0000004 ! Stress trait
+TO:0000576 ! stem length	TO:0000164 ! stress trait	CO_321:0000060 ! Stem height	CO_321:0000004 ! Stress trait
+TO:0000576 ! stem length	TO:0000168 ! abiotic stress trait	CO_321:0000060 ! Stem height	CO_321:0000076 ! Abiotic stress trait
+TO:0000576 ! stem length	TO:0000168 ! abiotic stress trait	CO_321:0000060 ! Stem height	CO_321:0000076 ! Abiotic stress trait
+TO:0000576 ! stem length	TO:0000164 ! stress trait	CO_321:0000060 ! Stem height	CO_321:0000004 ! Stress trait
+TO:0000576 ! stem length	TO:0000164 ! stress trait	CO_321:0000060 ! Stem height	CO_321:0000004 ! Stress trait
+TO:0000707 ! pericarp color	TO:0000597 ! quality trait	CO_321:0000037 ! Grain color	CO_321:0000003 ! Quality trait
+TO:0000707 ! pericarp color	TO:0000597 ! quality trait	CO_321:0000037 ! Grain color	CO_321:0000003 ! Quality trait
+TO:0000707 ! pericarp color	TO:0000597 ! quality trait	CO_321:0000037 ! Grain color	CO_321:0000003 ! Quality trait
+TO:0000707 ! pericarp color	TO:0000597 ! quality trait	CO_321:0000037 ! Grain color	CO_321:0000003 ! Quality trait
+TO:0000057 ! grain moisture	TO:0000597 ! quality trait	CO_321:0000012 ! Grain moisture	CO_321:0000003 ! Quality trait
+TO:0000057 ! grain moisture	TO:0000597 ! quality trait	CO_321:0000012 ! Grain moisture	CO_321:0000003 ! Quality trait
+TO:0000057 ! grain moisture	TO:0000597 ! quality trait	CO_321:0000012 ! Grain moisture	CO_321:0000003 ! Quality trait
+TO:0000057 ! grain moisture	TO:0000597 ! quality trait	CO_321:0000012 ! Grain moisture	CO_321:0000003 ! Quality trait
+TO:0000323 ! stem rot disease resistance	TO:0000179 ! biotic stress trait	CO_321:0000206 ! Simple ratio	CO_321:0000077 ! Biotic stress trait
+TO:0000323 ! stem rot disease resistance	TO:0000179 ! biotic stress trait	CO_321:0000206 ! Simple ratio	CO_321:0000077 ! Biotic stress trait
+TO:0000323 ! stem rot disease resistance	TO:0000164 ! stress trait	CO_321:0000206 ! Simple ratio	CO_321:0000004 ! Stress trait
+TO:0000323 ! stem rot disease resistance	TO:0000164 ! stress trait	CO_321:0000206 ! Simple ratio	CO_321:0000004 ! Stress trait
+TO:0000323 ! stem rot disease resistance	TO:0000179 ! biotic stress trait	CO_321:0000206 ! Simple ratio	CO_321:0000077 ! Biotic stress trait
+TO:0000323 ! stem rot disease resistance	TO:0000179 ! biotic stress trait	CO_321:0000206 ! Simple ratio	CO_321:0000077 ! Biotic stress trait
+TO:0000323 ! stem rot disease resistance	TO:0000164 ! stress trait	CO_321:0000206 ! Simple ratio	CO_321:0000004 ! Stress trait
+TO:0000323 ! stem rot disease resistance	TO:0000164 ! stress trait	CO_321:0000206 ! Simple ratio	CO_321:0000004 ! Stress trait
+TO:0001034 ! relative plant height	TO:0000207 ! plant height	CO_321:0000024 ! Relative plant height	CO_321:0000020 ! Plant height
+TO:0001034 ! relative plant height	TO:0000207 ! plant height	CO_321:0000024 ! Relative plant height	CO_321:0000020 ! Plant height
+TO:0001034 ! relative plant height	TO:0000207 ! plant height	CO_321:0000024 ! Relative plant height	CO_321:0000020 ! Plant height
+TO:0001034 ! relative plant height	TO:0000207 ! plant height	CO_321:0000024 ! Relative plant height	CO_321:0000020 ! Plant height
+CO_321:0000222 ! Iron content	CO_321:0000003 ! Quality trait	TO:0020089 ! iron content	TO:0000597 ! quality trait
+CO_321:0000222 ! Iron content	CO_321:0000003 ! Quality trait	TO:0020089 ! iron content	TO:0000597 ! quality trait
+CO_321:0000222 ! Iron content	CO_321:0000003 ! Quality trait	TO:0020089 ! iron content	TO:0000597 ! quality trait
+CO_321:0000222 ! Iron content	CO_321:0000003 ! Quality trait	TO:0020089 ! iron content	TO:0000597 ! quality trait
+TO:0000339 ! stem thickness	TO:0000168 ! abiotic stress trait	CO_321:0000062 ! Stem thickness	CO_321:0000076 ! Abiotic stress trait
+TO:0000339 ! stem thickness	TO:0000168 ! abiotic stress trait	CO_321:0000062 ! Stem thickness	CO_321:0000076 ! Abiotic stress trait
+TO:0000339 ! stem thickness	TO:0000597 ! quality trait	CO_321:0000062 ! Stem thickness	CO_321:0000003 ! Quality trait
+TO:0000339 ! stem thickness	TO:0000597 ! quality trait	CO_321:0000062 ! Stem thickness	CO_321:0000003 ! Quality trait
+TO:0000339 ! stem thickness	TO:0000164 ! stress trait	CO_321:0000062 ! Stem thickness	CO_321:0000004 ! Stress trait
+TO:0000339 ! stem thickness	TO:0000164 ! stress trait	CO_321:0000062 ! Stem thickness	CO_321:0000004 ! Stress trait
+TO:0000339 ! stem thickness	TO:0000168 ! abiotic stress trait	CO_321:0000062 ! Stem thickness	CO_321:0000076 ! Abiotic stress trait
+TO:0000339 ! stem thickness	TO:0000168 ! abiotic stress trait	CO_321:0000062 ! Stem thickness	CO_321:0000076 ! Abiotic stress trait
+TO:0000339 ! stem thickness	TO:0000597 ! quality trait	CO_321:0000062 ! Stem thickness	CO_321:0000003 ! Quality trait
+TO:0000339 ! stem thickness	TO:0000597 ! quality trait	CO_321:0000062 ! Stem thickness	CO_321:0000003 ! Quality trait
+TO:0000339 ! stem thickness	TO:0000164 ! stress trait	CO_321:0000062 ! Stem thickness	CO_321:0000004 ! Stress trait
+TO:0000339 ! stem thickness	TO:0000164 ! stress trait	CO_321:0000062 ! Stem thickness	CO_321:0000004 ! Stress trait
+TO:0000339 ! stem thickness	TO:0000168 ! abiotic stress trait	CO_321:0000062 ! Stem thickness	CO_321:0000076 ! Abiotic stress trait
+TO:0000339 ! stem thickness	TO:0000168 ! abiotic stress trait	CO_321:0000062 ! Stem thickness	CO_321:0000076 ! Abiotic stress trait
+TO:0000339 ! stem thickness	TO:0000597 ! quality trait	CO_321:0000062 ! Stem thickness	CO_321:0000003 ! Quality trait
+TO:0000339 ! stem thickness	TO:0000597 ! quality trait	CO_321:0000062 ! Stem thickness	CO_321:0000003 ! Quality trait
+TO:0000339 ! stem thickness	TO:0000164 ! stress trait	CO_321:0000062 ! Stem thickness	CO_321:0000004 ! Stress trait
+TO:0000339 ! stem thickness	TO:0000164 ! stress trait	CO_321:0000062 ! Stem thickness	CO_321:0000004 ! Stress trait
+TO:0000339 ! stem thickness	TO:0000168 ! abiotic stress trait	CO_321:0000062 ! Stem thickness	CO_321:0000076 ! Abiotic stress trait
+TO:0000339 ! stem thickness	TO:0000168 ! abiotic stress trait	CO_321:0000062 ! Stem thickness	CO_321:0000076 ! Abiotic stress trait
+TO:0000339 ! stem thickness	TO:0000597 ! quality trait	CO_321:0000062 ! Stem thickness	CO_321:0000003 ! Quality trait
+TO:0000339 ! stem thickness	TO:0000597 ! quality trait	CO_321:0000062 ! Stem thickness	CO_321:0000003 ! Quality trait
+TO:0000339 ! stem thickness	TO:0000164 ! stress trait	CO_321:0000062 ! Stem thickness	CO_321:0000004 ! Stress trait
+TO:0000339 ! stem thickness	TO:0000164 ! stress trait	CO_321:0000062 ! Stem thickness	CO_321:0000004 ! Stress trait
+TO:0000057 ! grain moisture	TO:0000597 ! quality trait	CO_321:0000012 ! Grain moisture	CO_321:0000003 ! Quality trait
+TO:0000057 ! grain moisture	TO:0000597 ! quality trait	CO_321:0000012 ! Grain moisture	CO_321:0000003 ! Quality trait
+TO:0000057 ! grain moisture	TO:0000597 ! quality trait	CO_321:0000012 ! Grain moisture	CO_321:0000003 ! Quality trait
+TO:0000057 ! grain moisture	TO:0000597 ! quality trait	CO_321:0000012 ! Grain moisture	CO_321:0000003 ! Quality trait
+TO:0000323 ! stem rot disease resistance	TO:0000179 ! biotic stress trait	CO_321:0000206 ! Simple ratio	CO_321:0000077 ! Biotic stress trait
+TO:0000323 ! stem rot disease resistance	TO:0000179 ! biotic stress trait	CO_321:0000206 ! Simple ratio	CO_321:0000077 ! Biotic stress trait
+TO:0000323 ! stem rot disease resistance	TO:0000164 ! stress trait	CO_321:0000206 ! Simple ratio	CO_321:0000004 ! Stress trait
+TO:0000323 ! stem rot disease resistance	TO:0000164 ! stress trait	CO_321:0000206 ! Simple ratio	CO_321:0000004 ! Stress trait
+TO:0000323 ! stem rot disease resistance	TO:0000179 ! biotic stress trait	CO_321:0000206 ! Simple ratio	CO_321:0000077 ! Biotic stress trait
+TO:0000323 ! stem rot disease resistance	TO:0000179 ! biotic stress trait	CO_321:0000206 ! Simple ratio	CO_321:0000077 ! Biotic stress trait
+TO:0000323 ! stem rot disease resistance	TO:0000164 ! stress trait	CO_321:0000206 ! Simple ratio	CO_321:0000004 ! Stress trait
+TO:0000323 ! stem rot disease resistance	TO:0000164 ! stress trait	CO_321:0000206 ! Simple ratio	CO_321:0000004 ! Stress trait
+TO:0000576 ! stem length	TO:0000168 ! abiotic stress trait	CO_321:0000060 ! Stem height	CO_321:0000076 ! Abiotic stress trait
+TO:0000576 ! stem length	TO:0000168 ! abiotic stress trait	CO_321:0000060 ! Stem height	CO_321:0000076 ! Abiotic stress trait
+TO:0000576 ! stem length	TO:0000164 ! stress trait	CO_321:0000060 ! Stem height	CO_321:0000004 ! Stress trait
+TO:0000576 ! stem length	TO:0000164 ! stress trait	CO_321:0000060 ! Stem height	CO_321:0000004 ! Stress trait
+TO:0000576 ! stem length	TO:0000168 ! abiotic stress trait	CO_321:0000060 ! Stem height	CO_321:0000076 ! Abiotic stress trait
+TO:0000576 ! stem length	TO:0000168 ! abiotic stress trait	CO_321:0000060 ! Stem height	CO_321:0000076 ! Abiotic stress trait
+TO:0000576 ! stem length	TO:0000164 ! stress trait	CO_321:0000060 ! Stem height	CO_321:0000004 ! Stress trait
+TO:0000576 ! stem length	TO:0000164 ! stress trait	CO_321:0000060 ! Stem height	CO_321:0000004 ! Stress trait
+TO:0002759 ! grain number	TO:0000327 ! shoot system yield trait	CO_321:0000017 ! Grain number	CO_321:0000005 ! Total above ground biomass
+TO:0002759 ! grain number	TO:0000327 ! shoot system yield trait	CO_321:0000017 ! Grain number	CO_321:0000005 ! Total above ground biomass
+TO:0000157 ! canopy temperature	TO:0000168 ! abiotic stress trait	CO_321:0000193 ! Canopy temperature	CO_321:0000076 ! Abiotic stress trait
+TO:0000157 ! canopy temperature	TO:0000168 ! abiotic stress trait	CO_321:0000193 ! Canopy temperature	CO_321:0000076 ! Abiotic stress trait
+TO:0000157 ! canopy temperature	TO:0000164 ! stress trait	CO_321:0000193 ! Canopy temperature	CO_321:0000004 ! Stress trait
+TO:0000157 ! canopy temperature	TO:0000164 ! stress trait	CO_321:0000193 ! Canopy temperature	CO_321:0000004 ! Stress trait
+TO:0000157 ! canopy temperature	TO:0000168 ! abiotic stress trait	CO_321:0000193 ! Canopy temperature	CO_321:0000076 ! Abiotic stress trait
+TO:0000157 ! canopy temperature	TO:0000168 ! abiotic stress trait	CO_321:0000193 ! Canopy temperature	CO_321:0000076 ! Abiotic stress trait
+TO:0000157 ! canopy temperature	TO:0000164 ! stress trait	CO_321:0000193 ! Canopy temperature	CO_321:0000004 ! Stress trait
+TO:0000157 ! canopy temperature	TO:0000164 ! stress trait	CO_321:0000193 ! Canopy temperature	CO_321:0000004 ! Stress trait
+CO_321:0000222 ! Iron content	CO_321:0000003 ! Quality trait	TO:0020089 ! iron content	TO:0000597 ! quality trait
+CO_321:0000222 ! Iron content	CO_321:0000003 ! Quality trait	TO:0020089 ! iron content	TO:0000597 ! quality trait
+CO_321:0000222 ! Iron content	CO_321:0000003 ! Quality trait	TO:0020089 ! iron content	TO:0000597 ! quality trait
+CO_321:0000222 ! Iron content	CO_321:0000003 ! Quality trait	TO:0020089 ! iron content	TO:0000597 ! quality trait
+TO:0000566 ! stomatal frequency	TO:0000168 ! abiotic stress trait	CO_321:0000143 ! Stomatal frequency	CO_321:0000076 ! Abiotic stress trait
+TO:0000566 ! stomatal frequency	TO:0000168 ! abiotic stress trait	CO_321:0000143 ! Stomatal frequency	CO_321:0000076 ! Abiotic stress trait
+TO:0000566 ! stomatal frequency	TO:0000164 ! stress trait	CO_321:0000143 ! Stomatal frequency	CO_321:0000004 ! Stress trait
+TO:0000566 ! stomatal frequency	TO:0000164 ! stress trait	CO_321:0000143 ! Stomatal frequency	CO_321:0000004 ! Stress trait
+TO:0000566 ! stomatal frequency	TO:0000168 ! abiotic stress trait	CO_321:0000143 ! Stomatal frequency	CO_321:0000076 ! Abiotic stress trait
+TO:0000566 ! stomatal frequency	TO:0000168 ! abiotic stress trait	CO_321:0000143 ! Stomatal frequency	CO_321:0000076 ! Abiotic stress trait
+TO:0000566 ! stomatal frequency	TO:0000164 ! stress trait	CO_321:0000143 ! Stomatal frequency	CO_321:0000004 ! Stress trait
+TO:0000566 ! stomatal frequency	TO:0000164 ! stress trait	CO_321:0000143 ! Stomatal frequency	CO_321:0000004 ! Stress trait
+TO:0000707 ! pericarp color	TO:0000597 ! quality trait	CO_321:0000037 ! Grain color	CO_321:0000003 ! Quality trait
+TO:0000707 ! pericarp color	TO:0000597 ! quality trait	CO_321:0000037 ! Grain color	CO_321:0000003 ! Quality trait
+TO:0000707 ! pericarp color	TO:0000597 ! quality trait	CO_321:0000037 ! Grain color	CO_321:0000003 ! Quality trait
+TO:0000707 ! pericarp color	TO:0000597 ! quality trait	CO_321:0000037 ! Grain color	CO_321:0000003 ! Quality trait
+CO_321:0000224 ! Zinc content	CO_321:0000003 ! Quality trait	TO:0020090 ! zinc content	TO:0000597 ! quality trait
+CO_321:0000224 ! Zinc content	CO_321:0000003 ! Quality trait	TO:0020090 ! zinc content	TO:0000597 ! quality trait
+CO_321:0000224 ! Zinc content	CO_321:0000003 ! Quality trait	TO:0020090 ! zinc content	TO:0000597 ! quality trait
+CO_321:0000224 ! Zinc content	CO_321:0000003 ! Quality trait	TO:0020090 ! zinc content	TO:0000597 ! quality trait
+TO:0001034 ! relative plant height	TO:0000207 ! plant height	CO_321:0000024 ! Relative plant height	CO_321:0000020 ! Plant height
+TO:0001034 ! relative plant height	TO:0000207 ! plant height	CO_321:0000024 ! Relative plant height	CO_321:0000020 ! Plant height
+TO:0001034 ! relative plant height	TO:0000207 ! plant height	CO_321:0000024 ! Relative plant height	CO_321:0000020 ! Plant height
+TO:0001034 ! relative plant height	TO:0000207 ! plant height	CO_321:0000024 ! Relative plant height	CO_321:0000020 ! Plant height

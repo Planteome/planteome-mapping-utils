@@ -1,0 +1,341 @@
+[Term]
+id: TO:0000629 ! days to tassel
+xref: CO_322:0000030 ! Days to anthesis
+
+[Term]
+id: CO_322:0000172 ! Kernel length
+xref: TO:0000734 ! grain length
+
+[Term]
+id: CO_322:0000018 ! Ear aspect
+xref: TO:0000965 ! ear aspect
+
+[Term]
+id: TO:0000734 ! grain length
+xref: CO_322:0000172 ! Kernel length
+
+[Term]
+id: CO_322:0000042 ! Stress trait
+xref: TO:0000164 ! stress trait
+
+[Term]
+id: TO:0002667 ! abscisic acid content
+xref: CO_322:0000113 ! Abscisic acid content
+
+[Term]
+id: CO_322:0000142 ! Canopy temperature
+xref: TO:0000157 ! canopy temperature
+
+[Term]
+id: TO:0000179 ! biotic stress trait
+xref: CO_322:0000044 ! Biotic stress trait
+
+[Term]
+id: CO_322:0000175 ! Kernel width
+xref: TO:0002627 ! fruit width
+
+[Term]
+id: TO:0000300 ! glucose content
+xref: CO_322:0000115 ! Glucose content
+
+[Term]
+id: CO_322:0000020 ! Ear position
+xref: TO:0000966 ! ear position
+
+[Term]
+id: TO:0000812 ! tassel branch dry weight
+xref: CO_322:0000027 ! Tassel branches dry weight
+
+[Term]
+id: TO:0000207 ! plant height
+xref: CO_322:0000007 ! Plant height
+
+[Term]
+id: TO:0000085 ! leaf rolling
+xref: CO_322:0000160 ! Leaf rolling
+
+[Term]
+id: CO_322:0000025 ! Leaf length
+xref: TO:0000135 ! leaf length
+
+[Term]
+id: CO_322:0000003 ! Chlorophyll content
+xref: TO:0000495 ! chlorophyll content
+
+[Term]
+id: CO_322:0000015 ! Ear length
+xref: TO:0000431 ! ear length
+
+[Term]
+id: TO:0000737 ! plant aspect
+xref: CO_322:0000011 ! Plant aspect
+
+[Term]
+id: TO:0000157 ! canopy temperature
+xref: CO_322:0000142 ! Canopy temperature
+
+[Term]
+id: TO:0000135 ! leaf length
+xref: CO_322:0000025 ! Leaf length
+
+[Term]
+id: CO_322:0000149 ! Husk cover
+xref: TO:0000818 ! inflorescence bract cover
+
+[Term]
+id: TO:0000707 ! pericarp color
+xref: CO_322:0000192 ! Pericarp color
+
+[Term]
+id: TO:0000164 ! stress trait
+xref: CO_322:0000042 ! Stress trait
+
+[Term]
+id: TO:0000057 ! grain moisture
+xref: CO_322:0000033 ! Grain moisture
+
+[Term]
+id: CO_322:0000027 ! Tassel branches dry weight
+xref: TO:0000812 ! tassel branch dry weight
+
+[Term]
+id: CO_322:0000001 ! Anthesis silking interval
+xref: TO:0000463 ! anthesis silking interval
+
+[Term]
+id: TO:0000463 ! anthesis silking interval
+xref: CO_322:0000001 ! Anthesis silking interval
+
+[Term]
+id: TO:0000433 ! ear diameter
+xref: CO_322:0000170 ! Ear diameter
+
+[Term]
+id: TO:0000056 ! stem color
+xref: CO_322:0000162 ! Stem color
+
+[Term]
+id: CO_322:0000113 ! Abscisic acid content
+xref: TO:0002667 ! abscisic acid content
+
+[Term]
+id: TO:0000522 ! stomatal conductance
+xref: CO_322:0000134 ! Stomatal conductance
+
+[Term]
+id: CO_322:0000007 ! Plant height
+xref: TO:0000207 ! plant height
+
+[Term]
+id: TO:0000469 ! days to maturity
+xref: CO_322:0000032 ! Days to maturity
+
+[Term]
+id: TO:0000370 ! leaf width
+xref: CO_322:0000026 ! Leaf width
+
+[Term]
+id: TO:0000495 ! chlorophyll content
+xref: CO_322:0000003 ! Chlorophyll content
+
+[Term]
+id: CO_322:0000162 ! Stem color
+xref: TO:0000056 ! stem color
+
+[Term]
+id: TO:0000813 ! tassel branch number
+xref: CO_322:0000028 ! Tassel branches number
+
+[Term]
+id: TO:0000598 ! protein content
+xref: CO_322:0000121 ! Protein content
+
+[Term]
+id: CO_322:0000121 ! Protein content
+xref: TO:0000598 ! protein content
+
+[Term]
+id: CO_322:0000011 ! Plant aspect
+xref: TO:0000737 ! plant aspect
+
+[Term]
+id: CO_322:0000033 ! Grain moisture
+xref: TO:0000057 ! grain moisture
+
+[Term]
+id: CO_322:0000117 ! Osmotic adjustment
+xref: TO:0000095 ! osmotic response sensitivity
+
+[Term]
+id: CO_322:0000026 ! Leaf width
+xref: TO:0000370 ! leaf width
+
+[Term]
+id: TO:0002627 ! fruit width
+xref: CO_322:0000175 ! Kernel width
+
+[Term]
+id: CO_322:0000040 ! Seed viability
+xref: TO:0000345 ! seed viability
+
+[Term]
+id: TO:0000359 ! female flowering
+xref: CO_322:0000004 ! Female flowering
+
+[Term]
+id: CO_322:0000119 ! Proline content
+xref: TO:0006002 ! proline content
+
+[Term]
+id: CO_322:0000120 ! Sucrose content
+xref: TO:0000328 ! sucrose content
+
+[Term]
+id: CO_322:0000010 ! Kernel number
+xref: TO:0002759 ! grain number
+
+[Term]
+id: TO:0000487 ! endosperm color
+xref: CO_322:0000186 ! Endosperm color
+
+[Term]
+id: TO:0000095 ! osmotic response sensitivity
+xref: CO_322:0000117 ! Osmotic adjustment
+
+[Term]
+id: TO:0000333 ! sugar content
+xref: CO_322:0000114 ! Sugar content
+
+[Term]
+id: CO_322:0000114 ! Sugar content
+xref: TO:0000333 ! sugar content
+
+[Term]
+id: CO_322:0000043 ! Abiotic stress trait
+xref: TO:0000168 ! abiotic stress trait
+
+[Term]
+id: TO:0000504 ! leaf temperature
+xref: CO_322:0000135 ! Leaf temperature
+
+[Term]
+id: CO_322:0000030 ! Days to anthesis
+xref: TO:0000629 ! days to tassel
+
+[Term]
+id: CO_322:0000186 ! Endosperm color
+xref: TO:0000487 ! endosperm color
+
+[Term]
+id: CO_322:0000004 ! Female flowering
+xref: TO:0000359 ! female flowering
+
+[Term]
+id: CO_322:0000032 ! Days to maturity
+xref: TO:0000469 ! days to maturity
+
+[Term]
+id: TO:0000328 ! sucrose content
+xref: CO_322:0000120 ! Sucrose content
+
+[Term]
+id: TO:0000597 ! quality trait
+xref: CO_322:0000029 ! Quality trait
+
+[Term]
+id: TO:0000443 ! ear infructescence number
+xref: CO_322:0000021 ! Ear number per plant
+
+[Term]
+id: CO_322:0000031 ! Days to silking
+xref: TO:0000658 ! days to silk
+
+[Term]
+id: TO:0006064 ! rolled leaf
+xref: CO_322:0000160 ! Leaf rolling
+
+[Term]
+id: TO:0000966 ! ear position
+xref: CO_322:0000020 ! Ear position
+
+[Term]
+id: CO_322:0000170 ! Ear diameter
+xref: TO:0000433 ! ear diameter
+
+[Term]
+id: TO:0000431 ! ear length
+xref: CO_322:0000015 ! Ear length
+
+[Term]
+id: TO:0000965 ! ear aspect
+xref: CO_322:0000018 ! Ear aspect
+
+[Term]
+id: CO_322:0000192 ! Pericarp color
+xref: TO:0000707 ! pericarp color
+
+[Term]
+id: CO_322:0000009 ! Male flowering
+xref: TO:0000365 ! male flowering
+
+[Term]
+id: CO_322:0000135 ! Leaf temperature
+xref: TO:0000504 ! leaf temperature
+
+[Term]
+id: CO_322:0000021 ! Ear number per plant
+xref: TO:0000443 ! ear infructescence number
+
+[Term]
+id: CO_322:0000044 ! Biotic stress trait
+xref: TO:0000179 ! biotic stress trait
+
+[Term]
+id: CO_322:0000134 ! Stomatal conductance
+xref: TO:0000522 ! stomatal conductance
+
+[Term]
+id: TO:0006002 ! proline content
+xref: CO_322:0000119 ! Proline content
+
+[Term]
+id: TO:0000658 ! days to silk
+xref: CO_322:0000031 ! Days to silking
+
+[Term]
+id: TO:0002759 ! grain number
+xref: CO_322:0000010 ! Kernel number
+
+[Term]
+id: CO_322:0000028 ! Tassel branches number
+xref: TO:0000813 ! tassel branch number
+
+[Term]
+id: CO_322:0000029 ! Quality trait
+xref: TO:0000597 ! quality trait
+
+[Term]
+id: TO:0000818 ! inflorescence bract cover
+xref: CO_322:0000149 ! Husk cover
+
+[Term]
+id: CO_322:0000115 ! Glucose content
+xref: TO:0000300 ! glucose content
+
+[Term]
+id: CO_322:0000160 ! Leaf rolling
+xref: TO:0000085 ! leaf rolling
+xref: TO:0006064 ! rolled leaf
+
+[Term]
+id: TO:0000365 ! male flowering
+xref: CO_322:0000009 ! Male flowering
+
+[Term]
+id: TO:0000168 ! abiotic stress trait
+xref: CO_322:0000043 ! Abiotic stress trait
+
+[Term]
+id: TO:0000345 ! seed viability
+xref: CO_322:0000040 ! Seed viability
+

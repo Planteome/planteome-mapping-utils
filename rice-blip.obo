@@ -1,0 +1,1041 @@
+[Term]
+id: TO:0000246 ! rice delphacid resistance
+xref: CO_320:0000216 ! rice delphacid damage
+
+[Term]
+id: CO_320:0000127 ! pedicel length
+xref: TO:0000630 ! pedicel length
+
+[Term]
+id: CO_320:0000016 ! culm internode color
+xref: TO:0000426 ! internode color
+
+[Term]
+id: TO:0000102 ! phosphorus sensitivity
+xref: CO_320:0000065 ! phosphorus deficiency
+
+[Term]
+id: CO_320:0000192 ! yellow mottle
+xref: TO:0000088 ! rice yellow mottle virus resistance
+
+[Term]
+id: CO_320:0000074 ! panicle exsertion
+xref: TO:0000165 ! panicle exsertion
+
+[Term]
+id: TO:0000269 ! 100-seed weight
+xref: CO_320:0000165 ! 100-grain weight
+
+[Term]
+id: CO_320:0000154 ! node color
+xref: TO:0000059 ! node color
+
+[Term]
+id: CO_320:0000121 ! sterile lemma shape
+xref: TO:0002726 ! sterile lemma shape
+
+[Term]
+id: CO_320:0000107 ! gelatinization temperature
+xref: TO:0000462 ! gelatinization temperature
+
+[Term]
+id: TO:0000394 ! drought related trait
+xref: CO_320:0000163 ! drought stress trait
+
+[Term]
+id: CO_320:0000060 ! drought sensitivity
+xref: TO:0000092 ! deep root to shoot ratio
+xref: TO:0000188 ! drought sensitivity
+
+[Term]
+id: TO:0000734 ! grain length
+xref: CO_320:0000004 ! grain length
+
+[Term]
+id: TO:0000179 ! biotic stress trait
+xref: CO_320:0000168 ! biotic stress trait
+
+[Term]
+id: CO_320:0000059 ! drought resistance
+xref: TO:0000276 ! drought tolerance
+
+[Term]
+id: CO_320:0000012 ! unfilled grain
+xref: TO:0000028 ! unfilled grain number
+
+[Term]
+id: CO_320:0000083 ! days to flowering
+xref: TO:0000344 ! days to flowering trait
+
+[Term]
+id: CO_320:0000216 ! rice delphacid damage
+xref: TO:0000246 ! rice delphacid resistance
+
+[Term]
+id: TO:0011004 ! inflorescence branch color
+xref: CO_320:0000051 ! panicle branch color
+
+[Term]
+id: CO_320:0000096 ! outcrossing potential
+xref: TO:0000330 ! outcrossing potential
+
+[Term]
+id: CO_320:0000037 ! apiculus color
+xref: TO:0000140 ! apiculus color
+
+[Term]
+id: TO:0000087 ! aroma
+xref: CO_320:0000103 ! aroma
+
+[Term]
+id: CO_320:0000110 ! brown rice length
+xref: TO:0000041 ! brown rice length
+
+[Term]
+id: CO_320:0000007 ! nodal rooting
+xref: TO:0000404 ! nodal rooting
+
+[Term]
+id: CO_320:0000042 ! sterile lemma length
+xref: TO:0000240 ! sterile lemma length
+
+[Term]
+id: CO_320:0000076 ! plant height
+xref: TO:0000207 ! plant height
+
+[Term]
+id: CO_320:0000036 ! awn color
+xref: TO:0000141 ! awn color
+
+[Term]
+id: CO_320:0000017 ! flag leaf angle
+xref: TO:0000124 ! flag leaf angle
+
+[Term]
+id: CO_320:0000058 ! drought recovery
+xref: TO:0000458 ! drought recovery
+
+[Term]
+id: TO:0000249 ! leaf senescence
+xref: CO_320:0000085 ! leaf senescence
+
+[Term]
+id: CO_320:0000067 ! submergence tolerance
+xref: TO:0000286 ! submergence sensitivity
+xref: TO:0000524 ! submergence tolerance
+
+[Term]
+id: CO_320:0000009 ! number of panicles
+xref: TO:0000152 ! panicle number
+
+[Term]
+id: CO_320:0000218 ! seedling height
+xref: TO:0000019 ! seedling height
+
+[Term]
+id: TO:0000196 ! amylose content
+xref: CO_320:0000102 ! amylose content
+
+[Term]
+id: TO:0020083 ! stem diameter
+xref: CO_320:0000155 ! culm diameter
+
+[Term]
+id: TO:0000218 ! pollen abortion type
+xref: CO_320:0000092 ! abortion pattern
+
+[Term]
+id: TO:0000147 ! rice hoja blanca disease resistance
+xref: CO_320:0000193 ! hoja blanca
+
+[Term]
+id: CO_320:0000018 ! panicle type
+xref: TO:0000089 ! panicle type
+
+[Term]
+id: CO_320:0000128 ! panicle axis texture
+xref: TO:0002754 ! inflorescence axis texture
+
+[Term]
+id: CO_320:0000051 ! panicle branch color
+xref: TO:0011004 ! inflorescence branch color
+
+[Term]
+id: TO:0000469 ! days to maturity
+xref: CO_320:0000082 ! days to maturity
+
+[Term]
+id: TO:0000370 ! leaf width
+xref: CO_320:0000021 ! leaf width
+
+[Term]
+id: CO_320:0000003 ! seed shape
+xref: TO:0000484 ! seed shape
+
+[Term]
+id: TO:0000266 ! chalky endosperm
+xref: CO_320:0000104 ! chalkiness of endosperm
+
+[Term]
+id: TO:0000190 ! seed coat color
+xref: CO_320:0000115 ! seed coat color
+
+[Term]
+id: TO:0000014 ! panicle weight
+xref: CO_320:0000019 ! panicle weight
+xref: CO_320:0000477 ! Weight of panicles
+
+[Term]
+id: TO:0000364 ! leaf collar color
+xref: CO_320:0000028 ! collar color
+
+[Term]
+id: CO_320:0000062 ! heat tolerance
+xref: TO:0000259 ! heat tolerance
+
+[Term]
+id: CO_320:0000114 ! grain moisture
+xref: TO:0000057 ! grain moisture
+
+[Term]
+id: TO:0000068 ! lodging incidence
+xref: CO_320:0000080 ! lodging incidence
+
+[Term]
+id: CO_320:0000029 ! auricle color
+xref: TO:0000294 ! leaf sheath auricle color
+
+[Term]
+id: TO:0000132 ! basal internode diameter
+xref: CO_320:0000032 ! basal internode diameter
+
+[Term]
+id: CO_320:0000119 ! grain shape
+xref: TO:0002730 ! grain shape
+
+[Term]
+id: CO_320:0000104 ! chalkiness of endosperm
+xref: TO:0000266 ! chalky endosperm
+
+[Term]
+id: TO:0002754 ! inflorescence axis texture
+xref: CO_320:0000128 ! panicle axis texture
+
+[Term]
+id: TO:0002734 ! awn presence
+xref: CO_320:0000156 ! awn presence
+
+[Term]
+id: TO:0000531 ! anther length
+xref: CO_320:0000150 ! anther length
+
+[Term]
+id: CO_320:0000116 ! alkali digestion
+xref: TO:0000134 ! alkali digestion
+
+[Term]
+id: TO:0000280 ! seedling vigor
+xref: CO_320:0000077 ! seedling vigor
+
+[Term]
+id: TO:0002627 ! fruit width
+xref: CO_320:0000117 ! brown rice width
+
+[Term]
+id: TO:0000462 ! gelatinization temperature
+xref: CO_320:0000107 ! gelatinization temperature
+
+[Term]
+id: TO:0000089 ! panicle type
+xref: CO_320:0000018 ! panicle type
+
+[Term]
+id: CO_320:0000193 ! hoja blanca
+xref: TO:0000147 ! rice hoja blanca disease resistance
+
+[Term]
+id: TO:0000144 ! milled rice
+xref: CO_320:0000112 ! milled rice
+
+[Term]
+id: TO:0000355 ! heterosis
+xref: CO_320:0000081 ! heterosis in F1 hybrid
+
+[Term]
+id: TO:0000211 ! gel consistency
+xref: CO_320:0000106 ! gel consistency
+
+[Term]
+id: CO_320:0000144 ! awn thickness
+xref: TO:0002719 ! awn thickness
+
+[Term]
+id: CO_320:0000020 ! grain thickness
+xref: TO:0000399 ! grain thickness
+
+[Term]
+id: TO:0000474 ! glume opening
+xref: CO_320:0000094 ! glume opening
+
+[Term]
+id: CO_320:0000168 ! biotic stress trait
+xref: TO:0000179 ! biotic stress trait
+
+[Term]
+id: CO_320:0000023 ! basal leaf sheath color
+xref: TO:0000367 ! basal leaf sheath color
+
+[Term]
+id: CO_320:0000057 ! cold tolerance
+xref: TO:0000303 ! cold tolerance
+
+[Term]
+id: CO_320:0000053 ! stress trait
+xref: TO:0000164 ! stress trait
+
+[Term]
+id: TO:0002749 ! ligule pubescence
+xref: CO_320:0000132 ! ligule pubescence
+
+[Term]
+id: TO:0000397 ! grain size
+xref: CO_320:0000052 ! grain size
+
+[Term]
+id: TO:0000285 ! nodal tillering
+xref: CO_320:0000008 ! nodal tillering
+
+[Term]
+id: CO_320:0000158 ! pollen sterility
+xref: TO:0000053 ! pollen sterility
+
+[Term]
+id: TO:0000417 ! lemma and palea pubescence
+xref: CO_320:0000040 ! lemma and palea pubescence
+
+[Term]
+id: TO:0000400 ! sterile lemma color
+xref: CO_320:0000041 ! sterile lemma color
+
+[Term]
+id: TO:0000351 ! zinc sensitivity
+xref: CO_320:0000065 ! phosphorus deficiency
+xref: CO_320:0000069 ! zinc deficiency
+
+[Term]
+id: CO_320:0000132 ! ligule pubescence
+xref: TO:0002749 ! ligule pubescence
+
+[Term]
+id: CO_320:0000052 ! grain size
+xref: TO:0000397 ! grain size
+
+[Term]
+id: TO:0000299 ! leaf lamina color
+xref: CO_320:0000006 ! leaf blade color
+
+[Term]
+id: CO_320:0000063 ! iron toxicity
+xref: TO:0000224 ! iron sensitivity
+
+[Term]
+id: CO_320:0000022 ! stem thickness
+xref: TO:0000339 ! stem thickness
+
+[Term]
+id: CO_320:0000033 ! panicle length
+xref: TO:0000040 ! panicle length
+
+[Term]
+id: TO:0000044 ! stigma exsertion
+xref: CO_320:0000093 ! stigma exsertion
+
+[Term]
+id: CO_320:0000034 ! secondary branching of panicles
+xref: TO:0000142 ! secondary branching of inflorescence
+
+[Term]
+id: TO:0000630 ! pedicel length
+xref: CO_320:0000127 ! pedicel length
+
+[Term]
+id: TO:0000051 ! stem strength
+xref: CO_320:0000084 ! culm strength
+
+[Term]
+id: CO_320:0000115 ! seed coat color
+xref: TO:0000190 ! seed coat color
+
+[Term]
+id: CO_320:0000094 ! glume opening
+xref: TO:0000474 ! glume opening
+
+[Term]
+id: TO:0000484 ! seed shape
+xref: CO_320:0000003 ! seed shape
+
+[Term]
+id: CO_320:0000092 ! abortion pattern
+xref: TO:0000218 ! pollen abortion type
+
+[Term]
+id: TO:0000003 ! alkali soil sensitivity
+xref: CO_320:0000055 ! alkali tolerance
+
+[Term]
+id: TO:0000141 ! awn color
+xref: CO_320:0000036 ! awn color
+
+[Term]
+id: TO:0000402 ! grain width
+xref: CO_320:0000005 ! grain width
+
+[Term]
+id: CO_320:0000162 ! temperature stress trait
+xref: TO:0000432 ! temperature response trait
+
+[Term]
+id: TO:0000088 ! rice yellow mottle virus resistance
+xref: CO_320:0000192 ! yellow mottle
+
+[Term]
+id: CO_320:0000161 ! physicochemical stress trait
+xref: TO:0000482 ! chemical stress sensitivity
+
+[Term]
+id: TO:0000482 ! chemical stress sensitivity
+xref: CO_320:0000161 ! physicochemical stress trait
+
+[Term]
+id: CO_320:0000102 ! amylose content
+xref: TO:0000196 ! amylose content
+
+[Term]
+id: TO:0000337 ! kneeing ability
+xref: CO_320:0000064 ! kneeing ability
+
+[Term]
+id: CO_320:0000111 ! brown rice protein
+xref: TO:0000090 ! penetrated root thickness
+xref: TO:0000138 ! brown rice protein
+
+[Term]
+id: CO_320:0000014 ! leaf angle
+xref: TO:0000206 ! leaf angle
+
+[Term]
+id: TO:0000152 ! panicle number
+xref: CO_320:0000009 ! number of panicles
+
+[Term]
+id: TO:0000427 ! culm angle
+xref: CO_320:0000031 ! culm angle
+
+[Term]
+id: CO_320:0000135 ! growth habit
+xref: TO:0002756 ! shoot habit
+
+[Term]
+id: CO_320:0000061 ! elongation ability
+xref: TO:0000170 ! elongation ability
+
+[Term]
+id: TO:0000436 ! spikelet sterility
+xref: CO_320:0000159 ! spikelet sterility
+
+[Term]
+id: CO_320:0000109 ! brown rice shape
+xref: TO:0000287 ! brown rice shape
+
+[Term]
+id: TO:0000399 ! grain thickness
+xref: CO_320:0000020 ! grain thickness
+
+[Term]
+id: TO:0000222 ! head rice
+xref: CO_320:0000108 ! head rice
+
+[Term]
+id: TO:0000188 ! drought sensitivity
+xref: CO_320:0000060 ! drought sensitivity
+
+[Term]
+id: CO_320:0000064 ! kneeing ability
+xref: TO:0000337 ! kneeing ability
+
+[Term]
+id: TO:0000168 ! abiotic stress trait
+xref: CO_320:0000160 ! abiotic stress trait
+
+[Term]
+id: TO:0000162 ! grain quality trait
+xref: CO_320:0000101 ! grain quality trait
+
+[Term]
+id: CO_320:0000166 ! 1000-grain weight
+xref: TO:0000382 ! 1000-seed weight
+
+[Term]
+id: CO_320:0000182 ! narrow brown leaf spot
+xref: TO:0000422 ! narrow brown leaf spot disease resistance
+
+[Term]
+id: TO:0000165 ! panicle exsertion
+xref: CO_320:0000074 ! panicle exsertion
+
+[Term]
+id: TO:0000019 ! seedling height
+xref: CO_320:0000218 ! seedling height
+
+[Term]
+id: CO_320:0000011 ! leaf length
+xref: TO:0000135 ! leaf length
+
+[Term]
+id: TO:0000406 ! panicle threshability
+xref: CO_320:0000078 ! panicle threshability
+
+[Term]
+id: TO:0000287 ! brown rice shape
+xref: CO_320:0000109 ! brown rice shape
+
+[Term]
+id: CO_320:0000117 ! brown rice width
+xref: TO:0002627 ! fruit width
+
+[Term]
+id: TO:0000090 ! penetrated root thickness
+xref: CO_320:0000111 ! brown rice protein
+
+[Term]
+id: CO_320:0000024 ! leaf sheath color
+xref: TO:0002724 ! leaf sheath color
+
+[Term]
+id: TO:0000286 ! submergence sensitivity
+xref: CO_320:0000067 ! submergence tolerance
+
+[Term]
+id: TO:0002719 ! awn thickness
+xref: CO_320:0000144 ! awn thickness
+
+[Term]
+id: CO_320:0000106 ! gel consistency
+xref: TO:0000211 ! gel consistency
+
+[Term]
+id: TO:0000059 ! node color
+xref: CO_320:0000154 ! node color
+
+[Term]
+id: CO_320:0000008 ! nodal tillering
+xref: TO:0000285 ! nodal tillering
+
+[Term]
+id: CO_320:0000025 ! ligule length
+xref: TO:0000024 ! ligule length
+
+[Term]
+id: CO_320:0000073 ! grain yield
+xref: TO:0000371 ! yield trait
+xref: TO:0000396 ! grain yield trait
+
+[Term]
+id: TO:0000207 ! plant height
+xref: CO_320:0000076 ! plant height
+
+[Term]
+id: CO_320:0000085 ! leaf senescence
+xref: TO:0000249 ! leaf senescence
+
+[Term]
+id: TO:0000382 ! 1000-seed weight
+xref: CO_320:0000166 ! 1000-grain weight
+xref: CO_320:0000439 ! Weight of 1000 grain
+
+[Term]
+id: TO:0000296 ! vegetative vigor
+xref: CO_320:0000167 ! vegetative vigor
+
+[Term]
+id: TO:0000041 ! brown rice length
+xref: CO_320:0000110 ! brown rice length
+
+[Term]
+id: TO:0000140 ! apiculus color
+xref: CO_320:0000037 ! apiculus color
+
+[Term]
+id: TO:0000063 ! mimic response
+xref: CO_320:0000050 ! lesion mimic
+
+[Term]
+id: TO:0000437 ! male sterility
+xref: CO_320:0000095 ! male sterility
+
+[Term]
+id: TO:0000134 ! alkali digestion
+xref: CO_320:0000116 ! alkali digestion
+
+[Term]
+id: TO:0000024 ! ligule length
+xref: CO_320:0000025 ! ligule length
+
+[Term]
+id: TO:0000135 ! leaf length
+xref: CO_320:0000011 ! leaf length
+
+[Term]
+id: CO_320:0000035 ! panicle axis
+xref: TO:0000342 ! panicle axis angle
+
+[Term]
+id: CO_320:0000118 ! seed viability
+xref: TO:0000345 ! seed viability
+
+[Term]
+id: TO:0000576 ! stem length
+xref: CO_320:0000030 ! culm length
+
+[Term]
+id: TO:0000164 ! stress trait
+xref: CO_320:0000053 ! stress trait
+
+[Term]
+id: TO:0000057 ! grain moisture
+xref: CO_320:0000114 ! grain moisture
+
+[Term]
+id: TO:0000354 ! aluminum sensitivity
+xref: CO_320:0000056 ! aluminum toxicity
+
+[Term]
+id: TO:0000344 ! days to flowering trait
+xref: CO_320:0000083 ! days to flowering
+
+[Term]
+id: TO:0000303 ! cold tolerance
+xref: CO_320:0000057 ! cold tolerance
+
+[Term]
+id: CO_320:0000069 ! zinc deficiency
+xref: TO:0000351 ! zinc sensitivity
+
+[Term]
+id: CO_320:0000031 ! culm angle
+xref: TO:0000427 ! culm angle
+
+[Term]
+id: CO_320:0000026 ! ligule color
+xref: TO:0000197 ! ligule color
+
+[Term]
+id: TO:0000181 ! seed weight
+xref: CO_320:0000010 ! seed weight
+
+[Term]
+id: TO:0002757 ! flag leaf length
+xref: CO_320:0000138 ! flag leaf length
+
+[Term]
+id: CO_320:0000005 ! grain width
+xref: TO:0000402 ! grain width
+
+[Term]
+id: CO_320:0000082 ! days to maturity
+xref: TO:0000469 ! days to maturity
+
+[Term]
+id: CO_320:0000113 ! endosperm quality
+xref: TO:0000587 ! endosperm quality
+
+[Term]
+id: CO_320:0000100 ! grain weight
+xref: TO:0000589 ! average grain weight
+
+[Term]
+id: TO:0000185 ! stigma color
+xref: CO_320:0000038 ! stigma color
+
+[Term]
+id: CO_320:0000124 ! rhizome formation
+xref: TO:0002767 ! rhizome formation
+
+[Term]
+id: CO_320:0000055 ! alkali tolerance
+xref: TO:0000003 ! alkali soil sensitivity
+
+[Term]
+id: CO_320:0000078 ! panicle threshability
+xref: TO:0000406 ! panicle threshability
+
+[Term]
+id: CO_320:0000159 ! spikelet sterility
+xref: TO:0000436 ! spikelet sterility
+
+[Term]
+id: TO:0002756 ! shoot habit
+xref: CO_320:0000135 ! growth habit
+
+[Term]
+id: CO_320:0000155 ! culm diameter
+xref: TO:0001035 ! stem width
+xref: TO:0020083 ! stem diameter
+
+[Term]
+id: CO_320:0000006 ! leaf blade color
+xref: TO:0000299 ! leaf lamina color
+
+[Term]
+id: CO_320:0000156 ! awn presence
+xref: TO:0002734 ! awn presence
+
+[Term]
+id: TO:0000422 ! narrow brown leaf spot disease resistance
+xref: CO_320:0000182 ! narrow brown leaf spot
+
+[Term]
+id: TO:0000138 ! brown rice protein
+xref: CO_320:0000111 ! brown rice protein
+
+[Term]
+id: CO_320:0000065 ! phosphorus deficiency
+xref: TO:0000102 ! phosphorus sensitivity
+xref: TO:0000351 ! zinc sensitivity
+
+[Term]
+id: TO:0000142 ! secondary branching of inflorescence
+xref: CO_320:0000034 ! secondary branching of panicles
+
+[Term]
+id: CO_320:0000028 ! collar color
+xref: TO:0000364 ! leaf collar color
+
+[Term]
+id: TO:0000224 ! iron sensitivity
+xref: CO_320:0000063 ! iron toxicity
+
+[Term]
+id: TO:0000053 ! pollen sterility
+xref: CO_320:0000158 ! pollen sterility
+
+[Term]
+id: TO:0000264 ! lemma and palea color
+xref: CO_320:0000039 ! lemma and palea color
+
+[Term]
+id: TO:0000137 ! days to heading
+xref: CO_320:0000088 ! days to heading
+
+[Term]
+id: CO_320:0000027 ! ligule shape
+xref: TO:0000335 ! ligule shape
+
+[Term]
+id: TO:0000342 ! panicle axis angle
+xref: CO_320:0000035 ! panicle axis
+
+[Term]
+id: TO:0000072 ! awn length
+xref: CO_320:0000146 ! awn length
+
+[Term]
+id: CO_320:0000013 ! leaf blade pubescence
+xref: TO:0000055 ! leaf lamina pubescence
+xref: TO:0000206 ! leaf angle
+
+[Term]
+id: CO_320:0000032 ! basal internode diameter
+xref: TO:0000132 ! basal internode diameter
+
+[Term]
+id: TO:0000404 ! nodal rooting
+xref: CO_320:0000007 ! nodal rooting
+
+[Term]
+id: CO_320:0000160 ! abiotic stress trait
+xref: TO:0000168 ! abiotic stress trait
+
+[Term]
+id: CO_320:0000019 ! panicle weight
+xref: TO:0000014 ! panicle weight
+
+[Term]
+id: TO:0000294 ! leaf sheath auricle color
+xref: CO_320:0000029 ! auricle color
+
+[Term]
+id: CO_320:0000075 ! phenotypic acceptability
+xref: TO:0000322 ! phenotypic acceptability
+
+[Term]
+id: TO:0002726 ! sterile lemma shape
+xref: CO_320:0000121 ! sterile lemma shape
+
+[Term]
+id: TO:0000259 ! heat tolerance
+xref: CO_320:0000062 ! heat tolerance
+
+[Term]
+id: CO_320:0000108 ! head rice
+xref: TO:0000222 ! head rice
+
+[Term]
+id: TO:0000432 ! temperature response trait
+xref: CO_320:0000162 ! temperature stress trait
+
+[Term]
+id: TO:0000170 ! elongation ability
+xref: CO_320:0000061 ! elongation ability
+
+[Term]
+id: CO_320:0000163 ! drought stress trait
+xref: TO:0000394 ! drought related trait
+
+[Term]
+id: CO_320:0000138 ! flag leaf length
+xref: TO:0002757 ! flag leaf length
+
+[Term]
+id: CO_320:0000088 ! days to heading
+xref: TO:0000137 ! days to heading
+
+[Term]
+id: TO:0000371 ! yield trait
+xref: CO_320:0000073 ! grain yield
+
+[Term]
+id: TO:0000329 ! tillering ability
+xref: CO_320:0000079 ! tillering ability
+
+[Term]
+id: CO_320:0000477 ! Weight of panicles
+xref: TO:0000014 ! panicle weight
+
+[Term]
+id: TO:0006001 ! salt tolerance
+xref: CO_320:0000066 ! salt tolerance
+
+[Term]
+id: TO:0000396 ! grain yield trait
+xref: CO_320:0000073 ! grain yield
+
+[Term]
+id: CO_320:0000077 ! seedling vigor
+xref: TO:0000280 ! seedling vigor
+
+[Term]
+id: TO:0000524 ! submergence tolerance
+xref: CO_320:0000067 ! submergence tolerance
+
+[Term]
+id: TO:0000322 ! phenotypic acceptability
+xref: CO_320:0000075 ! phenotypic acceptability
+
+[Term]
+id: CO_320:0000004 ! grain length
+xref: TO:0000734 ! grain length
+
+[Term]
+id: TO:0000426 ! internode color
+xref: CO_320:0000016 ! culm internode color
+
+[Term]
+id: CO_320:0000101 ! grain quality trait
+xref: TO:0000162 ! grain quality trait
+
+[Term]
+id: CO_320:0000103 ! aroma
+xref: TO:0000087 ! aroma
+
+[Term]
+id: TO:0002724 ! leaf sheath color
+xref: CO_320:0000024 ! leaf sheath color
+
+[Term]
+id: TO:0000206 ! leaf angle
+xref: CO_320:0000013 ! leaf blade pubescence
+xref: CO_320:0000014 ! leaf angle
+
+[Term]
+id: TO:0000092 ! deep root to shoot ratio
+xref: CO_320:0000060 ! drought sensitivity
+
+[Term]
+id: CO_320:0000050 ! lesion mimic
+xref: TO:0000063 ! mimic response
+
+[Term]
+id: CO_320:0000081 ! heterosis in F1 hybrid
+xref: TO:0000355 ! heterosis
+
+[Term]
+id: CO_320:0000080 ! lodging incidence
+xref: TO:0000068 ! lodging incidence
+
+[Term]
+id: CO_320:0000066 ! salt tolerance
+xref: TO:0006001 ! salt tolerance
+
+[Term]
+id: CO_320:0000146 ! awn length
+xref: TO:0000072 ! awn length
+
+[Term]
+id: CO_320:0000010 ! seed weight
+xref: TO:0000181 ! seed weight
+xref: TO:0000589 ! average grain weight
+
+[Term]
+id: TO:0001035 ! stem width
+xref: CO_320:0000155 ! culm diameter
+
+[Term]
+id: CO_320:0000041 ! sterile lemma color
+xref: TO:0000400 ! sterile lemma color
+
+[Term]
+id: CO_320:0000150 ! anther length
+xref: TO:0000531 ! anther length
+
+[Term]
+id: CO_320:0000084 ! culm strength
+xref: TO:0000051 ! stem strength
+
+[Term]
+id: CO_320:0000098 ! fertility restoration
+xref: TO:0000308 ! male fertility restoration trait
+
+[Term]
+id: TO:0002730 ! grain shape
+xref: CO_320:0000119 ! grain shape
+
+[Term]
+id: CO_320:0000112 ! milled rice
+xref: TO:0000144 ! milled rice
+
+[Term]
+id: TO:0000339 ! stem thickness
+xref: CO_320:0000022 ! stem thickness
+
+[Term]
+id: CO_320:0000090 ! spikelet fertility
+xref: TO:0000180 ! spikelet fertility
+
+[Term]
+id: TO:0000028 ! unfilled grain number
+xref: CO_320:0000012 ! unfilled grain
+
+[Term]
+id: CO_320:0000093 ! stigma exsertion
+xref: TO:0000044 ! stigma exsertion
+
+[Term]
+id: CO_320:0000021 ! leaf width
+xref: TO:0000370 ! leaf width
+
+[Term]
+id: TO:0000240 ! sterile lemma length
+xref: CO_320:0000042 ! sterile lemma length
+
+[Term]
+id: TO:0000587 ! endosperm quality
+xref: CO_320:0000113 ! endosperm quality
+
+[Term]
+id: TO:0000330 ! outcrossing potential
+xref: CO_320:0000096 ! outcrossing potential
+
+[Term]
+id: TO:0000040 ! panicle length
+xref: CO_320:0000033 ! panicle length
+
+[Term]
+id: CO_320:0000030 ! culm length
+xref: TO:0000576 ! stem length
+
+[Term]
+id: CO_320:0000095 ! male sterility
+xref: TO:0000437 ! male sterility
+
+[Term]
+id: TO:0000458 ! drought recovery
+xref: CO_320:0000058 ! drought recovery
+
+[Term]
+id: CO_320:0000040 ! lemma and palea pubescence
+xref: TO:0000417 ! lemma and palea pubescence
+
+[Term]
+id: TO:0000124 ! flag leaf angle
+xref: CO_320:0000017 ! flag leaf angle
+
+[Term]
+id: TO:0000335 ! ligule shape
+xref: CO_320:0000027 ! ligule shape
+
+[Term]
+id: TO:0000055 ! leaf lamina pubescence
+xref: CO_320:0000013 ! leaf blade pubescence
+
+[Term]
+id: TO:0000180 ! spikelet fertility
+xref: CO_320:0000090 ! spikelet fertility
+
+[Term]
+id: TO:0000367 ! basal leaf sheath color
+xref: CO_320:0000023 ! basal leaf sheath color
+
+[Term]
+id: CO_320:0000167 ! vegetative vigor
+xref: TO:0000296 ! vegetative vigor
+
+[Term]
+id: TO:0000276 ! drought tolerance
+xref: CO_320:0000059 ! drought resistance
+
+[Term]
+id: CO_320:0000038 ! stigma color
+xref: TO:0000185 ! stigma color
+
+[Term]
+id: CO_320:0000165 ! 100-grain weight
+xref: TO:0000269 ! 100-seed weight
+
+[Term]
+id: TO:0002767 ! rhizome formation
+xref: CO_320:0000124 ! rhizome formation
+
+[Term]
+id: CO_320:0000079 ! tillering ability
+xref: TO:0000329 ! tillering ability
+
+[Term]
+id: CO_320:0000056 ! aluminum toxicity
+xref: TO:0000354 ! aluminum sensitivity
+
+[Term]
+id: TO:0000308 ! male fertility restoration trait
+xref: CO_320:0000098 ! fertility restoration
+
+[Term]
+id: CO_320:0000439 ! Weight of 1000 grain
+xref: TO:0000382 ! 1000-seed weight
+
+[Term]
+id: TO:0000589 ! average grain weight
+xref: CO_320:0000010 ! seed weight
+xref: CO_320:0000100 ! grain weight
+
+[Term]
+id: TO:0000197 ! ligule color
+xref: CO_320:0000026 ! ligule color
+
+[Term]
+id: CO_320:0000039 ! lemma and palea color
+xref: TO:0000264 ! lemma and palea color
+
+[Term]
+id: TO:0000345 ! seed viability
+xref: CO_320:0000118 ! seed viability
+

@@ -1,0 +1,616 @@
+[Term]
+id: TO:0020054 ! barley stripe rust disease resistance
+xref: SOY:0001320 ! Reaction to Phialophora gregata infection
+
+[Term]
+id: TO:0000634 ! node number
+xref: SOY:0001752 ! Node Number
+
+[Term]
+id: TO:0000149 ! seed width
+xref: SOY:0001597 ! Seed width
+
+[Term]
+id: SOY:0001414 ! Seed coat color
+xref: TO:0000190 ! seed coat color
+
+[Term]
+id: SOY:0001639 ! Flower development traits
+xref: TO:0000622 ! flower development trait
+
+[Term]
+id: SOY:0001906 ! Alpha-amylase activity
+xref: TO:0000288 ! alpha-amylase activity
+
+[Term]
+id: TO:0000578 ! root fresh weight
+xref: SOY:0001870 ! Root weight, fresh
+
+[Term]
+id: SOY:0001884 ! Root nodule number
+xref: TO:0000900 ! root nodule number
+
+[Term]
+id: SOY:0001858 ! Chlorophyll content
+xref: TO:0000495 ! chlorophyll content
+
+[Term]
+id: SOY:0001415 ! Seed Coat Hardness
+xref: TO:0000889 ! seed coat hardness
+
+[Term]
+id: SOY:0001627 ! Sprout yield
+xref: TO:0000202 ! germination ratio
+
+[Term]
+id: SOY:0001417 ! Seed Shape
+xref: TO:0000484 ! seed shape
+
+[Term]
+id: SOY:0001599 ! Seed length
+xref: TO:0000146 ! seed length
+
+[Term]
+id: SOY:0001602 ! Shoot phosphorus content
+xref: TO:0020114 ! shoot phosphorus content
+
+[Term]
+id: SOY:0001388 ! Leaflet number
+xref: TO:0002636 ! leaflet number
+
+[Term]
+id: TO:0000900 ! root nodule number
+xref: SOY:0001884 ! Root nodule number
+
+[Term]
+id: SOY:0001872 ! shoot weight, fresh
+xref: TO:0000571 ! shoot fresh weight
+
+[Term]
+id: SOY:0001833 ! Phosphorus content
+xref: TO:0001024 ! phosphorus content
+
+[Term]
+id: SOY:0001731 ! Net photosynthetic rate
+xref: TO:0001027 ! net photosynthetic rate
+
+[Term]
+id: SOY:0001776 ! Petiole Size
+xref: TO:0000768 ! petiole size
+
+[Term]
+id: SOY:0001789 ! Stem strength
+xref: TO:0000051 ! stem strength
+
+[Term]
+id: TO:0000599 ! enzyme activity trait
+xref: SOY:0001846 ! Enzymatic activity
+
+[Term]
+id: TO:0001024 ! phosphorus content
+xref: SOY:0001833 ! Phosphorus content
+
+[Term]
+id: SOY:0000071 ! Leaf Number
+xref: TO:0000241 ! leaf number
+xref: TO:0002636 ! leaflet number
+
+[Term]
+id: SOY:0001302 ! Shattering
+xref: TO:0000473 ! grain shattering
+
+[Term]
+id: SOY:0001979 ! Seed length to width ratio
+xref: TO:0000411 ! seed length to width ratio
+
+[Term]
+id: TO:0000288 ! alpha-amylase activity
+xref: SOY:0001906 ! Alpha-amylase activity
+
+[Term]
+id: SOY:0001612 ! Male sterile
+xref: TO:0000106 ! male sterility type
+
+[Term]
+id: TO:0000930 ! seed shattering
+xref: SOY:0001341 ! Hilum abscission
+
+[Term]
+id: TO:0006006 ! monosaccharide content
+xref: SOY:0001674 ! Saccharide:mono content
+
+[Term]
+id: TO:0020114 ! shoot phosphorus content
+xref: SOY:0001602 ! Shoot phosphorus content
+
+[Term]
+id: TO:0000190 ! seed coat color
+xref: SOY:0001414 ! Seed coat color
+
+[Term]
+id: TO:0000768 ! petiole size
+xref: SOY:0001776 ! Petiole Size
+
+[Term]
+id: TO:0002636 ! leaflet number
+xref: SOY:0000071 ! Leaf Number
+xref: SOY:0001388 ! Leaflet number
+
+[Term]
+id: TO:0000145 ! internode length
+xref: SOY:0001679 ! Internode length
+
+[Term]
+id: TO:0000358 ! female sterility
+xref: SOY:0001611 ! Female sterile
+xref: SOY:0001726 ! Ovule Abortion
+xref: SOY:0001727 ! Embryo Abortion
+
+[Term]
+id: TO:0001013 ! lateral root number
+xref: SOY:0001739 ! Lateral root number
+
+[Term]
+id: SOY:0001870 ! Root weight, fresh
+xref: TO:0000578 ! root fresh weight
+
+[Term]
+id: TO:0000705 ! acid phosphatase activity
+xref: SOY:0001908 ! Acid phosphatase activity
+
+[Term]
+id: TO:0000086 ! sheath rot disease resistance
+xref: SOY:0001971 ! Seed surface form
+
+[Term]
+id: SOY:0001352 ! Flower Color
+xref: TO:0000537 ! flower color
+
+[Term]
+id: TO:0002707 ! petiole color
+xref: SOY:0001893 ! Petiole color
+
+[Term]
+id: SOY:0001951 ! Sulfonylurea herbicide sensitivity
+xref: TO:0000712 ! sulfonylurea herbicide sensitivity
+
+[Term]
+id: TO:0002650 ! phototropism
+xref: SOY:0001807 ! Phototropism
+xref: SOY:0001809 ! Heliotropism
+
+[Term]
+id: TO:0000473 ! grain shattering
+xref: SOY:0001302 ! Shattering
+
+[Term]
+id: SOY:0001679 ! Internode length
+xref: TO:0000145 ! internode length
+
+[Term]
+id: TO:0000886 ! petiolule shape
+xref: SOY:0001779 ! Petiolule Shape
+
+[Term]
+id: SOY:0001908 ! Acid phosphatase activity
+xref: TO:0000705 ! acid phosphatase activity
+
+[Term]
+id: SOY:0001846 ! Enzymatic activity
+xref: TO:0000599 ! enzyme activity trait
+
+[Term]
+id: SOY:0001365 ! Plant Height
+xref: TO:0000207 ! plant height
+
+[Term]
+id: TO:0000279 ! root weight
+xref: SOY:0001743 ! Root Weight
+
+[Term]
+id: SOY:0001844 ! Saccharide:oligo content
+xref: TO:0006003 ! oligosaccharide content
+
+[Term]
+id: SOY:0001889 ! Root color
+xref: TO:0000065 ! root color
+
+[Term]
+id: TO:0000391 ! seed size
+xref: SOY:0001600 ! Seed size
+
+[Term]
+id: SOY:0001419 ! Seed Set
+xref: TO:0000180 ! spikelet fertility
+
+[Term]
+id: TO:0000106 ! male sterility type
+xref: SOY:0001612 ! Male sterile
+
+[Term]
+id: TO:0000051 ! stem strength
+xref: SOY:0001789 ! Stem strength
+
+[Term]
+id: SOY:0001807 ! Phototropism
+xref: TO:0002650 ! phototropism
+
+[Term]
+id: TO:0000766 ! petiole length
+xref: SOY:0001774 ! Petiole length
+
+[Term]
+id: SOY:0001814 ! Herbicide sensitivity
+xref: TO:0000058 ! herbicide sensitivity
+
+[Term]
+id: TO:0000484 ! seed shape
+xref: SOY:0001417 ! Seed Shape
+
+[Term]
+id: SOY:0001727 ! Embryo Abortion
+xref: TO:0000358 ! female sterility
+
+[Term]
+id: SOY:0001869 ! Root weight, dry
+xref: TO:0000078 ! root dry weight
+
+[Term]
+id: TO:0000657 ! spikelet anatomy and morphology trait
+xref: SOY:0001344 ! Seed cysteine content
+
+[Term]
+id: SOY:0001313 ! Water Use Efficiency
+xref: TO:0001017 ! water use efficiency
+
+[Term]
+id: TO:0000652 ! leaf necrosis
+xref: SOY:0001378 ! Leaf  Necrosis
+
+[Term]
+id: TO:0000889 ! seed coat hardness
+xref: SOY:0001415 ! Seed Coat Hardness
+
+[Term]
+id: TO:0001027 ! net photosynthetic rate
+xref: SOY:0001731 ! Net photosynthetic rate
+
+[Term]
+id: SOY:0001834 ! Leaf phosphorus content
+xref: TO:0001025 ! leaf phosphorus content
+
+[Term]
+id: TO:0001025 ! leaf phosphorus content
+xref: SOY:0001834 ! Leaf phosphorus content
+
+[Term]
+id: SOY:0001351 ! Flooding Tolerance
+xref: TO:0000524 ! submergence tolerance
+
+[Term]
+id: SOY:0001326 ! Carbon Isotope Discrimination
+xref: TO:0002643 ! carbon isotope discrimination
+
+[Term]
+id: TO:0000058 ! herbicide sensitivity
+xref: SOY:0001814 ! Herbicide sensitivity
+
+[Term]
+id: TO:0002736 ! flower number
+xref: SOY:0001740 ! Flower Number
+
+[Term]
+id: TO:0002643 ! carbon isotope discrimination
+xref: SOY:0001326 ! Carbon Isotope Discrimination
+
+[Term]
+id: TO:0000815 ! bract anatomy and morphology trait
+xref: SOY:0001344 ! Seed cysteine content
+
+[Term]
+id: TO:0000202 ! germination ratio
+xref: SOY:0001627 ! Sprout yield
+
+[Term]
+id: SOY:0001746 ! Shoot weight
+xref: TO:0000568 ! shoot weight
+
+[Term]
+id: TO:0000084 ! root number
+xref: SOY:0001891 ! Root number
+
+[Term]
+id: SOY:0001389 ! Leaflet shape
+xref: TO:0000492 ! leaf shape
+
+[Term]
+id: SOY:0001726 ! Ovule Abortion
+xref: TO:0000358 ! female sterility
+
+[Term]
+id: SOY:0001848 ! Nitrogen content
+xref: TO:0020093 ! nitrogen content
+
+[Term]
+id: SOY:0001600 ! Seed size
+xref: TO:0000391 ! seed size
+
+[Term]
+id: SOY:0001871 ! shoot weight, dry
+xref: TO:0000552 ! shoot dry weight
+
+[Term]
+id: TO:0002666 ! seed phosphorus content
+xref: SOY:0001835 ! Seed phosphorus content
+
+[Term]
+id: TO:0000537 ! flower color
+xref: SOY:0001352 ! Flower Color
+
+[Term]
+id: TO:0000078 ! root dry weight
+xref: SOY:0001869 ! Root weight, dry
+
+[Term]
+id: TO:0000712 ! sulfonylurea herbicide sensitivity
+xref: SOY:0001951 ! Sulfonylurea herbicide sensitivity
+
+[Term]
+id: TO:0000888 ! seed coat luster
+xref: SOY:0001416 ! Seed Coat Luster
+
+[Term]
+id: TO:0000326 ! leaf color
+xref: SOY:0001387 ! Leaflet Color
+
+[Term]
+id: TO:0020093 ! nitrogen content
+xref: SOY:0001848 ! Nitrogen content
+
+[Term]
+id: TO:0006003 ! oligosaccharide content
+xref: SOY:0001844 ! Saccharide:oligo content
+
+[Term]
+id: SOY:0001630 ! Seed Number
+xref: TO:0000445 ! seed number
+
+[Term]
+id: SOY:0001779 ! Petiolule Shape
+xref: TO:0000886 ! petiolule shape
+
+[Term]
+id: SOY:0001341 ! Hilum abscission
+xref: TO:0000930 ! seed shattering
+
+[Term]
+id: SOY:0001597 ! Seed width
+xref: TO:0000149 ! seed width
+
+[Term]
+id: TO:0000085 ! leaf rolling
+xref: SOY:0001803 ! Canopy wilt
+
+[Term]
+id: TO:0000207 ! plant height
+xref: SOY:0001365 ! Plant Height
+
+[Term]
+id: TO:0000241 ! leaf number
+xref: SOY:0000071 ! Leaf Number
+
+[Term]
+id: TO:0001017 ! water use efficiency
+xref: SOY:0001313 ! Water Use Efficiency
+
+[Term]
+id: SOY:0001778 ! Petiolule Length
+xref: TO:0000887 ! petiolule length
+
+[Term]
+id: TO:0000568 ! shoot weight
+xref: SOY:0001746 ! Shoot weight
+
+[Term]
+id: TO:0000135 ! leaf length
+xref: SOY:0001379 ! Leaflet Length
+
+[Term]
+id: TO:0000146 ! seed length
+xref: SOY:0001599 ! Seed length
+
+[Term]
+id: SOY:0001701 ! Drought Tolerance
+xref: TO:0000276 ! drought tolerance
+
+[Term]
+id: TO:0000181 ! seed weight
+xref: SOY:0001629 ! Seed weight
+
+[Term]
+id: TO:0000499 ! flower anatomy and morphology trait
+xref: SOY:0001985 ! Flower morphology and anatomy traits
+
+[Term]
+id: TO:0000571 ! shoot fresh weight
+xref: SOY:0001872 ! shoot weight, fresh
+
+[Term]
+id: SOY:0001971 ! Seed surface form
+xref: TO:0000086 ! sheath rot disease resistance
+
+[Term]
+id: TO:0000552 ! shoot dry weight
+xref: SOY:0001871 ! shoot weight, dry
+
+[Term]
+id: SOY:0001736 ! Lateral root length
+xref: TO:0001012 ! lateral root length
+
+[Term]
+id: SOY:0001344 ! Seed cysteine content
+xref: TO:0000232 ! rice cytoplasmic male sterility
+xref: TO:0000657 ! spikelet anatomy and morphology trait
+xref: TO:0000815 ! bract anatomy and morphology trait
+
+[Term]
+id: TO:0000495 ! chlorophyll content
+xref: SOY:0001858 ! Chlorophyll content
+
+[Term]
+id: TO:0000232 ! rice cytoplasmic male sterility
+xref: SOY:0001344 ! Seed cysteine content
+
+[Term]
+id: SOY:0001611 ! Female sterile
+xref: TO:0000358 ! female sterility
+
+[Term]
+id: TO:0000445 ! seed number
+xref: SOY:0001630 ! Seed Number
+
+[Term]
+id: TO:0000767 ! petiole shape
+xref: SOY:0001775 ! Petiole Shape
+
+[Term]
+id: SOY:0001835 ! Seed phosphorus content
+xref: TO:0002666 ! seed phosphorus content
+
+[Term]
+id: TO:0000492 ! leaf shape
+xref: SOY:0001389 ! Leaflet shape
+
+[Term]
+id: SOY:0001740 ! Flower Number
+xref: TO:0002736 ! flower number
+
+[Term]
+id: TO:0000622 ! flower development trait
+xref: SOY:0001639 ! Flower development traits
+
+[Term]
+id: SOY:0001623 ! Seed sucrose content
+xref: TO:0000328 ! sucrose content
+
+[Term]
+id: SOY:0001629 ! Seed weight
+xref: TO:0000181 ! seed weight
+
+[Term]
+id: SOY:0001751 ! Drought Susceptibility Index
+xref: TO:0000155 ! drought susceptibility index
+
+[Term]
+id: SOY:0001416 ! Seed Coat Luster
+xref: TO:0000888 ! seed coat luster
+
+[Term]
+id: TO:0000524 ! submergence tolerance
+xref: SOY:0001351 ! Flooding Tolerance
+xref: SOY:0001855 ! Submergence survival rate
+
+[Term]
+id: SOY:0001387 ! Leaflet Color
+xref: TO:0000326 ! leaf color
+
+[Term]
+id: SOY:0001717 ! Pod length
+xref: TO:0002626 ! fruit length
+
+[Term]
+id: SOY:0001674 ! Saccharide:mono content
+xref: TO:0006006 ! monosaccharide content
+
+[Term]
+id: TO:0000887 ! petiolule length
+xref: SOY:0001778 ! Petiolule Length
+
+[Term]
+id: TO:0000155 ! drought susceptibility index
+xref: SOY:0001751 ! Drought Susceptibility Index
+
+[Term]
+id: TO:0000328 ! sucrose content
+xref: SOY:0001623 ! Seed sucrose content
+
+[Term]
+id: TO:0002626 ! fruit length
+xref: SOY:0001717 ! Pod length
+
+[Term]
+id: SOY:0001893 ! Petiole color
+xref: TO:0002707 ! petiole color
+
+[Term]
+id: SOY:0001739 ! Lateral root number
+xref: TO:0001013 ! lateral root number
+
+[Term]
+id: SOY:0001379 ! Leaflet Length
+xref: TO:0000135 ! leaf length
+
+[Term]
+id: TO:0000065 ! root color
+xref: SOY:0001889 ! Root color
+
+[Term]
+id: SOY:0001743 ! Root Weight
+xref: TO:0000279 ! root weight
+
+[Term]
+id: SOY:0001775 ! Petiole Shape
+xref: TO:0000767 ! petiole shape
+
+[Term]
+id: SOY:0001809 ! Heliotropism
+xref: TO:0002650 ! phototropism
+
+[Term]
+id: SOY:0001752 ! Node Number
+xref: TO:0000634 ! node number
+
+[Term]
+id: TO:0001012 ! lateral root length
+xref: SOY:0001736 ! Lateral root length
+
+[Term]
+id: SOY:0001774 ! Petiole length
+xref: TO:0000766 ! petiole length
+
+[Term]
+id: TO:0000180 ! spikelet fertility
+xref: SOY:0001419 ! Seed Set
+
+[Term]
+id: SOY:0001803 ! Canopy wilt
+xref: TO:0000085 ! leaf rolling
+
+[Term]
+id: TO:0000276 ! drought tolerance
+xref: SOY:0001701 ! Drought Tolerance
+
+[Term]
+id: SOY:0001985 ! Flower morphology and anatomy traits
+xref: TO:0000499 ! flower anatomy and morphology trait
+
+[Term]
+id: TO:0000411 ! seed length to width ratio
+xref: SOY:0001979 ! Seed length to width ratio
+
+[Term]
+id: SOY:0001855 ! Submergence survival rate
+xref: TO:0000524 ! submergence tolerance
+
+[Term]
+id: SOY:0001378 ! Leaf  Necrosis
+xref: TO:0000652 ! leaf necrosis
+
+[Term]
+id: SOY:0001320 ! Reaction to Phialophora gregata infection
+xref: TO:0020054 ! barley stripe rust disease resistance
+
+[Term]
+id: SOY:0001891 ! Root number
+xref: TO:0000084 ! root number
+
